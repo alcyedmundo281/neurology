@@ -1,0 +1,48 @@
+name: pages
+
+# Ejecutar manualmente para una edición aprobada.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: tools
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Validar y generar la edición revisada
+        run: |
+          python -m lecciones check
+          cffconvert --validate
+          python -c 'from libro.qmd import titulos_de_lecciones; assert titulos_de_lecciones(), "Sin lecciones revisadas"'
+          python -m libro qmd
+          quarto render build/quarto --to html
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/quarto/_book/
+  desplegar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v4

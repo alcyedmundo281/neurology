@@ -1,0 +1,509 @@
+# Mapa del libro: la fuente única del plan editorial (ADR-001).
+#
+#   python -m lecciones mapa          → regenera mapa-maestro-libro.md
+#   python -m lecciones check         → coherencia mapa ↔ lecciones
+#   python -m lecciones nuevo <id>    → crea lecciones/<id>.qmd desde su fila
+#
+# Una fila del mapa es un plan; la lección real es lecciones/<id>.qmd. El estado de cada
+# lección se lee del archivo, nunca se escribe aquí. Todo el texto se reconstruye desde cero:
+# los módulos HTML de clase y la obra de 1993 son fuentes, no texto que se copia.
+#
+# Filas marcadas «propuesta: true» son sugerencias que esperan decisión de los autores.
+
+obra:
+  # Título y subtítulo de la obra: portada, portadilla, créditos, cabeceras y metadatos del PDF
+  # salen de aquí; nada de eso se escribe a mano. Mayúscula solo en la primera palabra.
+  titulo: "Neurología clínica para el médico general"
+  subtitulo: "Semiología basada en la evidencia, del recién nacido al adulto"
+  licencia: "CC BY-NC-SA 4.0"
+  # Contacto editorial de la obra (créditos): comentarios, erratas y permisos. Ningún autor
+  # publica aquí su correo personal.
+  contacto: "alcy.torres@powersemiotics.com"
+  legado: "Torres Catefort A. Neurología Pediátrica. 2.ª ed. Quito: Universidad Central del Ecuador; 1993"
+  # Fuera del plan por decisión de los autores (30-oct-2026): cap. XXVI «Reanimación
+  # cardiopulmonar» (pp. 185-190), que no es neurología y sigue guías que se actualizan aparte,
+  # y la sección de alimentación por sonda nasogástrica del cap. XXV.
+  fuentes_previas:
+    - "Torres Catefort A. Neuropediatría–Urgencias. Quito: Universidad Central del Ecuador; 1991"
+
+personas:
+  atc:
+    nombre: "Alcy Torres Catefort"
+    rol_obra: autor-fundador
+    fallecido: true
+    nacimiento: 1937-12-19
+    fallecimiento: 2022-01-09
+    credit: [conceptualizacion]
+  artg:
+    nombre: "Alcy Ramiro Torres Guerrero"
+    # Firma bibliográfica (PubMed: Torres AR): línea de revisión y citas. La portada usa `nombre`.
+    nombre_bibliografico: "Alcy R. Torres"
+    orcid: null  # pendiente de confirmación
+    afiliacion: "Boston Medical Center; Boston University Chobanian & Avedisian School of Medicine"
+    credit: [redaccion, revision-edicion]
+  gtg:
+    nombre: "Gladys Torres Guerrero"
+    orcid: null
+    # Firma de los autores (decisión editorial, 1-nov-2026): la usan el blog y los casos.
+    nombre_bibliografico: "Gladys Torres-Guerrero"
+    afiliacion: "VisionUno, Quito"
+    femenino: true
+    credit: [redaccion, revision-edicion]
+  aetg:
+    nombre: "Alcy Edmundo Torres Guerrero"
+    nombre_bibliografico: "Alcy E. Torres-Guerrero"
+    orcid: "0000-0002-9742-375X"
+    afiliacion: "Hospital de Especialidades Carlos Andrade Marín (IESS); Universidad Central del Ecuador"
+    rol_obra: coordinacion-editorial
+    credit: [redaccion, revision-edicion]
+  dtt:
+    nombre: "Daniela Torres Tobar"
+    orcid: null
+    afiliacion: "B.A. en Neurobiología, Boston University College of Arts & Sciences (2022); estudiante de medicina, Boston University Chobanian & Avedisian School of Medicine"
+    rol_obra: autor-autoevaluaciones
+    femenino: true
+    credit: [redaccion, curacion-de-datos]
+
+# Autoevaluaciones de toda la obra: el banco de preguntas de cada lección y el del libro.
+# Su autora no escribe una parte; el editor, aetg, las revisa como el resto de la obra.
+autoevaluaciones:
+  autores: [dtt]
+  revisor: aetg
+
+# Decisión editorial (Alcy Edmundo Torres Guerrero): el especialista es autor de su área y el
+# editor, aetg, es el revisor de todo; no hay corevisores.
+partes:
+  - clave: fundamentos
+    titulo: "Fundamentos: la semiología basada en la evidencia"
+    autores: [aetg]
+    revisor: aetg
+  - clave: neonato
+    titulo: "El recién nacido"
+    autores: [atc, artg]
+    revisor: aetg
+  - clave: lactante-nino
+    titulo: "El lactante y el niño"
+    autores: [atc, artg]
+    revisor: aetg
+  - clave: neuroftalmologia
+    titulo: "Neuroftalmología del niño y del adulto"
+    autores: [gtg]
+    revisor: aetg
+    nota: "Temario aprobado por Gladys Torres Guerrero (30-oct-2026)."
+  - clave: adulto
+    titulo: "El adulto: síndromes y urgencias"
+    autores: [aetg]
+    revisor: aetg
+
+lecciones:
+  # --- Fundamentos ----------------------------------------------------------------------------
+  - id: leccion-razonamiento-clinico-evidencia
+    titulo: "Razonamiento clínico y semiología basada en la evidencia"
+    parte: fundamentos
+    orden: 1
+    fase: 2
+  - id: leccion-examen-neurologico
+    titulo: "El examen neurológico"
+    parte: fundamentos
+    orden: 2
+    fase: 2
+    modulos_html:
+      - neurologia/examen-neurologico-parte-1.html
+      - neurologia/examen-neurologico-parte-2.html
+  - id: leccion-escalas-neurologicas
+    titulo: "Escalas neurológicas: Glasgow, NIHSS, EDSS, Hunt y Hess, Fisher, Rankin y ASPECTS"
+    parte: fundamentos
+    orden: 3
+    fase: 2
+  - id: leccion-estudios-diagnosticos
+    titulo: "Estudios diagnósticos: neuroimagen, EEG, electromiografía y líquido cefalorraquídeo"
+    parte: fundamentos
+    orden: 4
+    fase: 2
+  - id: leccion-tratamiento-inicial-derivacion
+    titulo: "Tratamiento inicial y criterios de derivación"
+    parte: fundamentos
+    orden: 5
+    fase: 2
+
+  # --- El recién nacido (obra de 1993) ---------------------------------------------------------
+  - id: leccion-examen-neurologico-recien-nacido
+    titulo: "Examen neurológico del recién nacido"
+    parte: neonato
+    orden: 1
+    fase: 1
+    legado_paginas: "3-18"
+  - id: leccion-sufrimiento-cerebral-neonatal
+    titulo: "Sufrimiento cerebral neonatal por asfixia"
+    parte: neonato
+    orden: 2
+    fase: 3
+    legado_paginas: "24-39"
+
+  - id: leccion-examen-neuromotor-recien-nacido-riesgo
+    titulo: "Seguimiento neuromotor del recién nacido de riesgo"
+    parte: neonato
+    orden: 3
+    fase: 3
+    legado_paginas: "40-59"
+  - id: leccion-lesiones-perinatales
+    titulo: "Lesiones de origen perinatal: caput, cefalohematoma, hemorragias y plexo braquial"
+    parte: neonato
+    orden: 4
+    fase: 3
+    legado_paginas: "60-64"
+  - id: leccion-crisis-epilepticas-recien-nacido
+    titulo: "Crisis epilépticas del recién nacido"
+    parte: neonato
+    orden: 5
+    fase: 3
+    legado_paginas: "65-74"
+
+  # --- El lactante y el niño -------------------------------------------------------------------
+  - id: leccion-examen-neurologico-lactante
+    titulo: "Examen neurológico del lactante"
+    parte: lactante-nino
+    orden: 1
+    fase: 3
+    legado_paginas: "19-23"
+  - id: leccion-traumatismo-craneal-nino
+    titulo: "Traumatismo craneal y conmoción cerebral en el niño"
+    parte: lactante-nino
+    orden: 2
+    fase: 3
+    legado_paginas: "75-81"
+    condiciones: ["HM:6023"]
+  - id: leccion-hemorragias-intracraneales-nino
+    titulo: "Hemorragias intracraneales en el niño"
+    parte: lactante-nino
+    orden: 3
+    fase: 3
+    legado_paginas: "82-89"
+  - id: leccion-hipertension-intracraneal-nino
+    titulo: "Hipertensión intracraneal no traumática"
+    parte: lactante-nino
+    orden: 4
+    fase: 3
+    legado_paginas: "90-95"
+  - id: leccion-convulsiones-epilepsia-nino
+    titulo: "Convulsiones y epilepsia en el niño"
+    parte: lactante-nino
+    orden: 5
+    fase: 3
+    legado_paginas: "96-108"
+  - id: leccion-coma-nino
+    titulo: "El niño en coma"
+    parte: lactante-nino
+    orden: 6
+    fase: 3
+    legado_paginas: "109-119"
+  - id: leccion-encefalitis-absceso-cerebral
+    titulo: "Encefalitis, encefalopatías agudas y absceso cerebral"
+    parte: lactante-nino
+    orden: 7
+    fase: 3
+    legado_paginas: "120-129"
+  - id: leccion-meningitis-nino
+    titulo: "Meningitis en el niño"
+    parte: lactante-nino
+    orden: 8
+    fase: 3
+    legado_paginas: "130-137"
+    condiciones: ["HM:6004"]
+  - id: leccion-hidrocefalia
+    titulo: "Hidrocefalia"
+    parte: lactante-nino
+    orden: 9
+    fase: 3
+    legado_paginas: "138-143"
+  - id: leccion-craneosinostosis
+    titulo: "Craneosinostosis"
+    parte: lactante-nino
+    orden: 10
+    fase: 3
+    legado_paginas: "144-148"
+  - id: leccion-sindromes-paraliticos-agudos
+    titulo: "Síndromes paralíticos agudos"
+    parte: lactante-nino
+    orden: 11
+    fase: 3
+    legado_paginas: "149-158"
+  - id: leccion-ataxia-aguda
+    titulo: "Síndrome cerebeloso agudo: ataxias agudas"
+    parte: lactante-nino
+    orden: 12
+    fase: 3
+    legado_paginas: "159-162"
+  - id: leccion-vertigo-sincope-nino
+    titulo: "Vértigo, síncope y lipotimias en el niño"
+    parte: lactante-nino
+    orden: 13
+    fase: 3
+    legado_paginas: "163-164"
+  - id: leccion-migrana-nino
+    titulo: "Migraña en el niño"
+    parte: lactante-nino
+    orden: 14
+    fase: 3
+    legado_paginas: "165-166"
+  - id: leccion-movimientos-involuntarios-tono
+    titulo: "Movimientos involuntarios y trastornos paroxísticos del tono"
+    parte: lactante-nino
+    orden: 15
+    fase: 3
+    legado_paginas: "167-170"
+  - id: leccion-sordera
+    titulo: "Sordera en la infancia"
+    parte: lactante-nino
+    orden: 16
+    fase: 3
+    legado_paginas: "171"
+  - id: leccion-procedimientos-lcr
+    titulo: "Punción lumbar y líquido cefalorraquídeo en el niño"
+    parte: lactante-nino
+    orden: 17
+    fase: 3
+    legado_paginas: "175-182"
+
+  # --- Neuroftalmología (temario aprobado por Gladys) -------------------------------------
+  - id: leccion-examen-neuroftalmologico
+    titulo: "El examen neuroftalmológico al pie de la cama"
+    parte: neuroftalmologia
+    orden: 1
+    fase: 4
+  - id: leccion-reflejo-rojo-leucocoria
+    titulo: "Reflejo rojo y leucocoria en el recién nacido y el lactante"
+    parte: neuroftalmologia
+    orden: 2
+    fase: 4
+  - id: leccion-estrabismo-ambliopia-nistagmo
+    titulo: "Estrabismo, ambliopía y nistagmo en la infancia"
+    parte: neuroftalmologia
+    orden: 3
+    fase: 4
+  - id: leccion-hemorragias-retinianas-maltrato
+    titulo: "Hemorragias retinianas y traumatismo craneal por maltrato"
+    parte: neuroftalmologia
+    orden: 4
+    fase: 4
+    condiciones: ["HM:6024"]
+  - id: leccion-edema-papila-hipertension-intracraneal
+    titulo: "Edema de papila e hipertensión intracraneal"
+    parte: neuroftalmologia
+    orden: 5
+    fase: 4
+  - id: leccion-perdida-visual-aguda-neuropatias-opticas
+    titulo: "Pérdida visual aguda: neuritis y neuropatías ópticas isquémicas"
+    parte: neuroftalmologia
+    orden: 6
+    fase: 4
+    legado_paginas: "172-174"
+  - id: leccion-diplopia-nervios-oculomotores
+    titulo: "Diplopía y parálisis de los nervios oculomotores"
+    parte: neuroftalmologia
+    orden: 7
+    fase: 4
+  - id: leccion-anisocoria
+    titulo: "Anisocoria: Horner, Adie y la pupila del tercer par"
+    parte: neuroftalmologia
+    orden: 8
+    fase: 4
+
+  # --- El adulto (13 módulos de clase + temas del sílabo UCE 2026-2027) ---------------------
+  - id: leccion-cefaleas
+    titulo: "Cefaleas y neuralgia del trigémino"
+    parte: adulto
+    orden: 1
+    fase: 2
+    modulos_html:
+      - neurologia/cefaleas/index.html
+  - id: leccion-acv-codigo-ictus
+    titulo: "Enfermedad cerebrovascular isquémica: AIT, infarto y código ictus"
+    parte: adulto
+    orden: 2
+    fase: 2
+    modulos_html:
+      - neurologia/acv.html
+      - neurologia/acv-isquemico.html
+  - id: leccion-ecv-hemorragica
+    titulo: "Enfermedad cerebrovascular hemorrágica: hemorragia intraparenquimatosa y subaracnoidea"
+    parte: adulto
+    orden: 3
+    fase: 2
+  - id: leccion-epilepsias
+    titulo: "Epilepsias y síndromes epilépticos"
+    parte: adulto
+    orden: 4
+    fase: 2
+    modulos_html:
+      - neurologia/epilepsia-ii/index.html
+  - id: leccion-estado-epileptico
+    titulo: "Estado epiléptico"
+    parte: adulto
+    orden: 5
+    fase: 2
+  - id: leccion-enfermedades-desmielinizantes
+    titulo: "Enfermedades desmielinizantes"
+    parte: adulto
+    orden: 6
+    fase: 2
+    modulos_html:
+      - neurologia/enfermedades_desmielinizantes.html
+  - id: leccion-trastornos-movimiento
+    titulo: "Trastornos del movimiento y parkinsonismos"
+    parte: adulto
+    orden: 7
+    fase: 2
+    modulos_html:
+      - neurologia/trastornos-movimiento-1.html
+      - neurologia/trastornos-movimiento-2.html
+    condiciones: ["HM:6015"]
+  - id: leccion-enfermedades-neuromusculares
+    titulo: "Enfermedades neuromusculares: miastenia gravis y miopatías"
+    parte: adulto
+    orden: 8
+    fase: 2
+    modulos_html:
+      - neurologia/neuromusculares.html
+  - id: leccion-neuropatias
+    titulo: "Polineuropatías: neuropatía diabética difusa y síndrome de Guillain-Barré"
+    parte: adulto
+    orden: 9
+    fase: 2
+    modulos_html:
+      - neurologia/neuropatias.html
+  - id: leccion-neuropatias-focales
+    titulo: "Neuropatías focales: principios generales, túnel carpiano, herpes zóster, neuralgia postherpética y neuropatía diabética proximal"
+    parte: adulto
+    orden: 10
+    fase: 2
+  - id: leccion-paralisis-facial-periferica
+    titulo: "Parálisis facial periférica: parálisis de Bell"
+    parte: adulto
+    orden: 11
+    fase: 2
+  - id: leccion-demencias
+    titulo: "Demencias y enfermedad de Alzheimer"
+    parte: adulto
+    orden: 12
+    fase: 2
+    modulos_html:
+      - neurologia/demencias.html
+  - id: leccion-esclerosis-lateral-amiotrofica
+    titulo: "Esclerosis lateral amiotrófica"
+    parte: adulto
+    orden: 13
+    fase: 2
+  - id: leccion-alteracion-estado-mental
+    titulo: "Alteración aguda del estado mental: delirium y coma"
+    parte: adulto
+    orden: 14
+    fase: 2
+  - id: leccion-hipertension-intracraneal-adulto
+    titulo: "Hipertensión intracraneal en el adulto"
+    parte: adulto
+    orden: 15
+    fase: 2
+  - id: leccion-encefalopatia-hipertensiva
+    titulo: "Encefalopatía hipertensiva y crisis hipertensiva neurológica"
+    parte: adulto
+    orden: 16
+    fase: 2
+  - id: leccion-debilidad-aguda
+    titulo: "Debilidad aguda: síndrome de Guillain-Barré y compresión medular"
+    parte: adulto
+    orden: 17
+    fase: 2
+  - id: leccion-infecciones-snc
+    titulo: "Infecciones del sistema nervioso central"
+    parte: adulto
+    orden: 18
+    fase: 2
+    modulos_html:
+      - neurologia/infecciones-snc.html
+    condiciones: ["HM:6004"]
+  - id: leccion-traumatismo-craneal-leve
+    titulo: "Traumatismo craneal leve"
+    parte: adulto
+    orden: 19
+    fase: 2
+    condiciones: ["HM:6038"]
+
+# Sílabo vigente de la asignatura: cada semana debe estar cubierta por lecciones del mapa
+# («lecciones check» lo exige). Fuente: sílabo UCE 2026-2027 entregado por Alcy E. Torres G.
+silabo:
+  asignatura: "Medicina Interna 1 – Neurología (MMP06PPP0104), Universidad Central del Ecuador"
+  periodo: "2026-2027"
+  semanas:
+    - semana: 1
+      unidad: 1
+      tema: "Anamnesis y exploración neurológica: pares craneales, fuerza, sensibilidad, coordinación, reflejos y marcha"
+      lecciones: [leccion-examen-neurologico]
+    - semana: 2
+      unidad: 1
+      tema: "Escalas neurológicas: Glasgow, NIHSS, EDSS, Hunt y Hess, Fisher, Rankin modificada, ASPECTS"
+      lecciones: [leccion-escalas-neurologicas]
+    - semana: 3
+      unidad: 2
+      tema: "Cefaleas primarias y secundarias, signos de alarma, neuralgia del trigémino"
+      lecciones: [leccion-cefaleas]
+    - semana: 4
+      unidad: 2
+      tema: "Enfermedad cerebrovascular isquémica: AIT e infarto cerebral"
+      lecciones: [leccion-acv-codigo-ictus]
+    - semana: 5
+      unidad: 2
+      tema: "Enfermedad cerebrovascular hemorrágica: hemorragia intraencefálica y subaracnoidea"
+      lecciones: [leccion-ecv-hemorragica]
+    - semana: 6
+      unidad: 2
+      tema: "Epilepsias: crisis sintomática aguda, clasificación, imitadores, encefalopatías epilépticas y del desarrollo"
+      lecciones: [leccion-epilepsias]
+    - semana: 7
+      unidad: 2
+      tema: "Síndromes epilépticos selectos: mioclónica juvenil, ausencias, esclerosis hipocampal"
+      lecciones: [leccion-epilepsias]
+    - semana: 8
+      unidad: 2
+      tema: "Enfermedades desmielinizantes: esclerosis múltiple, encefalomielitis aguda diseminada"
+      lecciones: [leccion-enfermedades-desmielinizantes]
+    - semana: 9
+      unidad: 2
+      tema: "Sistema extrapiramidal: Parkinson, temblor esencial, Huntington, distonías"
+      lecciones: [leccion-trastornos-movimiento]
+    - semana: 10
+      unidad: 2
+      tema: "Trastornos neuromusculares: miastenia gravis, miopatías"
+      lecciones: [leccion-enfermedades-neuromusculares]
+    - semana: 11
+      unidad: 2
+      tema: "Neuropatías periféricas: parálisis de Bell, túnel carpiano, herpes zóster, neuralgia postherpética, neuropatía diabética"
+      lecciones: [leccion-neuropatias-focales, leccion-paralisis-facial-periferica]
+    - semana: 12
+      unidad: 2
+      tema: "Neurodegenerativas: Alzheimer, esclerosis lateral amiotrófica, parkinsonismos atípicos"
+      lecciones: [leccion-demencias, leccion-esclerosis-lateral-amiotrofica, leccion-trastornos-movimiento]
+    - semana: 13
+      unidad: 3
+      tema: "Estudios diagnósticos: TC, RM, EEG, conducción nerviosa y electromiografía, punción lumbar y LCR"
+      lecciones: [leccion-estudios-diagnosticos]
+    - semana: 14
+      unidad: 3
+      tema: "Principios terapéuticos iniciales y criterios de derivación"
+      lecciones: [leccion-tratamiento-inicial-derivacion]
+    - semana: 15
+      unidad: 4
+      tema: "Estado epiléptico, ACV agudo, hipertensión endocraneal, alteración del estado mental"
+      lecciones: [leccion-estado-epileptico, leccion-acv-codigo-ictus, leccion-hipertension-intracraneal-adulto, leccion-alteracion-estado-mental]
+    - semana: 16
+      unidad: 4
+      tema: "Crisis hipertensiva neurológica, Guillain-Barré, compresión medular, meningitis bacteriana aguda"
+      lecciones: [leccion-encefalopatia-hipertensiva, leccion-debilidad-aguda, leccion-neuropatias, leccion-infecciones-snc]
+    - semana: 17
+      unidad: 5
+      tema: "Guías clínicas nacionales e internacionales en el primer nivel de atención"
+      lecciones: [leccion-razonamiento-clinico-evidencia]
+    - semana: 18
+      unidad: 5
+      tema: "Guías clínicas nacionales e internacionales en el primer nivel de atención"
+      lecciones: [leccion-razonamiento-clinico-evidencia]

@@ -1,0 +1,13 @@
+neurologia/acv-isquemico.html
+neurologia/acv.html
+neurologia/cefaleas/index.html
+neurologia/demencias.html
+neurologia/enfermedades_desmielinizantes.html
+neurologia/epilepsia-ii/index.html
+neurologia/examen-neurologico-parte-1.html
+neurologia/examen-neurologico-parte-2.html
+neurologia/infecciones-snc.html
+neurologia/neuromusculares.html
+neurologia/neuropatias.html
+neurologia/trastornos-movimiento-1.html
+neurologia/trastornos-movimiento-2.html

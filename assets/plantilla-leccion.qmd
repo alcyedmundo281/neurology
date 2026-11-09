@@ -1,0 +1,81 @@
+---
+# Plantilla de lección. Copiar a lecciones/<id>.qmd; el nombre del archivo es el id.
+# Contrato: docs/adr/ADR-001-arquitectura-libro.md · Validación: uv run python -m lecciones check
+id: leccion-ejemplo
+tipo: leccion
+titulo: "Título de la lección"
+subtitulo: "Subtítulo opcional"
+parte: neonato            # fundamentos | neonato | lactante-nino | neuroftalmologia | adulto
+orden: 1                  # posición dentro de la parte
+estado: borrador          # borrador → revisado → publicado
+fecha_revision: null      # la pone el revisor humano; nunca se inventa
+revisor: null             # persona nominada; el agente nunca es revisor
+
+autores:
+  - nombre: "Alcy Torres Catefort"
+    rol_obra: autor-fundador
+    fallecido: true
+    credit: [conceptualizacion]
+  - nombre: "Alcy Edmundo Torres Guerrero"
+    orcid: "0000-0002-9742-375X"
+    rol_obra: coordinacion-editorial
+    credit: [redaccion, revision-edicion]
+
+uso_ia: [busqueda-bibliografica, redaccion-borrador]
+                          # etapas con IA (lecciones/AI-USE.md): transcripcion,
+                          # busqueda-bibliografica, redaccion-borrador, revision-estilo,
+                          # codigo. [] declara que no intervino. Es obligatorio.
+
+legado:                   # solo si la lección viene de la obra de 1993
+  obra: "Neurología Pediátrica, 2.ª ed. Quito: Universidad Central del Ecuador; 1993"
+  paginas: "3-18"
+
+pregunta_clinica: "La pregunta clínica que esta lección responde, en una frase."
+abstract: >
+  Resumen de cuarenta a ochenta palabras. Dice qué se explora, qué significa el hallazgo,
+  qué decisión cambia y dónde no conviene confiar en él. Se escribe al final, cuando la
+  lección ya está completa, y es lo que leen el índice del libro y la portada del blog.
+  Debe poder leerse solo, sin el resto del texto, y sin cifras escritas a mano.
+dialogo_clinico: >
+  Viñeta breve en forma de preguntas socráticas, como abre cada lección. Plantea el
+  problema antes de dar la respuesta.
+indispensable:            # una a cinco perlas de bolsillo
+  - "Primera idea que el estudiante debe llevarse."
+limites:                  # dónde NO confiar: obligatorio
+  - "Situación en la que el hallazgo engaña o pierde valor."
+condiciones: []           # aristas de medsemiotics-db, p. ej. HM:6004
+conceptos: []             # hallazgos de la db que se citan por token
+refs: []                  # claves de lecciones/refs.bib (cada una con PMID y DOI)
+medios: []                # imágenes: Wikimedia Commons o ilustración original humana
+modulos_html: []          # módulos interactivos de clase que acompañan la lección
+---
+
+## Cómo se explora
+
+Técnica paso a paso. Las cifras que no son de rendimiento diagnóstico llevan su cita `[@clave]`.
+
+## Qué significa
+
+Las cifras de rendimiento diagnóstico entran solo por token desde la base:
+`{{lr+ HM:####}}`, `{{lr- HM:####}}`, `{{sens HM:####}}`, `{{esp HM:####}}`.
+
+## Por qué ocurre
+
+Etiología y fisiopatología mínima necesaria.
+
+## Qué hacer
+
+Pruebas complementarias, conducta y tratamiento.
+
+## Cómo prevenir
+
+Prevención primaria y secundaria.
+
+## Nuestra realidad
+
+Ecuador, el IESS, el HECAM y los recursos disponibles.
+
+::: {.legado}
+*«Pasaje literal de la obra de 1993, con su página.»*
+— A. Torres Catefort, *Neurología Pediátrica*, p.
+:::

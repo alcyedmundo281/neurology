@@ -1,0 +1,43 @@
+name: contrato
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: tools
+      NEUROLOGY_MEDSEMIOTICS: ${{ github.workspace }}/build/medsemiotics
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: alcyedmundo281/medsemiotics
+          ref: 0c14e511cf210e395967ff9640da3e992bd9f70f
+          path: build/medsemiotics
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Validar fuentes y metadatos
+        run: |
+          python -m lecciones check
+          python -m libro check
+          cffconvert --validate
+          python -m pytest
+      - name: Generar el proyecto Quarto de revisión
+        run: python -m libro qmd --incluir-borradores --semblanzas-pendientes
+      - uses: actions/upload-artifact@v4
+        with:
+          name: quarto-revision
+          path: build/quarto/
+          retention-days: 30

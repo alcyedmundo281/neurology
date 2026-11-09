@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: Si utiliza las fuentes de esta obra, por favor cítelas así.
+title: Neurología clínica para el médico general
+abstract: Semiología basada en la evidencia, del recién nacido al adulto.
+type: dataset
+authors:
+  - family-names: Torres Catefort
+    given-names: Alcy
+    # Autor fundador, legado.
+  - family-names: Torres Guerrero
+    given-names: Alcy Ramiro
+    # orcid: pendiente de confirmación
+  - family-names: Torres Guerrero
+    given-names: Gladys
+    # orcid: pendiente
+  - family-names: Torres Guerrero
+    given-names: Alcy Edmundo
+    orcid: https://orcid.org/0000-0002-9742-375X
+  - family-names: Torres Tobar
+    given-names: Daniela
+    # orcid: pendiente
+repository-code: https://github.com/alcyedmundo281/neurology
+url: https://github.com/alcyedmundo281/neurology
+license: CC-BY-NC-SA-4.0
+keywords:
+  - neurología clínica
+  - semiología
+  - medicina basada en la evidencia

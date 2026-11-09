@@ -1,0 +1,336 @@
+---
+id: leccion-examen-neurologico-recien-nacido
+tipo: leccion
+titulo: Examen neurológico del recién nacido
+parte: neonato
+orden: 1
+estado: borrador
+fecha_revision: null
+revisor: null
+autores:
+- nombre: Alcy Torres Catefort
+  rol_obra: autor-fundador
+  fallecido: true
+  credit:
+  - conceptualizacion
+- nombre: Alcy Ramiro Torres Guerrero
+  afiliacion: Boston Medical Center; Boston University Chobanian & Avedisian School of Medicine
+  credit:
+  - redaccion
+  - revision-edicion
+uso_ia:
+- transcripcion
+- busqueda-bibliografica
+- redaccion-borrador
+legado:
+  obra: 'Torres Catefort A. Neurología Pediátrica. 2.ª ed. Quito: Universidad Central del Ecuador; 1993'
+  paginas: 3-18
+pregunta_clinica: >-
+  En un recién nacido a término, ¿qué nos dice el examen neurológico sobre una enfermedad
+  aguda, sobre su madurez y sobre su riesgo futuro, y cuánto pesa cada signo por separado?
+abstract: >-
+  El examen neurológico del recién nacido responde tres preguntas: si hay una enfermedad
+  aguda como la meningitis, qué madurez tiene el niño y qué riesgo corre su desarrollo. Esta
+  lección enseña a explorar la actitud, el tono y los reflejos primarios, y explica por qué un
+  signo aislado vale poco y los patrones valen más. Señala qué hallazgos exigen seguimiento y
+  dónde el examen engaña.
+dialogo_clinico: >-
+  Un recién nacido de treinta y ocho semanas, de parto distócico, tiene tres días de vida y
+  está despierto y tranquilo. Al presionar con el pulgar la región anterior de la planta del
+  pie derecho, los dedos se flexionan con fuerza y se mantienen flexionados mientras dura el
+  estímulo; en el izquierdo la respuesta es débil. ¿Es un hallazgo normal? ¿Qué otros datos de
+  la historia y del examen buscarías antes de decidir si importa? ¿Y si además la fontanela
+  estuviera abombada y el niño, irritable?
+indispensable:
+- >-
+  Examinamos al niño despierto y tranquilo y siempre en el mismo orden; un signo aislado casi
+  nunca decide, pesan los patrones y la acumulación de signos.
+- La madurez se estima con el puntaje New Ballard, no con un solo signo del tono.
+- El perímetro cefálico se lee en centiles por edad gestacional y sexo, no contra un promedio fijo.
+- >-
+  Una fontanela abombada aumenta la probabilidad de meningitis bacteriana; ni la confirma ni,
+  si falta, la descarta.
+- >-
+  La prensión plantar debe estar presente y ser simétrica; si falta, está disminuida o es
+  asimétrica, el niño necesita seguimiento neurológico y no tranquilidad.
+limites:
+- >-
+  Un solo examen tiene poco poder: en recién nacidos normales de bajo riesgo, desviaciones
+  aisladas aparecen con frecuencia. El valor está en los patrones y en el seguimiento seriado.
+- >-
+  Las series sobre la prensión plantar parten de lactantes ya seleccionados por tener el
+  reflejo alterado o asimétrico: describen su evolución, no son la sensibilidad ni la
+  especificidad del signo.
+- >-
+  No hay estudios específicos que cuantifiquen el valor diagnóstico del reflejo de Moro
+  asimétrico ni de la mayoría de los reflejos primarios aislados; los presentamos como parte
+  del patrón, sin cociente de verosimilitud.
+- >-
+  El abombamiento de la fontanela se midió en una revisión de niños con meningitis bacteriana;
+  el resumen de la fuente no separa a los recién nacidos.
+- >-
+  No afirmamos aquí qué raíz del plexo braquial respeta la prensión palmar y cuál la abole:
+  falta una fuente de texto completo que lo sostenga.
+- >-
+  Los datos de rendimiento de los movimientos generales provienen de una revisión narrativa de
+  los propios autores del método, sin población declarada.
+condiciones:
+- HM:6004
+- HM:6049
+conceptos:
+- HM:3240
+- HM:3246
+refs:
+- prechtl1974
+- amieltison2002
+- ballard1991
+- amieltison1968
+- villar2014
+- curtis2010
+- zafeiriou2004
+- dubowitz1998
+- futagi2010
+- futagi1999
+- futagi1995
+- shah2021
+- einspieler2005
+- novak2017
+medios: []
+modulos_html: []
+---
+
+## Cómo se explora
+
+### Antes de tocar al niño
+
+Empezamos por la historia, porque orienta el examen y anticipa lo que vamos a encontrar. De
+los antecedentes del embarazo nos interesan la consanguinidad de los padres, la edad y el
+número de gestaciones, los abortos, la salud de la madre antes y durante el embarazo, y las
+enfermedades asociadas (diabetes, toxemia, infecciones), el alcohol y los fármacos o drogas.
+Del parto, las malposiciones fetales, la progresión inadecuada del trabajo, la ruptura
+prematura de membranas, la compresión del cordón y el sufrimiento fetal en el monitoreo. Del
+nacimiento, el puntaje de Apgar, la gasometría, el peso, la talla, los perímetros craneal y
+torácico, y toda anomalía que sugiera perturbación neurológica, sin olvidar la cianosis, la
+palidez intensa o la ictericia.
+
+### Qué buscamos y cuándo examinamos
+
+El examen persigue tres cosas: descubrir cuanto antes una perturbación aguda, como el edema
+cerebral o la meningitis; estimar la madurez del niño; y encontrar cualquier signo que anuncie
+un riesgo para su desarrollo.
+
+Para que lo que observemos sea fiable cuidamos el entorno: el niño abrigado y cómodo, ni tan
+hambriento que esté inquieto ni tan satisfecho que se duerma, colocado de modo que podamos
+explorarlo con simetría, y con las pruebas siempre en el mismo orden para familiarizarnos con
+su patrón de respuesta. Si está cansado o molesto, aplazamos. En el recién nacido a término
+sano mantenemos como norma práctica examinar desde el tercer día de vida, cuando los signos
+son más estables; recordamos que la evaluación de Amiel-Tison actualizada propone una síntesis
+propia para la primera semana [@amieltison2002], y que para estimar la edad gestacional en los
+prematuros extremos el New Ballard rinde más si se aplica en las primeras doce horas
+[@ballard1991].
+
+Usamos los estados de conducta que describió Prechtl como condición del examen, no como
+pronóstico: sueño con respiración regular, sueño con respiración irregular, vigilia sin
+movimientos importantes, vigilia con actividad motriz franca y sin llanto, y llanto
+[@prechtl1974]. Examinamos con el niño en vigilia tranquila o activa, sin llanto.
+
+::: {.legado}
+*«El examen suministra una sorprendente cantidad de información muy útil si se utilizan las técnicas aconsejadas.»*
+— A. Torres Catefort, *Neurología Pediátrica*, pp. 4-5
+:::
+
+### Mirar antes de tocar
+
+Observamos sin prisa.
+
+::: {.legado}
+*«No debe hacerse de prisa. Cada minuto empleado en ella puede proporcionar resultados valiosos.»*
+— A. Torres Catefort, *Neurología Pediátrica*, p. 5
+:::
+
+En decúbito supino el niño a término mantiene brazos y piernas en flexión, los mueve con
+libertad y con frecuencia, y tiene las manos cerradas con los pulgares flexionados sobre la
+palma. En decúbito prono gira la cabeza hacia un lado, conserva los brazos flexionados y se
+mueve menos. Un brazo que cuelga extendido a lo largo del cuerpo, en lugar de flexionarse,
+nos hace pensar en una lesión del plexo braquial.
+
+**Cráneo.** El perímetro cefálico no se juzga contra un promedio fijo: se interpreta en
+centiles según la edad gestacional y el sexo, con los estándares internacionales
+INTERGROWTH-21st [@villar2014]. Palpamos la fontanela anterior, que está donde se unen las
+suturas coronales, la metópica y la sagital, con el niño en calma, sin llanto, y de preferencia
+mientras se alimenta. Normalmente es blanda y depresible. Buscamos además cabalgamiento o
+diástasis de las suturas, cefalohematoma, asimetría craneal y *caput succedaneum*.
+
+### Tono pasivo y madurez
+
+El tono pasivo tiene tres componentes: la consistencia del músculo (inspección y palpación), la
+extensibilidad (el ángulo que alcanzan las articulaciones) y la pasividad refleja (la
+capacidad del músculo de oponerse al desplazamiento y de frenar los movimientos pendulares que
+provoca el examinador).
+
+Las maniobras que siguen vienen de la escuela de Amiel-Tison [@amieltison1968]. Son una guía
+del tono pasivo y de la madurez, pero **no son el puntaje New Ballard**: este instrumento
+puntúa por separado seis criterios neuromusculares (postura, ventana cuadrada de la muñeca,
+retroceso del brazo, ángulo poplíteo, signo de la bufanda y talón a la oreja) y la madurez
+física, y la edad gestacional se estima con el instrumento completo [@ballard1991]. La
+rotación de la cabeza, la dorsiflexión del pie y la oscilación pendular no son criterios del
+New Ballard. En el niño a término:
+
+- la cabeza rota hasta que el mentón llega a la punta del hombro; en el prematuro la sobrepasa;
+- en el **signo de la bufanda** (maniobra de Foulard) llevamos la mano del niño al hombro
+  contrario y el codo no pasa de la línea media; en el prematuro la sobrepasa con holgura;
+- la muñeca se flexiona hasta formar un ángulo agudo; en el prematuro el ángulo es mayor
+  (ángulo «en ventana»), aunque su hipotonía sea más marcada, porque sus tendones terminales
+  son más cortos;
+- la rodilla no se extiende del todo, porque el niño a término tiene una ligera hipertonía de
+  los miembros inferiores, y queda un ángulo en el hueco poplíteo; en el prematuro se extiende
+  por completo;
+- el pie se dorsiflexiona hasta tocar la cara anterior de la pierna; en el prematuro no llega;
+- al extender el brazo con suavidad y soltarlo, retorna a la flexión de inmediato; al sacudir
+  el brazo o la pierna, la mano o el pie oscilan y luego los músculos se tensan y los detienen.
+  El prematuro no recobra la flexión ni detiene pronto la oscilación.
+
+### Tono activo: los reflejos primarios
+
+El tono activo es la parte más importante del examen a esta edad, porque de él dependen la
+motricidad, la postura y la actividad del recién nacido.
+
+1. **Puntos cardinales.** Con el dedo en la comisura labial, el labio inferior baja y la lengua
+   y la cabeza se orientan hacia el estímulo; si retiramos el dedo despacio, el niño lo sigue
+   con la cabeza. Si estimulamos el centro del labio superior o del inferior, el cuello se
+   extiende o se flexiona.
+2. **Succión.** Es un elemento esencial: valoramos la fuerza, la integridad de la succión y de
+   la deglución.
+3. **Moro.** Con el niño en decúbito supino sobre una superficie firme, sostenemos con una mano
+   su cabeza y su tronco superior y, sin soltarlo nunca, dejamos que la cabeza descienda un
+   poco hacia atrás de modo controlado, siempre apoyada en nuestra mano. No lo levantamos por
+   los pies ni lo soltamos. La respuesta tiene dos tiempos: los brazos se abren en cruz, con
+   antebrazos, manos y pulgar extendidos; después se dirigen al eje del cuerpo, como en un
+   abrazo, tiempo que es inconstante. Esta técnica sostenida reemplaza a la que describía el
+   texto original de la obra, que levantaba al niño por los pies y lo soltaba de pronto.
+4. **Alargamiento cruzado.** Estimulamos la planta de un pie con la rodilla en extensión: el
+   miembro opuesto se flexiona, se extiende en actitud de rechazo y por último se aduce hasta
+   apoyar el talón sobre el pie estimulado.
+5. **Prensión palmar** (*grasping* de manos). Al introducir un dedo en la palma, los cuatro
+   últimos dedos se cierran con fuerza y es posible llevar al niño a la posición de sentado.
+   Puede ser uni o bilateral.
+6. **Prensión plantar** (*grasping* de pies). Presionamos con el pulgar la región anterior de la
+   planta: los dedos se flexionan mientras persiste el estímulo.
+7. **Suspensión vertical.** Sostenemos al niño por las axilas y apoyamos sus plantas sobre la
+   mesa: tras una breve flexión de los miembros inferiores, estos se extienden y puede
+   sostener su peso.
+8. **Marcha automática.** Con una mano en el tronco y la otra en la espalda, inclinamos al niño
+   ligeramente hacia adelante con las plantas apoyadas: aparece una marcha regular, coordinada
+   y sucesiva. Si cuesta obtenerla, lo ponemos más vertical, con más contacto de los pies, y lo
+   inclinamos después.
+
+::: {.legado}
+*«Consiste en realizar con el dedo pulgar una presión en la región anterior de la planta, originándose la flexión permanente de los dedos de los pies del examinado, mientras persiste el estímulo.»*
+— A. Torres Catefort, *Neurología Pediátrica*, p. 16
+:::
+
+## Qué significa
+
+**Pesan los patrones, no los signos.** En 224 recién nacidos a término de bajo riesgo, un
+tercio tuvo desviado uno o dos ítems del examen de Hammersmith, mientras que cuatro o más
+desviaciones aparecieron en menos del diez por ciento: los signos aislados tienen poco valor
+diagnóstico, y lo que alarma es la acumulación y un patrón anormal de distribución del tono
+[@dubowitz1998]. Por eso el examen se repite y se puntúa; no se lee un signo suelto.
+
+**La madurez.** El New Ballard se validó en 578 recién nacidos de entre veinte y cuarenta y
+cuatro semanas; su correlación con la edad gestacional confirmada fue de 0,97 y la
+concordancia entre observadores, de 0,95 [@ballard1991]. Es la herramienta que usamos para
+estimar la edad gestacional, aplicada completa: ni una sola maniobra del tono pasivo la
+sustituye.
+
+**La fontanela abombada.** En la exploración, una fontanela abombada tiene {{lr+ HM:3240}}
+para meningitis bacteriana en niños. Aumenta la probabilidad, pero ningún signo aislado es
+diagnóstico [@curtis2010]: ni la presencia confirma ni la ausencia descarta la meningitis.
+
+**La prensión plantar.** Está presente en todos los lactantes normales desde las veinticinco
+semanas de edad posconcepcional hasta el final de los seis meses de edad corregida
+[@futagi2010]. En una serie, los 834 lactantes normales tuvieron respuesta positiva en los
+primeros seis meses; de 93 lactantes con respuesta ausente o disminuida, 75 desarrollaron
+parálisis cerebral, 69 de ellos espástica [@futagi1999]. La asimetría también apunta a
+disfunción cerebral: de 61 niños con respuesta asimétrica, 38 tuvieron parálisis cerebral
+[@futagi1995]. Son series de lactantes seleccionados: indican qué esperar y a quién seguir, no
+la exactitud del signo.
+
+**Los reflejos primarios en conjunto.** La exploración combinada de los reflejos primarios y
+las reacciones posturales es una prueba de cribado simple y predictiva del riesgo de parálisis
+cerebral, rápida y aplicable donde el tiempo y los recursos son limitados [@zafeiriou2004].
+
+**Los movimientos generales.** Hacia los tres a cinco meses de edad corregida, la ausencia de
+movimientos generales de tipo *fidgety* predice la parálisis cerebral posterior
+[@einspieler2005]. La base registra {{sens HM:3246}} y {{esp HM:3246}}, como declaran
+los autores del método.
+
+**El grasping de manos que falta.** Cuando falta en una sola mano, buscamos lesión del plexo
+braquial y fractura de clavícula, como enseñaba el maestro:
+
+::: {.legado}
+*«Cuando el examinador introduce un dedo en la palma de la mano del recién nacido, los cuatro últimos dedos de la mano se cierran con bastante fuerza y puede ser llevado a la posición de sentado; el reflejo puede ser uni o bilateral y no se pondrá en evidencia si hay lesión del plexo braquial como parálisis de Erb-Duchenne y de Klumpke, fracturas de clavícula, lesiones óseas y otras en esta área.»*
+— A. Torres Catefort, *Neurología Pediátrica*, pp. 14-15
+:::
+
+El maestro agrupaba las parálisis de Erb y de Klumpke. Qué raíz respeta la prensión y cuál la
+abole no lo afirmamos aquí todavía, por falta de una fuente de texto completo.
+
+## Por qué ocurre
+
+**La fontanela** refleja la presión intracraneal subyacente: por eso la juzgamos en calma y
+sin llanto, y por eso el abombamiento permanente es anormal.
+
+**La prensión plantar** es un rudimento de respuestas que fueron esenciales para las crías de
+los simios en la vida arbórea. Su centro espinal se localiza probablemente entre L5 y S2, bajo
+el control de estructuras cerebrales superiores; en el lactante aparece porque el cerebro
+inmaduro aún no controla bien ese mecanismo, y por eso cede cuando madura [@futagi2010]. Su
+ausencia o disminución precoz suele ser un indicador sensible de espasticidad, y su retención
+excesiva se ha visto en la parálisis cerebral atetoide [@futagi2010].
+
+**Los reflejos primarios** deben desaparecer en su momento; en la parálisis cerebral se
+describen su persistencia o su desaparición tardía, y reacciones posturales patológicas o
+ausentes [@zafeiriou2004].
+
+**El tono del prematuro** es más hipotónico, con mayor amplitud de movimiento articular; los
+tendones terminales cortos explican que la muñeca no se flexione por completo.
+
+## Qué hacer
+
+- **Fontanela abombada, sobre todo con fiebre, irritabilidad o mal estado general:** se
+  actúa como ante una posible meningitis, sin esperar otro signo, porque ninguno aislado la
+  confirma ni la descarta [@curtis2010]. La conducta completa está en la lección de
+  infecciones del sistema nervioso central.
+- **Prensión plantar ausente, disminuida o asimétrica, o un patrón de signos desviados:**
+  seguimiento neurológico seriado y no tranquilizar. Antes de los cinco meses de edad
+  corregida las herramientas más predictivas del riesgo de parálisis cerebral son la
+  evaluación de los movimientos generales de Prechtl, el examen neurológico infantil de
+  Hammersmith y la resonancia magnética, y el diagnóstico ya puede hacerse antes de los seis
+  meses [@novak2017].
+- **Sospecha de lesión del plexo braquial:** exámenes seriados durante el primer mes de vida,
+  porque predicen el pronóstico, y derivación temprana a un equipo especializado [@shah2021].
+- **Madurez dudosa:** puntaje New Ballard [@ballard1991] y perímetro cefálico en centiles
+  [@villar2014].
+
+## Cómo prevenir
+
+La prevención empieza antes del examen: el control del embarazo y del parto, y el registro de
+los antecedentes que vimos al comienzo, que marcan a los niños que examinaremos con más
+cuidado. La prevención secundaria es detectar a tiempo y derivar a intervención temprana, que
+es lo que el diagnóstico precoz de la parálisis cerebral hace posible [@novak2017].
+
+## Nuestra realidad
+
+El maestro lo escribió pensando en quienes atienden a estos niños en todo el país:
+
+::: {.legado}
+*«Los niños lesionados nacen y crecen por todos los lugares del país; de ello se desprende la necesidad imperiosa de que los médicos estén preparados para ser eficaces en su desempeño profesional y útiles para el enfermo y su familia.»*
+— A. Torres Catefort, *Neurología Pediátrica*, p. 3
+:::
+
+Este examen no necesita equipo: pide tiempo, calma y un examinador entrenado, y puede hacerse
+en cualquier maternidad o consultorio. Esa es su fuerza donde los recursos son limitados
+[@zafeiriou2004]. Aún faltan en esta lección datos ecuatorianos sobre la frecuencia del daño
+neurológico perinatal y sobre la disponibilidad local de la evaluación de los movimientos
+generales y de la resonancia, que deben aportar quienes trabajan en nuestros hospitales; hasta
+entonces no los afirmamos.

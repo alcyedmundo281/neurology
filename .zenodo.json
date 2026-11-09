@@ -1,0 +1,29 @@
+{
+  "title": "Neurología clínica para el médico general",
+  "description": "Semiología basada en la evidencia, del recién nacido al adulto. Obra que continúa el legado de Alcy Torres Catefort.",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "access_right": "open",
+  "license": "CC-BY-NC-SA-4.0",
+  "language": "spa",
+  "creators": [
+    { "name": "Torres Catefort, Alcy" },
+    { "name": "Torres Guerrero, Alcy Ramiro" },
+    { "name": "Torres Guerrero, Gladys" },
+    { "name": "Torres Guerrero, Alcy Edmundo", "orcid": "0000-0002-9742-375X" },
+    { "name": "Torres Tobar, Daniela" }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23862211",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/alcyedmundo281/neurology",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ],
+  "keywords": ["neurología clínica", "semiología", "medicina basada en la evidencia"]
+}

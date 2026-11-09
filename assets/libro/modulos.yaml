@@ -1,0 +1,1041 @@
+capitulos:
+- archivo_qmd: 05-examen-neurologico.qmd
+  titulo: Semiología y Exploración Neurológica Sistemática
+  subtitulo: Localización sindrómica, pares craneales, vías largas, cerebelo y marcha
+  fuentes_repositorio:
+  - neurologia/examen-neurologico-parte-1.html
+  - neurologia/examen-neurologico-parte-2.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuentes docentes del módulo:** `neurologia/examen-neurologico-parte-1.html`\
+    \ y\n`neurologia/examen-neurologico-parte-2.html`.\n:::\n\n## Método clínico en\
+    \ neurología: localización antes que etiología\n\nEl razonamiento neurológico\
+    \ clásico se organiza en dos etapas secuenciales e inseparables:\n\n1. **Diagnóstico\
+    \ sindrómico y topográfico (*¿dónde está la lesión?*):** integrar los síntomas\n\
+    \   positivos (dolor, parestesias, crisis, hipertonía, hiperreflexia) y negativos\
+    \ (plejía,\n   anestesia, afasia, arreflexia) para ubicar el proceso en corteza\
+    \ cerebral, sustancia blanca\n   subcortical, ganglios basales, diencéfalo, tronco\
+    \ encefálico, cerebelo, médula espinal,\n   raíces, plexos, nervio periférico,\
+    \ unión neuromuscular o fibra muscular.\n2. **Diagnóstico etiológico (*¿qué mecanismo\
+    \ produjo la lesión?*):** el perfil temporal de\n   instauración orienta la fisiopatología:\
+    \ hiperagudo en segundos o minutos (vascular o\n   epiléptico), agudo en horas\
+    \ o días (infeccioso, inflamatorio o tóxico-metabólico), subagudo en\n   semanas\
+    \ (autoinmune, carencial o neoplásico) y crónico progresivo en meses o años\n\
+    \   (neurodegenerativo o genético).\n\n## Estado mental y funciones corticales\
+    \ superiores\n\nLa exploración comienza desde el primer contacto visual y verbal\
+    \ con el paciente:\n\n- **Nivel de alerta y atención:** vigilia, somnolencia,\
+    \ obnubilación, estupor o coma, cuantificados\n  mediante la Escala de Coma de\
+    \ Glasgow (apertura ocular 1–4, respuesta verbal 1–5, respuesta\n  motora 1–6;\
+    \ puntuación total 3–15). La atención sostenida se explora con la inversión de\
+    \ series\n  (deletrear *MUNDO* al revés o restar de 7 en 7 desde 100) antes de\
+    \ interpretar la memoria.\n- **Lenguaje y habla:** distinguir **disartria** (trastorno\
+    \ motor articulatorio con gramática\n  íntegra) de **afasia** (trastorno cortical\
+    \ de la red perisilviana dominante). Se evalúan seis\n  dominios: fluencia espontánea,\
+    \ comprensión auditiva, repetición, denominación, lectura y\n  escritura.\n- **Memoria,\
+    \ praxias, gnosias y función ejecutiva:** recuerdo diferido de tres palabras con\
+    \ y sin\n  pistas semánticas (diferencia fallo de almacenamiento hipocampal frente\
+    \ a fallo de recuperación\n  fronto-subcortical), copia de figuras bimanuales\
+    \ y negligencia visuoespacial parietal derecha.\n\n| Síndrome afásico | Fluencia\
+    \ | Comprensión | Repetición | Localización anatomoclínica |\n| :--- | :--- |\
+    \ :--- | :--- | :--- |\n| Broca (motora) | No fluente, agramatical | Conservada\
+    \ | Alterada | Giro frontal inferior izquierdo (área 44/45) |\n| Wernicke (sensitiva)\
+    \ | Fluente, parafasias, jerga | Muy alterada | Alterada | Giro temporal superior\
+    \ posterior izquierdo (área 22) |\n| Conducción | Fluente, parafasias fonémicas\
+    \ | Conservada | Muy alterada | Fascículo arqueado / giro supramarginal |\n| Transcortical\
+    \ motora | No fluente | Conservada | Conservada | Área motora suplementaria /\
+    \ corteza prefrontal anterior |\n| Global | Mínima o mutismo | Muy alterada |\
+    \ Alterada | Territorio completo de la arteria cerebral media izquierda |\n\n\
+    : Clasificación semiológica de las afasias corticales {tbl-colwidths=\"[20,20,16,16,28]\"\
+    }\n\n## Pares craneales (I–XII) y correlación troncoencefálica\n\nLos núcleos\
+    \ de los pares craneales sirven como marcadores milimétricos del tronco del encéfalo:\n\
+    mesencéfalo (III, IV), protuberancia (V, VI, VII, VIII) y bulbo raquídeo (IX,\
+    \ X, XI, XII). Las\nlesiones intrínsecas del tronco producen **síndromes alternos**:\
+    \ parálisis ipsilateral del par\ncraneal junto con hemiparesia o hemihipoestesia\
+    \ contralateral por compromiso de las vías largas.\n\n| Par craneal | Exploración\
+    \ clínica dirigida | Signo localizador clave |\n| :--- | :--- | :--- |\n| I (Olfatorio)\
+    \ | Identificación de aromas no irritantes por narina | Anosmia unilateral en\
+    \ meningioma del surco olfatorio o TCE frontobasal |\n| II (Óptico) | Agudeza\
+    \ visual, campimetría por confrontación, fondo de ojo y reflejo fotomotor aferente\
+    \ | Defecto pupilar aferente relativo (pupila de Marcus Gunn) en neuritis óptica;\
+    \ hemianopsia homónima retroquiasmática |\n| III, IV, VI (Oculomotores) | Ducciones\
+    \ y versiones en las 9 posiciones de la mirada, convergencia, párpado y pupila\
+    \ | III par compresivo (aneurisma de comunicante posterior) compromete fibras\
+    \ parasimpáticas pupilares periféricas; III par isquémico microvascular suele\
+    \ respetar la pupila |\n| V (Trigémino) | Sensibilidad facial en ramas V1, V2\
+    \ y V3; músculos masticadores; reflejo corneal (vía aferente) | Hipoestesia respetando\
+    \ el ángulo mandibular (C2–C3); abolición precoz del reflejo corneal en tumores\
+    \ del ángulo pontocerebeloso |\n| VII (Facial) | Mímica facial superior (frente,\
+    \ orbicular) e inferior (comisura labial) | Parálisis **periférica (Bell)**: afecta\
+    \ frente y tercio inferior ipsilateral; parálisis **central (supranuclear)**:\
+    \ respeta tercio superior por inervación corticobulbar bilateral |\n| VIII (Vestibulococlear)\
+    \ | Pruebas de Rinne y Weber (diapasón 512 Hz), protocolo HINTS en síndrome vestibular\
+    \ agudo | En vértigo agudo continuo: *Head Impulse* normal + nistagmo cambiante\
+    \ de dirección + *Test of Skew* positivo sugiere infarto de fosa posterior |\n\
+    | IX, X (Glosofaríngeo y Vago) | Elevación simétrica del velo del paladar, fonación,\
+    \ deglución y reflejo nauseoso | Signo de la cortina de Vernet: la úvula se desvía\
+    \ hacia el lado **sano** |\n| XI (Espinal accesorio) | Fuerza de esternocleidomastoideo\
+    \ (giro cefálico contralateral) y trapecio (elevación escapular) | Caída del hombro\
+    \ y debilidad para girar la cabeza hacia el lado opuesto al músculo lesionado\
+    \ |\n| XII (Hipogloso) | Trofismo lingual en reposo y protrusión en línea media\
+    \ | En lesión nuclear o infranuclear, la lengua protruida se desvía hacia el lado\
+    \ **lesionado** con fasciculaciones y hemiatrofia |\n\n: Semiología esencial de\
+    \ los pares craneales {tbl-colwidths=\"[22,34,44]\"}\n\n## Sistema motor, reflejos\
+    \ y diferenciación MNS frente a MNI\n\nLa fuerza segmentaria se gradúa con la\
+    \ escala del *Medical Research Council* (MRC): **0** ausencia\nde contracción;\
+    \ **1** contracción visible o palpable sin desplazamiento; **2** movimiento activo\n\
+    eliminando la gravedad; **3** movimiento activo contra gravedad pero no contra\
+    \ resistencia; **4**\nmovimiento contra resistencia submáxima (4−, 4, 4+); y **5**\
+    \ fuerza normal. La maniobra de Mingazzini\ny la deriva pronadora de Barré detectan\
+    \ paresias piramidales sutiles antes de que caiga la escala MRC.\n\n| Parámetro\
+    \ semiológico | Motoneurona Superior (Piramidal) | Motoneurona Inferior (Espinal\
+    \ / Periférica) |\n| :--- | :--- | :--- |\n| Distribución de la debilidad | Grupos\
+    \ funcionales (extensores en MS, flexores en MI) | Miomal o troncular (músculos\
+    \ aislados o raíces) |\n| Trofismo muscular | Conservado o leve atrofia tardía\
+    \ por desuso | Atrofia precoz y marcada (amiotrofia neurógena) |\n| Tono muscular\
+    \ | Espasticidad («en navaja de muelle»), velocidad-dependiente | Hipotonía o\
+    \ flacidez |\n| Fasciculaciones | Ausentes | Presentes (descargas espontáneas\
+    \ de unidades motoras) |\n| Reflejos osteotendinosos | Hiperreflexia policinética\
+    \ y clonus | Hiporreflexia o arreflexia |\n| Respuesta cutáneo-plantar | Extensora\
+    \ (**signo de Babinski**) | Flexora o indiferente |\n\n: Diagnóstico diferencial\
+    \ entre síndrome de motoneurona superior e inferior {tbl-colwidths=\"[26,37,37]\"\
+    }\n\n## Sensibilidad, coordinación cerebelosa y marcha\n\n- **Disociación sensitiva:**\
+    \ el **cordón posterior (vía lemniscal)** conduce sensibilidad vibratoria\n  (palestesia\
+    \ con diapasón de 128 Hz), posicional articular (batiestesia) y tacto epicrítico;\
+    \ decusa\n  en el bulbo raquídeo (lemnisco medial). El **haz espinotalámico anterolateral**\
+    \ conduce dolor\n  (algesia) y temperatura (termoestesia); decusa en la comisura\
+    \ blanca anterior medular uno o dos\n  segmentos por encima de su entrada. Esta\
+    \ anatomía explica el **síndrome de hemisección medular de\n  Brown-Séquard**:\
+    \ parálisis piramidal y pérdida propioceptiva ipsilaterales con anestesia\n  termoalgésica\
+    \ contralateral bajo el nivel lesional.\n- **Prueba de Romberg:** evalúa la propiocepción\
+    \ consciente (cordones posteriores y nervios\n  periféricos gruesos), no el cerebelo.\
+    \ Es positiva cuando el paciente mantiene la bipedestación con\n  ojos abiertos\
+    \ pero cae al cerrar los ojos (eliminación de la compensación visual). La ataxia\n\
+    \  cerebelosa, en cambio, inestabiliza tanto con ojos abiertos como cerrados.\n\
+    - **Coordinación cerebelosa:** el vermis regula el equilibrio axial y la postura\
+    \ (su lesión produce\n  ataxia troncular y marcha ebria de base ancha); los hemisferios\
+    \ cerebelosos regulan la coordinación\n  apendicular ipsilateral (dismetría dedo-nariz\
+    \ y talón-rodilla, adiadococinesia, temblor intencional\n  y palabra escandida).\n\
+    \n::: {.perlas-clinicas}\n**Patrones de marcha de alto valor semiológico:**\n\n\
+    - **Marcha hemiparética (en segador o de Todd):** miembro superior en flexión-pronación\
+    \ y miembro\n  inferior extendido que describe una circunducción externa (lesión\
+    \ corticoespinal unilateral).\n- **Marcha parkinsoniana (festinante):** postura\
+    \ encorvada, pasos cortos y arrastrados, pérdida del\n  braceo, giro en bloque\
+    \ y congelamiento (*freezing*).\n- **Marcha atáxica sensitiva (tabética o taloneante):**\
+    \ base ancha, mirada fija en el suelo y golpeo\n  brusco del talón; empeora drásticamente\
+    \ en la oscuridad.\n- **Marcha en estepaje (*steppage*):** caída del pie (*foot\
+    \ drop*) por debilidad tibial anterior\n  (raíz L5 o nervio peroneo común) que\
+    \ obliga a elevar exageradamente la rodilla.\n- **Marcha miopática (de pato o\
+    \ anadeante):** debilidad de glúteos medios con caída pélvica\n  contralateral\
+    \ en cada paso (signo de Trendelenburg bilateral).\n:::\n"
+- archivo_qmd: 06-cefaleas.qmd
+  titulo: Cefaleas Primarias, Secundarias y Banderas Rojas SNOOP10
+  subtitulo: Clasificación ICHD-3, migraña, cefaleas trigémino-autonómicas y urgencias
+  fuentes_repositorio:
+  - neurologia/cefaleas/conocimiento-cefaleas.html
+  - neurologia/cefaleas/cefaleas-presentacion.html
+  - neurologia/cefaleas/taller-cefaleas.html
+  - neurologia/cefaleas/cefaleas-autoevaluacion.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuentes docentes del módulo:** `neurologia/cefaleas/conocimiento-cefaleas.html`,\n\
+    `neurologia/cefaleas/cefaleas-presentacion.html`, `neurologia/cefaleas/taller-cefaleas.html`\
+    \ y\n`neurologia/cefaleas/cefaleas-autoevaluacion.html`.\n:::\n\n## Prioridad\
+    \ clínica en urgencias y consulta: descartar causas secundarias\n\nEl abordaje\
+    \ diagnóstico de toda cefalea se divide en dos grandes grupos conforme a la Tercera\n\
+    Edición de la Clasificación Internacional de las Cefaleas (**ICHD-3**):\n\n1.\
+    \ **Cefaleas secundarias:** el dolor es síntoma de una lesión estructural, vascular,\
+    \ infecciosa o\n   sistémica subyacente potencialmente letal (hemorragia subaracnoidea,\
+    \ meningitis, trombosis venosa\n   cerebral, arteritis de células gigantes, neoplasia\
+    \ o hipertensión intracraneal).\n2. **Cefaleas primarias:** el síndrome doloroso\
+    \ constituye la enfermedad en sí misma por activación\n   intrínseca de redes\
+    \ nociceptivas trigémino-vasculares o hipotalámicas (migraña, cefalea de tipo\n\
+    \   tensional y cefaleas trigémino-autonómicas).\n\n::: {.alerta-ficha}\n**Algoritmo\
+    \ de banderas rojas SNOOP10 en cefalea:**\n\n- **S — *Systemic symptoms*:** fiebre,\
+    \ pérdida de peso, rigidez de nuca, inmunosupresión o cáncer.\n- **N — *Neurologic\
+    \ deficits*:** focalidad motora, sensitiva, campimétrica, afasia o alteración\
+    \ de\n  conciencia.\n- **O — *Onset sudden (Thunderclap)*:** cefalea en trueno\
+    \ que alcanza su intensidad máxima (10/10) en\n  menos de 1 minuto (descartar\
+    \ hemorragia subaracnoidea, disección arterial o síndrome de\n  vasoconstricción\
+    \ cerebral reversible).\n- **O — *Older age (> 50 años)*:** cefalea de *novo*\
+    \ en mayores de 50 años obliga a descartar\n  **arteritis de células gigantes\
+    \ (de la temporal)** con VSG/PCR urgentes y corticoterapia precoz\n  para prevenir\
+    \ ceguera isquémica irreversible.\n- **P — *Pattern change / Papilledema / Positional\
+    \ / Precipitated by Valsalva / Pregnancy*:** cambio\n  de patrón previo, papiledema\
+    \ en el fondo de ojo, empeoramiento con decúbito o maniobras de\n  Valsalva, o\
+    \ aparición en embarazo/puerperio (trombosis de senos venosos durales).\n:::\n\
+    \n## Diagnóstico diferencial de las cefaleas primarias (ICHD-3)\n\n| Característica\
+    \ clínica | Migraña (sin/con aura) | Cefalea de tipo tensional | Cefalea en racimos\
+    \ (*Cluster*) |\n| :--- | :--- | :--- | :--- |\n| Duración del ataque | 4 a 72\
+    \ horas (en adultos sin tratamiento exitoso) | 30 minutos a 7 días | 15 a 180\
+    \ minutos (1 a 8 ataques/día en salvas) |\n| Localización y cualidad | Unilateral\
+    \ (60–70 %), pulsátil | Bilateral, opresiva o en banda («casco») | Estrictamente\
+    \ unilateral: orbitaria, supraorbitaria o temporal, terebrante |\n| Intensidad\
+    \ y actividad | Moderada a severa; **empeora** con la actividad física rutinaria\
+    \ | Leve a moderada; no empeora con la actividad física | Extrema (10/10); produce\
+    \ **inquietud motora y agitación** |\n| Síntomas asociados | Náuseas/vómitos;\
+    \ fotofobia y fonofobia | Sin náuseas ni vómitos (puede haber fotofobia o fonofobia\
+    \ aislada) | Signos autonómicos **ipsilaterales**: lagrimeo, inyección conjuntival,\
+    \ rinorrea, miosis, ptosis |\n| Tratamiento abortivo de 1.ª línea | AINE en crisis\
+    \ leves; **triptanes** (sumatriptán, rizatriptán) o gepantes en moderadas-severas\
+    \ | Paracetamol o AINE (ibuprofeno, naproxeno), cuidando no superar 10–15 días/mes\
+    \ | **Oxígeno al 100 %** con mascarilla de reservorio (12–15 L/min por 15 min)\
+    \ + sumatriptán 6 mg SC |\n| Profilaxis de elección | Propranolol, topiramato,\
+    \ amitriptilina o anticuerpos anti-CGRP | Amitriptilina en formas crónicas (≥\
+    \ 15 días/mes) | **Verapamilo** (con control electrocardiográfico del intervalo\
+    \ PR) |\n\n: Comparación semiológica y terapéutica de las cefaleas primarias {tbl-colwidths=\"\
+    [20,27,26,27]\"}\n\n## Fisiopatología trigémino-vascular y el fenómeno del aura\n\
+    \nEn la migraña, la activación del ganglio del trigémino libera péptidos vasoactivos\
+    \ y\nproinflamatorios —principalmente el **péptido relacionado con el gen de la\
+    \ calcitonina (CGRP)**, la\nsustancia P y la neurocinina A— sobre los vasos meníngeos,\
+    \ generando inflamación neurógena y\nsensibilización central y periférica. El\
+    \ **aura migrañosa** (presente en el 25 % de los pacientes) es\nla expresión clínica\
+    \ de la **depresión cortical propagada de Leão**: una onda de despolarización\n\
+    neuronal y glial que avanza por la corteza occipital o parietotemporal a una velocidad\
+    \ característica\nde **3 a 5 mm/min**, seguida de hipoperfusión transitoria. Clínicamente\
+    \ se traduce en síntomas\nvisuales positivos (escotoma centelleante, espectro\
+    \ de fortificación) o sensitivos (queiropedal)\ngraduales, completamente reversibles\
+    \ y de **5 a 60 minutos** de duración.\n\n::: {.caso-socratico}\n### Integración\
+    \ clínica del taller de cefaleas\n\n1. **Cefalea en trueno (*thunderclap*):**\
+    \ paciente de 45 años que, durante un esfuerzo físico, sufre\n   el peor dolor\
+    \ de cabeza de su vida de instauración explosiva en segundos, acompañado de fotofobia\n\
+    \   y vómito. Incluso con exploración neurológica focal normal, la conducta obligatoria\
+    \ es **TC\n   craneal simple urgente** (sensibilidad cercana al 98–100 % en las\
+    \ primeras 6 horas para hemorragia\n   subaracnoidea); si la TC es negativa pero\
+    \ la sospecha persiste o han pasado más de 6 horas, se\n   indica **punción lumbar**\
+    \ buscando xantocromía.\n2. **Arteritis de células gigantes:** mujer de 72 años\
+    \ con cefalea temporal unilateral de *novo*,\n   claudicación mandibular al masticar,\
+    \ hipersensibilidad del cuero cabelludo y polimialgia. El\n   riesgo inmediato\
+    \ es la **neuropatía óptica isquémica anterior arterítica**; se debe solicitar\
+    \ VSG\n   y PCR e iniciar prednisona a dosis altas sin esperar al resultado de\
+    \ la biopsia de arteria\n   temporal.\n3. **Cefalea por uso excesivo de medicación:**\
+    \ paciente con migraña episódica que consume triptanes o\n   analgésicos combinados\
+    \ ≥ 10 días al mes (o AINE simples ≥ 15 días al mes) durante más de 3 meses,\n\
+    \   transformando su cuadro en una cefalea diaria refractaria que exige suspensión\
+    \ programada del\n   fármaco sintomático e inicio de terapia preventiva.\n:::\n"
+- archivo_qmd: 07-epilepsias.qmd
+  titulo: Epilepsias, Síndromes Electroclínicos y Estado Epiléptico
+  subtitulo: Umbrales operacionales T1/T2, algoritmo cronometrado y farmacología racional
+  fuentes_repositorio:
+  - neurologia/epilepsia-ii/epilepsia-2-pagina-conocimiento.html
+  - neurologia/epilepsia-ii/epilepsia-2-presentacion.html
+  - neurologia/epilepsia-ii/epilepsia-2-actividad-interactiva.html
+  - neurologia/epilepsia-ii/epilepsia-2-autoevaluacion.html
+  - neurologia/epilepsia-ii/masterclass.jsx
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuentes docentes del módulo:** `neurologia/epilepsia-ii/epilepsia-2-pagina-conocimiento.html`,\n\
+    `neurologia/epilepsia-ii/epilepsia-2-presentacion.html`,\n`neurologia/epilepsia-ii/epilepsia-2-actividad-interactiva.html`,\n\
+    `neurologia/epilepsia-ii/epilepsia-2-autoevaluacion.html` y\n`neurologia/epilepsia-ii/masterclass.jsx`.\n\
+    :::\n\n## Definiciones operacionales de la ILAE y tiempos críticos del Estado\
+    \ Epiléptico\n\nUna **crisis epiléptica** es la aparición transitoria de signos\
+    \ o síntomas provocados por una\nactividad neuronal anómala, excesiva o hipersincrónica\
+    \ en el cerebro. La Liga Internacional contra la\nEpilepsia (**ILAE**) define\
+    \ operacionalmente la **epilepsia** ante cualquiera de las tres condiciones\n\
+    siguientes:\n\n1. Al menos **dos crisis no provocadas** (o reflejas) separadas\
+    \ por más de 24 horas.\n2. **Una crisis no provocada** asociada a una probabilidad\
+    \ de recurrencia ≥ 60 % en los próximos 10\n   años (por ejemplo, lesión estructural\
+    \ epileptógena en RM o actividad epileptiforme interictal en\n   el EEG).\n3.\
+    \ Diagnóstico de un **síndrome epiléptico** electroclínico definido.\n\nEl **Estado\
+    \ Epiléptico (EE)** resulta del fallo de los mecanismos inhibitorios que terminan\
+    \ una\ncrisis o de la activación de mecanismos excitatorios que la hacen anormalmente\
+    \ prolongada. Para las\ncrisis tónico-clónicas generalizadas, la ILAE establece\
+    \ dos umbrales temporales operacionales:\n\n- **Tiempo $T_1$ (5 minutos):** punto\
+    \ a partir del cual la crisis es improbable que ceda\n  espontáneamente y **debe\
+    \ iniciarse el tratamiento farmacológico de emergencia**.\n- **Tiempo $T_2$ (30\
+    \ minutos):** umbral a partir del cual existe riesgo demostrado de **lesión y\n\
+    \  muerte neuronal**, alteración de redes sinápticas y secuelas funcionales a\
+    \ largo plazo.\n\n## Protocolo escalonado de manejo del Estado Epiléptico Convulsivo\n\
+    \n| Fase temporal | Objetivos clínicos | Intervenciones y posología de referencia\
+    \ | Precauciones críticas |\n| :--- | :--- | :--- | :--- |\n| **Fase 1: Estabilización**\
+    \ (0–5 min) | Asegurar oxigenación, perfusión y descartar causas reversibles |\
+    \ Vía aérea permeable, $\\text{O}_2$ suplementario, monitorización continua (ECG,\
+    \ PA, $\\text{SatO}_2$), dos accesos IV y **glucemia capilar** | Si glucemia <\
+    \ 60 mg/dL: administrar **tiamina 100 mg IV** antes o junto con glucosa hipertónica\
+    \ al 50 % |\n| **Fase 2: 1.ª línea** (5–20 min) | Yugular la crisis eléctrica\
+    \ mediante potenciación $\\text{GABA}_\\text{A}$ | **Lorazepam IV** 0,1 mg/kg\
+    \ (máx. 4 mg/dosis; elección por menor redistribución) o **Diazepam IV** 0,15\
+    \ mg/kg (máx. 10 mg). **Sin vía IV:** **Midazolam IM 10 mg** (> 40 kg) | Vigilar\
+    \ depresión respiratoria e hipotensión; máximo dos dosis de benzodiacepina antes\
+    \ de escalar |\n| **Fase 3: 2.ª línea** (20–40 min) | Control del EE establecido\
+    \ refractario a benzodiacepinas | Dosis de carga IV única: **Levetiracetam** 60\
+    \ mg/kg (máx. 4500 mg), **Ácido valproico** 40 mg/kg (máx. 3000 mg) o **Fenitoína\
+    \ / Fosfenitoína** 20 mg/kg | **Fenitoína:** riesgo de hipotensión severa y arritmias\
+    \ (velocidad máx. 50 mg/min con monitor ECG y PA). **Valproato:** evitar en hepatopatía,\
+    \ gestación o sospecha mitocondrial |\n| **Fase 4: 3.ª línea / UCI** (> 40 min)\
+    \ | Tratamiento del EE refractario y superrefractario | Intubación endotraqueal\
+    \ y coma anestésico en UCI con **Midazolam**, **Propofol** o **Pentobarbital**\
+    \ en infusión continua | Requiere **monitorización EEG continua** para confirmar\
+    \ supresión de crisis eléctricas y descartar **EE no convulsivo** |\n\n: Algoritmo\
+    \ secuencial cronometrado del Estado Epiléptico {tbl-colwidths=\"[18,22,34,26]\"\
+    }\n\n## Síndromes epilépticos electroclínicos y selección racional de fármacos\n\
+    \nLa elección del fármaco antiepiléptico (FAE) depende estrictamente del tipo\
+    \ de crisis y del síndrome\nelectroclínico. Un error clásico de prescripción es\
+    \ administrar bloqueadores de canales de sodio de\nespectro estrecho en epilepsias\
+    \ generalizadas idiopáticas, lo que puede **agravar paradójicamente**\nlas crisis.\n\
+    \n| Síndrome epiléptico | Edad de inicio y clínica característica | Patrón EEG\
+    \ típico | Tratamiento de elección | Fármacos que pueden agravar |\n| :--- | :---\
+    \ | :--- | :--- | :--- |\n| **Epilepsia de ausencias infantiles** | Escolares\
+    \ (4–10 años). Desconexiones breves (5–15 s) de inicio y fin abruptos, decenas\
+    \ por día, provocadas por hiperventilación | Complejos **punta-onda generalizados\
+    \ a 3 Hz** | **Etosuximida** (1.ª línea si solo hay ausencias) o **Ácido valproico**\
+    \ | Carbamazepina, oxcarbazepina, fenitoína, vigabatrina, gabapentina |\n| **Epilepsia\
+    \ mioclónica juvenil (s. de Janz)** | Adolescentes y adultos jóvenes (12–25 años).\
+    \ Tríada: **mioclonías matutinas** («sacudidas del desayuno» tras privación de\
+    \ sueño), crisis tónico-clónicas generalizadas y ausencias; cognición normal |\
+    \ **Polipunta-onda generalizada a 4–6 Hz**; fotosensibilidad frecuente | **Ácido\
+    \ valproico** (en varones) o **Levetiracetam / Lamotrigina** (preferidos en mujeres\
+    \ en edad fértil por teratogenicidad del valproato) | **Carbamazepina, fenitoína\
+    \ y gabapentina** (exacerban las mioclonías y ausencias) |\n| **Síndrome de Lennox-Gastaut**\
+    \ | Infancia (1–8 años). Encefalopatía epiléptica con tríada: múltiples tipos\
+    \ de crisis (**atónicas** con caídas traumáticas y **tónicas nocturnas**), discapacidad\
+    \ intelectual y refractariedad | **Punta-onda lenta (< 2,5 Hz)** difusa y ritmos\
+    \ rápidos paroxísticos en sueño | **Ácido valproico + Clobazam / Lamotrigina**,\
+    \ rufinamida, topiramato o cannabidiol | Carbamazepina en crisis atónicas o mioclónicas\
+    \ |\n\n: Síndromes epilépticos de referencia y farmacoterapia dirigida {tbl-colwidths=\"\
+    [19,27,20,20,14]\"}\n"
+- archivo_qmd: 08-acv-codigo-ictus.qmd
+  titulo: Enfermedad Cerebrovascular Aguda y Código Ictus
+  subtitulo: Territorios vasculares, penumbra isquémica, trombólisis IV y trombectomía
+    mecánica
+  fuentes_repositorio:
+  - neurologia/acv.html
+  - neurologia/acv-isquemico.jsx
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuentes docentes del módulo:** `neurologia/acv.html`\
+    \ y `neurologia/acv-isquemico.jsx`.\n:::\n\n## Fisiopatología neurovascular: núcleo\
+    \ isquémico y penumbra\n\nEl accidente cerebrovascular (**ACV** o **ictus**) es\
+    \ un déficit neurológico focal agudo secundario a\nuna lesión vascular del sistema\
+    \ nervioso central. El **85 %** de los casos son **isquémicos**\n(oclusión trombótica,\
+    \ cardioembólica o lacunar) y el **15 %** son **hemorrágicos** (hemorragia\nintracerebral\
+    \ parenquimatosa o hemorragia subaracnoidea).\n\nEn la isquemia cerebral aguda,\
+    \ cuando el flujo sanguíneo cerebral cae por debajo de **10–12\nmL/100 g/min**,\
+    \ se agota el ATP, fracasa la bomba $\\text{Na}^+/\\text{K}^+$ ATPasa y se produce\n\
+    excitotoxicidad por glutamato y necrosis irreversible en minutos (**núcleo o *core*\
+    \ isquémico**). Alrededor\ndel núcleo existe la **penumbra isquémica** (flujo\
+    \ entre **15 y 25 mL/100 g/min**): tejido con\nsilencio eléctrico funcional (que\
+    \ explica el déficit clínico en urgencias) pero con integridad\nestructural transitoria\
+    \ mantenida por circulación colateral leptomeníngea. Cada minuto de oclusión de\n\
+    gran vaso sin reperfusión destruye aproximadamente **1,9 millones de neuronas**,\
+    \ fundamento biológico\ndel axioma **«tiempo es cerebro»**.\n\n## Localización\
+    \ topográfica por síndromes arteriales\n\n| Territorio vascular | Estructuras\
+    \ irrigadas | Síndrome clínico característico |\n| :--- | :--- | :--- |\n| **Arteria\
+    \ cerebral media (ACM)** | Convexidad frontal, parietal y temporal lateral; cápsula\
+    \ interna superior | Hemiparesia y hemihipoestesia contralaterales de **predominio\
+    \ faciobraquial**, hemianopsia homónima contralateral, desviación conjugada de\
+    \ la mirada hacia el lado de la lesión; **afasia** (hemisferio dominante) o **heminegligencia**\
+    \ (no dominante) |\n| **Arteria cerebral anterior (ACA)** | Corteza parasagital\
+    \ frontal y parietal medial (lóbulo paracentral), cuerpo calloso anterior | Paresia\
+    \ e hipoestesia contralaterales de **predominio crural (miembro inferior)**, abulia/mutismo\
+    \ acinético, reflejos de prensión y liberación frontal, incontinencia urinaria\
+    \ |\n| **Arteria cerebral posterior (ACP)** | Corteza occipital calcarina, lóbulo\
+    \ temporal inferomedial y tálamo | **Hemianopsia homónima contralateral con respeto\
+    \ macular**; alexia sin agrafia (splenium izquierdo); síndrome talámico de Dejerine-Roussy\
+    \ |\n| **Circulación vertebrobasilar / PICA** | Tronco encefálico y cerebelo |\
+    \ **Síndrome bulbar lateral de Wallenberg (PICA):** vértigo, nistagmo, disfagia,\
+    \ disfonía (IX–X), síndrome de Horner, ataxia e hipoestesia facial **ipsilaterales**\
+    \ + termoanalgesia corporal **contralateral** |\n| **Arterias perforantes (síndromes\
+    \ lacunares)** | Cápsula interna, tálamo, protuberancia basal, corona radiada\
+    \ (lipohialinosis por HTA) | Déficits lacunares clásicos **sin signos corticales**\
+    \ (sin afasia, apraxia, agnosia ni hemianopsia): hemiparesia motora pura, ictus\
+    \ sensitivo puro, hemiparesia-ataxia o disartria-mano torpe |\n\n: Síndromes neurovasculares\
+    \ según el territorio arterial {tbl-colwidths=\"[22,28,50]\"}\n\n## Código Ictus:\
+    \ evaluación clínica, neuroimagen y terapias de reperfusión\n\n1. **Reconocimiento\
+    \ prehospitalario y triaje:** escalas **FAST / BE-FAST** (*Balance, Eyes, Face,\n\
+    \   Arm, Speech, Time*). La hora cero (**última vez visto bien**) define la ventana\
+    \ terapéutica; si el\n   paciente despierta con el déficit (*wake-up stroke*),\
+    \ la hora cero es el momento en que se acostó\n   asintomático.\n2. **Cuantificación\
+    \ del déficit:** escala **NIHSS** (*National Institutes of Health Stroke Scale*,\
+    \ 0 a\n   42 puntos): leve (< 5), moderado (5–15), moderado-grave (16–20) y grave\
+    \ (> 20). Un NIHSS ≥ 6 con\n   signos corticales sugiere fuertemente **oclusión\
+    \ de gran vaso (OGV)**.\n3. **Neuroimagen inmediata (objetivo puerta-imagen ≤\
+    \ 20 min):**\n   - **TC craneal simple:** examen inicial indispensable para **excluir\
+    \ hemorragia** y cuantificar\n     cambios isquémicos tempranos en territorio\
+    \ de la ACM mediante la escala **ASPECTS** (10 puntos\n     normal; resta 1 punto\
+    \ por cada una de las 10 regiones afectadas).\n   - **Angio-TC de troncos supraaórticos\
+    \ e intracraneal:** identifica oclusiones de gran vaso (ACI\n     intracraneal,\
+    \ ACM segmentos M1/M2 proximal, arteria basilar) candidatas a trombectomía.\n\
+    \   - **TC de perfusión o RM difusión/FLAIR (*mismatch*):** selecciona pacientes\
+    \ en ventana extendida\n     (6–24 horas) o de inicio incierto con penumbra salvable.\n\
+    \n::: {.alerta-ficha}\n**Terapias de reperfusión en el ictus isquémico agudo:**\n\
+    \n- **Trombólisis intravenosa (objetivo puerta-aguja ≤ 45–60 min):** ventana estándar\
+    \ de **≤ 4,5 horas**\n  desde el inicio de los síntomas.\n  - **Alteplasa (rt-PA):**\
+    \ **0,9 mg/kg IV** (dosis máxima **90 mg**), administrando el **10 % en bolo\n\
+    \    en 1 minuto** y el **90 % restante en infusión continua durante 60 minutos**.\n\
+    \  - **Tenecteplasa (TNK):** **0,25 mg/kg IV** (máximo **25 mg**) en bolo único.\n\
+    \  - **Control tensional estricto:** la presión arterial debe ser **< 185/110\
+    \ mmHg** antes del bolo y\n    mantenerse **< 180/105 mmHg** durante las primeras\
+    \ 24 horas (con labetalol o nicardipino IV) para\n    prevenir la transformación\
+    \ hemorrágica. No administrar antiagregantes ni anticoagulantes en las\n    primeras\
+    \ 24 horas post-trombólisis hasta contar con TC de control a las 24 h sin sangrado.\n\
+    - **Trombectomía mecánica endovascular:** indicada en **oclusión de gran vaso**\
+    \ de circulación\n  anterior dentro de las primeras **6 horas** (e incluso **6\
+    \ a 24 horas** si existe *mismatch*\n  clínico-radiológico favorable según criterios\
+    \ DAWN / DEFUSE-3). La elegibilidad para trombólisis IV\n  **no debe retrasar**\
+    \ la trombectomía ni viceversa.\n:::\n"
+- archivo_qmd: 09-trastornos-movimiento.qmd
+  titulo: Trastornos del Movimiento Hipo e Hipercinéticos
+  subtitulo: Circuitos de los ganglios basales, parkinsonismos atípicos, temblor,
+    corea y distonías
+  fuentes_repositorio:
+  - neurologia/trastornos-movimiento-1.html
+  - neurologia/trastornos-movimiento-2.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuentes docentes del módulo:** `neurologia/trastornos-movimiento-1.html`\
+    \ y\n`neurologia/trastornos-movimiento-2.html` (complementa la evidencia diagnóstica\
+    \ de `HM:6015` en el\nCapítulo 2).\n:::\n\n## Fisiopatología de los circuitos\
+    \ de los ganglios basales\n\nLos ganglios basales (estriado —caudado y putamen—,\
+    \ globo pálido externo e interno, núcleo\nsubtalámico de Luys y sustancia negra\
+    \ *pars compacta* y *pars reticulata*) modulan la iniciación y\namplitud del movimiento\
+    \ voluntario a través del equilibrio entre dos circuitos tálamo-corticales:\n\n\
+    - **Vía directa (facilitadora del movimiento):** receptores dopaminérgicos **$\\\
+    text{D}_1$**\n  excitatorios en el estriado inhiben al segmento interno del globo\
+    \ pálido ($\\text{GPi}$) y a la\n  sustancia negra *pars reticulata* ($\\text{SNr}$),\
+    \ desinhibiendo el tálamo motor para facilitar la\n  corteza motora.\n- **Vía\
+    \ indirecta (inhibidora del movimiento):** receptores dopaminérgicos **$\\text{D}_2$**\n\
+    \  inhibitorios modulan la vía estriado $\\rightarrow \\text{GPe} \\rightarrow\
+    \ \\text{NST} \\rightarrow\n  \\text{GPi}/\\text{SNr}$, suprimiendo movimientos\
+    \ involuntarios parásitos.\n\nLa degeneración de las neuronas dopaminérgicas pigmentadas\
+    \ de la **sustancia negra *pars compacta***\ncon agregación intraneuronal de **$\\\
+    alpha$-sinucleína (cuerpos de Lewy)** hiperactiva el núcleo\nsubtalámico y el\
+    \ $\\text{GPi}$, frenando excesivamente el tálamo (**síndrome hipocinético /\n\
+    parkinsoniano**). Por el contrario, la pérdida selectiva de neuronas espinosas\
+    \ medianas estriatales\nde la vía indirecta (como en la enfermedad de Huntington)\
+    \ o una lesión vascular del núcleo\nsubtalámico liberan el tálamo y provocan **trastornos\
+    \ hipercinéticos** (corea, hemibalismo).\n\n## Diagnóstico diferencial de los\
+    \ parkinsonismos atípicos («Parkinson-plus»)\n\nAnte todo paciente con bradicinesia,\
+    \ rigidez o temblor, la presencia de caídas precoces, ausencia de\nrespuesta sostenida\
+    \ a la levodopa o disautonomía severa temprana obliga a descartar un parkinsonismo\n\
+    atípico neurodegenerativo:\n\n| Entidad clínica | Proteinopatía | Rasgo semiológico\
+    \ definitorio | Signo en neuroimagen (RM) |\n| :--- | :--- | :--- | :--- |\n|\
+    \ **Enfermedad de Parkinson idiopática** | $\\alpha$-sinucleína | Inicio **asimétrico**,\
+    \ temblor de reposo en «contar monedas» (4–6 Hz), excelente respuesta a levodopa,\
+    \ hiposmia y trastorno de conducta del sueño REM | RM estructural convencional\
+    \ normal |\n| **Parálisis Supranuclear Progresiva (PSP)** | Tauopatía (4R) | **Parálisis\
+    \ de la mirada conjugada vertical** (especialmente hacia abajo), rigidez axial\
+    \ predominante y caídas hacia atrás en el primer año | Atrofia mesencefálica dorsal\
+    \ (**signo del colibrí** o del pingüino rey en corte sagital) |\n| **Atrofia Multisistémica\
+    \ (AMS)** | $\\alpha$-sinucleína (inclusiones gliales) | **Disautonomía severa\
+    \ precoz** (hipotensión ortostática neurogénica, incontinencia/retención urinaria)\
+    \ + parkinsonismo (AMS-P) o ataxia cerebelosa (AMS-C), estridor laríngeo | **Signo\
+    \ de la cruz del bollo caliente (*hot cross bun*)** en protuberancia o ribete\
+    \ putaminal hiperintenso |\n| **Degeneración Corticobasal (DCB)** | Tauopatía\
+    \ (4R) | Parkinsonismo marcadamente asimétrico + **apraxia ideomotora**, distonía\
+    \ rígida, mioclonías corticales y **fenómeno del miembro ajeno (*alien limb*)**\
+    \ | Atrofia frontoparietal parasagital asimétrica contralateral al hemicuerpo\
+    \ afectado |\n| **Demencia con Cuerpos de Lewy (DCL)** | $\\alpha$-sinucleína\
+    \ | Demencia precoz (antes o dentro del 1.er año del parkinsonismo; **regla de\
+    \ 1 año**), **fluctuaciones cognitivas**, **alucinaciones visuales estructuradas**\
+    \ e hipersensibilidad grave a neurolépticos | Preservación relativa del lóbulo\
+    \ temporal medial con hipometabolismo occipital |\n\n: Diferenciación clínica\
+    \ de los síndromes parkinsonianos {tbl-colwidths=\"[21,15,39,25]\"}\n\n## Estrategias\
+    \ terapéuticas en la Enfermedad de Parkinson\n\n- **Levodopa + inhibidor de la\
+    \ DOPA-descarboxilasa periférica (carbidopa o benserazida):** es el\n  tratamiento\
+    \ sintomático **más eficaz** para la bradicinesia y la rigidez. Con la progresión\
+    \ de la\n  pérdida terminal dopaminérgica aparecen complicaciones motoras: deterioro\
+    \ de fin de dosis\n  (*wearing-off*), fenómenos *on-off* y **discinesias inducidas\
+    \ por pico de dosis** (tratables\n  fraccionando las tomas o añadiendo **amantadina**).\n\
+    - **Agonistas dopaminérgicos (pramipexol, ropinirol, rotigotina transdérmica):**\
+    \ útiles en fases\n  iniciales o como terapia adyuvante; exigen vigilar **trastornos\
+    \ del control de impulsos**\n  (ludopatía, hipersexualidad, compras compulsivas),\
+    \ somnolencia diurna súbita y alucinaciones en\n  ancianos.\n- **Inhibidores de\
+    \ la MAO-B (rasagilina, selegilina, safinamida) e inhibidores de la COMT\n  (entacapona,\
+    \ opicapona):** prolongan la biodisponibilidad sináptica de dopamina y reducen\
+    \ el tiempo\n  *off*.\n- **Estimulación Cerebral Profunda (*Deep Brain Stimulation*,\
+    \ ECP/DBS):** dirigida al núcleo\n  subtalámico (NST) o al globo pálido interno\
+    \ ($\\text{GPi}$) en pacientes con fluctuaciones motoras o\n  discinesias refractarias\
+    \ que conservan respuesta a la levodopa y carecen de demencia.\n\n## Semiología\
+    \ diferencial de los trastornos hipercinéticos del movimiento\n\n| Fenómeno hipercinético\
+    \ | Descripción semiológica | Etiologías principales y tratamiento |\n| :--- |\
+    \ :--- | :--- |\n| **Temblor esencial** | Oscilación rítmica **postural y cinética**\
+    \ bilateral (6–12 Hz) en manos, cabeza («sí-sí» o «no-no») y voz; historia familiar\
+    \ autosómica dominante frecuente; mejora transitoriamente con pequeñas dosis de\
+    \ etanol | 1.ª línea: **propranolol** (60–240 mg/día; contraindicado en asma o\
+    \ bloqueo AV) o **primidona** |\n| **Corea y atetosis** | Movimientos involuntarios\
+    \ breves, **irregulares, aleatorios y cambiantes** que fluyen de un segmento corporal\
+    \ a otro (el paciente suele camuflarlos como gestos voluntarios: *paracinesias*)\
+    \ | **Enfermedad de Huntington** (expansión de tripletes CAG $\\ge 36$ en el gen\
+    \ *HTT*, cromosoma 4p: corea + deterioro cognitivo + trastornos psiquiátricos;\
+    \ atrofia de cabezas de núcleos caudados), corea de Sydenham. Sintomático: tetrabenazina\
+    \ / deutetrabenazina |\n| **Hemibalismo** | Movimientos proximales violentos,\
+    \ de gran amplitud («lanzamiento» de una extremidad) | Infarto lacunar o hemorragia\
+    \ del **núcleo subtalámico de Luys contralateral** |\n| **Distonía** | Contracciones\
+    \ musculares sostenidas o intermitentes que causan **movimientos de torsión repetitivos\
+    \ y posturas anómalas**, a menudo aliviadas por un **gesto antagonista (*truco\
+    \ sensitivo*)** | Focales del adulto (blefaroespasmo, tortícolis espasmódica,\
+    \ calambre del escribiente): **toxina botulínica intramuscular**. En toda distonía\
+    \ de inicio juvenil descartar **distonía sensible a dopa (Segawa)** y **enfermedad\
+    \ de Wilson** (ceruloplasmina, cobre urinario, anillo de Kayser-Fleischer) |\n\
+    | **Mioclonías y tics** | **Mioclonías:** sacudidas súbitas, breves («como descarga\
+    \ eléctrica»), positivas o negativas (*asterixis* en encefalopatía hepática o\
+    \ urémica). **Tics:** movimientos o vocalizaciones estereotipadas precedidas de\
+    \ **urgencia premonitoria** y parcialmente suprimibles | Mioclonías corticales/subcorticales:\
+    \ levetiracetam, valproato, clonazepam. **Síndrome de Tourette** (múltiples tics\
+    \ motores + $\\ge 1$ tic fónico por $> 1$ año antes de los 18 años): terapia conductual\
+    \ CBIT, agonistas $\\alpha_2$ o antidopaminérgicos |\n\n: Clasificación clínica\
+    \ de los trastornos hipercinéticos {tbl-colwidths=\"[20,40,40]\"}\n"
+- archivo_qmd: 10-desmielinizantes.qmd
+  titulo: Enfermedades Desmielinizantes del Sistema Nervioso Central
+  subtitulo: Esclerosis múltiple, criterios de McDonald, NMOSD, MOGAD y terapias modificadoras
+  fuentes_repositorio:
+  - neurologia/enfermedades_desmielinizantes.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuente docente del módulo:** `neurologia/enfermedades_desmielinizantes.html`.\n\
+    :::\n\n## Esclerosis Múltiple: inmunopatogenia y síndromes clínicos clásicos\n\
+    \nLa **Esclerosis Múltiple (EM)** es la enfermedad inflamatoria desmielinizante\
+    \ y neurodegenerativa\ncrónica más frecuente del sistema nervioso central en adultos\
+    \ jóvenes (pico entre los 20 y 40 años,\nrelación mujer:hombre de 3:1). Linfocitos\
+    \ T autorreactivos ($\\text{Th1}$ y $\\text{Th17}$) y\nlinfocitos B cruzan la\
+    \ barrera hematoencefálica, destruyen la mielina producida por los\noligodendrocitos\
+    \ y producen **placas de desmielinización perivenular** junto con daño axonal\n\
+    temprano.\n\nUn **brote o recaída clínica** se define como un déficit neurológico\
+    \ focal inflamatorio-desmielinizante\nque dura **al menos 24 horas**, en **ausencia\
+    \ de fiebre o infección intercurrente**. Debe\ndiferenciarse del **fenómeno de\
+    \ Uhthoff** (empeoramiento transitorio de síntomas previos por aumento\nde la\
+    \ temperatura corporal —ejercicio, fiebre o ducha caliente— que bloquea reversiblemente\
+    \ la\nconducción en axones desmielinizados: **pseudobrote**).\n\n| Síndrome clínico\
+    \ inaugural | Topografía lesional | Semiología característica |\n| :--- | :---\
+    \ | :--- |\n| **Neuritis óptica retrobulbar** | Nervio óptico | Pérdida visual\
+    \ monocular subaguda (horas a días), **dolor ocular que empeora con los movimientos\
+    \ del globo**, **discromatopsia** (desaturación del color rojo) y **defecto pupilar\
+    \ aferente relativo (Marcus Gunn)**. Fondo de ojo inicial frecuentemente normal\
+    \ (*«ni el médico ni el paciente ven nada»*) |\n| **Oftalmoplejía internuclear\
+    \ (OIN)** | Fascículo longitudinal medial (FLM) |En la mirada conjugada horizontal\
+    \ lateral: **déficit de aducción del ojo ipsilateral** al FLM lesionado + **nistagmo\
+    \ disociado en el ojo contralateral en abducción**, con convergencia conservada\
+    \ |\n| **Mielitis transversa parcial** | Cordones medulares (frec. cervical) |\
+    \ Hipoestesia o parestesias asimétricas, debilidad piramidal, urgencia miccional\
+    \ y **signo de Lhermitte** (sensación de descarga eléctrica que desciende por\
+    \ el raquis al flexionar el cuello) |\n| **Síndrome troncoencefálico / cerebeloso**\
+    \ | Protuberancia, pedúnculos cerebelosos | Vértigo central, diplopía, neuralgia\
+    \ del trigémino sintomática en joven, ataxia apendicular y temblor intencional\
+    \ |\n\n: Síndromes topográficos clásicos en la Esclerosis Múltiple {tbl-colwidths=\"\
+    [24,22,54]\"}\n\n## Criterios de McDonald: diseminación en el espacio (DIS) y\
+    \ en el tiempo (DIT)\n\nEl diagnóstico de la EM requiere demostrar que las lesiones\
+    \ desmielinizantes se han distribuido en\ndistintas regiones anatómicas y en distintos\
+    \ momentos evolutivos, habiendo descartado diagnósticos\nalternativos:\n\n- **Diseminación\
+    \ en el espacio (DIS):** presencia de $\\ge 1$ lesión hiperintensa en $\\text{T2/FLAIR}$\n\
+    \  en al menos **2 de las 4 topografías típicas** del SNC:\n  1. **Periventricular**\
+    \ (perpendicular al cuerpo calloso: **dedos de Dawson**).\n  2. **Cortical o yuxtacortical**\
+    \ (afectando las fibras en U subcorticales).\n  3. **Infratentorial** (tronco\
+    \ encefálico o cerebelo).\n  4. **Médula espinal** (lesiones focales cortas, habitualmente\
+    \ $< 2$ cuerpos vertebrales y de\n     localización periférica/dorsal).\n- **Diseminación\
+    \ en el tiempo (DIT):** puede establecerse mediante un nuevo brote clínico, la\n\
+    \  aparición de una nueva lesión en T2 en una RM de seguimiento, la **coexistencia\
+    \ simultánea de\n  lesiones que captan gadolinio (agudas) y lesiones no captantes\
+    \ (antiguas)** en una misma RM, o la\n  presencia de **bandas oligoclonales (BOC)\
+    \ de IgG exclusivas del LCR** (que sustituyen el requisito\n  temporal cuando\
+    \ ya se cumple DIS).\n\n## Fenotipos evolutivos y diagnóstico diferencial con\
+    \ NMOSD y MOGAD\n\n- **Síndrome Clínico Aislado (CIS):** primer episodio desmielinizante\
+    \ monofocal o multifocal.\n- **EM Remitente-Recurrente (EMRR, ~85 % al inicio):**\
+    \ brotes bien definidos con recuperación\n  completa o secuelar, sin progresión\
+    \ entre brotes.\n- **EM Secundariamente Progresiva (EMSP):** acumulación progresiva\
+    \ de discapacidad tras una fase\n  inicial remitente-recurrente.\n- **EM Primariamente\
+    \ Progresiva (EMPP, ~10–15 %):** progresión insidiosa desde el inicio\n  (habitualmente\
+    \ como mielopatía progresiva) sin brotes superpuestos.\n\n| Característica diferencial\
+    \ | Esclerosis Múltiple (EM) | Espectro de Neuromielitis Óptica (NMOSD) | Enfermedad\
+    \ asociada a anticuerpos anti-MOG (MOGAD) |\n| :--- | :--- | :--- | :--- |\n|\
+    \ Autoanticuerpo marcador | Ausente (BOC IgG en LCR > 90 %) | **IgG anti-acuaporina-4\
+    \ (anti-AQP4)** (astrocitopatía) | **IgG anti-MOG** (oligodendrocitopatía) |\n\
+    | Neuritis óptica | Unilateral, retrobulbar, corta, buen pronóstico visual | **Bilateral\
+    \ o quiasmática**, extensa, grave, con pobre recuperación visual | Frecuentemente\
+    \ bilateral y **anterior con edema de papila (papilitis)**; muy corticosensible\
+    \ |\n| Mielitis aguda | Parcial, asimétrica, corta (**< 2 segmentos vertebrales**)\
+    \ | **Mielitis transversa longitudinalmente extensa (LETM $\\ge 3$ segmentos vertebrales)**,\
+    \ central y necrotizante | LETM frecuente con afectación predilecta del **cono\
+    \ medular** (disfunción esfinteriana/eréctil) |\n| Síndromes adicionales | OIN,\
+    \ ataxia, Lhermitte | **Síndrome del área postrema** (hipo o vómitos incoercibles),\
+    \ narcolepsia hipotalámica | **ADEM** (encefalomielitis aguda diseminada) en población\
+    \ pediátrica |\n\n: Diagnóstico diferencial entre EM, NMOSD y MOGAD {tbl-colwidths=\"\
+    [20,26,27,27]\"}\n\n## Manejo terapéutico: brote agudo y terapias modificadoras\
+    \ de la enfermedad\n\n1. **Tratamiento del brote agudo discapacitante:** tras\
+    \ descartar infección (especialmente urinaria)\n   que justifique un pseudobrote,\
+    \ se indica **metilprednisolona intravenosa 1 g/día durante 3 a 5\n   días** (acelera\
+    \ la recuperación funcional aunque no modifica el pronóstico a largo plazo). En\n\
+    \   brotes graves corticorrefractarios se emplea **plasmaféresis**.\n2. **Terapias\
+    \ modificadoras de la enfermedad (TME):** reducen la tasa anualizada de brotes,\
+    \ la carga\n   lesional en RM y la progresión de la discapacidad. Incluyen inmunomoduladores\
+    \ de eficacia\n   moderada (interferones $\\beta$, acetato de glatirámero, teriflunomida,\
+    \ fumaratos) y fármacos de\n   **alta eficacia** (anticuerpos monoclonales anti-CD20\
+    \ como **ocrelizumab, ofatumumab y\n   rituximab**; bloqueadores de integrina\
+    \ $\\alpha_4$ como **natalizumab** —que exige estratificar el\n   riesgo de leucoencefalopatía\
+    \ multifocal progresiva por **virus JC**—; moduladores del receptor\n   S1P como\
+    \ fingolimod/siponimod; y reconstituyentes inmunes como cladribina o alemtuzumab).\n"
+- archivo_qmd: 11-neuromusculares.qmd
+  titulo: Enfermedades de la Unión Neuromuscular y Miopatías
+  subtitulo: Miastenia gravis, síndrome de Lambert-Eaton, distrofia de Duchenne y
+    miositis
+  fuentes_repositorio:
+  - neurologia/neuromusculares.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuente docente del módulo:** `neurologia/neuromusculares.html`.\n\
+    :::\n\n## Fisiología y fisiopatología sináptica de la unión neuromuscular\n\n\
+    La transmisión en la placa motora esquelética depende de una secuencia biofísica\
+    \ precisa:\n\n1. **Terminal presináptico:** el potencial de acción axonal despolariza\
+    \ el botón terminal y abre los\n   **canales de calcio dependientes de voltaje\
+    \ ($\\text{VGCC}$ tipo P/Q)**. La entrada de $\\text{Ca}^{2+}$\n   activa el **complejo\
+    \ proteico SNARE** (sinaptobrevina, sintaxina-1 y SNAP-25), fusionando las\n \
+    \  vesículas sinápticas para liberar **acetilcolina (ACh)** por exocitosis hacia\
+    \ la hendidura.\n2. **Membrana postsináptica:** la ACh se une al **receptor nicotínico\
+    \ muscular ($\\text{N}_\\text{M}$\n   o tipo 1)**, un canal iónico **pentamérico**\
+    \ ($\\alpha_2\\beta\\delta\\varepsilon$ en el adulto) que\n   permite la entrada\
+    \ de $\\text{Na}^+$ y genera el potencial de placa motora. La **acetilcolinesterasa\n\
+    \   (AChE)** hidroliza rápidamente la ACh en colina y acetato para terminar la\
+    \ señal.\n\n| Trastorno de la placa motora | Diana molecular y localización |\
+    \ Rasgo semiológico diferencial | Hallazgo electrofisiológico (ENR) |\n| :---\
+    \ | :--- | :--- | :--- |\n| **Miastenia Gravis (MG)** | **Postsináptica:** anticuerpos\
+    \ IgG contra receptores de ACh (**anti-AChR**, ~85 %), **anti-MuSK** (~8 %) o\
+    \ anti-LRP4 | **Debilidad fluctuante y fatigable** que empeora al final del día\
+    \ o con el ejercicio repetido y **mejora con el reposo**; **ptosis y diplopía**\
+    \ iniciales con **pupilas normales**; reflejos conservados | **Decremento > 10\
+    \ %** del potencial de acción muscular compuesto (CMAP) en estimulación repetitiva\
+    \ a baja frecuencia (2–3 Hz) |\n| **Síndrome miasténico de Lambert-Eaton (LEMS)**\
+    \ | **Presináptica:** anticuerpos contra canales de calcio **VGCC** (50–60 % paraneoplásico\
+    \ por **carcinoma microcítico de pulmón**) | Debilidad proximal de miembros inferiores\
+    \ que **mejora transitoriamente tras unos segundos de contracción máxima** (*facilitación\
+    \ post-ejercicio*); **hiporreflexia/arreflexia** y **disautonomía** (sequedad\
+    \ bucal) | CMAP basal de baja amplitud con **incremento > 60–100 %** tras estimulación\
+    \ a alta frecuencia (20–50 Hz) o ejercicio breve |\n| **Botulismo** | **Presináptica:**\
+    \ neurotoxina de *Clostridium botulinum* que escinde irreversiblemente las proteínas\
+    \ del **complejo SNARE** | **Parálisis flácida descendente** simétrica aguda precedida\
+    \ de **midriasis arreactiva**, visión borrosa, diplopía y síndrome bulbar (disfagia,\
+    \ disartria) sin fiebre | CMAP disminuido con facilitación variable a alta frecuencia\
+    \ |\n\n: Diagnóstico diferencial fisiopatológico de los síndromes de la unión\
+    \ neuromuscular {tbl-colwidths=\"[20,27,31,22]\"}\n\n## Diagnóstico y manejo de\
+    \ la Miastenia Gravis y la Crisis Miasténica\n\n- **Pruebas diagnósticas en Miastenia\
+    \ Gravis:**\n  1. **Prueba de la bolsa de hielo en cabecera:** aplicar frío sobre\
+    \ el párpado ptósico durante 2\n     minutos inhibe fisiológicamente la acetilcolinesterasa;\
+    \ una mejoría de la hendidura palpebral\n     $\\ge 2\\text{ mm}$ apoya el diagnóstico.\n\
+    \  2. **Serología específica:** anticuerpos **anti-AChR** (alta especificidad;\
+    \ presentes en el 85 % de\n     la MG generalizada y 50 % de la ocular pura) y\
+    \ **anti-MuSK** (asociados a predominio bulbar y\n     respiratorio).\n  3. **Electrodiagnóstico:**\
+    \ estimulación nerviosa repetitiva (**ENR** con respuesta decremental) y\n   \
+    \  **electromiografía de fibra única (SFEMG)**, que es la **prueba más sensible\
+    \ (> 95 %)** al\n     demostrar aumento del *jitter* (variabilidad interpotencial).\n\
+    \  4. **Imagen torácica obligatoria (TC o RM de mediastino):** todo paciente diagnosticado\
+    \ de MG debe\n     estudiarse para descartar **hiperplasia tímica** (60–70 %)\
+    \ o **timoma** (10–15 %).\n- **Estrategia terapéutica escalonada:**\n  - *Sintomático:*\
+    \ **piridostigmina** (inhibidor reversible de la AChE; menos eficaz en formas\n\
+    \    anti-MuSK).\n  - *Inmunosupresión crónica:* corticosteroides (prednisona\
+    \ con titulación gradual para evitar el\n    empeoramiento inicial transitorio)\
+    \ y ahorradores de esteroides (**azatioprina**, micofenolato\n    mofetilo, tacrolimus\
+    \ o rituximab en anti-MuSK).\n  - *Quirúrgico:* **timectomía** en todo paciente\
+    \ con timoma y en MG generalizada anti-AChR positiva\n    de inicio antes de los\
+    \ 50–65 años.\n  - ***Crisis miasténica* (emergencia vital):** insuficiencia respiratoria\
+    \ por debilidad diafragmática\n    y bulbar (vigilar capacidad vital forzada $<\
+    \ 15\\text{–}20\\text{ mL/kg}$ o presión inspiratoria\n    máxima $< -30\\text{\
+    \ cmH}_2\\text{O}$). Requiere ingreso en UCI, soporte ventilatorio, suspensión\n\
+    \    temporal de anticolinesterásicos en intubados (para reducir secreciones bronquiales)\
+    \ e inicio de\n    terapia inmunomoduladora rápida con **inmunoglobulina intravenosa\
+    \ (IVIg)** o **plasmaféresis**,\n    evitando fármacos que bloquean la placa motora\
+    \ (**aminoglucósidos, fluoroquinolonas, macrólidos,\n    sulfato de magnesio IV\
+    \ y betabloqueantes**).\n\n## Distrofias musculares y miopatías inflamatorias\
+    \ idiopáticas\n\n| Característica clínica | Distrofia Muscular de Duchenne (DMD)\
+    \ | Dermatomiositis (DM) | Polimiositis (PM) / Miopatía Necrotizante (MNIM) |\n\
+    | :--- | :--- | :--- | :--- |\n| Etiología y genética | Recesiva ligada al cromosoma\
+    \ X (gen *DMD*, Xp21): **ausencia de distrofina** funcional (en la forma de **Becker**\
+    \ hay distrofina truncada/reducida y curso más benigno) | Microangiopatía autoinmune\
+    \ mediada por complemento con **atrofia perifascicular** | Infiltrado endomisial\
+    \ de linfocitos $\\text{T CD8}^+$ (PM) o necrosis miofibrilar mediada por anti-SRP\
+    \ / anti-HMGCR asociada a estatinas (MNIM) |\n| Edad y clínica motora | Niños\
+    \ varones de **2 a 5 años**: retraso motor, debilidad pélvica proximal, **signo\
+    \ de Gowers** («trepa sobre sí mismo» para levantarse del suelo), **pseudohipertrofia\
+    \ de pantorrillas** y miocardiopatía dilatada | Niños y adultos: debilidad muscular\
+    \ **proximal y simétrica** (cinturas escapular y pélvica, flexores del cuello)\
+    \ + lesiones cutáneas patognomónicas | Adultos: debilidad proximal subaguda simétrica\
+    \ sin lesiones cutáneas; puede asociar disfagia |\n| Signos extramusculares y\
+    \ cribado | Escoliosis, insuficiencia respiratoria restrictiva y trastorno de\
+    \ conducción cardíaco | **Pápulas de Gottron** sobre nudillos, **eritema en heliotropo**\
+    \ periorbitario, signo del chal. **Obligatorio cribado de neoplasia oculta** en\
+    \ adultos (ovario, pulmón, mama, colon) y enfermedad pulmonar intersticial (síndrome\
+    \ antisintetasa **anti-Jo-1**) | Enfermedad pulmonar intersticial, fenómeno de\
+    \ Raynaud, artritis no erosiva y miocarditis |\n| Marcadores diagnósticos | **Creatina\
+    \ quinasa (CK) masivamente elevada (> 10–100×)**, estudio genético molecular del\
+    \ gen *DMD* | CK elevada, autoanticuerpos específicos (anti-Mi-2, anti-MDA5, anti-TIF1$\\\
+    gamma$, anti-Jo-1), EMG miopático y biopsia muscular | CK muy elevada (especialmente\
+    \ en MNIM), EMG con potenciales de unidad motora breves y polifásicos, biopsia\
+    \ muscular |\n\n: Comparación entre distrofia muscular de Duchenne y miopatías\
+    \ inflamatorias {tbl-colwidths=\"[19,27,28,26]\"}\n"
+- archivo_qmd: 12-neuropatias.qmd
+  titulo: Neuropatías Periféricas y Síndrome de Guillain-Barré
+  subtitulo: Axonopatía frente a desmielinización, polineuropatía diabética, vasculitis
+    y SGB
+  fuentes_repositorio:
+  - neurologia/neuropatias.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuente docente del módulo:** `neurologia/neuropatias.html`.\n\
+    :::\n\n## Arquitectura del nervio periférico y patrones fisiopatológicos\n\nLos\
+    \ nervios periféricos están integrados por axones motores, sensitivos y autonómicos\
+    \ recubiertos\npor células de Schwann. El daño al sistema nervioso periférico\
+    \ responde a dos mecanismos\nfisiopatológicos y electrodiagnósticos principales:\n\
+    \n| Parámetro clínico y electrodiagnóstico | Axonopatía distal (dependiente de\
+    \ longitud) | Neuropatía desmielinizante segmentaria |\n| :--- | :--- | :--- |\n\
+    | Diana lesional primaria | Axón (transporte axonal y metabolismo energético)\
+    \ | Vaina de mielina y nodos de Ranvier (célula de Schwann) |\n| Etiologías prototípicas\
+    \ | **Polineuropatía diabética (PND)**, tóxicos/fármacos (alcohol, quimioterapia\
+    \ con platinos/vincristina, isoniazida), uremia, déficit de vitamina $\\text{B}_{12}$\
+    \ | **Síndrome de Guillain-Barré (AIDP)**, polirradiculoneuropatía desmielinizante\
+    \ inflamatoria crónica (**CIDP**), Charcot-Marie-Tooth tipo 1 |\n| Distribución\
+    \ clínica | Simétrica, distal, de inicio en dedos de los pies y ascenso lento\
+    \ hasta rodillas y manos (**patrón en «guante y calcetín»**) | Debilidad tanto\
+    \ **proximal como distal**, con **arreflexia precoz y generalizada** |\n| Estudios\
+    \ de conducción nerviosa (EDX) | **Reducción de la amplitud** de los potenciales\
+    \ sensitivos (SNAP) y motores (CMAP), con velocidades de conducción normales o\
+    \ levemente reducidas | **Enlentecimiento marcado de la velocidad de conducción**,\
+    \ prolongación de latencias distales y ondas F, dispersión temporal y **bloqueos\
+    \ de conducción** |\n\n: Diferenciación entre patrón axonal y patrón desmielinizante\
+    \ {tbl-colwidths=\"[24,38,38]\"}\n\n::: {.alerta-ficha}\n**Mononeuropatía múltiple\
+    \ (asimétrica y escalonada): bandera roja de vasculitis.**\nCuando un paciente\
+    \ presenta compromiso secuencial y asimétrico de dos o más troncos nerviosos no\n\
+    contiguos (por ejemplo, caída del pie derecho por lesión del nervio peroneo común\
+    \ seguida días\ndespués de mano caída izquierda por nervio radial o lesión del\
+    \ nervio cubital), el mecanismo\nfisiopatológico habitual es el **infarto isquémico\
+    \ de los *vasa nervorum*** secundario a **vasculitis\nsistémica o no sistémica**\
+    \ (poliarteritis nodosa, granulomatosis eosinofílica con poliangeítis,\nvasculitis\
+    \ reumatoide, crioglobulinemia), diabetes o lepra.\n:::\n\n## Modelo crónico:\
+    \ Polineuropatía Diabética Simétrica Distal (PND)\n\nLa diabetes mellitus es la\
+    \ primera causa de polineuropatía en el mundo y en Latinoamérica. La\nhiperglucemia\
+    \ crónica activa la vía de los polioles (acumulación de sorbitol), genera productos\
+    \ de\nglicación avanzada (AGE), estrés oxidativo e insuficiencia microvascular\
+    \ endoneural.\n\n- **Clínica por tipo de fibra y tamizaje anual:** hasta el **50\
+    \ % de los pacientes con PND son\n  asintomáticos** en fases iniciales, con riesgo\
+    \ silencioso de úlcera plantar y amputación.\n  - *Fibras pequeñas (A$\\delta$\
+    \ y C amielínicas):* dolor urente o lancinante nocturno, alodinia,\n    hiperalgesia,\
+    \ pérdida termoalgésica y disfunción autonómica (anhidrosis distal, hipotensión\n\
+    \    ortostática, gastroparesia).\n  - *Fibras grandes mielinizadas (A$\\alpha$\
+    \ y A$\\beta$):* hipopalestesia (evaluada con **diapasón de\n    128 Hz** en el\
+    \ primer metatarsiano), pérdida de sensibilidad protectora (evaluada con\n   \
+    \ **monofilamento de Semmes-Weinstein de 10 g**), ataxia sensitiva y **abolición\
+    \ precoz del reflejo\n    aquíleo**.\n- **Farmacoterapia del dolor neuropático\
+    \ (*«Start low, go slow»*):** el control glucémico estricto es\n  el único pilar\
+    \ que frena la progresión axonal. Para el dolor neuropático se emplean moduladores\
+    \ de\n  primera línea titulados gradualmente:\n  1. **Antidepresivos tricíclicos:**\
+    \ **amitriptilina** (10–25 mg nocturnos, vigilando efectos\n     anticolinérgicos,\
+    \ sedación y conducción cardíaca en mayores de 65 años).\n  2. **Inhibidores duales\
+    \ de la recaptación de serotonina y noradrenalina (IRSN):** **duloxetina**\n \
+    \    (30–60 mg/día) o venlafaxina.\n  3. **Ligandos de la subunidad $\\alpha_2\\\
+    delta$ de canales de calcio:** **gabapentina** o\n     **pregabalina** (ajustados\
+    \ a la función renal).\n\n## Modelo agudo: Síndrome de Guillain-Barré (SGB)\n\n\
+    El **Síndrome de Guillain-Barré** es una polirradiculoneuropatía aguda inmunomediada\
+    \ y la causa más\nfrecuente de parálisis flácida aguda generalizada. En dos tercios\
+    \ de los casos existe el antecedente\nde una infección respiratoria o gastrointestinal\
+    \ **1 a 4 semanas antes** (principalmente\n***Campylobacter jejuni*** —asociado\
+    \ a mimetismo molecular por anticuerpos antigangliósido anti-GM1 y\nvariantes\
+    \ axonales AMAN—, citomegalovirus, virus de Epstein-Barr, *Mycoplasma pneumoniae*\
+    \ o virus del\nZika).\n\n- **Criterios diagnósticos (Asbury / Brighton):**\n \
+    \ - *Requeridos:* **debilidad progresiva en más de una extremidad** (habitualmente\
+    \ simétrica y\n    ascendente, alcanzando su nadir en $\\le 4$ semanas) e **hiporreflexia\
+    \ o arreflexia osteotendinosa**.\n  - *De apoyo:* **disociación albúmino-citológica\
+    \ en el líquido cefalorraquídeo** (hiperproteinorraquia\n    con recuento leucocitario\
+    \ normal $< 10\\text{ células/}\\mu\\text{L}$; puede ser normal en la\n    primera\
+    \ semana hasta en el 30–50 % de los casos) y hallazgos electrodiagnósticos compatibles.\n\
+    \  - *Variante de Miller Fisher (anticuerpos anti-GQ1b):* tríada de **oftalmoplejía\
+    \ externa, ataxia y\n    arreflexia**.\n- **Vigilancia crítica y tratamiento inmunomodulador:**\n\
+    \  - *Dos complicaciones letales:* **insuficiencia respiratoria neuromuscular**\
+    \ (ocurre hasta en el\n    25–30 % de los pacientes; monitorizar seriadamente\
+    \ la **capacidad vital forzada $< 20\\text{ mL/kg}$**,\n    la regla 20/30/40\
+    \ de Lawn o el conteo en una sola inspiración) y **disautonomía grave**\n    (arritmias,\
+    \ bradicardia extrema, hipertensión/hipotensión lábil e íleo).\n  - *Inmunoterapia\
+    \ específica (eficacia equivalente):* **inmunoglobulina intravenosa (IVIg)** a\
+    \ dosis\n    total de $2\\text{ g/kg}$ repartida en 5 días ($0,4\\text{ g/kg/día}$)\
+    \ o **plasmaféresis** (4–5\n    recambios plasmáticos).\n  - **Regla negativa\
+    \ crítica:** **los corticosteroides orales o intravenosos NO son eficaces en el\n\
+    \    Síndrome de Guillain-Barré y están contraindicados**.\n"
+- archivo_qmd: 13-demencias.qmd
+  titulo: Demencias y Trastornos Neurocognitivos
+  subtitulo: Causas reversibles, enfermedad de Alzheimer, demencia vascular, cuerpos
+    de Lewy y DFT
+  fuentes_repositorio:
+  - neurologia/demencias.html
+  cuerpo_qmd: "\\\n::: {.enlace-ficha}\n**Fuente docente del módulo:** `neurologia/demencias.html`.\n\
+    :::\n\n## Criterios de trastorno neurocognitivo mayor y causas potencialmente\
+    \ reversibles\n\nEl **trastorno neurocognitivo mayor (demencia)** se define por\
+    \ el declive adquirido y sostenido en\nuno o más dominios cognitivos (memoria\
+    \ y aprendizaje, atención compleja, función ejecutiva, lenguaje,\nhabilidades\
+    \ perceptuales-motoras o cognición social) que **interfiere con la autonomía del\
+    \ paciente en\nlas actividades instrumentales o básicas de la vida diaria**, y\
+    \ que no ocurre exclusivamente en el\ncontexto de un **síndrome confusional agudo\
+    \ (*delirium*)** ni se explica mejor por un trastorno\ndepresivo mayor (*pseudodemencia\
+    \ depresiva*). En el **deterioro cognitivo leve (trastorno\nneurocognitivo menor)**\
+    \ existe queja y déficit objetivo en los test, pero se preserva la\nindependencia\
+    \ funcional cotidiana.\n\nAntes de atribuir un deterioro cognitivo a una causa\
+    \ neurodegenerativa primaria, todo protocolo\ndiagnóstico debe excluir sistemáticamente\
+    \ causas tratables o reversibles:\n\n- **Metabólicas, endocrinas y carenciales:**\
+    \ **déficit de vitamina $\\text{B}_{12}$** (cianocobalamina),\n  **hipotiroidismo**,\
+    \ insuficiencia hepática o renal crónica, hipercalcemia e hiponatremia crónica.\n\
+    - **Estructurales y neuroquirúrgicas:** **hidrocefalia normotensiva del adulto\
+    \ (síndrome de\n  Hakim-Adams)** —caracterizada por la tríada clásica de **trastorno\
+    \ de la marcha magnética o\n  apráxica** (el signo más precoz y que mejor responde\
+    \ a la derivación ventriculoperitoneal),\n  **incontinencia urinaria** y **deterioro\
+    \ cognitivo subcortical** con ventriculomegalia\n  desproporcionada (índice de\
+    \ Evans $> 0,3$)—, **hematoma subdural crónico** y tumores frontales.\n- **Infecciosas,\
+    \ autoinmunes y farmacológicas:** neurosífilis, VIH, encefalitis autoinmunes límbicas\n\
+    \  y carga farmacológica **anticolinérgica o benzodiacepínica** en el adulto mayor.\n\
+    \n## Diagnóstico diferencial de las principales demencias neurodegenerativas y\
+    \ vasculares\n\n| Síndrome demencial | Neuropatología y biomarcadores | Perfil\
+    \ clínico y neuropsicológico inicial | Neuroimagen característica |\n| :--- |\
+    \ :--- | :--- | :--- |\n| **Enfermedad de Alzheimer (EA)** (60–70 % de los casos)\
+    \ | Placas extracelulares de **péptido $\\beta$-amiloide ($\\text{A}\\beta_{42}$)**\
+    \ y ovillos neurofibrilares intracelulares de **proteína tau hiperfosforilada**\
+    \ | **Síndrome amnésico hipocampal insidioso:** fallo en la consolidación de memoria\
+    \ episódica reciente que **no mejora con pistas semánticas**, seguido de disfunción\
+    \ ejecutiva, afasia anómica, apraxia y agnosia | **Atrofia precoz del lóbulo temporal\
+    \ medial (hipocampo y corteza entorrinal)** y parietal posterior |\n| **Demencia\
+    \ Vascular (DVa)** | Infartos estratégicos (tálamo, giro angular), multiinfarto\
+    \ cortical o enfermedad de pequeño vaso subcortical (Binswanger) | Deterioro **escalonado**\
+    \ o en relación temporal con eventos cerebrovasculares, prominente **enlentecimiento\
+    \ ejecutivo-atencional subcortical**, alteración precoz de la marcha, signos piramidales\
+    \ focales y labilidad emocional | Infartos territoriales o lacunares múltiples\
+    \ y **leucoaraiosis** confluente periventricular en $\\text{T2/FLAIR}$ |\n| **Demencia\
+    \ con Cuerpos de Lewy (DCL)** | Agregados corticales y troncoencefálicos de **$\\\
+    alpha$-sinucleína** | **Fluctuaciones marcadas** de la atención y vigilia, **alucinaciones\
+    \ visuales recurrentes bien formadas**, **trastorno de conducta del sueño REM**\
+    \ y **parkinsonismo espontáneo** (regla de $\\le 1$ año respecto a la demencia).\
+    \ **Alerta grave:** sensibilidad extrema a neurolépticos | Preservación relativa\
+    \ del hipocampo; hipometabolismo occipital e hipocaptación estriatal en DaTSCAN\
+    \ |\n| **Demencia Frontotemporal (DFT)** (variante conductual y PPA) | Proteinopatía\
+    \ por **tau, TDP-43 o FUS** (inicio frecuente entre 45 y 65 años) | **Variante\
+    \ conductual:** desinhibición social precoz, pérdida de empatía, apatía/abulia,\
+    \ conductas estereotipadas o compulsivas e hiperoralidad, con **memoria episódica\
+    \ y orientación espacial inicialmente conservadas**. **Afasias primarias progresivas\
+    \ (APP):** no fluente/agramatical, semántica o logopénica | **Atrofia selectiva\
+    \ frontal y/o temporal anterior** («en filo de cuchillo») |\n\n: Perfiles anatomoclínicos\
+    \ de las principales demencias {tbl-colwidths=\"[20,24,34,22]\"}\n\n## Evaluación\
+    \ cognitiva de cabecera y manejo integral\n\n- **Instrumentos de cribado:** el\
+    \ *Mini-Mental State Examination* (**MMSE**, 30 puntos: orientación,\n  fijación,\
+    \ atención/cálculo, recuerdo diferido y lenguaje/praxia constructiva) es útil\
+    \ para el\n  seguimiento evolutivo, mientras que el *Montreal Cognitive Assessment*\
+    \ (**MoCA**, 30 puntos) y el\n  **test del reloj** presentan mayor sensibilidad\
+    \ para detectar **deterioro cognitivo leve** y\n  disfunción ejecutiva fronto-subcortical\
+    \ o visuoespacial.\n- **Tratamiento farmacológico y no farmacológico:**\n  - *Enfermedad\
+    \ de Alzheimer y DCL:* **inhibidores de la acetilcolinesterasa** (**donepezilo,\n\
+    \    rivastigmina, galantamina**) en fases leves a moderadas (vigilando bradicardia\
+    \ o bloqueo sinoauricular/AV)\n    y **memantina** (antagonista no competitivo\
+    \ del receptor NMDA de glutamato) en fases moderadas a\n    graves. En la DFT\
+    \ los anticolinesterásicos carecen de eficacia y pueden empeorar la agitación.\n\
+    \  - *Medidas no farmacológicas:* rehabilitación y estimulación cognitiva, ejercicio\
+    \ aeróbico,\n    corrección de hipoacusia y déficit visual, control estricto de\
+    \ factores de riesgo vascular,\n    desprescripción de anticolinérgicos y apoyo\
+    \ estructurado al cuidador.\n"
+autoevaluacion:
+- numero: 1
+  dominio: Semiología y localización medular
+  fuente: neurologia-autoevaluacion.html
+  enunciado: Un hombre de 28 años sufre una herida penetrante dorsal a nivel de T8.
+    En la exploración presenta parálisis espástica y pérdida de la sensibilidad vibratoria
+    y posicional en el miembro inferior derecho, junto con pérdida de la sensibilidad
+    al dolor y la temperatura en el miembro inferior izquierdo por debajo de T10.
+    ¿Cuál es el síndrome topográfico que explica estos hallazgos?
+  opciones:
+  - Síndrome medular central (siringomiélico)
+  - Síndrome de hemisección medular de Brown-Séquard derecho
+  - Síndrome de arteria espinal anterior
+  - Síndrome de cono medular
+  indice_correcto: 1
+  justificacion: El síndrome de Brown-Séquard (hemisección medular) produce parálisis
+    piramidal (vía corticoespinal lateral ya decusada en el bulbo) y anestesia propioceptiva/vibratoria
+    (cordón posterior ascendente ipsilateral) del mismo lado de la lesión, con pérdida
+    termoalgésica contralateral (el haz espinotalámico anterolateral decusa en la
+    comisura blanca anterior 1–2 segmentos por encima de su entrada).
+- numero: 2
+  dominio: Meningitis aguda y evidencia diagnóstica (HM:6004)
+  fuente: casos/HM6004.yaml · posts/HM6004-meningitis-aguda-jolt-accentuation.md
+  enunciado: Una estudiante de 22 años consulta por fiebre de 38,9 °C y cefalea holocraneana
+    de 18 horas. Los signos clásicos de Kernig y Brudzinski son negativos (sensibilidad
+    en adultos del 5 % al 30 %). ¿Por qué este hallazgo NO permite descartar meningitis
+    aguda en urgencias?
+  opciones:
+  - Porque Kernig y Brudzinski tienen especificidad nula (< 10 %)
+  - Porque sus cocientes de verosimilitud negativos (LR− ≈ 0,95–0,97) apenas modifican
+    la probabilidad preprueba cuando están ausentes
+  - Porque solo son positivos en meningitis virales benignas
+  - Porque requieren hipertensión intracraneal con herniación uncal para aparecer
+  indice_correcto: 1
+  justificacion: 'Según el estudio prospectivo de Thomas et al. (Clin Infect Dis 2002)
+    compilado en medsemiotics-db (HM:6004), los signos de Kernig y Brudzinski tienen
+    sensibilidad del 5 % (especificidad 95 %), lo que arroja un LR− de 0,95–0,97:
+    su ausencia deja prácticamente intacta la probabilidad de meningitis y jamás justifica
+    omitir la punción lumbar.'
+- numero: 3
+  dominio: Cefaleas y banderas rojas SNOOP10
+  fuente: neurologia/cefaleas/cefaleas-autoevaluacion.html
+  enunciado: Una mujer de 48 años acude a urgencias por una cefalea que alcanzó su
+    máxima intensidad (10/10) en menos de 30 segundos mientras levantaba peso, acompañada
+    de náuseas y fotofobia. La exploración neurológica focal es normal. ¿Cuál es la
+    conducta diagnóstica inmediata obligatoria?
+  opciones:
+  - Administrar sumatriptán subcutáneo y dar el alta si cede el dolor
+  - Solicitar RM cerebral ambulatoria diferida
+  - Realizar TC craneal simple urgente (y punción lumbar buscando xantocromía si la
+    TC es negativa)
+  - Iniciar profilaxis con verapamilo oral
+  indice_correcto: 2
+  justificacion: Toda cefalea en trueno (thunderclap headache, bandera roja 'O' de
+    SNOOP10) exige descartar de inmediato una hemorragia subaracnoidea por rotura
+    aneurismática mediante TC craneal sin contraste urgente; si la TC es negativa
+    pero la sospecha persiste o han transcurrido > 6 horas, la punción lumbar es obligatoria.
+- numero: 4
+  dominio: Estado epiléptico y farmacología de síndromes
+  fuente: neurologia/epilepsia-ii/epilepsia-2-autoevaluacion.html
+  enunciado: Un hombre de 40 años es traído a emergencias con una crisis tónico-clónica
+    generalizada que ha durado 10 minutos (superando el umbral operacional T1 de 5
+    minutos). Tras asegurar vía aérea, oxigenación, glucemia capilar normal y canalizar
+    una vía IV, ¿cuál es el tratamiento farmacológico de primera línea?
+  opciones:
+  - Dosis de carga de fenitoína IV a 20 mg/kg
+  - Infusión continua de propofol con intubación endotraqueal inmediata
+  - Administración de una benzodiacepina intravenosa (lorazepam 0,1 mg/kg, máx. 4
+    mg)
+  - Administración de carbamazepina por sonda nasogástrica
+  indice_correcto: 2
+  justificacion: En la Fase 2 (5–20 min) del estado epiléptico convulsivo establecido,
+    las benzodiacepinas intravenosas (lorazepam IV de elección por su menor volumen
+    de redistribución, o diazepam IV; midazolam IM 10 mg si no hay vía IV) son el
+    tratamiento de primera elección con evidencia de clase I.
+- numero: 5
+  dominio: Síndromes epilépticos e iatrogenia farmacológica
+  fuente: neurologia/epilepsia-ii/epilepsia-2-autoevaluacion.html
+  enunciado: Una joven de 19 años consulta por sacudidas bruscas e involuntarias de
+    ambos brazos al despertar (que le hacen derramar la taza de café tras noches de
+    poco sueño) y ha sufrido una crisis tónico-clónica generalizada. El EEG muestra
+    complejos polipunta-onda generalizados a 4–6 Hz. ¿Qué fármaco está CONTRAINDICADO
+    por riesgo de agravar sus crisis mioclónicas?
+  opciones:
+  - Levetiracetam
+  - Carbamazepina
+  - Ácido valproico
+  - Lamotrigina
+  indice_correcto: 1
+  justificacion: El cuadro corresponde a una epilepsia mioclónica juvenil (síndrome
+    de Janz). Los bloqueadores de canales de sodio de espectro estrecho como la carbamazepina,
+    la fenitoína y la oxcarbazepina pueden exacerbar paradójicamente las mioclonías
+    y las ausencias, e incluso precipitar un estado epiléptico mioclónico.
+- numero: 6
+  dominio: Código Ictus y reperfusión aguda
+  fuente: neurologia/acv.html · neurologia/acv-isquemico.jsx
+  enunciado: 'Un paciente de 68 años llega a urgencias a los 90 minutos del inicio
+    súbito de afasia global, desviación oculocefálica a la izquierda y hemiparesia
+    derecha faciobraquial (NIHSS 16). La TC craneal simple descarta hemorragia (ASPECTS
+    9) y la angio-TC demuestra oclusión del segmento M1 de la arteria cerebral media
+    izquierda. PA: 162/94 mmHg. ¿Cuál es la decisión terapéutica óptima?'
+  opciones:
+  - Administrar aspirina 300 mg + clopidogrel 300 mg de inmediato y observar en planta
+  - Iniciar trombólisis intravenosa (alteplasa 0,9 mg/kg o tenecteplasa) y activar
+    simultáneamente trombectomía mecánica endovascular sin esperar a que termine la
+    infusión
+  - Reducir la presión arterial a 110/70 mmHg con nitroprusiato antes de cualquier
+    terapia
+  - Diferir la trombólisis y realizar solo trombectomía a las 12 horas
+  indice_correcto: 1
+  justificacion: 'Ante un ictus isquémico agudo en ventana < 4,5 h con oclusión de
+    gran vaso (ACM M1) y PA < 185/110 mmHg, el estándar de cuidado es la terapia puente:
+    iniciar de inmediato la trombólisis IV y trasladar sin demora a la sala de hemodinamia
+    para trombectomía mecánica.'
+- numero: 7
+  dominio: Enfermedad de Parkinson y criterios MDS (HM:6015)
+  fuente: posts/HM6015-enfermedad-parkinson-criterios-mds.md · neurologia/trastornos-movimiento-1.html
+  enunciado: Según los criterios diagnósticos de la Movement Disorder Society (MDS)
+    y la evidencia de medsemiotics-db (HM:6015), ¿cuál es la condición cardinal indispensable
+    para diagnosticar un síndrome parkinsoniano y cuál hallazgo tiene el mayor cociente
+    de verosimilitud positivo para enfermedad de Parkinson clínicamente establecida?
+  opciones:
+  - Inestabilidad postural precoz; parálisis de la mirada vertical hacia abajo
+  - Bradicinesia (con decremento de amplitud o velocidad) acompañada de rigidez y/o
+    temblor de reposo; cumplimiento de criterios de EP clínicamente establecida (LR+
+    24,5, especificidad 98,5 %)
+  - Temblor de acción simétrico bilateral que mejora con propranolol
+  - Ataxia cerebelosa con hipotensión ortostática severa en el primer año
+  indice_correcto: 1
+  justificacion: La bradicinesia es el requisito sine qua non del parkinsonismo (acompañada
+    de rigidez en rueda dentada o temblor de reposo de 4–6 Hz). Los criterios MDS
+    para enfermedad de Parkinson clínicamente establecida alcanzan una especificidad
+    del 98,5 % y un LR+ de 24,5 (Postuma et al., Neurology 2018; HM:6015).
+- numero: 8
+  dominio: Enfermedades desmielinizantes del SNC
+  fuente: neurologia/enfermedades_desmielinizantes.html
+  enunciado: Una mujer de 26 años con antecedente de neuritis óptica derecha hace
+    un año consulta en verano porque, tras correr 30 minutos bajo el sol, reaparece
+    visión borrosa en el ojo derecho que se resuelve por completo tras descansar una
+    hora en un ambiente fresco. ¿Cómo se interpreta este fenómeno y cuál es la conducta?
+  opciones:
+  - Nuevo brote de esclerosis múltiple; indicar 5 g de metilprednisolona IV urgente
+  - Fenómeno de Uhthoff (pseudobrote por bloqueo reversible de la conducción axonal
+    dependiente de temperatura); explicar la benignidad, medidas físicas de enfriamiento
+    y NO administrar megadosis de corticoides
+  - Neuromielitis óptica anti-AQP4; iniciar plasmaféresis de urgencia
+  - Trombosis de la arteria central de la retina
+  indice_correcto: 1
+  justificacion: El fenómeno de Uhthoff es el empeoramiento transitorio (< 24 h) de
+    síntomas neurológicos preexistentes desencadenado por el aumento de la temperatura
+    corporal (ejercicio, fiebre o calor ambiental). Representa un bloqueo fisiológico
+    reversible de la conducción en axones previamente desmielinizados (pseudobrote)
+    y no requiere corticoterapia intravenosa.
+- numero: 9
+  dominio: Unión neuromuscular y miopatías
+  fuente: neurologia/neuromusculares.html
+  enunciado: Un estudiante universitario de 21 años refiere diplopía y caída palpebral
+    bilateral asimétrica que aparecen por las tardes al leer y desaparecen tras dormir.
+    Las pupilas son isocóricas y normorreactivas. ¿Qué combinación de hallazgos confirma
+    el diagnóstico más probable?
+  opciones:
+  - Anticuerpos anti-AChR positivos, decremento > 10 % en la estimulación nerviosa
+    repetitiva a 3 Hz y mejoría con la prueba del hielo (miastenia gravis)
+  - Anticuerpos anti-VGCC positivos e incremento > 100 % a 50 Hz (Lambert-Eaton)
+  - Ausencia de distrofina en biopsia muscular y signo de Gowers (Duchenne)
+  - Pápulas de Gottron y anticuerpos anti-Jo-1 (dermatomiositis)
+  indice_correcto: 0
+  justificacion: La debilidad ocular fluctuante y fatigable con respeto pupilar que
+    mejora con el reposo es característica de la miastenia gravis. Se confirma mediante
+    anticuerpos anti-AChR (o anti-MuSK), respuesta decremental en la estimulación
+    nerviosa repetitiva a baja frecuencia y EMG de fibra única (aumento del jitter),
+    acompañados de TC torácica para descartar timoma.
+- numero: 10
+  dominio: Neuropatías periféricas y urgencias neuromusculares
+  fuente: neurologia/neuropatias.html
+  enunciado: Un paciente de 32 años consulta por debilidad simétrica de miembros inferiores
+    de 4 días de evolución que hoy compromete los miembros superiores, dos semanas
+    después de una gastroenteritis aguda. Al examen presenta arreflexia generalizada.
+    El LCR muestra proteínas de 110 mg/dL con 2 leucocitos/µL. ¿Cuál de las siguientes
+    conductas es CORRECTA?
+  opciones:
+  - Administrar pulsos de metilprednisolona IV como monoterapia de elección
+  - Dar de alta con amitriptilina oral y control en consulta externa en un mes
+  - Hospitalizar con monitorización seriada de capacidad vital forzada (CVF) y función
+    autonómica, e iniciar inmunoglobulina IV (2 g/kg en 5 días) o plasmaféresis, evitando
+    los corticosteroides
+  - Solicitar biopsia de nervio sural de urgencia antes de iniciar tratamiento
+  indice_correcto: 2
+  justificacion: La parálisis flácida aguda ascendente con arreflexia y disociación
+    albúmino-citológica define al síndrome de Guillain-Barré. Exige vigilancia respiratoria
+    estricta (CVF < 20 mL/kg indica intubación electiva) y tratamiento con inmunoglobulina
+    IV o plasmaféresis. Los corticosteroides no son eficaces y no deben emplearse.
+- numero: 11
+  dominio: Traumatismo craneoencefálico y reglas PECARN / Canadian CT (HM:6023, HM:6038)
+  fuente: posts/HM6023-conmocion-cerebral-pediatrica.md · posts/HM6038-lesion-intracraneal-en-traumatismo-craneal-leve.md
+  enunciado: Un adulto de 67 años sufre una caída desde su propia altura con golpe
+    occipital, un episodio de vómito e ingresa con Escala de Coma de Glasgow de 15/15
+    sin focalidad neurológica. A la luz de la Canadian CT Head Rule compilada en medsemiotics-db
+    (HM:6038), ¿cuál es el valor diagnóstico de esta regla?
+  opciones:
+  - Tiene baja sensibilidad (50 %), por lo que solo sirve para confirmar sangrado
+  - 'Tiene una sensibilidad del 99 % al 100 % (LR− ≈ 0,04–0,06): cuando es negativa
+    descarta lesión neuroquirúrgica, pero la presencia de edad ≥ 65 años es un criterio
+    de alto riesgo que indica TC craneal simple'
+  - Indica resonancia magnética con gadolinio a todos los pacientes con GCS 15
+  - Sustituye la observación clínica cuando existen signos de fractura de base de
+    cráneo
+  indice_correcto: 1
+  justificacion: 'La Canadian CT Head Rule (Stiell et al., Lancet 2001; HM:6038) alcanza
+    una sensibilidad del 99–100 % y un LR− de 0,04–0,06: su verdadero poder bayesiano
+    es descartar lesión intracraneal clínicamente importante cuando todos sus criterios
+    están ausentes. En este paciente, la edad ≥ 65 años constituye por sí sola un
+    criterio de alto riesgo que obliga a realizar TC craneal.'
+- numero: 12
+  dominio: Demencias y trastornos neurocognitivos
+  fuente: neurologia/demencias.html
+  enunciado: Un hombre de 74 años presenta desde hace 8 meses deterioro de la atención
+    con marcadas fluctuaciones de un día a otro, alucinaciones visuales recurrentes
+    y detalladas (ve niños y animales pequeños en la sala), trastorno de conducta
+    del sueño REM desde hace 5 años y rigidez con bradicinesia simétrica leve. ¿Cuál
+    es el diagnóstico más probable y qué grupo farmacológico debe EVITARSE estrictamente?
+  opciones:
+  - Enfermedad de Alzheimer; evitar inhibidores de la acetilcolinesterasa
+  - Demencia con cuerpos de Lewy; evitar antipsicóticos típicos (como haloperidol)
+    por riesgo de reacción extrapiramidal grave y síndrome neuroléptico maligno
+  - Demencia frontotemporal variante conductual; evitar levodopa
+  - Hidrocefalia normotensiva de Hakim-Adams; evitar derivación ventriculoperitoneal
+  indice_correcto: 1
+  justificacion: La constelación de demencia fluctuante + alucinaciones visuales estructuradas
+    + trastorno de conducta del sueño REM + parkinsonismo dentro del primer año define
+    la demencia con cuerpos de Lewy (α-sinucleinopatía). Los neurolépticos antidopaminérgicos
+    D2 potentes pueden desencadenar rigidez extrema irreversible, mutismo y mortalidad
+    elevada; los síntomas cognitivos y alucinatorios responden a inhibidores de la
+    acetilcolinesterasa como rivastigmina o donepezilo.
