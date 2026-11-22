@@ -339,3 +339,10 @@ def test_la_coma_de_miles_de_una_fuente_no_es_decimal() -> None:
     assert "1000" in numeros_de_fuente("1,000 infants")
     assert "1" not in numeros_de_fuente("1,000 infants")
     assert {"14145", "0.97"} <= numeros_de_fuente("Of 14,145 references; r = 0.97")
+
+
+def test_la_declaracion_lleva_su_ultima_revision_y_codex_revisa_el_texto() -> None:
+    texto = (RAIZ / "lecciones" / "AI-USE.md").read_text(encoding="utf-8")
+    assert "**Última revisión:**" in texto.split("---", 1)[0]
+    fila = next(ln for ln in texto.splitlines() if ln.startswith("| Codex"))
+    assert "texto de las lecciones" in fila

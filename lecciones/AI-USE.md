@@ -11,7 +11,7 @@ Daniela Torres Tobar, autoevaluaciones de toda la obra
 **Alcance:** las lecciones de `lecciones/`, sus proyecciones y las ediciones del libro (PDF, EPUB, Kindle e impresa).
 **Colofón:** el párrafo breve que lleva cada edición vive en
 `lecciones/paratextos/declaracion-ia.md`; si cambia uno, revise el otro.
-**Vigente desde:** 30 de octubre de 2026
+**Vigente desde:** 30 de octubre de 2026 · **Última revisión:** 22 de noviembre de 2026
 
 ---
 
@@ -35,7 +35,7 @@ quedar trazada.
 |---|---|---|
 | Adobe Scan y Tesseract (OCR) | Transcripción de la edición de 1993 | Reconocimiento óptico de caracteres sobre los escaneos. |
 | Claude (Claude Code) | Transcripción, búsqueda bibliográfica, borradores, código | Corrige el OCR contra la imagen de la página, busca en PubMed, propone borradores de lecciones y escribe las herramientas de validación. Propone; no decide. Trabaja bajo `CLAUDE.md` y `AGENTS.md`. |
-| Codex (revisión de PR en GitHub) | Revisión del código | Señala defectos en los cambios propuestos; cada hallazgo se verifica antes de corregirlo. |
+| Codex (revisión de PR en GitHub) | Revisión del código y del texto de las lecciones | Señala defectos en los cambios propuestos, incluidos errores clínicos en el texto. Cada hallazgo se reproduce o se coteja con una fuente antes de corregirlo; Codex no aprueba ni fusiona. |
 
 Cada lección declara en su campo `uso_ia` en qué etapas intervino la IA:
 `transcripcion`, `busqueda-bibliografica`, `redaccion-borrador`, `revision-estilo` o
@@ -171,6 +171,13 @@ ocurrieron en el trabajo de esta edición:
   esta misma declaración, que aún enviaba al lector al repositorio anterior. Cada agujero tiene
   ahora su control y su prueba. Al probar el cotejo de cifras apareció además un falso
   positivo: un resumen escribía «Ninety-three» con letras, y el cotejo los lee también.
+- **Un error clínico en un borrador, encontrado por la revisión automática.** El primer
+  borrador de la lección de neuroftalmología afirmaba que un defecto de campo en los dos ojos
+  localiza la lesión en el quiasma o detrás de él. Es falso: el glaucoma o una neuropatía
+  óptica bilateral lo producen sin tocar el quiasma. Lo señaló Codex en el PR; la lección
+  ahora localiza por el patrón del defecto. En el mismo ciclo Codex encontró dos defectos en
+  los controles nuevos (una ficha podía cambiar de condición sin que se notara, y «1,000» se
+  leía como uno), que se reprodujeron y se corrigieron con pruebas.
 
 El modo de falla de estas herramientas no es razonar mal: es afirmar con seguridad algo
 cuya procedencia no pueden sostener. Los controles existen porque el fallo ocurre.
