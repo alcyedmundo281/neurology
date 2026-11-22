@@ -291,6 +291,12 @@ def validar_archivo(
 
 
 DECLARACION = ("lecciones", "AI-USE.md")
+# Como en biosemiotics: el colofón describe la edición, no el inventario vivo de lecciones.
+MARCADORES_COLOFON = {
+    "{N}": "citas verificadas",
+    "{LECCIONES_EDICION}": "lecciones de la edición",
+    "{FECHA_CORTE}": "fecha de la revisión humana más reciente",
+}
 COLOFON = ("lecciones", "paratextos", "declaracion-ia.md")
 
 
@@ -305,8 +311,13 @@ def problemas_de_declaracion(raiz: Path) -> list[str]:
         problemas.append("lecciones/AI-USE.md debe documentar «## Qué ya falló»")
     if not colofon.is_file():
         problemas.append("falta lecciones/paratextos/declaracion-ia.md (colofón de cada edición)")
-    elif "{N}" not in colofon.read_text(encoding="utf-8"):
-        problemas.append("el colofón de IA debe llevar el marcador {N} de citas verificadas")
+    else:
+        texto_colofon = colofon.read_text(encoding="utf-8")
+        for marcador, que in MARCADORES_COLOFON.items():
+            if texto_colofon.count(marcador) != 1:
+                problemas.append(
+                    f"el colofón de IA debe llevar una vez el marcador {marcador} ({que})"
+                )
     return problemas
 
 

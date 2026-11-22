@@ -382,6 +382,18 @@
   \clearpage
 }
 
+% Declaración de uso de IA: página propia antes del índice, como en biosemiotics.
+\newenvironment{declaracionpdf}{%
+  \thispagestyle{empty}%
+  \begingroup
+  \small
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{0.5\baselineskip}%
+}{%
+  \par\endgroup
+  \clearpage
+}
+
 \newenvironment{portadillatitulo}{%
   \begingroup
   \displayfont\fontsize{25}{29}\selectfont\bfseries\color{libroprimario}%

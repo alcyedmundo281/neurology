@@ -2,7 +2,10 @@
 
 En la preparación de esta edición se usó asistencia de inteligencia artificial en la
 transcripción de la obra de 1993, la búsqueda bibliográfica, la redacción de borradores y
-el mantenimiento del código. Cada lección declara en qué etapas intervino.
+el mantenimiento del código. Cada lección declara en qué etapas intervino, al comienzo de su
+capítulo.
+
+Lecciones de esta edición: {LECCIONES_EDICION}. Revisión humana más reciente: {FECHA_CORTE}.
 
 Ninguna imagen fue generada con inteligencia artificial y no se reproducen fotografías de
 pacientes de las ediciones anteriores. Ninguna referencia procede de un modelo: las {N}

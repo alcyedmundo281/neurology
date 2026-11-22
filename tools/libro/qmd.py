@@ -5,6 +5,7 @@ from __future__ import annotations
 import shutil
 import sys
 import textwrap
+from datetime import date
 from html import escape
 from typing import TYPE_CHECKING
 
@@ -35,7 +36,7 @@ from libro.modulos import (
 )
 
 if TYPE_CHECKING:
-    from collections.abc import Sequence
+    from collections.abc import Mapping, Sequence
     from pathlib import Path
 
 RUTA_PREAMBULO = RAIZ / "assets" / "libro" / "preambulo.tex"
@@ -97,8 +98,13 @@ def _datos_libro_tex(meta: MetadatosLibro) -> str:
     )
 
 
-def _generar_index_qmd(meta: MetadatosLibro, texto_dedicatoria: str) -> str:
-    """Portada, portadilla, créditos, dedicatoria y tabla de contenidos: todo sale de los datos."""
+def _generar_index_qmd(
+    meta: MetadatosLibro, texto_dedicatoria: str, texto_declaracion: str
+) -> str:
+    """Portada, portadilla, créditos, dedicatoria, declaración de uso de IA y tabla de contenidos.
+
+    Como en biosemiotics, la declaración de IA va al frente del libro, antes del índice: el lector
+    la encuentra antes que el contenido."""
     tamano_str = (
         f"{ANCHO_MM} × {ALTO_MM} mm ({ANCHO_PULGADAS:.2f} × {ALTO_PULGADAS:.2f} pulgadas)".replace(
             ".", ","
@@ -180,6 +186,10 @@ def _generar_index_qmd(meta: MetadatosLibro, texto_dedicatoria: str) -> str:
         "",
         "::: {.dedicatoria-pdf}",
         texto_dedicatoria.strip(),
+        ":::",
+        "",
+        "::: {.declaracion-ia-pdf}",
+        texto_declaracion.strip(),
         ":::",
         "",
         "```{=latex}",
@@ -582,6 +592,56 @@ def titulos_de_lecciones(raiz: Path = RAIZ, incluir_borradores: bool = False) ->
     ]
 
 
+MESES = (
+    "enero", "febrero", "marzo", "abril", "mayo", "junio",
+    "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre",
+)
+RUTA_DECLARACION_IA = ("lecciones", "paratextos", "declaracion-ia.md")
+
+
+def fecha_larga(dia: date) -> str:
+    """``2026-11-22`` → «22 de noviembre de 2026»."""
+    return f"{dia.day} de {MESES[dia.month - 1]} de {dia.year}"
+
+
+def _contenido_edicion(incluidas: Sequence[Mapping[str, object]]) -> tuple[str, str]:
+    """(lecciones de la edición, fecha de la revisión humana más reciente), sin inventar fechas."""
+    revisadas = [d for d in incluidas if d.get("estado") in ("revisado", "publicado")]
+    borradores = len(incluidas) - len(revisadas)
+    n = len(revisadas)
+    lecciones = "ninguna revisada" if n == 0 else "una revisada" if n == 1 else f"{n} revisadas"
+    if borradores:
+        lecciones += (
+            f" y {borradores} {'borrador' if borradores == 1 else 'borradores'} sin revisión "
+            "humana (vista previa)"
+        )
+    fechas = []
+    for datos in revisadas:
+        valor = datos.get("fecha_revision")
+        fechas.append(valor if isinstance(valor, date) else date.fromisoformat(str(valor)))
+    return lecciones, fecha_larga(max(fechas)) if fechas else "ninguna todavía"
+
+
+def declaracion_ia(
+    raiz: Path, incluidas: Sequence[Mapping[str, object]], citas: int
+) -> str:
+    """El colofón de IA de esta edición: describe lo que la edición contiene, no el repositorio."""
+    ruta = raiz.joinpath(*RUTA_DECLARACION_IA)
+    if not ruta.is_file():
+        raise FileNotFoundError(
+            "falta lecciones/paratextos/declaracion-ia.md: no hay libro sin ella"
+        )
+    texto = ruta.read_text(encoding="utf-8").strip()
+    lecciones, fecha = _contenido_edicion(incluidas)
+    for marcador, valor in (
+        ("{N}", str(citas)), ("{LECCIONES_EDICION}", lecciones), ("{FECHA_CORTE}", fecha),
+    ):
+        if texto.count(marcador) != 1:
+            raise ValueError(f"declaracion-ia.md: {marcador} debe aparecer exactamente una vez")
+        texto = texto.replace(marcador, valor)
+    return texto
+
+
 def _paratextos(
     carpeta_salida: Path,
     raiz: Path,
@@ -598,7 +658,7 @@ def _paratextos(
     nombres: list[str] = []
     for ruta in sorted((raiz / "lecciones" / "paratextos").glob("*.md")):
         texto = ruta.read_text(encoding="utf-8")
-        if ruta.name == "dedicatoria.md":  # va en el índice, tras los créditos, no al final
+        if ruta.name in ("dedicatoria.md", "declaracion-ia.md"):  # van al frente, en el índice
             continue
         if ruta.name == "autores.md":  # sin la aprobación y con los títulos del mapa
             texto = renderizar_semblanzas(texto, cargar_mapa(raiz / "lecciones" / "mapa.yaml"))
@@ -726,13 +786,19 @@ def generar_proyecto_quarto(
         ruta_dedicatoria.read_text(encoding="utf-8"),
         cargar_mapa(raiz / "lecciones" / "mapa.yaml"),
     )
-    _escribir(
-        carpeta_salida, "index.qmd", _generar_index_qmd(meta, texto_dedicatoria), generados, planas
-    )
-
     partes, textos = _capitulos_de_lecciones(
         carpeta_salida, raiz, generados, planas, incluir_borradores
     )
+    incluidas = [
+        leer_leccion(ruta).datos
+        for _, rutas in lecciones_por_parte(raiz, incluir_borradores)
+        for ruta in rutas
+    ]
+    citadas = len({c for texto in textos for c in claves_citadas(texto)})
+    indice = _generar_index_qmd(meta, texto_dedicatoria, declaracion_ia(raiz, incluidas, citadas))
+    (carpeta_salida / "index.qmd").write_text(indice, encoding="utf-8")
+    generados.append(carpeta_salida / "index.qmd")
+    planas.insert(0, indice)
     capitulos: list[object] = [*partes]
     capitulos += _paratextos(carpeta_salida, raiz, textos, generados, planas)
     if material_previo:
