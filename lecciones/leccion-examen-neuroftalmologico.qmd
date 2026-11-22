@@ -154,8 +154,10 @@ estrabismo y el nistagmo infantil tienen sus propias lecciones en esta parte.
 ## Qué significa
 
 **Un ojo o los dos.** Una pérdida visual que el paciente confirma en un solo ojo, al tapar el
-otro, está delante del quiasma: en el ojo o en su nervio óptico. Un defecto de campo que afecta a
-los dos ojos está en el quiasma o detrás de él.
+otro, está delante del quiasma: en el ojo o en su nervio óptico. Que los dos ojos estén
+afectados no basta para localizar: una enfermedad de las dos retinas o de los dos nervios
+ópticos también da defectos bilaterales sin tocar el quiasma. Lo que localiza es el patrón: si
+el defecto respeta la línea media vertical, como se explica en el párrafo de los campos.
 
 **El defecto pupilar aferente relativo.** Señala una lesión asimétrica de la vía visual
 anterior, del nervio óptico o de una retina extensamente dañada [@wilhelm1998].
