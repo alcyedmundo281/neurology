@@ -77,6 +77,13 @@ def problemas_de_ficha(ruta: Path, leer: Callable[[str, str], str | None]) -> li
     if problemas:
         return problemas
 
+    # Los tokens resuelven por el ID de condición de la ficha: tiene que ser el de la base.
+    id_en_base = (contenidos[condicion] or {}).get("id")
+    if articulo.condicion_id != id_en_base:
+        problemas.append(
+            f"{nombre}: condicion_id {articulo.condicion_id} ≠ {id_en_base} de {condicion} en "
+            f"medsemiotics-db@{revision[:7]}"
+        )
     signos = (contenidos[condicion] or {}).get("signos") or []
     if datos.get("evidencia") != signos:
         problemas.append(

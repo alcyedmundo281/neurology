@@ -88,8 +88,14 @@ def _valor_en_letras(frase: str) -> int:
     return total + actual
 
 
+# En una fuente en inglés la coma entre dígitos agrupa miles («1,000», «14,145»); no es decimal.
+MILES_EN = re.compile(r"(?<=\d),(?=\d{3}(?!\d))")
+
+
 def numeros_de_fuente(texto: str) -> set[str]:
-    """Los números de una fuente, incluidos los escritos con letras en inglés («Ninety-three»)."""
+    """Los números de una fuente en inglés: comas de miles quitadas y números con letras
+    («Ninety-three») incluidos."""
+    texto = MILES_EN.sub("", texto)
     return numeros(texto) | {str(_valor_en_letras(m[0])) for m in EN_LETRAS.finditer(texto)}
 
 

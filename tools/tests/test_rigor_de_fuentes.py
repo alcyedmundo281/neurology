@@ -326,3 +326,16 @@ def test_la_declaracion_apunta_a_este_repositorio(ruta: str) -> None:
     assert "uv run" not in texto
     assert "github.com/alcyedmundo281/medsemiotics\n" not in texto
     assert "github.com/alcyedmundo281/medsemiotics." not in texto
+
+
+# --- hallazgos de la revisión de Codex en el PR #1 ---------------------------------------------
+def test_la_condicion_de_la_ficha_es_la_de_la_base(tmp_path: Path) -> None:
+    grounding = {"condicion_id": "HM:6004", "concepto_id": "HM:3001", "sensibilidad": 0.95}
+    problemas = problemas_de_ficha(_ficha(tmp_path, grounding=grounding), _leer)
+    assert any("condicion_id HM:6004" in p for p in problemas)
+
+
+def test_la_coma_de_miles_de_una_fuente_no_es_decimal() -> None:
+    assert "1000" in numeros_de_fuente("1,000 infants")
+    assert "1" not in numeros_de_fuente("1,000 infants")
+    assert {"14145", "0.97"} <= numeros_de_fuente("Of 14,145 references; r = 0.97")
