@@ -1,6 +1,6 @@
 # ADR-001 — Lecciones como fuente única del texto (blog y libro)
 
-- **Estado:** aceptado (decisiones D1–D5 de Alcy Edmundo Torres Guerrero, 30-oct-2026)
+- **Estado:** aceptado (decisiones D1–D5 de Alcy Edmundo Torres Guerrero, 30-oct-2026; D6 del editor y D7 de Alcy Ramiro Torres Guerrero, 22-nov-2026)
 - **Alcance:** `medsemiotics`. Licencia de `lecciones/` y del libro: CC BY-NC-SA 4.0 (D4). No modifica `biosemiotics` (obra en prelanzamiento) ni el
   contrato de `medsemiotics-db`.
 
@@ -45,6 +45,8 @@ Tres capas, como PubMed y PMC:
 | **D3** | **Los módulos HTML se conservan íntegros**: son material de clase. El texto de cada lección se **reconstruye desde cero** en la nueva arquitectura, no se copia del HTML. Cada lección enlaza sus módulos en `modulos_html`. **Lo mismo vale para la neuropediatría**: la obra de 1993 es fuente (su transcripción queda privada, fuera del repositorio) y en el libro solo aparece citada en los bloques `legado`. |
 | **D4** | **CC BY-NC-SA 4.0** para las lecciones y el libro (decisión de los autores, 30-oct-2026): uso, copia y adaptación libres con fines no comerciales; la explotación comercial (Kindle por KDP estándar, impreso con ISBN) queda reservada a los autores. No se usa KDP Select porque exige exclusividad digital y el texto sigue gratis en la web. El resto del repositorio conserva su licencia. |
 | **D5** | DOI de Zenodo para la obra viva; el ISBN, ya adquirido, queda reservado para la edición impresa. |
+| **D6** | **Primera edición** (editor, 22-nov-2026). Para Bowker y Amazon la obra es nueva: `obra.edicion: 1` en el mapa, del que salen créditos, sello y cubierta. *Neuropediatría–Urgencias* (1991) y *Neurología Pediátrica* (1993) son su legado docente, no ediciones anteriores, porque no tenían ISBN y no se encadenan en el catálogo. |
+| **D7** | **Fuera de la obra los textos de autores ajenos a la familia** (Alcy Ramiro Torres Guerrero, 22-nov-2026): los capítulos de Basil T. Darras y Blaise F. D. Bourgeois y el prólogo de Joseph Volpe. Sus temas se conservan en el mapa como lecciones nuevas, con su título, escritas desde cero y sin legado («Otras drogas antiepilépticas», «Los trastornos del movimiento»). |
 
 ## Mapa del libro
 

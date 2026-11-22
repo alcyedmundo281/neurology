@@ -99,12 +99,17 @@ def test_los_creditos_declaran_que_la_revision_del_editor_no_es_independiente(
     assert "El recién nacido" not in creditos.split("Revisión editorial:")[1].split("DOI")[0]
 
 
-def test_creditos_nueva_edicion_sin_doi_de_la_obra(tmp_path: Path) -> None:
+def test_creditos_primera_edicion_sin_doi_de_la_obra(tmp_path: Path) -> None:
+    # ADR-001, D6: primera edición; las obras del legado se nombran como legado, no como ediciones
+    # anteriores de esta.
     generar_proyecto_quarto(tmp_path, RAIZ, exigir_semblanzas=False)
     index = (tmp_path / "index.qmd").read_text(encoding="utf-8")
     creditos = index.split("{.creditos-pdf}")[1]
-    assert "Primera edición" not in index
-    assert "Nueva edición, que continúa la obra de Alcy Torres Catefort" in creditos
+    assert "Nueva edición" not in index
+    assert (
+        "Primera edición. Obra nueva, escrita desde cero, que recoge el legado docente de "
+        "Alcy Torres Catefort, autor de:" in creditos
+    )
     assert "Neuropediatría–Urgencias" in creditos
     assert "Neurología Pediátrica. 2.ª ed." in creditos
     assert "DOI de la obra: pendiente" in creditos

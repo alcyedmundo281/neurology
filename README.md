@@ -2,7 +2,7 @@
 
 **Semiología basada en la evidencia, del recién nacido al adulto.**
 
-La obra continúa el legado de Alcy Torres Catefort y reúne las contribuciones
+Primera edición. Obra nueva que recoge el legado docente de Alcy Torres Catefort y reúne las contribuciones
 de Alcy Ramiro Torres Guerrero, Gladys Torres Guerrero, Alcy Edmundo Torres
 Guerrero y Daniela Torres Tobar.
 

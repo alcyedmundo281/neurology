@@ -282,7 +282,7 @@ def test_la_pagina_1_del_pdf_es_la_cubierta(tmp_path: Path) -> None:
         encoding="utf-8",
     ).stdout
     assert "COLECCIÓN POWERSEMIOTICS" in pagina_1
-    assert "NUEVA EDICIÓN DE UNA OBRA FUNDADA EN 1991" in pagina_1
+    assert "PRIMERA EDICIÓN" in pagina_1
     assert "Neuroftalmología del niño y del adulto" in pagina_1
 
 

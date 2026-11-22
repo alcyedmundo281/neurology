@@ -84,6 +84,7 @@ class MetadatosLibro:
     licencia: str
     licencia_nombre: str
     obras_previas: tuple[str, ...]
+    edicion: int
     editor: AutorLibro
     partes_del_editor: tuple[str, ...]
     url_repositorio: str
@@ -210,6 +211,7 @@ def leer_metadatos(raiz: Path = RAIZ) -> MetadatosLibro:
         licencia=obra.licencia,
         licencia_nombre=LICENCIAS[obra.licencia],
         obras_previas=(*obra.fuentes_previas, obra.legado),
+        edicion=obra.edicion,
         editor=editores[0],
         partes_del_editor=propias,
         url_repositorio=_requerido(datos_raw, "repository-code", "CITATION.cff"),

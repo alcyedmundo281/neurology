@@ -8,7 +8,7 @@
 
 Cada fila es una lección: una fuente única (`lecciones/<id>.qmd`) de la que salen el artículo del blog y el capítulo del libro. Todo el texto se reconstruye desde cero; los módulos de clase y la obra de 1993 son fuentes, no texto que se copia. El estado se lee de cada lección. Contrato: `docs/adr/ADR-001-arquitectura-libro.md`.
 
-**Estado:** ⬜ pendiente: 52 · ✏️ borrador: 2 · 🔎 revisado: 0 · ✅ publicado: 0 · total 54
+**Estado:** ⬜ pendiente: 54 · ✏️ borrador: 2 · 🔎 revisado: 0 · ✅ publicado: 0 · total 56
 
 **Fases:** 1 piloto · 2 módulos de clase · 3 neuropediatría · 4 neuroftalmología · 5 libro. «(propuesta)» marca una agrupación de módulos pendiente de decisión.
 
@@ -47,18 +47,20 @@ Autores: Alcy Torres Catefort †, Alcy Ramiro Torres Guerrero · Revisión: Alc
 | 3 | Hemorragias intracraneales en el niño<br>`leccion-hemorragias-intracraneales-nino` | 3 | 1993, pp. 82-89 | ⬜ pendiente |
 | 4 | Hipertensión intracraneal no traumática<br>`leccion-hipertension-intracraneal-nino` | 3 | 1993, pp. 90-95 | ⬜ pendiente |
 | 5 | Convulsiones y epilepsia en el niño<br>`leccion-convulsiones-epilepsia-nino` | 3 | 1993, pp. 96-108 | ⬜ pendiente |
-| 6 | El niño en coma<br>`leccion-coma-nino` | 3 | 1993, pp. 109-119 | ⬜ pendiente |
-| 7 | Encefalitis, encefalopatías agudas y absceso cerebral<br>`leccion-encefalitis-absceso-cerebral` | 3 | 1993, pp. 120-129 | ⬜ pendiente |
-| 8 | Meningitis en el niño<br>`leccion-meningitis-nino` | 3 | 1993, pp. 130-137 · db `HM:6004` | ⬜ pendiente |
-| 9 | Hidrocefalia<br>`leccion-hidrocefalia` | 3 | 1993, pp. 138-143 | ⬜ pendiente |
-| 10 | Craneosinostosis<br>`leccion-craneosinostosis` | 3 | 1993, pp. 144-148 | ⬜ pendiente |
-| 11 | Síndromes paralíticos agudos<br>`leccion-sindromes-paraliticos-agudos` | 3 | 1993, pp. 149-158 | ⬜ pendiente |
-| 12 | Síndrome cerebeloso agudo: ataxias agudas<br>`leccion-ataxia-aguda` | 3 | 1993, pp. 159-162 | ⬜ pendiente |
-| 13 | Vértigo, síncope y lipotimias en el niño<br>`leccion-vertigo-sincope-nino` | 3 | 1993, pp. 163-164 | ⬜ pendiente |
-| 14 | Migraña en el niño<br>`leccion-migrana-nino` | 3 | 1993, pp. 165-166 | ⬜ pendiente |
-| 15 | Movimientos involuntarios y trastornos paroxísticos del tono<br>`leccion-movimientos-involuntarios-tono` | 3 | 1993, pp. 167-170 | ⬜ pendiente |
-| 16 | Sordera en la infancia<br>`leccion-sordera` | 3 | 1993, pp. 171 | ⬜ pendiente |
-| 17 | Punción lumbar y líquido cefalorraquídeo en el niño<br>`leccion-procedimientos-lcr` | 3 | 1993, pp. 175-182 | ⬜ pendiente |
+| 6 | Otras drogas antiepilépticas<br>`leccion-otras-drogas-antiepilepticas` | 3 | nueva | ⬜ pendiente |
+| 7 | El niño en coma<br>`leccion-coma-nino` | 3 | 1993, pp. 109-119 | ⬜ pendiente |
+| 8 | Encefalitis, encefalopatías agudas y absceso cerebral<br>`leccion-encefalitis-absceso-cerebral` | 3 | 1993, pp. 120-129 | ⬜ pendiente |
+| 9 | Meningitis en el niño<br>`leccion-meningitis-nino` | 3 | 1993, pp. 130-137 · db `HM:6004` | ⬜ pendiente |
+| 10 | Hidrocefalia<br>`leccion-hidrocefalia` | 3 | 1993, pp. 138-143 | ⬜ pendiente |
+| 11 | Craneosinostosis<br>`leccion-craneosinostosis` | 3 | 1993, pp. 144-148 | ⬜ pendiente |
+| 12 | Síndromes paralíticos agudos<br>`leccion-sindromes-paraliticos-agudos` | 3 | 1993, pp. 149-158 | ⬜ pendiente |
+| 13 | Síndrome cerebeloso agudo: ataxias agudas<br>`leccion-ataxia-aguda` | 3 | 1993, pp. 159-162 | ⬜ pendiente |
+| 14 | Vértigo, síncope y lipotimias en el niño<br>`leccion-vertigo-sincope-nino` | 3 | 1993, pp. 163-164 | ⬜ pendiente |
+| 15 | Migraña en el niño<br>`leccion-migrana-nino` | 3 | 1993, pp. 165-166 | ⬜ pendiente |
+| 16 | Movimientos involuntarios y trastornos paroxísticos del tono<br>`leccion-movimientos-involuntarios-tono` | 3 | 1993, pp. 167-170 | ⬜ pendiente |
+| 17 | Los trastornos del movimiento<br>`leccion-trastornos-movimiento-nino` | 3 | nueva | ⬜ pendiente |
+| 18 | Sordera en la infancia<br>`leccion-sordera` | 3 | 1993, pp. 171 | ⬜ pendiente |
+| 19 | Punción lumbar y líquido cefalorraquídeo en el niño<br>`leccion-procedimientos-lcr` | 3 | 1993, pp. 175-182 | ⬜ pendiente |
 
 ## 4. Neuroftalmología del niño y del adulto
 
