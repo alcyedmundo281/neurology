@@ -49,6 +49,7 @@ def archivo(cuerpo: str, **cambios: Any) -> Archivo:
         "id": "leccion-prueba",
         "titulo": "Lección de prueba",
         "estado": "borrador",
+        "uso_ia": ["redaccion-borrador"],
         "abstract": "Resumen.",
         "dialogo_clinico": "Diálogo.",
         "indispensable": ["Una perla."],
