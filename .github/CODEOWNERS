@@ -1,0 +1,13 @@
+# Archivos cuyo cambio necesita la aprobación del editor de la obra (ADR-001).
+# Solo se hace cumplir si la protección de la rama main exige la revisión de los dueños del código.
+
+# Registro del cotejo humano de las citas de 1993: un cambio aquí afirma que una persona
+# comparó la cita con el impreso.
+/lecciones/legado-cotejo.yaml   @alcyedmundo281
+
+# Plan editorial: autores, revisores nominados y partes.
+/lecciones/mapa.yaml            @alcyedmundo281
+
+# Los controles: quien los cambie puede apagarlos.
+/tools/lecciones/               @alcyedmundo281
+/.github/                       @alcyedmundo281
