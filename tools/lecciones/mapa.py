@@ -42,6 +42,9 @@ class Obra(_Base):
     titulo: Texto
     subtitulo: Texto | None = None
     licencia: Literal["CC BY-NC-SA 4.0"]
+    # Número de esta edición de la obra (ADR-001, D6). Las obras del legado no son ediciones
+    # anteriores de esta: no tenían ISBN y no se encadenan en el catálogo.
+    edicion: int = Field(ge=1)
     legado: Texto
     fuentes_previas: list[Texto] = Field(default_factory=list)
     # Único correo de contacto editorial de la obra (créditos). Nunca el de una persona autora.

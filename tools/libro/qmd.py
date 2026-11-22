@@ -81,12 +81,20 @@ def _escapar_tex(texto: str) -> str:
     return texto
 
 
+ORDINALES = {1: "Primera", 2: "Segunda", 3: "Tercera", 4: "Cuarta", 5: "Quinta"}
+
+
+def edicion_texto(meta: MetadatosLibro) -> str:
+    """«Primera edición», desde ``obra.edicion`` del mapa: la edición no se escribe a mano."""
+    return f"{ORDINALES[meta.edicion]} edición"
+
+
 def _datos_libro_tex(meta: MetadatosLibro) -> str:
     """Macros de LaTeX con la autoría y el sello de la portada, generadas desde los datos."""
     barra = chr(92)
     nombres = (barra * 2 + " ").join(_escapar_tex(a.nombre_visible) for a in meta.autores)
     sello = (
-        "Nueva edición "
+        f"{edicion_texto(meta)} "
         f"{barra}enspace·{barra}enspace {_escapar_tex(meta.licencia)}"
     )
     return (
@@ -95,6 +103,7 @@ def _datos_libro_tex(meta: MetadatosLibro) -> str:
         f"{barra}newcommand{{{barra}librosubtitulo}}{{{_escapar_tex(meta.subtitulo)}}}\n"
         f"{barra}newcommand{{{barra}libroautoresportada}}{{{nombres}}}\n"
         f"{barra}newcommand{{{barra}librosellopie}}{{{sello}}}\n"
+        f"{barra}newcommand{{{barra}libroedicion}}{{{edicion_texto(meta).upper()}}}\n"
     )
 
 
@@ -135,7 +144,8 @@ def _generar_index_qmd(
         f"**{meta.titulo}**  ",
         f"*{meta.subtitulo}*",
         "",
-        f"Nueva edición, que continúa la obra de {meta.autores[0].nombre}:  ",
+        f"{edicion_texto(meta)}. Obra nueva, escrita desde cero, que recoge el legado docente "
+        f"de {meta.autores[0].nombre}, autor de:  ",
         *[f"· {obra}  " for obra in meta.obras_previas],
         "",
         "**Autoría:**  ",
@@ -487,7 +497,7 @@ def _generar_portada_svg(meta: MetadatosLibro) -> str:
         "  </text>",
         '  <text x="164" y="2300" fill="#C69C6D" '
         'font-family="Libertinus Sans, sans-serif" font-size="24">',
-        f"    Nueva edición · {meta.licencia}",
+        f"    {edicion_texto(meta)} · {meta.licencia}",
         "  </text>",
         "</svg>",
         "",

@@ -16,6 +16,10 @@ obra:
   titulo: "Neurología clínica para el médico general"
   subtitulo: "Semiología basada en la evidencia, del recién nacido al adulto"
   licencia: "CC BY-NC-SA 4.0"
+  # Primera edición (decisión del editor, 22-nov-2026; ADR-001, D6): para Bowker y Amazon la obra
+  # es nueva. Neuropediatría–Urgencias y Neurología Pediátrica son su legado, no ediciones
+  # anteriores: no tenían ISBN.
+  edicion: 1
   # Contacto editorial de la obra (créditos): comentarios, erratas y permisos. Ningún autor
   # publica aquí su correo personal.
   contacto: "alcy.torres@powersemiotics.com"
@@ -191,77 +195,93 @@ lecciones:
     orden: 5
     fase: 3
     legado_paginas: "96-108"
+  # Tema de un capítulo de autor ajeno a la familia, que sale de la obra (decisión de Alcy Ramiro
+  # Torres Guerrero, 22-nov-2026; ADR-001, D7). Se conserva el título; la lección se escribe desde
+  # cero y no tiene legado.
+  - id: leccion-otras-drogas-antiepilepticas
+    titulo: "Otras drogas antiepilépticas"
+    parte: lactante-nino
+    orden: 6
+    fase: 3
   - id: leccion-coma-nino
     titulo: "El niño en coma"
     parte: lactante-nino
-    orden: 6
+    orden: 7
     fase: 3
     legado_paginas: "109-119"
   - id: leccion-encefalitis-absceso-cerebral
     titulo: "Encefalitis, encefalopatías agudas y absceso cerebral"
     parte: lactante-nino
-    orden: 7
+    orden: 8
     fase: 3
     legado_paginas: "120-129"
   - id: leccion-meningitis-nino
     titulo: "Meningitis en el niño"
     parte: lactante-nino
-    orden: 8
+    orden: 9
     fase: 3
     legado_paginas: "130-137"
     condiciones: ["HM:6004"]
   - id: leccion-hidrocefalia
     titulo: "Hidrocefalia"
     parte: lactante-nino
-    orden: 9
+    orden: 10
     fase: 3
     legado_paginas: "138-143"
   - id: leccion-craneosinostosis
     titulo: "Craneosinostosis"
     parte: lactante-nino
-    orden: 10
+    orden: 11
     fase: 3
     legado_paginas: "144-148"
   - id: leccion-sindromes-paraliticos-agudos
     titulo: "Síndromes paralíticos agudos"
     parte: lactante-nino
-    orden: 11
+    orden: 12
     fase: 3
     legado_paginas: "149-158"
   - id: leccion-ataxia-aguda
     titulo: "Síndrome cerebeloso agudo: ataxias agudas"
     parte: lactante-nino
-    orden: 12
+    orden: 13
     fase: 3
     legado_paginas: "159-162"
   - id: leccion-vertigo-sincope-nino
     titulo: "Vértigo, síncope y lipotimias en el niño"
     parte: lactante-nino
-    orden: 13
+    orden: 14
     fase: 3
     legado_paginas: "163-164"
   - id: leccion-migrana-nino
     titulo: "Migraña en el niño"
     parte: lactante-nino
-    orden: 14
+    orden: 15
     fase: 3
     legado_paginas: "165-166"
   - id: leccion-movimientos-involuntarios-tono
     titulo: "Movimientos involuntarios y trastornos paroxísticos del tono"
     parte: lactante-nino
-    orden: 15
+    orden: 16
     fase: 3
     legado_paginas: "167-170"
+  # Tema de un capítulo de autor ajeno a la familia, que sale de la obra (decisión de Alcy Ramiro
+  # Torres Guerrero, 22-nov-2026; ADR-001, D7). Se conserva el título; la lección se escribe desde
+  # cero y no tiene legado.
+  - id: leccion-trastornos-movimiento-nino
+    titulo: "Los trastornos del movimiento"
+    parte: lactante-nino
+    orden: 17
+    fase: 3
   - id: leccion-sordera
     titulo: "Sordera en la infancia"
     parte: lactante-nino
-    orden: 16
+    orden: 18
     fase: 3
     legado_paginas: "171"
   - id: leccion-procedimientos-lcr
     titulo: "Punción lumbar y líquido cefalorraquídeo en el niño"
     parte: lactante-nino
-    orden: 17
+    orden: 19
     fase: 3
     legado_paginas: "175-182"
 
