@@ -28,7 +28,7 @@ if TYPE_CHECKING:
 
     from lecciones.fuente import EntradaBib
 
-UA = {"User-Agent": "medsemiotics-lecciones/1.0 (mailto:alcy.torres@powersemiotics.com)"}
+UA = {"User-Agent": "neurology-lecciones/1.0 (mailto:alcy.torres@powersemiotics.com)"}
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 
 
@@ -62,17 +62,24 @@ class Informe:
         return 2 if self.incompletas else 0
 
 
-def _json(url: str) -> Any:
+def _texto(url: str) -> str:
     try:
         peticion = urllib.request.Request(url, headers=UA)
         with urllib.request.urlopen(peticion, timeout=25) as respuesta:
-            return json.loads(respuesta.read())
+            return respuesta.read().decode("utf-8")
     except urllib.error.HTTPError as exc:
         if exc.code in (400, 404, 422) and "crossref" in url:
             raise DoiNoResuelve(exc.code) from exc
         raise RedNoDisponible(f"HTTP {exc.code}") from exc
     except (OSError, ValueError) as exc:
         raise RedNoDisponible(str(exc)) from exc
+
+
+def _json(url: str) -> Any:
+    try:
+        return json.loads(_texto(url))
+    except ValueError as exc:
+        raise RedNoDisponible(f"respuesta no JSON: {exc}") from exc
 
 
 def pubmed(pmids: list[str]) -> dict[str, Registro]:

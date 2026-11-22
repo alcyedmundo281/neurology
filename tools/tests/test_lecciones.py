@@ -65,7 +65,8 @@ def cuerpo(**reemplazos: str) -> str:
     textos.update(reemplazos)
     partes = [f"## {s}\n\n{textos[s]}\n" for s in SECCIONES if textos[s] is not None]
     partes.append(
-        "::: {.legado}\n*«Consiste en realizar con el dedo pulgar una presión.»* — p. 16\n:::\n"
+        "::: {.legado}\n*«Consiste en realizar con el dedo pulgar una presión.»*\n"
+        "— A. Torres Catefort, *Neurología Pediátrica*, p. 16\n:::\n"
     )
     return "\n".join(partes)
 
