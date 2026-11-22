@@ -100,6 +100,7 @@ def test_la_proyeccion_de_una_leccion_revisada_lleva_la_linea() -> None:
         "estado": "revisado",
         "revisor": "Alcy Ramiro Torres Guerrero",
         "fecha_revision": date(2026, 11, 2),
+        "uso_ia": [],
         "abstract": "Resumen.",
         "dialogo_clinico": "Diálogo.",
         "indispensable": ["Una perla."],

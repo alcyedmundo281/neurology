@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import re
+
 import os
 import shutil
 import subprocess
@@ -110,10 +112,15 @@ def test_el_libro_por_defecto_solo_lleva_lecciones(tmp_path: Path) -> None:
     cfg = yaml.safe_load((carpeta / "_quarto.yml").read_text(encoding="utf-8"))
     assert "Material previo" not in str(cfg["book"]["chapters"])
     assert "Parte I" not in (carpeta / "libro-plano.md").read_text(encoding="utf-8")
-    # El colofón de IA es un paratexto de lecciones/paratextos/, con {N} ya sustituido.
-    colofon = (carpeta / "P-declaracion-ia.qmd").read_text(encoding="utf-8")
-    assert "{N}" not in colofon
-    assert "P-declaracion-ia.qmd" in cfg["book"]["chapters"]
+    # Como en biosemiotics: la declaración de IA va al frente, tras los créditos y la dedicatoria
+    # y antes del índice, con sus marcadores ya sustituidos; no hay colofón al final.
+    indice = (carpeta / "index.qmd").read_text(encoding="utf-8")
+    declaracion = indice.index("DECLARACIÓN DE USO DE INTELIGENCIA ARTIFICIAL")
+    assert indice.index("{.creditos-pdf}") < indice.index("{.dedicatoria-pdf}") < declaracion
+    assert declaracion < indice.index("\\tableofcontents")
+    assert not re.search(r"\{(N|LECCIONES_EDICION|FECHA_CORTE)\}", indice)
+    assert "Revisión humana más reciente: ninguna todavía." in indice
+    assert not (carpeta / "P-declaracion-ia.qmd").exists()
     assert len(archivos) >= 6
 
 
@@ -133,7 +140,7 @@ def test_el_material_previo_va_aparte_con_su_portada(tmp_path: Path) -> None:
     assert ultima["part"] == "Material previo — no forma parte de la obra"
     assert ultima["chapters"][0] == "00-material-previo.qmd"
     # Las lecciones y los paratextos van antes del material previo.
-    assert "P-declaracion-ia.qmd" in cfg["book"]["chapters"][:-1]
+    assert "DECLARACIÓN DE USO" in (carpeta / "index.qmd").read_text(encoding="utf-8")
 
     cfg = yaml.safe_load((carpeta / "_quarto.yml").read_text(encoding="utf-8"))
     geometria = cfg["format"]["pdf"]["geometry"]

@@ -70,6 +70,26 @@ def linea_revision(datos: Mapping[str, object], firmas: Mapping[str, str]) -> st
     return "*" + "; ".join(partes) + "*"
 
 
+ETAPAS_IA = {
+    "transcripcion": "transcripción de la obra de 1993",
+    "busqueda-bibliografica": "búsqueda bibliográfica",
+    "redaccion-borrador": "redacción del borrador",
+    "revision-estilo": "revisión de estilo",
+    "codigo": "código",
+}
+
+
+def linea_uso_ia(etapas: object) -> str:
+    """Declaración de IA de la lección, visible en su capítulo (como exige AI-USE.md)."""
+    if not isinstance(etapas, list):
+        raise ValueError("uso_ia: falta la declaración de uso de IA de la lección")
+    if not etapas:
+        return "*Uso de inteligencia artificial en esta lección: ninguno.*"
+    nombres = [ETAPAS_IA.get(str(e), str(e)) for e in etapas]
+    lista = ", ".join(nombres[:-1]) + " y " + nombres[-1] if len(nombres) > 1 else nombres[0]
+    return f"*Uso de inteligencia artificial en esta lección: {lista}.*"
+
+
 def proyectar(
     archivo: Archivo,
     articulos: Mapping[str, Articulo],
@@ -97,6 +117,7 @@ def proyectar(
     revision = linea_revision(datos, _firmas() if firmas is None else firmas)
     if revision:
         partes.append(revision)
+    partes.append(linea_uso_ia(datos.get("uso_ia")))
     partes.append(f"*{resolver(datos['abstract'])}*")
     partes.append(
         "::: {.caso-socratico}\n**Diálogo clínico.** "
