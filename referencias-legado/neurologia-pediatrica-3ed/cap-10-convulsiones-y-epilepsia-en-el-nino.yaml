@@ -1,0 +1,236 @@
+# Capítulo X de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 10
+  romano: X
+  titulo_en_la_fuente: CONVULSIONES Y EPILEPSIA EN EL NIÑO
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: "Se designan con el nombre de convulsiones las crisis paroxisticas de origen cerebral, donde\
+    \ el mecanismo neurofisiológico es el mismo de las crisis epilépticas, que se traduce por contracciones\
+    \ musculares involuntarias tónicas o clónicas.\n\nLas convulsiones del niño constituyen una urgencia\
+    \ porque ellas pueden revelar una enfermedad que demanda tratamiento inmediato y porque cualquiera\
+    \ que sea la causa, su prolongación pone en juego el pronóstico vital y origina lesiones cerebrales\
+    \ definitivas.\n\nASPECTOS CLINICOS\n\nLas convulsiones son frecuentemente de corta duración (menos\
+    \ de 5-10 minutos).\n\nLas crisis tónico clónicas típicas son raras antes de 3-4 años. Las prolongadas\
+    \ son unilaterales o con predominio unilateral, seguidas de hemiplegia poscrítica o definitiva (síndrome\
+    \ HH: hemiconvulsión-hemiplegia).\n\nLa palpación de los segmentos corporales en el curso de una crisis\
+    \ es indispensable; ella permite distinguir las sacudidas activas de aquellas que son debidas a sinergias\
+    \ residuales (disminuye así la frecuencia de las falsas crisis “generalizadas”); con ello se detectan\
+    \ las sacudidas suaves poco visibles (disminuyendo la frecuencia de las falsas crisis “cortas”).\n\
+    \nEs necesario anotar la duración exacta de las crisis, su topografía, su variación, la temperatura\
+    \ al inicio y cada 15 minutos, la presión arterial y el ritmo  respiratorio e investigar obstrucción\
+    \ faringea y pulmonar.\n\nToda crisis generalizada o unilateral que dure más de 30 minutos es equivalente\
+    \ a un estado de mal. Este riego es más elevado en el niño de menos de 4 años con crisis unilaterales\
+    \ clónicas.\n\nSEMIOLOGIA DE LAS CONVULSIONES\n\n\t\t\t\t\tEDAD\t\t\t\tDURACION\n\nConvulsiones generalizadas\t\
+    \t\t\t\t\tcortas en general\n(tónico clónicas, tónicas o\t\tMás de 6 meses\t\t(menos 15 min.)\nclónicas,\
+    \ hipotónicas).\n\nConvulsiones unilaterales,\t\t\t\t\t\tcon frecuencia\nhemiconvulsión (clónicas\t\
+    \t6 meses a 4 años\t\tprolongadas, en\nPuras)\t\t\t\t\t\t\t\t\testado de mal\n\nConvulsiones parciales\n\
+    clónicas tónicas o tónico\t\ttoda edad\t\t\tcortas (menos de clónicas)\t\t\t\t\t\t\t\t15 minutos)\n\
+    \nConvulsiones de expresión\nmenor. \t\t\t\t1 año\nEspasmos en flexión \t\t\ttoda edad\t\t\tmuy cortas\
+    \ (algunos\nmioclonías las crisis atónicas.\t\tmás de 1 año\t\t\tsegundos\n\nCAUSAS PRINCIPALES\n\n\
+    Las convulsiones pueden: 1- repetirse de modo crónico sin causa desencadenante (convulsiones recurrentes:\
+    \ epilepsia crónica); 2- ser provocadas ocasionalmente por una enfermedad crónica o por una alteración\
+    \ hemoestática (convulsiones ocasionales). En los dos casos hay una posibilidad de que se prolonguen\
+    \ en estado de mal. Las convulsiones ocasionales son siempre crisis generalizadas o unilaterales.\
+    \ Los espasmos, las mioclonías no son jamás la expresión de una perturbación ocasional.\n\nLa edad\
+    \ de la primera crisis, su tipo, las circunstancias de aparición, la anamnesis y el examen clínico\
+    \ permiten casi siempre una orientación correcta. En el niño de menos de 6 meses, las convulsiones\
+    \ recurrentes de origen lesional son frecuentes. De 6 meses a 4 años, las convulsiones ocasionales\
+    \ son predominantes seguidas de la epilepsia criptogenética.\n\nDe 6 meses a 3 años las convulsiones\
+    \ febriles representan más de 75 p.100 de casos. A todas las edades, las causas neuroquirúrgicas son\
+    \ excepcionales, no así el hematoma subdural.\n\nConvulsiones ocasionales y exámenes urgentes\n\n\
+    Convulsiones febriles\n\nAtaques convulsivos generalizados pueden ocurrir en los lactantes y niños\
+    \ de hasta 5 años de edad y se asocian a elevaciones repentinas de fiebre por arriba de 40ºC. Puede\
+    \ haber un antecedente familiar de convulsiones similares. El episodio suele durar menos de 5 minutos,\
+    \ pero puede continuar hasta durante 15 minutos.\n\nDIAGNOSTICO DIFERENCIAL\n\nSi el niño tiene una\
+    \ infección evidente del oído, la faringe, la nariz o los pulmones, y se puede confiar en la observación,\
+    \ no son necesarios más estudios específicos o pruebas. Debe intuirse el tratamiento de la infección\
+    \ que origina la fiebre y hacerse los exámenes de control.\n\nEn ausencia de signos de infección,\
+    \ los estudios para determinar el origen de la fiebre incluyen recuento sanguíneo completo, examen\
+    \ del líquido cefalorraquídeo, y especialmente en niñas, análisis cuidadoso de la orina para investigar\
+    \ infección asintomático del sistema urinario. En el lactante pequeño la meningitis puede presentarse\
+    \ como convulsiones con fiebre y otros pocos signos de irritación del SNC.\n\nTRATAMIENTO\n\n    a)\
+    \ Manténgase la vía respiratoria permeable, volteando al niño sobre su abdomen para evitar posible\
+    \ aspiración de vómito.\n    b) Redúzcase la temperatura corporal aplicando ropas frías, pero no húmedas.\n\
+    \    c) Antipiréticos:\n        1. Acetominofen (Tylenol, Tempra). En niños menores de 1 año de edad,\
+    \ se dan 60 mg. por dosis; entre 1 y 3 años de edad, 60-120 mg. por dosis; entre 3 y 6 años de edad,\
+    \ 120 mg. por dosis. (10mg./Kg. dosis)\n    d) Si hay recurrencia o persistencia de convulsiones,\
+    \ se tratan igual que el estado epiléptico.\n\nPROFILAXIS\n\nTodavía hay controversia sobre este aspecto.\
+    \ Se ha recomendado la administración prolongada de fenobarbital después de convulsiones febriles\
+    \ en todos los niños. Siempre es dudoso que los padres administren tales medicamentos por período\
+    \ prolongado cuando hay síntomas.\nSin embargo en la actualidad parecen haberse desarrollado dos tendencias\
+    \ en el manejo de este problema, a saber:\n    a.  Se da fenobarbital o primidona, para mantener una\
+    \ concentración sanguínea de 21-31mg./ml., durante dos años en que no se presentan convulsiones, si\
+    \ el niño satisface uno de los siguientes criterios (Rabe):\n    1. Edad menor de 18 meses\n    2.\
+    \ EEG positivo, 7 o más días después de la convulsión\n    3. Convulsiones de más de 15 minutos de\
+    \ duración, con frecuencia en 24 horas, o cuando son de origen focal.\n    4. Antecedente familiar\
+    \ de convulsiones\n    5. Evidencia de trastorno neurológico crónico\n    b. Fenobarbital o primidona\
+    \ (igual que en el inicio a) solo después de un segundo episodio convulsivo febril (Feliz).\n\nPRONOSTICO\n\
+    \nLos estudios a largo plazo han indicado que cerca de 65% de los niños que tienen convulsiones febriles\
+    \ no tendrán convulsiones subsiguientes; 32% tenían uno o más episodios ulteriores asociados a fiebre,\
+    \ pero ninguno sin fiebre; 2% tenían epilepsia hacia los 7 años de edad.\n\nINFECCIONES:\n\nMeningitis\
+    \ purulenta, punción lumbar, cultivo de LCR.\n\nTraumáticas:\n\n    1. Hematoma subdural: fondo de\
+    \ ojo, punción lumbar y de fontanela, TAC.\n    2. Traumatismos craneanos: radiografía de cráneo,\
+    \ TAC, fondo de ojo.\n\nMetabólicas:\n\n    1. Sobrecarga hídrica con hiponatremia: punción lumbar,\
+    \ ionograma.\n    2. Deshidratación aguda: punción lumbar, ionograma.\n    3. Hipocalcemia: calcemia\n\
+    \    4. Hipoglucemia: glucemia; inyección IV con solución glucosada al 30p. 100\n\nOtras:\n\n    1.\
+    \ Intoxicaciones investigación del toxico, anamnesis.\n    2. Nefropatías agudas: presión arterial,\
+    \ examen de orinas.\n    3. Hipertensión arterial: presión arterial, fondo del ojo.\n\nConvulsiones\
+    \ recurrentes y exámenes urgentes\n\nLesiones cerebrales crónicas de origen prenatal o perinatal;\
+    \ radiografías de cráneo, fondo de ojo, y hasta aproximadamente los 18 meses de edad, ecografía tansfontanelar.\n\
+    \nLesiones cerebrales crónicas frecuentes hasta los 4 años, epilepsia criptogenética: radiografía\
+    \ de cráneo, fondo de ojo y TAC.\n\nLas epilepsias recurrentes constituyen un grupo extremadamente\
+    \ heterogéneo en cuanto se refiere a la sintomatología crítica e intercrítica, a la evolución, al\
+    \ pronóstico, a las causas. Esta heterogeneidad explica que ninguna clasificación de las epilepsias\
+    \ sea actualmente admitida. Entre ellas tenemos: los espasmos infantiles (síndrome de West, espasmos\
+    \ en flexión)\n\nLa edad en que inicia esta patología esta entre 3 y 18 meses; ocasionalmente hasta\
+    \  los 4 años.\n\nEstos espasmos son crisis de breve duración, caracterizados por una flexión brusca\
+    \ del cuerpo y que se repiten en salvas, compuestas por un número variable de sacudidas separadas\
+    \ por intervalos de 5 a 30 segundos. A veces son de baja intensidad, asimétricas o unilaterales, asociadas\
+    \ a un trazado EEG muy desorganizado, compuesto de ondas lentas y de puntas u ondas agudas de gran\
+    \ amplitud con una distribución temporal y espacial anárquica (hipsaritmia o  disritmia mayor); con\
+    \ retardo mental casi constante que puede notarse antes del inicio de los espasmos o exteriorizarse\
+    \ alguna vez en el momento de la aparición de la crisis.\n\nEl pronóstico es desfavorable. Los espasmos\
+    \ tienden a desaparecer en los sobrevivientes, espontáneamente o después del tratamiento se prolongan\
+    \ mas allá de los tres años en alrededor del 20 % de casos que transforman la epilepsia en una muy\
+    \ similar al síndrome de Lennox-Gastaut o de crisis focales. Fig. 36\n\nSíndrome de Lennox-Gastaut\n\
+    \nEl cuadro clínico típico se presenta en un niño de 2 a 5 años, con crisis polimorfas pluricotidianas.\
+    \ Estas crisis provocan caídas repetidas, responsables de varias heridas, siendo necesario el uso\
+    \ de un casco protector. Las crisis ligeras se limitan a una caída hacia delante de la cabeza, o a\
+    \ un movimiento de las rodillas, sin caída. Los accidentes con pérdida del equilibrio resultan de\
+    \ mecanismos diversos: crisis tónicas, mioclinías masivas que le proyectan al suelo, crisis atónicas.\n\
+    \nRemisiones espontáneas, a veces muy prolongadas le caracterizan.\n\nExiste retardo mental desde\
+    \ el inicio de la evolución y con frecuencia hay rasgos psicopáticos, de inestabilidad, de hiperquinesia.\
+    \ El pronóstico es desfavorable. Fig. 37\n\nPequeño mal\n\nEl pequeño mal es un síndrome epiléptico\
+    \ y no una entidad clínica:\n\nFig. 37\n\nSINDROME DE LENNOX-GASTAUT\n\nLas ausencias que le caracterizan\
+    \ sobrevienen dentro de contextos bastante diversos y sus fronteras son difíciles de limitar. El PM\
+    \ representa el 8% aproximadamente de la totalidad de epilepsia del niño. Predomina en el sexo femenino;\
+    \ es raro antes de los tres años y poco común después de los 15. Considerando como un tipo clásico\
+    \ de epilepsias criptogenéticas.\n\nAl pequeño mal le caracterizan la frecuencia de antecedentes familiares,\
+    \ la preponderancia de ausencias breves de menos de 20 segundos y la ausencia de crisis de otros tipos,\
+    \ la normalidad neuropsíquica y una respuesta franca y rápida al tratamiento.\n\nEL trazado encefalográfico\
+    \ le es específico, con ondas centrípetas, Fig. 38\n\nFig. 38\nAusencias Petit Mal\nExámenes complementarios\
+    \ de las convulsiones en el niño.\n\nLos mas útiles son la punción lumbar, a la menor sospecha de\
+    \ meningitis (toda convulsión febril antes de los 6 meses, convulsión febril larga, lateralizada o\
+    \ seguida de una mejoría de la conciencia); la calcemia; la glucocemia, solamente en casos en que\
+    \ las circunstancia lo exijan.\n\nEl EEG no es un examen de urgencia; sin embargo es necesario para\
+    \ orientar el diagnóstico y el tiempo de tratamiento. El examen de fondo de ojo en cambio es esencial.\n\
+    \nLas radiografías del cráneo son útiles en casos de epilepsia crónica si se sospecha una hipertensión\
+    \ intracraneana y también en los traumatismos.\n\nEl examen tomodensitométrico está indicado sin urgencia\
+    \ en las epilepsias crónicas de carácter parcial, en las que hay una etiología orgánica.\n\nDiagnóstico\
+    \ diferencial\n\nHay crisis de características especiales, cuyo pronóstico y tratamiento son diferentes.\
+    \ Las mas comunes son los espasmos de Sanglot y los sincopes emocionales o dolorosos que pueden ser\
+    \ idénticos a las crisis convulsivas (sincopes convulsivantes), pero se distinguen por la constancia\
+    \ de un factor desencadenante.\n\nEn el lactante menor y algunas veces mas tarde, los episodios hipotonía,\
+    \ de revulsión ocular, de cianosis, de enrojecimiento, de mirada fija son frecuentes. Su interpretación\
+    \ es difícil y hasta eliminar toda duda es mejor no iniciar un tratamiento continuo.\n\nEspasmos de\
+    \ sanglot\n\nSe presenta en algunos niños cuando son reprimidos, golpeados o cuando se les provoca\
+    \ un disgusto. Lloran vigorosamente un corto tiempo y luego hacen apnea poniéndose pálidos o cianóticos,\
+    \ con hipotonía y perdida de la conciencia.\n\nEsto puede ser seguido por algunas sacudidas de los\
+    \ miembros, un periodo breve de aumento de tono y aun opistotonos. No hay confusión posterior.\n\n\
+    Los ataques se presentan en niños menores de dos años y por lo general no se dan después de cinco.\n\
+    \nContrastando con un episodio epiléptico, la cianosis precede a la convulsión y no es posterior a\
+    \ esta.\n\nEl EEG es normal en la mayoría de los pacientes, pero en otros este examen muestra ondas\
+    \ lesionales que ponen de manifiesto alguna lesión neurológica.\n\nTratamiento de las convulsiones\
+    \ en los niños\n\nEl tratamiento medicamentoso de urgencia no es imperativo ante una crisis muy corta,\
+    \ es necesario solamente:\n    1. Poner al paciente en posición adecuada;\n    2. Evitar las heridas\n\
+    \    3. Tranquilizar la familia\n    4. Iniciar investigaciones etiológicas elementales, tomar temperatura.\n\
+    \nAl contrario, toda crisis que dure varios minutos exige un tratamiento inmediato y activo. A más\
+    \ del etiológico se hará el sintomático. La tasa sérica de los medicamentos utilizados debe ser vigilada.\
+    \ Si es posible se obtendrá un registro EEG permanente durante varias horas, sin olvidar de mantener\
+    \ el equilibrio del medio interior:\n\n    1. hematosis, que para mejorarla se requerirá en algunos\
+    \ casos ventilación artificial:\n    2. hemodinámica con monitoreo cardiaco, control de presiones\
+    \ sistemáticas y venosa central correcciones necesarias;\n    3. impedir toda hipertermia severa.\n\
+    \    4. corregir los desordenes humorales que pueden existir y la acidosis.\n\nEl tratamiento ulterior\
+    \ de mantenimiento depende de la causa de la convulsión. Se impone en las epilepsias crónicas; es\
+    \ aconsejado en las convulsiones febriles si el EEG hace ver ondas lesionales. Después de meningitis\
+    \ o de una enfermedad aguda del sistema nervioso central durante un tiempo limitado; es inútil en\
+    \ las perturbaciones metabólicas específicas.\n\nTratamiento etiológico\n    • Convulsiones de origen\
+    \ criptogenético o por lesión neurológica: excepcional, quirúrgico si hay tumor;\n    • Convulsiones\
+    \ febriles medios físicos o químicos, aconsejados pero de eficacia dudosa;\n    • Meningitis purulenta:\
+    \ antibióticos;\n    • Hematoma subdural: evacuación punción de la fontanela;\n    • Deshidratación\
+    \ aguda: tratamiento rápido del colapso;\n    • Intoxicación medicación especifica o general;\n  \
+    \  • Trauma craneano, ver capitulo correspondiente;\n    • Hipocalcemia: gluconato de calcio IV en\
+    \ perfusión lenta, 0.4 mg/Kg./h. Patología rara en nuestro país salvo en aquellos niños que han tomado\
+    \ largo tiempo anticonvulsivos, tipo fenobarbital o epamin, o que sufren una enfermedad renal primaria;\n\
+    \    • Hipoglucemia: inyección IV de solución glucosada al 30p.100, entidad que encontramos casi exclusivamente\
+    \ en periodo neonatal;\n    • Hiponatremia: solución de cloruro de sodio que para subir en la sangre\
+    \ 10 mEq se empleará la siguiente formula: Q(en mEq)= peso(en Kg.) por 0.6 por 10 la mitad debe inyectarse\
+    \ lentamente IV y la otra mitad se pasará en 4 horas;\n    • Una ampolla de 10 ml. de ClNa al 20 p.\
+    \ 100 es igual a 34.2mEq de sodio;\n    • Intoxicación por agua: restricción hídrica.\n\nTratamiento\
+    \ Sintomático\n\nInyección IV lenta o instilación rectal de Valium (diazepan). Lactante: 3 a 5 mg:\
+    \ 3 a 10 años: 5 a 10 mg. Si la convulsión persiste, repetir después de 20 a 30 minutos. O 0.5mg./Kg./dosis.\n\
+    \nSi no ha sido eficaz, Dilantin en menores de un año: 10 a 15 mg/ Kg. en 10 a 15 minutos; en mayores\
+    \ de un año: 5 a 10 mg/Kg./IV.\n\nPuede repetirse la misma dosis una hora mas tarde y pueden administrarse\
+    \ hasta 3 dosis semejantes en 24 horas. La tasa sérica eficaz se sitúa entre 15 y 20 ug/ml.\n\nEl\
+    \ fenobarbital entre 5 y 10 mg/Kg. se usa como profiláctico y para prevenir las recidivas precoces\
+    \ dentro del mismo episodio. Puede emplearse la vía IM. La tasa sérica eficaz esta entre 15 y 20 ug/ml.\n\
+    \nMantenimiento\n\nHabitualmente los medicamentos usados son:\n    • Fenobarbital, 5 mg/Kg./día, en\
+    \ dosis fraccionada, es muy eficaz, aunque con la administración prolongada puede producir problemas\
+    \ del comportamiento y excitación. Se presenta en tabletas de 100 mg.\n    • Carbamazepina (Tegretol):\
+    \ concentraciones óptimas de la sustancia activa se alcanzan de 4 a 24 horas. Luego de administrar\
+    \ una dosis oral, la vida media promedio es de 16 a 24 horas.\nCuando se transfiere a un paciente\
+    \ a tratamiento con tegretol, la dosis de la droga antiepiléptica que se va retirar debe reducirse\
+    \ poco a poco.\nDosis: 10 a 20 mg./Kg./día, en dosis fraccionadas.\nEfectos colaterales como anorexia,\
+    \ sequedad de la boca, diarrea, cefalea, ataxia, pueden ocurrir ocasionalmente pero desaparecen espontáneamente\
+    \ luego de 7 a 14 días de haber reducido la dosis.\nSe presenta en tabletas ranuradas de 200 mg.\n\
+    \    • Ácido Valproico (Leptilán) concentraciones plasmáticas máximas se alcanzan dentro de 3 a 5\
+    \ horas; la vida media es de 8 a 16 horas. Se indica especialmente  para el pequeño mal, convulsiones\
+    \ febriles, formas mixtas de epilepsia.\nPacientes que están recibiendo tratamiento anticonvulsivo\
+    \ deben ir disminuyendo la dosis poco a poco.\nDosis: 30 a 40 mg./Kg./día, en dosis fraccionadas.\n\
+    Efectos colaterales como perdida temporal del cabello, prolongación del tiempo de sangrado, insuficiencia\
+    \ hepática, pancreatitis fatales, hacen que el empleo del medicamento sea bajo estricto control medico.\
+    \ Se presenta en grageas de 150 mg.\n    • Divalproato sódico (VALCOTE). La terapia con este medicamento\
+    \ es útil para pacientes con una amplia gama de convulsiones diferentes.\nEn los Estados Unidos esta\
+    \ aprobado para el uso en ausencia, solo o como terapia coadyuvante, de convulsiones mixtas que incluyen\
+    \ crisis de ausencia.\nNo conocemos el mecanismo de acción exacto, pero hay varias teorías aceptables.\
+    \ Se ha sugerido que los efectos del medicamento son relacionados con un aumento en los niveles de\
+    \ ácido gama-amino butírico (GABA) en el cerebro.\nEs bien absorbido después de su administración\
+    \ oral. Los niveles séricos máximos se observan en 4 a 12 horas; su vida media es entre 10 a 16 horas\
+    \ o puede bajar hasta 6 horas cuando se administra con otros antiepilépticos.\nLas contraindicaciones\
+    \ son las mismas que para el ácido valproico, igual que las complicaciones.\nDosis: La cantidad recomendada\
+    \ es 15 mg./Kg./día aumentando en intervalos de una semana 5 a 10 mg./Kg./día. La dosis máxima recomendada\
+    \ es de 60 mg./Kg./día.\nPresentación: Tabletas con capa entérica en concentración de 250 mg.\n  \
+    \  • Fenitoína o Difenilhidantonía sódica (EPAMIN). Es droga primaria para todos los tipos de epilepsia,\
+    \ excepto las crisis de ausencia.\nEjerce su actividad antiepiléptica sin causar depresión general\
+    \ del SNC. La absorción oral es lenta, la concentración máxima después de una sola dosis es de 3 a\
+    \ 12 horas posteriores. Una vez  absorbida la fenitonía se distribuye rápidamente en todos los tejidos\
+    \ y el plasma, como en el encéfalo, se igualan a los pocos minutos de la inyección intravenosa.\n\
+    Entre las complicaciones tenemos alteraciones cerebelovestibulares, cambios en la conducta, hiperplasia\
+    \ gingival, anemia megagloblástica, hirsutismo.\nDosis: 5mg./Kg./día en varias tomas. Una cucharadita\
+    \ de 4 ml tiene 100 mg. de sustancia activa.\n\nLa solución inyectable tiene a50 mg./ml.\n\nTratamiento\
+    \ específico Síndrome de West\n\nLactantes:\n\nDosis iniciales de 0.25 mg. i.m. al día, la dosis de\
+    \ mantenimiento es de 0.25 mg. cada 2-8 días.\n\nNiños pequeños:\n\nDosis inicial de 0.25 – 0.5 mg.\
+    \ i.m. al día; la dosis de mantenimiento es de 0.25 -0.5 mg. cada 2 a 8 días.\n\nNiños de edad escolar:\n\
+    \nDosis iniciales 0.25 – 1mg. i.m. al día; la dosis de mantenimiento es de 0.25 – 1mg. cada 2 a 8\
+    \ días.\nLas ampollas se agitarán antes de su  uso.\nLas ampollas parcialmente usadas deberán desecharse.\n\
+    El tratamiento se instituirá con dosis diarias de Sysnacthen Depósito y al cabo de unos 3 días se\
+    \ continuará con dosis intermitente.\n\nEspasmos de sanglot, con EEG negativo: Atarax 1mg./Kg./día\
+    \ en dosis repartidas o Passinerval de una a tres cucharaditas disueltas en agua, según la edad, en\
+    \ 24 horas.\n"
+  bibliografia:
+  - AICARDI J.- Convulsiones et épilepsie chez l’enfant.- Encycl., Méd. Chir. Paris, Pediatrie, 4091 A
+    10, 9-221.
+  - AICARDI J.- Convulsions.- Pédiatries d’urgence, 323, 84, 1989.
+  - 'GASTAUT H.  et GASTAUT Y.- Syncopes et convulsions : a propos de la nature syncopale de certains
+    spasms du sanglot et et de certaines colvulsions essentielles hyperthermiques ou á froid.- Rev. Neurol.,
+    1980, 96, 158-163.'
+  - HAUSER W. A. et KURLAND L. T.- The epidemiology of epilepsy in Rochester, Minnesota, 1935 through
+    1967.- Epilepsia, 1975, 16, 1-66.
+  - TORRES A.- Tratamiento y pronóstico de las convulsiones febriles y de los espasmos de Sanglot.- Poligrafiados
+    de Neuro-pediatria, Fac. de Ciencias Médicas, Quito, Ecuador, 1988.

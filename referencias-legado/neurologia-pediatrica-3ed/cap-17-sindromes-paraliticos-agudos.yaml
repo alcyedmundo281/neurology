@@ -1,0 +1,164 @@
+# Capítulo XVII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 17
+  romano: XVII
+  titulo_en_la_fuente: SINDROMES PARALITICOS AGUDOS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    De los numerosos cuadros paralíticos del niño considerados agudos, se describirán los más frecuentes. Se los divide en cuatro grupos: lesiones neurógenas periféricas, medulares centrales, musculares y centrales.
+
+    Lesiones neurógenas periféricas
+
+    Poliradiculoneuritis.- Se manifiestan por un ataque mixto sensitivo motor, con predominio de este último. Inciden de modo simétrico sobre todas las fibras periféricas y pueden extenderse a los nervios craneanos.
+
+    Las lesiones son radiculares, hay disociación albumino citológica en la mayoría de los casos.
+
+    Se distinguen las poliradiculoneuritis en apariencias primitivas (síndrome de Guillain-Barré), secundarias a una causa precisa (enfermedad metabólica, dislipoidosis, intoxicaciones, enfermedades virales, inyección de sueros o vacunas) y las poliradiculoneuritis atípicas por su carácter prolongado, por la existencia de recaídas o la tendencia a la cronicidad.
+
+    Síndrome de Guillain-Barré
+
+    En nuestro medio se presenta en cualquier estación del año, en otras naciones predomina en invierno. Las parálisis se inician en un tiempo que varia de algunos días a tres semanas en estado febril, permanecen estables tres a seis semanas para remitir lentamente durante tres meses más o menos. La evolución puede ser en algunos casos mucho más larga y a veces muy corta.
+
+    Los problemas respiratorios que necesitan asistencia ventilatoria existen en el 17% de los casos; los de la deglución y de la fonación son más frecuentes, en general asociada a los precedentes.
+
+    Se deben investigar los desordenes neurovegetativos: problemas vasomotores cutáneos, sudor, taquicardia, presión elevada, bradicardia con desaparición de las ondas P y reflejo oculocardíaco muy positivo; en estos enfermos se deben prescribir sistemáticamente atropina, seis tomas en 24 horas.
+
+    Las severas hipertermias, las taquicardias extremas, el colapso vascular y los problemas de conciencia son de mal pronóstico. Hay retención urinaria y constipación, habitualmente.
+
+    En las formas graves existen crisis convulsivas, desordenes psíquicos y edema papilar. El glicerol, 1,5 g/Kg./24h, y barbitúricos deben ser usados. Un examen sistemático de fondo de ojo se pedirá cada semana, durante la fase aguda.
+
+    El problema de la eliminación del agua libre, semejante a la secreción inapropiada de la hormona antidiurética es posible; para evitarla se deben controlar los monogramas y si es necesario, calcular los aportes líquidos.
+
+    Hay riesgo de hipercalcemia de inmovilización, que se debe prevenir por una reeducación precoz, por la movilización pasiva o por la utilización de una cama basculante. La calcemia se dosificará cada semana ya que su elevación puede dar origen a insuficiencia renal. Algunas veces se encuentra hiperglucemia con aumento de los 17 hidroxysteroides y disminución de la tolerancia a la glucosa.
+
+    Estos enfermos son muy sensibles a las infecciones, por lo cual se debe evitar en lo posible el uso de catéter o sondas por mucho tiempo. En todos los casos se procede a una encuesta etiológica y a un estudio de las inmunoglobulinas del LCR por exámenes que se repiten cada quince días.
+
+    Tratamiento
+
+    Consiste en la prevención de las complicaciones. La dificultad para la deglución impone la supresión de toda alimentación oral; se coloca al enfermo en posición declive y se instala aspiración continua de la saliva.
+
+    La alimentación se asegura por una sonda duodenal siguiendo los procedimientos de la nutrición enteral preconizada actualmente. Además se previene los riesgos ligados a los vómitos, colocando otra sonda para aspiración gástrica. Cuando hay anormalidades de los músculos respiratorios o ventilatorios, en particular del diafragma asociados con parálisis de la deglución, la ventilación artificial es un imperativo.
+
+    Esta decisión debe ser tomada rápidamente, porque estos enfermos son susceptibles de hacer un paro circulatorio anóxico.
+
+    Poliomielitis anterior aguda
+
+    Esta patología ha disminuido en el país, por las vacunaciones masivas realizadas en estos últimos años. Algunos casos se presentan en el lactante antes de recibir la inmunización pertinente o en los niños que tiene déficit inmunitario.
+
+    Diagnóstico
+
+    Puede no ofrecer dificultad. Cuando hay fiebre, dentro de un contexto de mialgias pronunciadas, con meningitis linfocitaria y retención de orina, aparecen parálisis sin ningún problema sensitivo. Si el diagnóstico es evidente ante estas parálisis, se evitará hacer una punción lumbar; por el contrario, en la fase preparalítica este procedimiento se impone.
+
+    Los problemas bulbares cuando se presentan, dan perturbación del comando ventilatorio y de la función vegetativa así como parálisis de los músculos de la deglución en casos muy graves. Las parálisis pueden aparecen durante el tiempo que dure la fiebre. Se obtendrán muestras de la secreción faringea y de las heces para dosificar anticuerpos.
+
+    En los niños que tienen déficit de la inmunidad humoral, la poliomielitis sobreviene a pesar de una vacunación correcta; tal eventualidad impone un balance inmunitario completo.
+
+    Cuando la deficiencia de la inmunidad es celular o asociada a la humoral, la poliomielitis reviste una forma particular: tiempo de incubación más larga; evolución hacia el tipo crónico con agravación progresiva; asociación de lesión encefálica y riesgo de muerte, si el déficit inmunitario no puede ser corregido.
+
+    Tratamiento
+
+    La primera acción se refiere a conseguir el aislamiento del enfermo y a declarar al servicio pertinente del Ministerio de Salud. No existe ningún tratamiento activo.
+
+    En la fase de extensión de las parálisis se mantendrá el reposo completo. Se debe evitar toda investigación o inyecciones inútiles. Los dolores se mitigarán con acetominofén, con el calor: se procede a calentar paños de lana previamente cortados, de tamaño y forma apropiados en agua hirviendo; se exprimen completamente y de inmediato se aplican sobre las zonas musculares afectadas. Se deberán cubrir con material aceitado o engomado y posteriormente al enfermo se envolverá con sabanas. Las aplicaciones se harán tan frecuentemente como sea posible; la fiebre no contraindica el procedimiento.
+    Fisioterapia: Es el factor individual mas importante en la “curación”.
+    Los movimientos se principian durante la etapa aguda en el lugar doloroso únicamente. Todas las extremidades deberán ser ejercitadas para prevenir la anquilosis articular. La movilidad activa se iniciara cuando el dolor desaparezca. La administración de corticoides está prohibida.
+
+    Si los casos son severos, con ataque respiratorio o con signos bulbares, el recurso de la ventilación es indispensable, aunque no haya parálisis respiratorias extensas.
+
+    Para las parálisis de la deglución el tratamiento es el mismo que en el síndrome de Guillan-Barré.
+
+    Lesiones medulares centrales
+
+    Paraplejias o tetraplejias traumáticas:
+    Son las más frecuentes en la hora actual: caídas de altura, accidentes en la vía publica, traumatismos de bicicleta.
+
+    Si hay lesiones óseas o luxación es imperativo  y urgente que intervengan equipos especializados: las radiografías son difíciles de hacer, ya que transportar al paciente entraña peligro, además que minimizan siempre las lesiones anatómicas. En general se trata de fracturas del raquis cervical. Para las lesiones dorsales altas, frecuentes en el niño, especialmente fracturas de la D4, solicitar una radiografía con la región bien centrada, o mejor tomografías; la inmovilización prolongada es necesaria. Se discute entre la vía anterior las más lógica, y la vía posterior, la menos agresiva, para el tratamiento quirúrgico.
+
+    Las lesiones dorsales bajas y lumbares no son habitualmente tratadas en urgencias.
+
+    Cuando las radiografías no muestran lesión ósea, es indispensable practicar una punción lumbar con la prueba de Queckenstedt-Stookey, para eliminar el hematorraquis, cuya indicación quirúrgica es urgente.
+
+    El estudio de la médula por tomo densitometría aporta un elemento importante en las indicaciones de estos pacientes ya que permite diferenciar el hematoma extradural raquídeo de la hematomelia, antes del acto quirúrgico. Cuando no hay indicación operatoria un tratamiento antiedema, igual al que se emplea en edema cerebral, es obligatorio; reemplaza las laminectomías de descompresión que son el origen de catástrofes ortopédicas ulteriores.
+
+    Comprensión lenta de la médula:
+
+    Se asocia, dentro de su forma típica con un síndrome lesional radicular; con un síndrome sublesional piramidal: problemas sensitivos, esfinterianos, y con un síndrome con rigidez segmentaria del raquis, de formación dolorosa y dolor provocado. Este cuadro clínico impone urgentemente que se efectúen algunos exámenes complementarios: radiografía del raquis, punción lumbar, maniobra de Queckenstedt-Stookey, miolografía lipoidea en caso de lesión lumbar, mielografía gaseosa en caso de lesión cervicodorsal y transferencia rápida a neurocirugía.  En algunas formas se desconoce el diagnóstico porque el niño minimiza los problemas sensitivos y los motores, pudiendo ser injustamente atribuidos a las alteraciones de la estática o de la marcha; es decir que es bueno pensar en el valor de toda anomalía de aparición reciente señalada por los padres.
+
+    Estos nuevos signos se refieren a la aparición de una escoliosis o de una cifosis; de vertebrales severos. Las causas de comprensión medular son muy numerosas, pero por lo general evidencian un origen tumoral.
+
+    Mielitis agudas:
+
+    Realizan una paraplejia o una tetraplejia de instalación muy rápida, con elevación de la temperatura. A parte de las lesiones vasculares medulares siempre evocadas hay que investigar el origen viral, de las paperas, del sarampión, coxsackies. No se puede olvidar el inicio de la esclerosis en placas; el diagnóstico se confirma posteriormente por la aparición de otros signos, en particular un nistagmus y periodos evolutivos que revisten gravedad.
+
+    Tratamiento Sintomático
+
+    Cualquiera que sea la etiología de una paraplejia o de una tetraplejia, un cierto número de medidas sintomáticas son indispensables.
+
+    Tetraplejia: los problemas respiratorios ponen en juego el pronóstico vital. En casos de ataque de C2, C3, C4, hay a la vez participación de los músculos inspiradores y expiradotes, donde la asistencia respiratoria inmediata es imperativa.
+
+    Cuando las lesiones son de C5, C6, C7, C8, el déficit de los músculos expiratorios predomina. La intubación prolongada o la traqueostomía son a veces necesaria en razón de la posibilidad de obstrucción difusa, de atelectasia o de sobre infección. La asistencia ventilatoria será obligatoria. La atropina deberá administrarse en caso de bradicardia.
+
+    La hipotensión, problemas de la termorregulación, digestivos esfinterianos, del metabolismo del agua y de los electrolitos serán manejados con los métodos ya conocidos.
+
+    Paraplejia: la prevención de escaras y la patología de esfínteres deben tratarse con toda precaución. Si el estado de secuelas ya se instalo puede complicarse con el síndrome de hiperreflectividad autónoma: vasoconstricción refleja, originada por una excitación sacra (vesícula, recto, órganos genitales), con hipertensión brusca, con bradicardia, enrojecimiento de la cara, transpiración, dilatación pupilar, cefalea intensa. Este accidente puede complicarse con crisis convulsivas y hemorragia cerebro meníngea; hay que buscar la causa (sonda vesical, estreñimiento)
+
+    Afecciones Musculares
+
+    Las Miositis agudas, de origen tóxico o infeccioso, entrañan un déficit motor importante; se acompaña de dolores muy vivos que impiden todo movimiento aunque la fuerza muscular este algo conservada. La fiebre es habitual, igual que la mioglobinuria, la hiperfosforemia y la hipocalcemia.
+
+    Miopatías
+
+    Son de aparición congénita o lentamente progresivas no demandan tratamiento de urgencia, salvo en casos con complicaciones intercurrentes.
+
+    La miopatía de Duchenne de Boulogne es una enfermedad hereditaria ligada al sexo. Afecta electivamente a los varones; se caracteriza por problemas respiratorios los unos son debidos a las deformaciones raquídeas y pueden ser prevenidas por medidas ortopédicas, los otros a la degeneración de las fibras de los músculos respiratorios y son inevitables. La muerte se produce por insuficiencia miocárdica o por accidente vascular cerebral.
+
+    La miopatía facio-escapulo-humeral y la miopatía de la cintura pueden dar ataques parciales respiratorios cifoscoliosis. Una reanimación respiratoria transitoria es necesaria para curar las neumonías intercurrentes.
+
+    Miastenia
+
+    La gravedad de esta enfermedad se manifiesta cuando la aparición es brusca, hay insuficiencia respiratoria y dificultades de la deglución. La evolución es variable y las modificaciones imprevisibles. Puede llegar a la descompensación por acción limitada de los medicamentos.
+
+    Los anticolinesterásicos coma la prostigmina en comprimidos de 15 mg., ampollas con 0.5 mg. cuya acción dura dos horas; el Mestinón en comprimidos de 60mg. que tiene una actividad de cuatro horas; el Mytelase en comprimidos dosificados a 10 mg., con acción de tres horas, son prescritos calculando espacios y los horarios óptimos para administrarlos. Estos medicamentos se pueden asociar a los atropínicos para atenuar los efectos muscarínicos. El aumento de la posología nos hará pensar que la enfermedad se agrava y podemos esperar una intensa descompensación de la función respiratoria. Cuando los anticolinesterásicos ya no controlan el estado miasténico pueden producir una crisis colinérgica. Entonces se debe interrumpir el tratamiento, colocando al niño bajo asistencia respiratoria y volviendo después a iniciarlo con dosis progresivamente crecientes. La kalemia se mantendrá en el límite superior normal, las espironolactonas se pueden usar con este objeto.
+
+    Actualmente, la constatación de una miastenia obliga a investigar una alteración auto-inmune. Los tratamientos como la timectomía, corticoterapia. Inmunodepresión, plasmoféresis son eficaces pero por el riesgo de desfallecimiento respiratorio solo deben efectuarse en un servicio de reanimación especializado.
+
+    Es formalmente contraindicado alimentar a estos enfermos por sonda duodenal si no son intubados ni traqueotomizados, en razón de riesgo de falsa ruta.
+
+    Ataque central
+
+    Puede ser cortical, subcortical, protuberancial, bulbar, peduncular.
+
+    Hemiplejia: Es relativamente para el niño exceptuando la clásica hemiconvulsión-hemiplejia. Fuera de este contexto la constatación de una hemiplejia intensa nos lleva pensar en una malformación vascular, un proceso infeccioso (endocarditis de Osler, meningitis tuberculosa) o parasitaria (quiste hidatídico). Ciertas cardiopatías congénitas cianosantes (tetralogía de Fallot), hemoglobinopatías (drepanocitosis) pueden ser la causa.
+
+    El tratamiento es preventivo: oxigenoterapia en la drepanocitosis; líquido suficiente y anticoagulante cuando se trata de cardiopatías. Una vez que el accidente se instala el manejo es solo sintomático: reeducación precoz, posturas, prevención de las escaras.
+
+    Hemiplejías progresivas: se manifiestan generalmente cuando existe un tumor cerebral.
+
+    Parálisis mal sistematizadas: son el atributo de las encefalopatías.
+
+    En todas estas afecciones el tratamiento causal es primordial. Los barbitúricos serán dados de manera obligatoria. En enfermos con edema cerebral se utilizarán ventilación artificial, manitol, glicerol (1.5 a 2 g./Kg./24h.), los corticoides tipo dexametoxona a los diuréticos como la furosemida.
+
+    Recientemente los investigadores han insistido sobre la acción antiedema cerebral del fenobarbital con altas dosis, 0.01 g./Kg./24h. por vía intramuscular, o el thiopental por vía intravenosa, de 0.03 a 0.06 g./Kg./24h.
+  bibliografia:
+  - BAROIS A.- Syndrones paralytiques augus.- Pédiatrie.- éd., Paris, 2002.
+  - BELL W. et Coll.- Fisher syndrome in childhook.- Develop. Méd. Child. Neurol, 1970, 12758-766.
+  - PAGES M. et coll.- Neuropathie congénitale par hypomyélinisation.- Arch. France, Pédiat., 1983m, 40,
+    N-7, 557-560.
+  - ROBAIN O et coll.- Les paralysies bulbaires progressives juveniles.- Arc. France. Pédiat., 1981, 38,
+    n-1, 19-24.

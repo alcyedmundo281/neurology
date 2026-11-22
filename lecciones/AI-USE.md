@@ -102,6 +102,11 @@ Quedan a cargo de los autores humanos:
 No se cargan a servicios de inteligencia artificial datos de pacientes ni manuscritos
 confidenciales de terceros. Los escaneos de la obra de 1993 son de la familia del autor y
 se procesan con su autorización. Se guardan fuera del repositorio público (`fuentes/`).
+Desde el 22 de noviembre de 2026, por decisión del editor, el repositorio guarda en
+`referencias-legado/` una transcripción no canónica, hecha por una persona, de los capítulos
+escritos por la familia. Es referencia de trabajo, no texto del libro: no lleva prólogos,
+dedicatorias ni capítulos de autores ajenos a la familia, ni firmas, y ningún pasaje se cita
+desde ella sin cotejarlo con la fotografía del impreso.
 
 ---
 

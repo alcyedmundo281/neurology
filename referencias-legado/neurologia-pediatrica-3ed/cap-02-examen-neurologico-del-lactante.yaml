@@ -1,0 +1,84 @@
+# Capítulo II de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 2
+  romano: II
+  titulo_en_la_fuente: EXAMEN NEUROLOGICO DEL LACTANTE
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: "En esta edad el examen debe investigar dos áreas:\nLa una, que requiere de una técnica particular\
+    \ y rigurosa, con el fin de encontrar signos neurológicos anormales indicativos de una lesión, si\
+    \ esta existiera.\n\nLa otra es una evaluación del desarrollo psicomotor y de las posibilidades sensoriales\
+    \ que están íntimamente ligadas a el.\n\nEn este estudio es disociar las manifestaciones puramente\
+    \ neurológicas (tono, reflejos) de la evaluación del comportamiento y del estado psíquico.\n\nEs mucho\
+    \ mejor tener la apreciación de las actitudes intelectuales y afectivas, aunque el examen neurológico\
+    \ descubra una disfunción cerebral. Fig. 18\n\nFig. 18\nREACCION DE PARACAIDISTA\n\nDesarrollo Psicomotor\
+    \ por Aldrich y Norval\n\nHay que investigar las principales etapas de desarrollo, sobre todo durante\
+    \ el primer año, ya que así se podrá hacer un diagnostico precoz de un retardo que probablemente se\
+    \ pondrá en evidencia en la edad preescolar o tardíamente. Debemos interrogar cuidadosamente a los\
+    \ padres sobre lo siguiente.\n\nPrimer mes:       Sonríe como respuesta a la voz de un adulto.\nSegundo\
+    \ mes:    Vocaliza emite sonidos espontáneos o merced a un estimulo.\nTercer mes:       Controla la\
+    \ cabeza, esta no cae hacia atrás, cuando se levanta de posición supina hasta sentarlo.\nCuarto mes:\t\
+    Controla la mano, sujeta un juguete con una o ambas manos cuando se encuentra por encima de el.\n\
+    Quinto mes:       Rueda, de boca arriba a boca abajo.\nSexto mes:\tSe sienta solo, durante algunos\
+    \ momentos.\nSéptimo mes:\tComienza a arrastrarse rodándose, empujándose sobre el abdomen o sobre\
+    \ la espalda.\nOctavo mes:       Presión, junta el pulgar son el índice para coger pequeños objetos.\n\
+    Noveno mes:      Se incorpora para ponerse de pie.\nDécimo mes:    Camina con ayuda, sujetándose de\
+    \ un barandal, de los muebles o de la mano de un adulto.\nDécimo mes:      Se para solo, sin ayuda\
+    \ durante algunos momentos.\n\nEl interrogatorio se termina por la evaluación de diversos factores\
+    \ que pueden determinar algunos retrasos del desarrollo.\n\n\t- Nivel socio-económico y cultural de\
+    \ los padres.\n\t- Tiempo que la madre dedica al cuidado de su hijo.\n- Y en fin las posibilidades\
+    \ que tienen el niño para recibir el cuidado, el estimulo para que se presenten las actividades motrices,\
+    \ el lenguaje, etc.\n\nTiempo en que desaparecen los reflejos arcaicos o primarios\n\nGrasping de\
+    \ manos\t\t\t\t3 meses\nGrasping de pies\t\t\t\t9 meses\nMoro\t\t\t\t\t\t2-3 meses\nAlargamiento cruzado\n\
+    De los miembros inferiores\t\t\t4 meses\nPuntos cardinales\t\t\t\t3 meses\nMarcha automática\t\t\t\
+    \t4-5 meses\n\nToda persistencia de estos reflejos mas allá del tiempo mencionado indica la presencia\
+    \ de patología neurológica que debe ser examinada. Fig. 19\n\nFig. 19\n\nPARALISIS ESPASTICA\n\nDurante\
+    \ el examen neurológico del niño mayor debemos buscar el signo de Babinski, que consiste en estimular\
+    \ el borde externo de la planta del pie a partir del talón con un objeto no traumatizante. Su interpretación\
+    \ es muy discutida, pues algunos autores indican que no tienen significación patológica hasta la edad\
+    \ de un año; pero trabajos recientes confirman que si el dedo grande del pie reacciona con franca\
+    \ extensión acompañada de un separamiento de los cuatro dedos en forma recurrente se tendría una afección\
+    \ neurológica.\n\nReflejo de Landau.- Aparece hacia tercer mes de edad y tiende a desaparecer entre\
+    \ el séptimo mes y los dos años. Consiste en levantar al niño que esta en posición ventral sobre la\
+    \ mesa de examen y con la otra mano, flexionar la cabeza, consiguiendo concomitantemente la flexión\
+    \ de los miembros inferiores sobre la pelvis. Fig. 20-21\n\nFig. 20\nREFLEJO DE LANDAU 1er TIEMPO\n\
+    \nFig. 21\n\nREFLEJO DE LANDAU 2do TIEMPO\n\nPrueba de Barrera – Moncada\nPara la evaluación del desarrollo\
+    \ psicomotor de los 12 a los 60 meses de edad. El médico anotara todas las respuestas positivas y\
+    \ la suma de ellas nos permitirá hacer el diagnóstico de la normalidad o retraso que presente el paciente.\n\
+    \nEntre 16 y 20 meses:           Bebe bien de taza o vaso\nEntre 20 y 26 meses:\tVocaliza más de cinco\
+    \ palabras\nEntre 22 y 34 meses:\tSalta en dos pies\nEntre 23 y 36 meses:\tSe lava y seca las manos\n\
+    Entre 26 y 43 meses:\tDice su nombre completo\nEntre 27 y 44 meses: \tCopia un círculo\nEntre 32 y\
+    \ 50 meses:\tSe balancea en un solo pie más de cinco segundos\nEntre 36 y 60 meses:\tControla esfínteres\n\
+    Entre 36 y 62 meses:\tReconoce cuatro colores básicos\nDespués de 49 meses:\tCopia un cuadrado\nDespués\
+    \ de 47 meses:\t Retrocede colocando un pie detrás de otro\nDespués de 54 meses:\tReconoce el material\
+    \ de cuchara, puerta, zapato. Etc.\n"
+  bibliografia:
+  - AMIEL – TISON C.- Neurolgical evaluation of the maturity of Newborn infants- Arc. Dis. Child., 1968,
+    43, N-227, 8993.
+  - BRAZELTON T.B.- Echelle d’evaluation du comportement de l’enfant.- Neuropsychiatr. Enfance., 1983,31,
+    N-2-3, 61-96.
+  - FESSARD C.- Technique de l’examen neurologique.- Encycl. Méd. Chir., Paris, France, Pédiatrrie, 4090
+    A50, 1-1967.
+  - Ministerio de Salud Publica.- Evaluacion del desarrollo psicomotor.- Manual de normas para la atención
+    materno infantil; Quito, Ecuador, 3 edicion. 1988, 133.
+  - SILVER HK.- Desarrollo de la personalidad.- Manual de Pediatria; Denver, Colorado, 10 edicion 1981,
+    33.
+  - RICH E. C., MARSHALL R. E., et VOLPE J. J.- The normal neonatal response lo pinprick.- Develop. Med.
+    Chid. Neurol., 1974, 16, 32- 434.
+  - TORRES A.- Examen Neurologico del lactante.- Poligrafiados de Neurologia Infantil.- Fac. Ciencias
+    Médicas Universidad Central, Quito, Ecuador. 1986.

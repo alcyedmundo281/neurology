@@ -1,0 +1,67 @@
+# Capítulo XXIII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 23
+  romano: XXIII
+  titulo_en_la_fuente: PROBLEMAS PAROXISTICOS DEL TONO
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    TORTICOLIS:
+
+    Ante la aparición de una tortícolis o de una rigidez de nuca se debe pensar en lo siguiente:
+
+        • tumor de fosa posterior
+
+        • tumor de médula cervical (alargamiento del canal raquídeo)
+
+        • anomalías de las articulaciones que unen la columna cervical al cráneo
+
+        • síndrome de Grisel, en caso de fiebre y de infección faríngea
+
+        • intolerancia a las fenotiazinas (retracción intensa y dolorosa de la nuca en extensión)
+
+        • ataque a los músculos de la nuca en el curso de una polimiositis
+
+        • tortícolis espasmódica psicógena (muy rara), o una tortícolis espasmódica como manifestación inicial de una distonía muscular deformante
+
+        • tortícolis paroxística benigna, síndrome caracterizado por episodios intermitentes de tortícolis a menudo muy dolorosos; a veces acompañado de vómito, sensaciones de vértigo y de nistagmus durante media hora o incluso puede durar hasta algunos días, la resolución es espontánea después de 5 años.
+
+        • Hipotonía rápida y transitoria de la nuca que puede estar en relación con un miastenia.
+
+    Se recuerda que una posición anormal de la cabeza se presenta a veces de forma intermitente, puede estar ligada a una parálisis oculomotriz, que siempre se debe sospechar.
+
+    CAÍDAS SUBITAS TRANSITORIAS
+
+    Una perdida rápida y transitoria del tono da lugar a una caída que puede tener varias causas:
+
+        • crisis de pequeño mal aquinético (EEG característico)
+
+        • primeras manifestaciones de una leucoencefalitis aguda esclerosante subaguda (EEG: ondas W, periódicas y sincrónicas).
+
+        • Miastenia: caída al momento de realizar un esfuerzo (investigar la ptosis palpebral, signo de fatiga muscular de la tarde y déficit muscular de las raíces de las extremidades).
+
+        • Compresión intermitente de la médula por una anomalía de la articulación atloideo-axoidea provocando caídas rápidas transitorias.
+
+        • Lipotomias emocionales o ligadas al ortostatismo.
+
+    No se debe desconocer las causas de origen psiquiátrico.
+  bibliografia:
+  - BRESSMANS S., FAHN S.- Escential myoclonus.- Adv. Neurol., 1986., 43, 287-294.
+  - KASSEM J.- Vertige et Torticolis paroxystique bénins de l’enfant. Relation avec la migraine et le
+    vertige de Ménier.- Thése Méd., Paris, 1992.
+  - LYON G.- Troubles paroxistiques du tons.- Pediatrie D’Urgence 1994.

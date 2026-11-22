@@ -1,0 +1,47 @@
+# Capítulo XX de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 20
+  romano: XX
+  titulo_en_la_fuente: MIGRAÑAS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    Las migrañas son cefaleas paroxísticas, separadas por intervalos totalmente libres de dolor. Al menos 2 criterios son necesarios para el diagnóstico; nauseas o vómitos, aura visual (escotomas), carácter hereditario (padres o familia).
+
+    La cefalea es típicamente unilateral (frontal, retroorbitaria) pero puede ser difusa. Se acompaña de fotofobia, seguido de sueño. La duración varia entre media a dos horas en general.
+
+    Más o menos un tercio de casos sobreviene antes de los 10 años.
+
+    Entre otros signos asociados, lo más frecuente son las parestesias faciobraquiales y linguales unilaterales, vértigo, dolor abdominal, ilusiones visuales (micropsia, metamorfopsia), diplopía y la ptosis transitoria son posibles. No hay que olvidar que en el curso de las crisis migrañosas esenciales se tiene modificaciones electroencefalográficas impresionantes.
+
+    Si los criterios descritos hasta hoy están presentes no hay duda del diagnóstico. El problema es terapéutico, variable según los individuos y los resultados; lo esencial es no emplear medicamentos tóxicos.
+
+    Como único elemento de sospecha de lesión cerebral orgánica es el dolor, signos neurológicos o anomalías en EEG, que aparecen entre las crisis migrañosas típicas.
+
+    Si hay duda, lo que es raro, se justifica apelar a los exámenes complementarios sabiendo que las arteriografías y sobretodo la arteriografía vertebral son muy mal tolerados por los migrañosos.
+
+    Hay otras causas de cefalea crónica repetitiva, que se diferencia de una migraña como las cefaleas “de tensión” o psicógenas. Sobretodo en el niño mayor y muy rara epiléptica. (eliminando la hipertensión intracraneana).
+
+    En estos casos la existencia de problemas de la conciencia o de fenómenos paroxísticos motores asociados, el tipo de anomalía, EEG y eventualmente la prueba terapéutica permiten diagnosticarle.
+
+    Es necesario saber que las cefaleas de ritmo variable pueden ser provocadas por los problemas de refracción ocular.
+  bibliografia:
+  - ABBOTT R. J., VAN HILLE P. T.- Thunderclap headache and unruptured cerebral aneurysm.- Lancet, 1986,
+    II, 1459.
+  - EMERY E.S.- Acute confusional state in children with migraine.- Pediatric, 1991, 60, 110-114.
+  - ROTHER A. D.- The migraine syndrome in children and adolescents.- Pediatr. Neurol. 1992, 2, 121-126.

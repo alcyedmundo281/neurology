@@ -1,0 +1,74 @@
+# Capítulo XXI de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 21
+  romano: XXI
+  titulo_en_la_fuente: TRASTORNOS PSICOMOTORES
+  autoria_distinta_del_autor_fundador: true
+  citable_como_legado: false
+  texto: |
+    Mejor conocidos bajo el nombre de parálisis cerebral, son trastornos de tono muscular. Este término ha perdido vigencia por su falta de especialidad. La base está en el sistema nervioso central y se refiere a lesiones que no cambian con el transcurso del tiempo; Los síntomas tienden a mejorar sin embargo no están bien establecidos hasta los 4 años.
+
+    La causa exacta es desconocida en la mayoría de casos, sin embargo los factores prenatales representan el 11%, perinatales 30% y postnatales 7%. La incidencia es de 1.2 por 1000 niños de 3 años de edad. La incidencia es probablemente mayor en nuestros países.
+
+    Las causas están relacionadas con la edad gestacional al nacer y el grado de enfermedad, así en los niños nacidos a término y muy enfermos se debe considerar hipoxia y mal formaciones congénitas del sistema nervioso. En recién nacidos de bajo peso al nacer, en cambio la prematuridad, malformaciones congénitas, corioamnionitis, embarazos gemelares especialmente si uno de los gemelos muere durante la gestación, fibronectina positiva en la secreción de la cérvix y Kernicterus, que da lugar a un tipo atetoide de parálisis cerebral debido a la lesión de los ganglios de la base.
+
+    Otros factores relacionados a PC son las infecciones del sistema nervioso, toxinas como el mercurio, trastornos tiroideos, administración de estrógenos y periodos menstruales anormales. Los cambios patológicos corresponden a hemorragias subependimarias, intraventriculares, hipoxia, cambios quísticos de la sustancia blanca, leucomalacia periventricular, anormalidades corticales.
+
+    Es importante estar seguros que no hay regresión del desarrollo, porque en ese caso el diagnóstico diferencial es más amplio y debe investigarse.
+
+    Examen Clínico
+
+    La quadriparesia espástica es común en recién nacidos con hipoxia, y la diplegía espástica es más común en prematuros. Usualmente se presentan con retardo del desarrollo. Si las anormalidades son leves, el diagnóstico debe hacerse con cautela ya que muchas de estas deficiencias se resuelven espontáneamente y no se asocian a ninguna lesión demostrable.
+
+    Algunos síndromes se han descrito dependiendo de cuales son los signos más prominentes como la espasticidad hemipléjica, quadriplégica, y diplégica, según afecte un lado del cuerpo, todas las extremidades a los miembros inferiores respectivamente.
+
+    La hemiplegia espástica se manifiesta durante el segundo año. El brazo está más afectado que la pierna y la hipotonía puede ser el signo más prominente inicialmente. Se detectan signos de lateralización temprana, y problemas en el desarrollo motor grueso, fino, coordinación y de pinza. El reflejo de presión palmar persiste más allá de los 6 meses. El brazo se coloca en pronación y la extensión del codo es limitada. Al tratar de alcanzar objetos se puede distinguir el signo de la cuchara, con flexión de la muñeca e hiperextensión de los dedos.
+
+    La cara no suele estar afectada. La marcha es en circumducción. El niño camina en los dedos de los pies. El brazo se mueve menos y generalmente asume una posición de postura, débil dorsiflexión del pie, hiperreflexia, clonus, y Babinsky. Hay retardo del crecimiento de las extremidades. Estas asimetrías se ponen de manifiesto al comparar ambos pulgares, comparar el tamaño de las piernas, trastornos de la marcha y problemas sensitivos.
+
+    El 28% de estos pacientes tienen retardo mental y el 30% convulsiones. Las convulsiones son más frecuentes en pacientes de retardo mental, pero el pronóstico se correlaciona mejor con los electroencefalogramas y resonancia magnética nuclear. La presencia de malformaciones cerebrales aumenta la posibilidad de retardo mental y convulsiones.
+
+    La espasticidad quadriplégica se refiere al incremento del tono muscular en las cuatro extremidades, mayor en las extremidades inferiores. La posición de opistótonos aparece en el primer año de vida. El movimiento de la cabeza puede ocasionar posición de descerebración. Puede haber parálisis bulbar supranuclear causando trastornos de deglución e incoordinación orofaringea. Cerca del 50% de niños que tienen convulsiones generalizadas y muchos tienen retraso severo.
+
+    El examen revela espasticidad severa, hiperreflexia, clonus y Babinsky. Debilidad de la dorsiflexión y pie en equinovarus. La espasticidad de la cadera puede dar lugar a displasia de cadera. Contracciones de flexión de las muñecas y los codos son evidentes.
+
+    Hay una incidencia mayor de trastornos visuales, auditivos motores del aprendizaje que en otros tipos de espasticidad.
+
+    La espasticidad diplégica se caracteriza por espasticidad en ambas piernas mucho mayor que en los bazos. Los prematuros son los niños más afectados hasta un 80%. Algunos niños desarrollan ataxia, y problemas de fuerza y coordinación. En la posición vertical las piernas se cruzan, lo cual se llama signo de la tijera, y el tronco se hiperextiende. Los pies se mantienen en equinovarus. Hay debilidad de la dorsiflexión de los pies. Los niños caminan en los dedos de los pies.
+
+    En el examen se encuentra hiperreflexia, clonus y Babinsky. Puede haber displasia de cadera, los brazos pueden estar flexionados o extendidos, o toman diferentes posturas. Hay incoordinación, los brazos pueden estar extendidos, mantenidos en pronación, y las manos y puños especialmente al correr. Una de las piernas puede ser más corta debido a la disfunción del lóbulo parietal. Después del segundo año las contracciones son evidentes. El 27% tiene convulsiones, 43% estrabismo, y 30% retardo mental.
+
+    Otras formas son las asociadas a corea, atetosis, distonías, hipotonía y ataxia dependiendo de los síntomas predominantes. Las formas mixtas son frecuentes y a menudo llamadas por los signos sobresalientes. Si hay evidencia de progresión o perdida de la función investigaciones extensas son necesarias para establecer el diagnóstico.
+
+    El tipo de parálisis cerebral, el retardo del desarrollo, la inteligencia, y las emociones afectan el pronóstico. Los niños con hemiplegia usualmente caminan a los dos años. Algunas veces necesitan una férula corta de pierna y la mano afectada. EL 25% tiene hemianopsias y un número no determinado convulsiones.
+
+    Más del 50% de niños con diplegia espástica aprenden a caminar a los 3 años, la marcha es anormal y a menudo requieren muletas. Las anormalidades de función ocular son comunes. De los niños quadraplégicos el 25% requieren cuidado total. El retardo mental, los trastornos bulbares, la hipotonía y los reflejos patológicos son parámetros de mal pronóstico. Hay problemas de coordinación y motora fina.
+
+    La mayoría de niños que se sientan a los dos años caminan. En cambio aquellos con reflejo de Moro, reflejo tónico asimétrico del cuello, reflejo extensor del cuello y ausencia de la maniobra del paracaídas tendrá muchas dificultades para caminar.
+
+    Tratamiento
+
+    El tratamiento es de soporte en cuanto a convulsiones, nutrición y problemas del aprendizaje. Los problemas motores se tratan con terapia física acupacional, cirugía ortopédica, fisiatría y ortosis. La toxina botulínica es una alteración importante. Trabaja inhibiendo la liberación de acetilcolina en el lado presináptico de la unión mioneural, produciendo debilidad del músculo. Se usa cuando un número limitado de músculos intervienen en la contractura. Se administra a través de inyecciones intramusculares. La eficacia dura aproximadamente 2 a 4 meses.
+
+    Otros tratamientos son la bomba intratecal de baclofen, medicinas como dantrolene baclofen, diazepam, estimulación eléctrica transcutánea, rizotomía dorsal selectiva y cirugía ortopédica.
+  bibliografia:
+  - FENICHEL G. Clinical pediatrie neurology, Fourt edition, Ed. Saunders, 1991, p. 243-280.
+  - SWAIMAN L., Pediatric Neurology, Principles and Practice., Third edition, 1999, Ed. Mosby, p. 312-324.
+  - AICARDI J.- Diseases of the Nervous System in Childhood. Second edition, Ed. Cambridge University
+    Prees, 1998, p. 210=239.
+  - VOLPE, J.J. Neurology of Newborn, fourth edition, ed. Saunders. 2000.

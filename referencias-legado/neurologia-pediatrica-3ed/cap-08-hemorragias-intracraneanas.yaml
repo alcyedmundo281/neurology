@@ -1,0 +1,122 @@
+# Capítulo VIII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 8
+  romano: VIII
+  titulo_en_la_fuente: HEMORRAGIAS INTRACRANEANAS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: "Hemorragias subaracnoideas\n\nLas hemorragias intracraneanas no traumáticas son frecuentemente\
+    \ subaracnoideas.\n\nSintomatología\n\nEs más o menos evidente. Las hemorragias deben ser investigadas\
+    \ en presencia de un síndrome meníngeo agudo de inicio brusco y sin fiebre; ante un cuadro neurológico\
+    \ focal o difuso de instalación aguda con cefaleas y problemas de la vigilancia.\n\nDiagnóstico\n\n\
+    Se fundamenta en el estudio del líquido cefalorraquídeo obtenido por punción lumbar: hemorrágico de\
+    \ coloración idéntica en tres tubos cuando la hemorragia es reciente; líquido xantocrómico con reacción\
+    \ celular variable si la hemorragia data de algunos días.\n\nDistinguir con punción traumática es\
+    \ posible:\n    1. Por noción de incidentes en el procedimiento;\n    2. Por la igualdad de la coloración\
+    \ en los tres tubos;\n    3. Por la xantocromía de la parte líquida en un tubo dejado en reposo durante\
+    \ 4 a6 horas después de haberla obtenido, mientras que en casos de punción contaminada con sangre\
+    \ vascular se forma un coágulo dentro del tubo.\n    4. Por la formula del LCR: en casos de traumatismo\
+    \ la cifra de elementos blancos es de aproximadamente 1 p. 1.000 hematíes; la tasa de proteínas de\
+    \ 150 mg. p. 10.000 hematíes.\n\nEn cambio una reacción celular a polinucleares hasta 1.000 y una\
+    \ hiperproteinorraquia que alcanza numerosos gramos, asociada a una hipoglucorraquia, pueden observarse\
+    \ en ausencia total de hematíes, en los días siguientes a la hemorragia. El líquido es constantemente\
+    \ xantocrómico.\n\nEtiología\n\n    • En el lactante hay dos causas principales: el hematoma subdural\
+    \ que puede presentarse sin traumatismo y las trombosis de las venas o senos que van acompañando a\
+    \ las deshidrataciones agudas graves. En estos dos casos, el examen tomodensitométrico es útil porque\
+    \ permite ver la extensión y la lateralización del derrame.\n    • En el niño mayor, la causa mas\
+    \ usual es la ruptura de una malformación vascular, frecuentemente un angioma. El examen tomodensitométrico\
+    \ es imperativo. Muestra el hematoma intracerebral y la malformación vascular misma, después de la\
+    \ inyección del producto de contraste.\n    • La hemorragia puede revelar un grave estado de anoxia\
+    \ cerebral o, rara vez y a toda edad, meningitis purulenta, de donde la necesidad de un cultivo de\
+    \ LCR sistemático; también un tumor intracavitario o un problema de la coagulación (hemofilia A o\
+    \ B, déficit en factor XII, trombocitopenia). Un estudio de la coagulación y de la función hepática\
+    \ es indispensable en ausencia de causa evidente.\n\nTratamiento\n\nEs ante todo el etiológico. El\
+    \ enfermo requiere de vigilancia estrecha; es importante detectar el desarrollo de una hidrocefalia\
+    \ post-hemorrágica por bloqueo basilar que debe tratarse por la derivación. La sintomatología de esta\
+    \ complicación no es clara: problemas mentales, signos piramidales, ataxia, parálisis de la verticalidad,\
+    \ etc.\n\nHematoma subdural\n\nEtiología: Los derrames subdurales del lactante se producen por cuatro\
+    \ causas: traumática, idiopática, meningítica o asociada a una atrofia cerebral.\n\nLos derrames idiopáticos\
+    \ tienen una sintomatología y una evolución idéntica a los traumáticos. Las otras variedades no tienen\
+    \ historia clínica neta.\n\nSe distinguen según el aspecto del líquido: 1- los hematomas (sangre),\
+    \ 2- los hidromas (líquido amarillento), 3- los hidromas (líquido claro), características que no inciden\
+    \ en el tratamiento\n\nPresentación clínica\n\nEn el niño menor de un año, los signos siguientes determinan\
+    \ un hematoma subdural:\n    • Convulsiones que se presentan en más de la mitad de los casos, ordinariamente\
+    \ asociados a problemas de la vigilancia;\n    • Apneas, vómitos;\n    • Aumento del perímetro cefálico\
+    \ con separación de las suturas y algunas veces ojos con mirada al sol;\n    • Fracturas periféricas,\
+    \ en particular metafisarias (síndrome de Silverman);\n    • Hemorragias en el fondo del ojo;\n  \
+    \  • LCR hemorrágico o xantocrómico en la punción lumbar: el hematoma subdural es la causa mas frecuente\
+    \ de hemorragias subaracnoideas en el primer año de vida;\n    • Luego de una meningitis purulenta,\
+    \ se aconseja investigar derrame subdural cuando reaparece la fiebre por signos neurológicos y problemas\
+    \ de la conciencia.\n\nExámenes complementarios\n\n    • Fondo de ojo para investigar hemorragias\
+    \ preretinianas\n    • Transiluminación craneana. La presencia de un halo de mas de 2 a 3 cm. es normal;\n\
+    \    • Punción lumbar para buscar hemorragia subaracnoidea;\n    • Radiografías de cráneo de frente\
+    \ y perfil que pueden mostrar una fractura, una disyunción de las suturas;\n    • Radiografías del\
+    \ esqueleto;\n    • Punción bilateral del ángulo de la fontanela;\n    • Electroencefalograma de valor\
+    \ sobre todo pronóstico;\n    • Tomodensitometría que puede ser utilizada para precisar la importancia\
+    \ y la topografía del derrame y seguir la evolución.\n\nTratamiento\n\nEl objetivo es doble: 1- descomprimir\
+    \ el cerebro; 2- evitar el crecimiento excesivo de la bóveda craneana, causa de la desproporción cráneo\
+    \ cerebral. Esto se consigue parcialmente ya que un crecimiento del perímetro craneano de 2 a 3 cm.\
+    \ es difícil de evitar.\n\nEntre las técnicas propuestas la punción subdural repetida es la más simple\
+    \ y casi siempre suficiente. La trepanación o la derivación son indicaciones excepcionales.\n\nLa\
+    \ punción de la fontanela se realiza si se evidencian tres elementos: la tensión de la misma, el aumento\
+    \ diario del perímetro craneano y la existencia de problemas vegetativos, respiratorios o de alteración\
+    \ de la conciencia.\n\nEs preferible aceptar una cierta tensión de la fontanela, que repetir numerosas\
+    \ punciones. Frecuentemente se requiere de 2 a 5 que se efectúan alternando los dos lados si la hemorragia\
+    \ es bilateral. La persistencia de un pequeño contenido líquido, sin presión desde luego, no necesita\
+    \ ninguna medida terapéutica.\n\nAl fin del tratamiento, una vigilancia mensual o bimensual es indispensable.\
+    \ Una encuesta médico social es necesaria en caso del hemorragia traumáticas “hidropática”. El riesgo\
+    \ de recidiva es grande.\n\nResultados y pronóstico\n\nEl pronóstico depende más de las lesiones asociadas\
+    \ al hematoma que del método terapéutico escogido.\n\nEs favorable: 1- si el coma no dura más de 12\
+    \ horas o no persiste después de la evacuación; 2- si no se presentan convulsiones; 3- si el EEG no\
+    \ muestra mayor depresión de la electrogénesis o paroxismos precoces.\n\nEs desfavorable en los casos\
+    \ contrarios. Las secuelas epilépticas, mentales, y las visuales persisten en 1/3 de enfermos, aproximadamente.\n\
+    \nHEMATOMA EXTRADURAL\n\nEl sangrado proveniente de las venas durales o emisarias, o de los vasos\
+    \ sanguíneos medios, generalmente es una complicación de una afección cefálica cerrada.\n\nDATOS CLÍNICOS\n\
+    \n    a) Síntomas y signos: puede haber una evidencia local de trauma encefálico y antecedentes de\
+    \ incontinencia momentánea, seguida de un intervalo de lucidez de unos 30 minutos a varias horas,\
+    \ y luego presentación de la somnolencia incrementada. Obsérvese al enfermo igual que para el que\
+    \ tiene hemorragia subaracnoidea.\nPueden encontrarse hemiparesia, pupilas desiguales, reflejos tendinosos\
+    \ profundos hiperactivos y signo de Babinsky positivo. Los signos de gravedad son pulso rápido y débil,\
+    \ presión arterial baja e irregularidades respiratorias; la somnolencia puede progresar rápidamente\
+    \ al sopor al coma y a provocar convulsiones.\n    b) Datos de laboratorio: la punción lumbar no es\
+    \ necesaria, ya que los hallazgos no cambia el manejo del caso. El diagnóstico se establece con la\
+    \ angiografía cerebral y con la tomografía axial computada.\n\nTRATAMIENTO\n\nLa intervención quirúrgica\
+    \ puede ser un procedimiento de emergencia, pero no se deberá realizar mientras no se haya logrado\
+    \ la punción venosa y exista suficiente sangre para transfundir.\n\nDIAGNOSTICO DIFERENCIAL DE LAS\
+    \ HEMORRAGIAS INTRACRANEANAS EN EL NIÑO MAYOR\n\nHEMORRAGIA\t\tHEMATOMA SUBDURAL\t\tHEMATOMA\nSUBARACNOIDEA\t\
+    \             Etiología\t\t\t\tEXTRADURAL\t\t\t\t\t\t\t\t\t\tEtiología\n\n1. Trauma\t\t\t1. Trauma\t\
+    \t\t\t1. Traumatismo\t\t\t\t\t\t\t\t\t\t     craneal cerrado\n2. Aneurisma\t\t\t2. Niño maltratado\n\
+    3. Discrasias sanguíneas\n4. Leucemia\n5. Hipertensión\n\nSignos Diferenciales\n\n1. Instalación precoz\
+    \ entre\t1. Aparición tardía 2-4 semanas       1. Evidencia del trauma\n    24-48 horas después del\t\
+    \    después del trauma\t\t          2. Incontinencia\n    traumatismo\t\t\t2. Aumento del perímetro\
+    \ cefálico     momentánea seguida\n2. Fiebre 38.5 grados\tde lucidez y regreso a       la somnolencia\
+    \ mas grave.\n                                                                                   \
+    \                       3.-Hemiparesia, anisicoria\n\nSignos Comunes\n\nSíndrome de hipertensión intracraneal:\
+    \ se presenta cefaleas, nausea, vómito, letargo, delirio y coma final.\n\nAlteraciones del fondo de\
+    \ ojo: edema de papila, sangrado, hemorragias retinianas.\n\nSíndrome de irritación meníngea: reflejos\
+    \ anormales, apistótonos, convulsiones y en niños menores de 18 meses, fontanelas abombadas.\n"
+  bibliografia:
+  - 'AMIEL C.- Hémorragies cerebrales intraventriculaires chez le prématuré : Les élements du dianostic
+    clinique.- Biol., Neonat., Basel, 1964, 7, 57-75.'
+  - CUKIER F., ANDRE M., NONOD N.  et Coll.- Apporr de I’EEG en diagnostic des hémorragies intracentriculaires
+    du prématuré.- Rev. Electroencephalogr. Neurophysiol. Clin. 1977, 2, 318-322.
+  - HEIDRICH R.-  Subaracchnoidal hemorrhage.- Handbook of Clinical Neurology, 1987, 12, 68.
+  - SILVER H., KEMPE C., BRUYN H.- Enfermedades traumaticas del sistema nervioso.- Manual de Pediatría
+    10-ed., 1981, 21, 437.
+  - TORRES A.- Diagnóstico diferencial clínico de las hemorragias intracraneales en el niño.- las emergencias
+    neurológicas en pediatria, 1987, 3, 25.

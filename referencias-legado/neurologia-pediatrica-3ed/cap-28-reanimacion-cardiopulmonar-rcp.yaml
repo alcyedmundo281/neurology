@@ -1,0 +1,97 @@
+# Capítulo XXVIII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 28
+  romano: XXVIII
+  titulo_en_la_fuente: null
+  autoria_distinta_del_autor_fundador: true
+  citable_como_legado: false
+  texto: |
+    1. Reanimación cardiopulmonar (RCP)
+    A. El diagnóstico de paro cardiorrespiratorio debe efectuarse de inmediato (ausencia de pulso y respiración, cianosis). Es vital que se haga una reanimación rápida y ordenada en la que cada persona asuma su responsabilidad
+    1. La primera persona que se encuentre con el paro cardiorrespiratorio debe hacer el diagnóstico. Si el paciente está inconsciente se limpia la vía aérea, se aplican cuatro respiraciones en crescendo, palpándose después el pulso carótido-axilar-apical. Si el paciente sigue sin responder, se da la alarma y se comienza con el procedimiento VRC (ABC, airway, breathing, circulation; es decir, vía aérea, respiración, circulación).
+    2.   El equipo de reanimación está formado por:
+    a)  El Director (o persona más experta) a cargo del equipo es el que toma todas las decisiones terapéuticas, asigna el resto de las misiones y valora continuamente la calidad de la reanimación. Debe designar de inmediato a las personas encargadas de ocuparse de la vía aérea y de masaje cardiaco.
+    b)   La siguiente persona disponible debe conseguir una vía vascular.
+    c)  Medicaciones y registros. Se preparan las dosis adecuadas de las medicaciones. Se anotan el momento y las dosis que se administran, así como cualquiera otra actuación diagnóstica o terapéutica.
+    d) El ayudante general / asistente circulatorio obtiene y registra la tensión arterial, verifica que el masaje cardiaco y los movimientos toráxicos provocados por la ventilación sean adecuados y ayuda en lo que sea necesario.
+    e)  Historiador: Una persona debe encargarse de conseguir una historia preguntando a los padres o cuidadores y de mantenerlos, a su vez, informados de lo que sucede.
+    f)  Hay que monitorizar el ECG. Las personas que sean responsables de la RCP deben saber cambiar el papel de registro del electrocardiógrafo.
+    B.  Es necesario disponer del siguiente equipamiento:
+    1.   Vía aérea: Oxígeno, aspirador, sondas de aspiración, mascarillas de tamaño adulto y pediátrico, tubos endotraqueales, laringoscopio con hojas de tamaño adulto y pediátrico, tubos de respiración bucal, bolsas autoinflables y de anestesia, pinzas de McGill y esparadrapo.
+    2.   Fármacos: Véase tabla adjunta.
+    3.   Vía vascular: Jeringas, catéteres, charol de instrumentos de disección. Torniquete y esparadrapo.
+    4.   Otros: Manguito de tensión arterial, termómetro, electrocardiógrafo con electrodos, desfibrilador, sondas torácicas y pleurivacs, sondas de Foley, sondas naso gástricas, y marcapaso cardiaco.
+
+        C. El ABC de la reanimaron adaptado de las recomendaciones de American Heart Association.
+        1. Vía aérea (A. Airway).
+            a) Limpiar con una sonda de aspiración con una pera de goma o con el dedo.
+            b) La tracción de la mandíbula elimina la obstrucción provocada por la lengua y las partes blandas del cuello.
+            c) La cabeza debe permanecer en la línea media. Como en el niño la laringe es más anterior y superior que en el adulto, debe ponerse a aquel en posición de “olfateo”, colocando una almohada pequeña bajo el occipucio. Una hiperextensión extrema del cuello puede obstruir la vía aérea.
+        2. Respiración (B, breathing): Comenzar con la técnica de boca a boca o de bolsa a boca, con una frecuencia de 20/min. y con concentración de oxígeno más elevada de que se disponga. Vigilar los movimientos de la pared torácica con cada respiración para valorar si la ventilación es adecuada. ¡El tórax debe moverse! Si esto no sucede hay que comprobar si la vía aérea es permeable. A veces es necesario colocar un tubo endotraqueal para mantener abierta la vía aérea. Rara vez esta indicada una traqueotomía de urgencia.
+        3. Circulación (C.Circulation):
+    a)   Se coloca al paciente sobre una superficie dura y sólida y se comienza aplicar masaje cardiaco externo.
+    b)   Deben sincronizarse los esfuerzos de reanimación respiratoria y cardiaca, una respiración por cada cinco compresiones. La persona que aplica el masaje debe ir contando en voz alta y se aplica la respiración después de haber hecho la quinta compresión. La frecuencia con que debe hacerse es de 60 compresiones por min. en adultos y de 100 en lactantes.
+    c)   Si el enfermo es mayor de cuatro años puede hacerse un masaje similar al que se hace  en los adultos, con las dos manos. En los lactantes existen dos localizaciones correctas de las manos: (1) colocar ambos pulgares sobre el esternón mientras se curvan los dedos alrededor de la espalda, sobre la columna vertebral, o (2) colocar una mano por detrás, como apoyo, mientras se practica la compresión esternal con los dedos de la otra mano. Este segundo procedimiento puede utilizarse también en los niños de hasta 2 años. Siempre se debe liberar por completo el tórax de presión, entre las compresiones, para permitir el llenado de las cavidades cardiacas.
+    d)   Palpar el pulso femoral para valorar si las compresiones ejercidas son eficaces.
+    e)   En el momento en que llegue ayuda, puede instalarse un monitor de ECG.
+
+    4.  Fármacos
+    a)   Hay que conseguir una vía vascular cuando llegue ayuda. Es preferible una vía central. Pero también es aceptable una periférica. Si no se puede conseguir una vía, se administra atropina, adrenalina y lidocaína a través del tubo endotraqueal. La vía intracardíaca es peligrosa y solo debe utilizarse cuando no se disponga de ninguna otra.
+    b)   Si existe asistolia, el orden habitual de la mediación es bicarbonato, adrenalina, calcio y glucosa. Se administra atropina si existe bradiarritmia.
+    5. Tratamiento desfibrilador (cardioversión) para la fibrilación o la taquicardia ventricular:
+    a) En los casos de taquicardia ventricular se usa un método sincronizado; en la fibrilación ventricular, la desfibrilación o método no sincronizado.
+    b)   La dosis de 2-3 W/seg./Kg. o 10-15 W/seg./año de vida.
+    c)   Colocación de las placas.
+    1.  Es preferible la localización antero posterior, Se aplica el gel a las placas, colocándose, la posterior detrás del corazón  y la anterior sobre la región precordinal.
+    2.   Pared anterior del tórax. Se coloca una placa sobre el vértice y la otra sobre la escotadura esternal en la base del corazón.
+    d)  Asegurarse que “todas las manos están fuera de la cama y no tocan al paciente” antes de aplicar descarga.
+    e) Una vez hecha la maniobra, se reanuda inmediatamente la reanimación cardiorrespiratoria hasta que se consigue un gasto cardiaco eficaz.
+    f)   Si continúa la taquicardia o la fibrilación ventricular, repetir la descarga con un voltaje más alto, aumentar el voltaje un 50%.
+          Puede administrarse un bolo de lidocaína de 1 mg/Kg. IV antes de proceder a la cardioversión.
+
+    D.  Si la reanimación no consigue restablecer el gasto cardiaco, debe valorarse la causa del “paro” y descartarse factores mecánicos, metabólicos o de los dos tipos, tales como los que se enumeran a continuación:
+    1.  Hipotermia.- el paciente puede parecer muerto o no responder al tratamiento farmacológico si la temperatura es menor a 30ºC. La meticulosa reanimación cardiopulmonar debe ir acompañada del calentamiento del enfermo.
+    2.   Neumotórax  o hemotórax  a tensión.
+    3.   Taponamiento cardiaco.
+    4.   Hipovolemia profunda.
+    5.   Desequilibrio metabólico profundo.
+    6.   Ingestión de tóxicos.
+
+    E.  Las complicaciones iatrogénicas más frecuentes son:
+    1. Traumatismos secundarios al masaje cardíaco externo, fracturas de costillas acompañadas de neumotórax o hemotórax, rotura esplénica o hepática.
+    2. Cuando se ha conseguido reanimar al enfermo, este será estrechamente monitorizado.
+    Deben controlarse de forma constante:
+    1.   Aparato cardiovascular :
+    a)   Presión venosa central (PVC) con catéter, para valorar el estado del volumen intravascular.
+    b)   Monitorización contínua del ECG de 12 electrodos.
+    c)   Catéter de Swam-Gans para determinar el gasto cardíaco.
+    2.   Aparato respiratorio:
+    a)   Gases en sangre arterial (GSA) para documentar la validez de la ventilación y oxigenación.
+    b) Radiografía de tórax para descartar aspiraciones, neumotórax u fracturas costales.
+    3. Sistema nervioso central: observar si aparecen convulsiones o signos de hipertensión intracraneal.
+    4.   Riñón: la lesión renal más frecuente es la necrosis tubular aguda.
+    5.   Otras lesiones:
+    a) Lesión hipóxica del aparato digestivo.- Monitorizar la sangre en heces y realizar pruebas del funcionamiento hepático.
+    b)   Coagulación intravascular diseminada.
+    c) Si se sospecha un traumatismo, valorar esta posibilidad mediante las radiografías adecuadas y hematocrito seriados.
+    d)  La sepsis o una infección local grave pueden ser la causa que haya precipitado el paro, lo que debe ser tenido en cuenta a la hora de realizar técnicas “sucias” de urgencia.
+
+    FARMACOS UTILIZADOS EN REANIMACION
+  bibliografia:
+  - GRAEF J.W., CONE T.E.- Terapéutica de urgencia. Reanimación cardiopulmonar.- Manual de Terapéutica
+    Pediátrica – edición, 2000.
