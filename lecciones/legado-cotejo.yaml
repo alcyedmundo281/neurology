@@ -13,4 +13,31 @@
 #     sha256: aec19aff357ba3b9326bd1477b261c1c40f8948534807a511bb9d6322403525b
 #     cotejado_por: "Alcy Edmundo Torres Guerrero"
 #     fecha: 2026-11-22
-cotejos: []
+# Cotejo contra el impreso de 1993 de Alcy Ramiro Torres Guerrero, comunicado por el editor el
+# 22-nov-2026.
+cotejos:
+  - leccion: leccion-examen-neurologico-recien-nacido
+    paginas: "3"
+    sha256: 85b6a9b34eec4b54d8d6b41e81a8882752be9169b585584cb4d33df0599d0e1d
+    cotejado_por: "Alcy Ramiro Torres Guerrero"
+    fecha: 2026-11-22
+  - leccion: leccion-examen-neurologico-recien-nacido
+    paginas: "4-5"
+    sha256: 135fb369a0b8d02ce132bbba35b6205178813e3c3d430361b284f65ee73c233a
+    cotejado_por: "Alcy Ramiro Torres Guerrero"
+    fecha: 2026-11-22
+  - leccion: leccion-examen-neurologico-recien-nacido
+    paginas: "5"
+    sha256: 238c91371d380f845bd95f810f9886deb120af2e429302ab7cb0cd2c6b80745c
+    cotejado_por: "Alcy Ramiro Torres Guerrero"
+    fecha: 2026-11-22
+  - leccion: leccion-examen-neurologico-recien-nacido
+    paginas: "14-15"
+    sha256: 429c30c0263c77668b9c1f04879daa3f1563b4e627a1d2f81bb046142915eef5
+    cotejado_por: "Alcy Ramiro Torres Guerrero"
+    fecha: 2026-11-22
+  - leccion: leccion-examen-neurologico-recien-nacido
+    paginas: "16"
+    sha256: aec19aff357ba3b9326bd1477b261c1c40f8948534807a511bb9d6322403525b
+    cotejado_por: "Alcy Ramiro Torres Guerrero"
+    fecha: 2026-11-22
