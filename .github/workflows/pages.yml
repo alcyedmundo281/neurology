@@ -18,8 +18,15 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PYTHONPATH: tools
+      NEUROLOGY_DB: ${{ github.workspace }}/build/medsemiotics-db
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: alcyedmundo281/medsemiotics-db
+          path: build/medsemiotics-db
+          fetch-depth: 0
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -29,6 +36,8 @@ jobs:
       - name: Validar y generar la edición revisada
         run: |
           python -m lecciones check
+          python -m lecciones evidencia
+          python -m lecciones citas
           cffconvert --validate
           python -c 'from libro.qmd import titulos_de_lecciones; assert titulos_de_lecciones(), "Sin lecciones revisadas"'
           python -m libro qmd

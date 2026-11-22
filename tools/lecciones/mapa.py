@@ -220,6 +220,13 @@ def coherencia(mapa: Mapa, lecciones: dict[str, dict[str, Any]], raiz: Path = RA
             and mapa.personas[fundador].nombre not in nombres
         ):
             errores.append(f"{archivo}: una lección con legado lleva al autor fundador")
+        if datos.get("estado") in ("revisado", "publicado"):
+            nominado = mapa.personas[mapa.parte(plan.parte).revisor]
+            if datos.get("revisor") not in {nominado.nombre, nominado.nombre_bibliografico}:
+                errores.append(
+                    f"{archivo}: revisor «{datos.get('revisor')}» no es el nominado en el mapa "
+                    f"para la parte «{plan.parte}» ({nominado.nombre})"
+                )
         for alias in mapa.parte(plan.parte).autores:
             if mapa.personas[alias].nombre not in nombres:
                 nombre = mapa.personas[alias].nombre

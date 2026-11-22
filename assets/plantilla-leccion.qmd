@@ -1,6 +1,6 @@
 ---
 # Plantilla de lección. Copiar a lecciones/<id>.qmd; el nombre del archivo es el id.
-# Contrato: docs/adr/ADR-001-arquitectura-libro.md · Validación: uv run python -m lecciones check
+# Contrato: docs/adr/ADR-001-arquitectura-libro.md · Validación: python -m lecciones check
 id: leccion-ejemplo
 tipo: leccion
 titulo: "Título de la lección"
@@ -48,6 +48,8 @@ conceptos: []             # hallazgos de la db que se citan por token
 refs: []                  # claves de lecciones/refs.bib (cada una con PMID y DOI)
 medios: []                # imágenes: Wikimedia Commons o ilustración original humana
 modulos_html: []          # módulos interactivos de clase que acompañan la lección
+cifras_cotejadas: []      # solo cifras que no están en el resumen ni en el texto abierto de su
+                          # fuente: {cifra: "…", clave: …, ubicacion: "tabla 2"}, lo afirma el revisor
 ---
 
 ## Cómo se explora

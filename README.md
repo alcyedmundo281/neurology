@@ -26,10 +26,18 @@ python -m lecciones check
 python -m libro check
 python -m pytest
 cffconvert --validate
+python -m lecciones citas                              # con red: PMID, DOI y cada cifra
+python -m lecciones evidencia --db ../medsemiotics-db  # fichas idénticas a la base
+python -m lecciones legado                             # citas de 1993 y su cotejo
 python -m libro qmd --incluir-borradores --semblanzas-pendientes
 ```
 
-El último comando genera una vista previa en `build/quarto/`. Para la edición
+`citas` y `evidencia` corren en cada PR. `evidencia` necesita una copia git completa de
+[medsemiotics-db](https://github.com/alcyedmundo281/medsemiotics-db) (`--db` o
+`NEUROLOGY_DB`). El cotejo humano de las citas de 1993 se registra en
+`lecciones/legado-cotejo.yaml`.
+
+`python -m libro qmd --incluir-borradores` genera una vista previa en `build/quarto/`. Para la edición
 revisada, `python -m libro build` usa Quarto, LuaLaTeX y `pdfinfo`, y exige
 la aprobación de los paratextos. La opción `--material-previo` consulta una
 copia de Medsemiotics indicada en `NEUROLOGY_MEDSEMIOTICS`. Ese apéndice se

@@ -1,0 +1,16 @@
+# Cotejo humano de las citas literales de la obra de 1993 (bloques ::: {.legado}).
+#
+# La transcripción es privada y no está en el repositorio: la máquina no puede comparar una cita
+# con el impreso. Una persona viva del mapa lo hace y lo registra aquí. `sha256` es el resumen del
+# texto de la cita (espacios normalizados); si alguien cambia la cita, el resumen ya no coincide y
+# `lecciones check` lo informa. Una lección revisada o publicada no sale con citas sin cotejar.
+#
+#   python -m lecciones legado     → lista cada cita con su sha256 y su estado
+#
+# Ejemplo de entrada:
+#   - leccion: leccion-examen-neurologico-recien-nacido
+#     paginas: "16"
+#     sha256: aec19aff357ba3b9326bd1477b261c1c40f8948534807a511bb9d6322403525b
+#     cotejado_por: "Alcy Edmundo Torres Guerrero"
+#     fecha: 2026-11-22
+cotejos: []

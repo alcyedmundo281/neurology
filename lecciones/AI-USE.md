@@ -11,7 +11,7 @@ Daniela Torres Tobar, autoevaluaciones de toda la obra
 **Alcance:** las lecciones de `lecciones/`, sus proyecciones y las ediciones del libro (PDF, EPUB, Kindle e impresa).
 **Colofón:** el párrafo breve que lleva cada edición vive en
 `lecciones/paratextos/declaracion-ia.md`; si cambia uno, revise el otro.
-**Vigente desde:** 30 de octubre de 2026
+**Vigente desde:** 30 de octubre de 2026 · **Última revisión:** 22 de noviembre de 2026
 
 ---
 
@@ -35,7 +35,7 @@ quedar trazada.
 |---|---|---|
 | Adobe Scan y Tesseract (OCR) | Transcripción de la edición de 1993 | Reconocimiento óptico de caracteres sobre los escaneos. |
 | Claude (Claude Code) | Transcripción, búsqueda bibliográfica, borradores, código | Corrige el OCR contra la imagen de la página, busca en PubMed, propone borradores de lecciones y escribe las herramientas de validación. Propone; no decide. Trabaja bajo `CLAUDE.md` y `AGENTS.md`. |
-| Codex (revisión de PR en GitHub) | Revisión del código | Señala defectos en los cambios propuestos; cada hallazgo se verifica antes de corregirlo. |
+| Codex (revisión de PR en GitHub) | Revisión del código y del texto de las lecciones | Señala defectos en los cambios propuestos, incluidos errores clínicos en el texto. Cada hallazgo se reproduce o se coteja con una fuente antes de corregirlo; Codex no aprueba ni fusiona. |
 
 Cada lección declara en su campo `uso_ia` en qué etapas intervino la IA:
 `transcripcion`, `busqueda-bibliografica`, `redaccion-borrador`, `revision-estilo` o
@@ -57,17 +57,23 @@ Estas prohibiciones no son promesas. Están escritas en el contrato de la lecci�
   originales hechas por personas, con autor declarado. Las fotografías de recién nacidos
   de las ediciones de 1991 y 1993 no se reproducen.
 - **No produce referencias.** Ninguna cita se acepta de un modelo sin verificar su PMID
-  contra PubMed y su DOI contra Crossref (`uv run python -m lecciones citas`).
+  contra PubMed y su DOI contra Crossref (`python -m lecciones citas`, en cada PR).
 - **No aporta cifras clínicas.** Los cocientes de verosimilitud, la sensibilidad, la
   especificidad y los intervalos de confianza entran solo por token desde medsemiotics-db.
-  Cualquier otra cifra va con su cita. El validador rechaza las métricas escritas a mano.
+  Cualquier otra cifra va con su cita en la misma oración, y cada número de esa oración se
+  busca en el resumen o en el texto abierto de la fuente citada. El validador rechaza las
+  métricas escritas a mano, y `lecciones evidencia` rechaza una ficha de evidencia que no sea
+  idéntica a medsemiotics-db en su revisión fijada.
 - **No habla por el autor fundador.** Lo que se atribuye a Alcy Torres Catefort es cita
-  literal de su obra, con su página, dentro de los bloques «Legado». El resto del texto es
-  nuevo y responde a los autores vivos.
+  literal de su obra, con su página, dentro de los bloques «Legado». Cada cita lleva en
+  `lecciones/legado-cotejo.yaml` el resumen SHA-256 de su texto y la persona que la cotejó
+  contra el impreso; si la cita cambia, el cotejo deja de valer. El resto del texto es nuevo y
+  responde a los autores vivos.
 - **No inventa pacientes.** Las viñetas clínicas son sintéticas y docentes.
 - **No autoriza publicaciones.** Toda lección escrita con asistencia de IA es un borrador
-  hasta que su revisor nominado la aprueba. El agente nunca es revisor, y el validador lo
-  impide.
+  hasta que su revisor nominado la aprueba. El validador exige que el revisor sea el que
+  `lecciones/mapa.yaml` nombra para esa parte, con una fecha que no sea futura; el agente nunca
+  es revisor.
 
 ---
 
@@ -104,12 +110,16 @@ se procesan con su autorización. Se guardan fuera del repositorio público (`fu
 Esta declaración no pide que se le crea. El repositorio es público:
 
 ```bash
-git clone https://github.com/alcyedmundo281/medsemiotics
-cd medsemiotics
-uv sync && npm ci
+git clone https://github.com/alcyedmundo281/neurology
+git clone https://github.com/alcyedmundo281/medsemiotics-db
+cd neurology
+python -m pip install -r requirements.txt
+export PYTHONPATH=tools
 
-uv run python -m lecciones check   # contrato de cada lección, incluida su declaración uso_ia
-uv run python -m lecciones citas   # cada PMID contra PubMed y Crossref
+python -m lecciones check                             # contrato, revisor nominado y legado
+python -m lecciones citas                             # PMID y DOI, y cada cifra contra su fuente
+python -m lecciones evidencia --db ../medsemiotics-db # fichas idénticas a la base
+python -m lecciones legado                            # citas de 1993 y su cotejo
 ```
 
 Si encuentra un error, ábralo como *issue*. Es exactamente lo que esta declaración pide.
@@ -150,6 +160,24 @@ ocurrieron en el trabajo de esta edición:
   reales en su orden en la portada y en los créditos, y otra falla si en `assets/`, `tools/` o
   `lecciones/` aparece un nombre de persona de la familia de la obra o un ORCID que no esté
   en `personas`.
+
+- **Seis agujeros en los controles, encontrados en una auditoría (noviembre de 2026).** Al
+  trasladar la obra a su propio repositorio se probó a romper el contrato a propósito, y
+  `lecciones check` dejó pasar seis cosas: una lección «revisada» por una persona cualquiera,
+  incluido su propio autor; una sensibilidad cambiada a mano en una ficha de evidencia, que
+  llegaba al libro; un PMID inventado, porque `lecciones citas` no corría en la integración
+  continua aunque el colofón decía que sí; una cita de 1993 alterada o con una página ajena a
+  la lección; una cifra, incluso una dosis, sostenida por una cita que no hablaba de ella; y
+  esta misma declaración, que aún enviaba al lector al repositorio anterior. Cada agujero tiene
+  ahora su control y su prueba. Al probar el cotejo de cifras apareció además un falso
+  positivo: un resumen escribía «Ninety-three» con letras, y el cotejo los lee también.
+- **Un error clínico en un borrador, encontrado por la revisión automática.** El primer
+  borrador de la lección de neuroftalmología afirmaba que un defecto de campo en los dos ojos
+  localiza la lesión en el quiasma o detrás de él. Es falso: el glaucoma o una neuropatía
+  óptica bilateral lo producen sin tocar el quiasma. Lo señaló Codex en el PR; la lección
+  ahora localiza por el patrón del defecto. En el mismo ciclo Codex encontró dos defectos en
+  los controles nuevos (una ficha podía cambiar de condición sin que se notara, y «1,000» se
+  leía como uno), que se reprodujeron y se corrigieron con pruebas.
 
 El modo de falla de estas herramientas no es razonar mal: es afirmar con seguridad algo
 cuya procedencia no pueden sostener. Los controles existen porque el fallo ocurre.

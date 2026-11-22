@@ -10,10 +10,12 @@ import re
 from dataclasses import dataclass, field
 from typing import TYPE_CHECKING
 
+from casos.evidencia import LLAVES, PROHIBIDOS, TIPOS
 from pydantic import ValidationError
 
-from casos.evidencia import LLAVES, PROHIBIDOS, TIPOS
 from lecciones.fuente import RAIZ, ErrorDeFuente, leer, leer_bib
+from lecciones.legado import citas as citas_legado
+from lecciones.legado import problemas_de_paginas
 from lecciones.mapa import INDICE_MODULOS, modulos_publicados
 from lecciones.modelo import Leccion
 from lecciones.tokens import TOKEN
@@ -126,11 +128,26 @@ def problemas_de_cuerpo(cuerpo: str, leccion: Leccion | None) -> list[str]:
     clases = {m["clase"] for m in BLOQUE.finditer(texto)}
     if leccion is not None and leccion.legado is not None and "legado" not in clases:
         problemas.append("declara «legado» pero el cuerpo no tiene un bloque ::: {.legado}")
+    encontradas, forma = citas_legado(texto)
+    problemas += forma
+    if leccion is not None:
+        declaradas = leccion.legado.paginas if leccion.legado is not None else None
+        problemas += problemas_de_paginas(encontradas, declaradas)
 
     # El bloque legado es una cita histórica literal: sus cifras no se reescriben ni se citan.
     prosa = BLOQUE.sub(lambda m: "" if m["clase"] == "legado" else m[0], texto)
     problemas += problemas_de_evidencia(prosa, leccion)
     return problemas
+
+
+# Fin de oración: puntuación final seguida de mayúscula, negrita o comillas; o un ítem de lista.
+# Así «p. ej.» o «pp. 4-5» no cortan, y cada ítem de una lista es su propia afirmación.
+FIN_DE_ORACION = re.compile(r"(?<=[.!?…])\s+(?=[*«¿¡(A-ZÁÉÍÓÚÑ])|\n(?=\s*[-*+]\s)")
+
+
+def oraciones(texto: str) -> list[str]:
+    """Cada afirmación del texto: una cifra se ancla a la cita de su propia oración."""
+    return [o for o in FIN_DE_ORACION.split(texto) if o.strip()]
 
 
 def claves_citadas(texto: str) -> list[str]:
@@ -172,11 +189,13 @@ def problemas_de_evidencia(
             for ln in parrafo.splitlines()
             if not ln.lstrip().startswith(("#", ":::"))
         ]
-        resto = GRUPO_CITAS.sub("", "\n".join(lineas))
         claves = claves_citadas(parrafo)
-        if exigir_cita and DIGITO.search(resto) and not claves:
-            extracto = " ".join(resto.split())[:70]
-            problemas.append(f"cifra sin cita [@clave] en el párrafo: «{extracto}…»")
+        if exigir_cita:
+            for oracion in oraciones("\n".join(lineas)):
+                resto = GRUPO_CITAS.sub("", oracion)
+                if DIGITO.search(resto) and not claves_citadas(oracion):
+                    extracto = " ".join(resto.split())[:70]
+                    problemas.append(f"cifra sin cita [@clave] en su oración: «{extracto}…»")
         for clave in claves:
             if leccion is not None and clave not in refs:
                 problemas.append(f"cita [@{clave}] no declarada en «refs»")

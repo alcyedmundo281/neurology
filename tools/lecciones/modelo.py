@@ -141,6 +141,15 @@ class Medio(_Base):
         return self
 
 
+class CifraCotejada(_Base):
+    """Cifra que no está en el resumen ni en el texto abierto de su fuente: el revisor la cotejó
+    en el texto completo y dice dónde está (p. ej. «tabla 2»)."""
+
+    cifra: Texto
+    clave: ClaveBib
+    ubicacion: Texto
+
+
 class Leccion(_Base):
     id: Annotated[str, StringConstraints(pattern=r"^leccion-[a-z0-9]+(-[a-z0-9]+)*$")]
     tipo: Literal["leccion"]
@@ -164,9 +173,13 @@ class Leccion(_Base):
     refs: list[ClaveBib] = Field(default_factory=list)
     medios: list[Medio] = Field(default_factory=list)
     modulos_html: list[Texto] = Field(default_factory=list)
+    cifras_cotejadas: list[CifraCotejada] = Field(default_factory=list)
 
     @model_validator(mode="after")
     def _contrato(self) -> Self:
+        for cotejo in self.cifras_cotejadas:
+            if cotejo.clave not in self.refs:
+                raise ValueError(f"cifras_cotejadas: «{cotejo.clave}» no figura en «refs»")
         palabras = len(self.abstract.split())
         if not 40 <= palabras <= 80:
             raise ValueError(f"abstract: debe tener entre 40 y 80 palabras (tiene {palabras})")
@@ -177,6 +190,8 @@ class Leccion(_Base):
                 raise ValueError("revisor: debe ser una persona; el agente nunca es revisor")
             if self.fecha_revision is None:
                 raise ValueError(f"estado {self.estado}: requiere fecha_revision")
+        if self.fecha_revision is not None and self.fecha_revision > date.today():
+            raise ValueError("fecha_revision: no puede ser futura; las fechas no se inventan")
         if any(a.rol_obra == "autor-fundador" for a in self.autores) and self.legado is None:
             raise ValueError("una lección con autor fundador declara su procedencia en «legado»")
         for campo in ("condiciones", "conceptos", "refs", "uso_ia"):

@@ -15,6 +15,7 @@ jobs:
     env:
       PYTHONPATH: tools
       NEUROLOGY_MEDSEMIOTICS: ${{ github.workspace }}/build/medsemiotics
+      NEUROLOGY_DB: ${{ github.workspace }}/build/medsemiotics-db
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
@@ -22,6 +23,13 @@ jobs:
           repository: alcyedmundo281/medsemiotics
           ref: 0c14e511cf210e395967ff9640da3e992bd9f70f
           path: build/medsemiotics
+          persist-credentials: false
+      # Historia completa: las fichas se comparan con la base en su revisión fijada.
+      - uses: actions/checkout@v4
+        with:
+          repository: alcyedmundo281/medsemiotics-db
+          path: build/medsemiotics-db
+          fetch-depth: 0
           persist-credentials: false
       - uses: actions/setup-python@v5
         with:
@@ -34,6 +42,11 @@ jobs:
           python -m libro check
           cffconvert --validate
           python -m pytest
+      - name: Fichas de evidencia idénticas a medsemiotics-db
+        run: python -m lecciones evidencia
+      # Con red. Código 2 = verificación incompleta por un fallo transitorio: se reintenta una vez.
+      - name: Citas contra PubMed y Crossref, y cifras contra sus fuentes
+        run: python -m lecciones citas || { s=$?; [ "$s" -eq 2 ] && sleep 30 && python -m lecciones citas; }
       - name: Generar el proyecto Quarto de revisión
         run: python -m libro qmd --incluir-borradores --semblanzas-pendientes
       - uses: actions/upload-artifact@v4
