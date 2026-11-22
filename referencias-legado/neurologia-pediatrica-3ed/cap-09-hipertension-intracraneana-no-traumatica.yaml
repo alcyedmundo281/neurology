@@ -1,0 +1,109 @@
+# Capítulo IX de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 9
+  romano: IX
+  titulo_en_la_fuente: HIPERTENSION INTRACRANEANA NO TRAUMATICA
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    Dentro de la bóveda craneana, tres volúmenes, parenquimatoso, líquido y vascular, determinan una presión vecina a 10 mmHg. Todo aumento durable de uno o varios de estos contenidos producen la hipertensión intracraneana.
+
+    En el niño
+
+    Los cuadros clínicos son diferentes según que la hipertensión intracraneana sea compensada o no.
+
+    Hipertensión intracraneana compensada
+
+    El diagnostico se facilita cuando todos los signos están presentes:
+
+        • La cefalea puede aparecer en cualquier hora, ser localizada o difusa, intermitente o continua. Una neoformación hemisférica (eventualidad rara en el niño) se manifiesta por una cefalea con predominio a un lado, se acompaña de dolor unilateral a la presión digital de la fosa temporal homolateral, Este signo debe buscarse siempre por su valor de localización.
+        • Los vómitos son sugestivos cuando se producen en el momento en que la cefalea es más intensa, se hacen fácilmente sin esfuerzo, en chorro y luego cesan.
+        • Los problemas visuales, como la diplopía, cuando es atacado uno o los dos motores oculares externos (VI). El examen del movimiento de la mirada inclina el diagnóstico; si el niño es suficientemente grande podrá quejarse de una visión doble; el edema papilar es importante; el examen de fondo de ojo debe realizarse sin preparación. Si es muy necesario se emplearán midriáticos de acción corta.
+        • Se deben añadir a estos signos otros muy frecuentes como actividad mental lenta: el niño cambia de actitud, va mal en clase, es distraído, muestra desinterés por lo que antes le preocupaba.
+        • Al examen en fin, se puede encontrar con la percusión-auscultación del cráneo, el clásico ruido de “olla rajada” traduciendo la disyunción de las suturas.
+
+    El diagnóstico puede ser más fácil cuando los signos no son claros: predominio de vómitos, alteraciones psíquicas heterogéneas, ausencia de edema papilar que no es raro en las formas compensadas.
+
+    La punción lumbar debe diferirse frente a una seria duda. En cambio se solicitará:
+
+        1. Radiografía de cráneo para investigar impresiones digitiformes y disyunción de las suturas.
+        2. EEG que muestra eventualmente signos de localización hemisférica, ondas lentas que se presentan en ráfagas monomorfas, bilaterales, que revelan sufrimiento del eje. Clínicamente no hay todavía signos de descompensación.
+
+    Etiología
+
+        • Una hipertensión intracraneana perfectamente aislada, sin signos clínicos de localización, sin contexto patológico concomitante, quizá con aumento del perímetro craneano, nos hará pensar en una malformación bloqueante de las vías de desagüe; por ejemplo, la estenosis del acueducto de Silvio tardíamente descompensada; algunas veces se encuentra, entre los antecedentes lejanos, accesos de cefaleas; con menos frecuencia se tratará de un tumor desarrollado casi exclusivamente en las vías de eliminación;
+        • En el curso de una meningitis se pensará en hidrocefalia comunicante;
+        • La existencia de una tortícolis, de signos cerebelosos, de nistagmus, orienta hacia un tumor de la fosa posterior. Dentro de un contexto otítico, siempre evocar el absceso del cerebelo;
+        • Luego de una cardiopatía cianótica o dentro de un cuadro infeccioso puede tratarse de un absceso con signos hemisféricos como sinusitis, absceso frontal, otitis, absceso temporal; fuera de esta configuración patológica, la presencia de signos hemisféricos, muchos más raros en esta edad, evidencian un tumor.
+        • Problemas visuales y endocraneanos hipotálamo-hipofisarios orientan hacia un tumor sillar o para-sillar, hidrocefalia por bloqueo a nivel del tercer ventrículo;
+        • Crisis comiciales y alteraciones de la conciencia progresivas nos indican una encefalitis o una tromboflebitis cerebral. Estos diagnósticos médicos no serán confirmados sino después de eliminar una afección o una neoformación neuroquirúrgica, por medio de un examen tomodensitométrico (TAC), que puede resolver rápidamente los problemas urgentes y evitar la multiplicación de otros exámenes frecuentemente más agresivos.
+
+    Es igual para las otras causas médicas de hipertensión intracraneana: ciclinas, ácido nalidíxico, vitamina A. Recordemos que este fenómeno se observa en el curso de paros circulatorios, de ciertas anoxias graves o en la insuficiencia hepática grave y en el síndrome de Reye; en cuanto a las hipertensiones intracraneanas que se acompañan de accidentes vasculares, hematoma en el período agudo, se presentarán signos de localización.
+
+    Hipertensión intracraneana descompensada
+
+    La descompensación se anuncia por intensificación de las cefaleas, obnubilación que alterna con períodos de agitación extrema, irregularidad del ritmo respiratorio. Al examen se encuentra algunas veces rigidez no dolorosa de la nuca.
+
+    La hipertensión intracraneana es inmediatamente descompensada (hemorragia cerebral, bloqueo agudo de las vías de desagüe), con alteraciones de la conciencia, signos patentes de compromiso, sea con lesiones hemisféricas y asimetría al pinzamiento, hipotonía unilateral seguida de ataque al motor ocular común (III) del lado de la lesión, una descerebración del lado opuesto, o sea lesiones cerebelosas con obnubilación y accesos de hipertonía unilateral.
+
+    Pero los signos de sufrimiento del tranco cerebral no son siempre patentes: el coma puede ser sin signos de localización, sin aspecto de descerebración (en particular en ciertas hidrocefalias descompensadas).
+
+    En estos casos donde en suma hay que hacer un diagnóstico de coma neurológico, la anamnesis podrá orientar. El examen de fondo de ojo, el E.E.G. y la radiología del cráneo serán de ayuda.
+
+    A este propósito, es necesario señalar que el fondo de ojo no tiene la posibilidad de demostrar un edema de papila, si la lesión es reciente, en particular dentro de las formas agudas, hemorragia cerebral por ejemplo, en la que no se puede encontrar éstasis inmediatas.
+
+    Cuando la hipertensión intracraneana es descompensada, los problemas neurovegetativos se instalan; se deberá prevenir la obstrucción broncopulmonar, por intubación, y administrar solutos, diuréticos osmóticos (manitol), para disminuir la presión intracraneana, cualquiera que sea su génesis.
+
+    Orientación diagnóstica
+
+    Es diferente según los antecedentes: problemas del equilibrio, cefaleas o accidente verdaderamente grave sin pasado patológico particular:
+        • Una lesión hemisférica debe hacernos pensar en ruptura de malformación vascular cerebral (angioma); este diagnóstico será reforzado por la presencia de crisis comiciales anteriores, donde tiene interés la tomodensitometría;
+        • Una coma sin signos de localización, ni clínicas ni eléctricas, con signos de sufrimiento del eje en el trazado eléctrico, indicará la descompensación de una hidrocefalia (estenosis del acueducto tardíamente descompensado).
+
+    En el lactante
+
+    El diagnóstico de hipertensión intracraneana es más fácil: existe bombamiento de la fontanela y muy rápidamente aumento del perímetro craneano. Al cabo de cierto tiempo se asocian los signos clásicos: dilatación venosa a nivel de la piel cabelluda, ojos con mirada al sol y vómitos que sobrevienen cuando la hipertensión comienza a ser mal tolerada.
+
+    Se deben investigar dos circunstancias:
+
+            a) Si se trata de una historia progresiva, con aumento de la tensión fontanelar y lo mismo del perímetro craneanos sin signos clínicos de localización, se puede: 1- En hidrocefalia mal formativa o tumoral. 2- en hematoma subdural crónico. A favor de este ultimo ayuda la anamnesis (aunque la noción de traumatismo falta casi siempre, la presencia de hemorragia en el fondo del ojo, la desglobulización y la punción lumbar (líquido hiperalbuminoso). Con la punción de la fontanela hará el diagnóstico. Para ello no aspirar sino muy suavemente, permitiendo el drenaje del hematoma. Es necesario vigilar el hematocrito. Los signos clínicos de localización, hipotonía unilateral, crisis de un hemicuerpo, orientarán hacia un tumor hemisférico o a un absceso, ambas posibilidades muy raras antes del primer año de edad.
+            b) O bien se presenta una tensión grave o muy rápidamente aparece en algunas horas. Los signos clínicos de localización hemisférico pueden indicar un tumor o una hemorragia cerebral; una vez eliminadas las causas neurológicas, se pueden evocar la hipertensión intracraneana iatrogénica medicamentosa o por interrupción de la conticoterapia o las hipertensiones intracraneanas agudas benignas.
+
+    En el lactante mayor no se tiene el recurso de la punción de la fontanela o de la punción ventricular para disminuir la hipertensión intracraneana. Se recurrirá al tratamiento específico efectuando siempre una tomodensitometría.
+
+    ESQUEMA TERAPÉUTICO DEL EDEMA CEREBRAL
+
+    El edema cerebral es una urgencia que puede destruir ciertas estructuras nerviosas de manera irreversible en algunos minutos. La presión intracraneana aumenta de manera catastrófica, espontáneamente o por diversos estímulos: agitación, asfixia, elevación térmica.
+
+    Cuando el diagnóstico se ha confirmado, es de interés colocar un manómetro que permita medir directamente la presión intracraneana, asegurándose así un monitoreo continuo.
+
+    Tratamiento
+
+    Cabeza elevada a 30º; mantener una excelente hemodinámica central; poner al paciente en ventilación artificial, con el fin de obtener un PCO2 entre 25 y 30 mm Hg., para evitar las alzas hipertensivas en las fases de obstrucción o luego de las aspiraciones; el niño será sedado con barbitúricos; se restringirán los aportes líquidos mas o menos a los 2/3 de la ración habitual; se administrará lasix si no hay contraindicaciones metabólica (hiperamonemia), y se recurrirá a fuertes dosis de dexametosona 0.6mg./Kg./24h.
+    Si hay elevaciones de hipertensión intracraneana por encima de 30cm. de agua debe recurrir a una perfusión de manitol al 20p.100, sobre la base de 0.5g/Kg. administrados en menos de 10minutos.
+    Estas dosis pueden ser repetidas por necesidad cuidando de no producir una osmolaridad sanguínea de 325 mOsm.
+
+    Si a pesar de estos tratamientos la hipertensión intracraneana persiste en límites peligrosos, por encima de 20 cm. de agua, se puede recurrir a otros medios: enfriamiento entre 30 y 32º C, administrando por necesidad Largactil, aplicación de bolsas de hielo; o, finalmente, perfusión continua de pentotal sobre la base de 2 a 3 mg. /Kg. /h.
+
+    Con estos tratamientos, y manteniéndoles el tiempo necesario, se controlará la presión intracraneana, para luego ir suprimiéndoles muy progresivamente.
+  bibliografia:
+  - CREISSARD M.- Hipertensión intracranienne non traumatique.- Pédiatrie D’Urgence., Paris, France, 313,
+    81, 1989.
+  - GRAEF J., CONE T Jr.- Tera’péutica pediátrica 3-edicion, 71, 3, 2002.
+  - SILVER H., KEMPE C., BRUYN H.- Hipertension intracraneana benigna.- Manual de Pediatría , 438, 21,
+    1981.

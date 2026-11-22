@@ -1,0 +1,127 @@
+# Capítulo VII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 7
+  romano: VII
+  titulo_en_la_fuente: TRAUMATISMO CRANEAL
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    El examen de un niño con traumatismo craneal tiene por objeto descubrir lo más pronto toda complicación quirúrgica curable y conocer las lesiones neuroencefálicas existentes: Consta de dos fases, el interrogatorio y el examen físico.
+
+    Interrogatorio
+
+    Se deben precisar la hora y las circunstancias del traumatismo, así como las variaciones del estado de conciencia, desde el momento en que lo perdió hasta su recuperación, todo lo cual evidenciaría una conmoción; o bien si el niño ha vuelto a la normalidad y después de un tiempo denominado “intervalo libre” ha habido somnolencia, confusión, y finalmente otra vez inconsciencia, lo que nos pondría alerta sobre una posible hemorragia intracraneal, generalmente extradural.
+
+    Examen físico
+
+    Comienza por la investigación de escoriaciones o equimosis de la piel cabelluda y de la cara, de una otorragia (fractura de rocher), de una epistaxis (fractura del piso anterior de la base), de una otorrea, de una rinorrea del L.C.R. y de otras lesiones extracefálicas, cutáneas, abdominales, torácicas, en los politraumatismos.
+
+    Estado de conciencia
+
+    Se anotará de modo preciso: 1- herido consciente, responde correctamente a las preguntas. 2- herido perfectamente consciente, pero presenta problemas de la orientación y de la memoria; 3- herido obnubilado, pero despierta cuando se le habla fuerte o se le mueve (coma estadio I), frecuentemente agitado (hemorragia meníngea); 4.- herido en coma más profundo, reacciona solamente luego de un estímulo muy enérgico (pinzamiento), con incontinencia esfinteriana; 5- herido en coma carus, con poca o ninguna reacción al pinzamiento, o reacción de descerebración; 6- herido en coma muy grave (dépassé), sin reflejos corneanos ni respiración espontánea, nuca flácida, reflejos fotomotores ausentes.
+
+    Estado neurológico
+
+    Se aprecia por un examen completo que supone un niño perfectamente consciente, Cuando esta obnubilado o comatoso, el examen mas suscrito investiga los signos de localización, tales como la desviación conjugada de la cabeza y de los ojos que traducen un ataque hemisférico del mismo lado; la constatación de una crisis convulsiva lateralizada que será igualmente orientadora. Son relativamente frecuentes en el curso de los traumatismos craneanos, unas veces generalizadas, otras localizadas, con eventuales signos de localización post-crítica; sin embargo no tienen carácter peyorativo ni significación pronóstica. El signo capital es; en efecto; el déficit motor unilateral, buscado por la reacción al pinzamiento. La hipotonía del lado paralizado y la lesión del facial unilateral explorado por la mímica o por el pinzamiento, son manifestaciones más específicas. En el niño obnubilado se puede buscar una hemianopsia.
+
+    Encontramos luego de este examen signos alarmantes como la midriasis unilateral, testigo de la comprensión del III par, que traduce una hernia temporal homo lateral y por tanto una lesión del mismo lado. Esta midriasis va acompañada rápidamente de una rigidez de descerebración del lado opuesto (reacción en pronación y extensión forzada del miembro superior contra lateral). En esta fase, las lesiones son frecuentemente irreversibles, pero la transferencia a neurocirugía del herido no se puede diferir.
+    Perturbaciones de las funciones neurovegetativas
+
+    En los traumatismos craneales graves, la función respiratoria es afectada, la hipertensión intracraneana y la comprensión eventual del tronco cerebral inducen a alterar el ritmo respiratorio, complicado por epistaxis y vómitos que son aspirados.
+
+    Estas perturbaciones entrañan una hipercápnia y una hipoxia responsables del aumento de la presión arterial sistémica, a condición de que no exista otra hemorragia importante asociada y, por consecuencia, edema cerebral. Así se instala un círculo vicioso que es necesario vencer inmediatamente, asegurando vías aéreas libres con la intubación, aspiración y ventilación adecuadas.
+
+    Estas acciones hacen que la hipertensión arterial se corrija. El colapso en estos heridos no se ve jamas, salvo que haya lesiones en la piel cabelluda muy sangrantes que es necesario suturar rápidamente.
+
+    En otros casos, frente a un colapso cardiovascular, se deberán investigar complicaciones, como fractura de fémur, ruptura del bazo, hemotórax, que pueden dar problemas de la conciencia por disminución de la perfusión cerebral.
+
+    La hipertemia es frecuente en los traumatismos craneanos severos con contusión; se utilizan drogas antipiréticas tipo acetominofen.
+
+    Conducta que debe seguirse
+
+    Al término de este examen se pueden encontrar comas muy graves para los cuales no existe ningún recurso quirúrgico; comas con midriasis bilateral y descerebración.
+
+    Es necesario, en cambio, transferir al neurocirujano:
+    1. Cuando los niños presentan signos de localización, déficit unilateral, midriasis unilateral;
+        2. Cuando los heridos presentan una progresiva perdida de conciencia, aislada o acompañada de signos de localización, pues la historia puede evocar un hematoma extradural (intervalo libre) o una contusión cerebral con perdida de la conciencia inmediata durable, y signos de localización;
+        3. Cuando los heridos presentan lesiones abiertas con salida de L.C.R., a los que se deben administrar antibióticos.
+
+    Se tiene que mantener en observación y bajo vigilancia a otros enfermos, esperando la aparición o el desmejoramiento de los problemas de la conciencia, de signo de localización clínica o paraclínica, que obligarán la transferencia a un medio especializado.
+
+    El niño traumatizado, transferido o no, recibirá tratamiento anticonvulsivo, porque las crisis comiciales aumentan de modo considerable una eventual hipertensión intracraneana.
+
+    En algunos casos el uso de fenobarbital no es suficiente; es necesario recurrir a otras drogas como el Lorazepan o Valium por vía IV. Recuérdese que estas drogas tiene una acción depresiva sobre las funciones respiratorias y cardiovasculares, por lo que su administración necesita de vigilancia continua.
+
+    Exámenes complementarios
+
+        • Se solicitará radiografías de cráneo bajo tres variedades, de frente, de perfil, incidencia de Works, que indicará la existencia o no de la líneas de fractura; especialmente aquellas que cortan el trayecto de la arteria meníngea media; la incidencia de Works permite poner en evidencia las líneas de fracturas posteriores, parietales o parietoocipitales.
+
+    Cuando la fractura ha producido un desgarro de la duramadre y de la aracnoides produciendo la colección de L.C.R. debajo de la piel cabelluda, da una tumefacción fluctuante que progresivamente separa los bordes de fractura, que se denomina “quiste leptomeningeo o síndrome de erosión cráneo cerebral”.
+
+        • El eco encefalograma investiga signos de laterización de las lesiones y la T.A.C. o tomodensitometría es particularmente útil, especialmente para poner de manifiesto las fracturas deprimidas, fragmentos óseos y partículas extrañas. También ayuda a localizar y a diferenciar los hematomas agudos de densidad elevada, el edema de densidad baja, la contusión o un hidrocéfalo en formación. Los hematomas extradurales pueden tener la forma de un lente convexo denso. Los hematomas subdurales tienen configuración elevada y la contusión, el aspecto de “sal y pimienta”, debido a la diseminación de sangre en las zonas del edema.
+
+    Si la condición del paciente lo permite, se puede ejecutar una investigación intensificada de contraste, para definir condiciones patológicas subyacentes, en especial de naturaleza vascular. Es conveniente, que el paciente pueda ir directamente de la investigación con T.A.C. al quirófano.
+
+        • El electroencefalograma no es un examen de urgencia; se precisará cuando el letargo postraumático persista más tiempo del esperado, desde el punto de vista clínico. Cuando existen defectos neurológicos progresivos o cuando las convulsiones ocurren más allá del periodo postraumático inmediato, también ponen en evidencia topográficamente las lesiones que permanecen relativamente silenciosas, o que van agravando progresivamente al estado de conciencia. Así las lesiones frontales o temporal derecha.
+
+        • El examen de fondo de ojo no tiene interés en los traumatismos de cráneo recientes y agudos. Siempre podrá haber pequeñas hemorragias sin significación definitiva. En todo caso no se debe utilizar midriáticos en esta circunstancia.
+
+    PARTICULARIDADES EN EL LACTANTE
+
+    La bóveda craneana es relativamente deformable: Las fracturas en el punto de impacto no se irradian con facilidad y hay mejor tolerancia del cerebro y del tronco cerebral a una hipertensión intracraneana, porque las fontanelas aun están abiertas.
+
+    Examen
+
+    Inmediatamente después de la caída, frecuentemente el niño esta pálido, akinético, pero este síndrome es rápidamente regresivo. Por el contrario, el choque durable que aparece en la práctica es la traducción de una hemorragia intracraneana.
+
+        a) Conviene también apreciar el estado de tensión de la fontanela:
+    Fontanela tensa + choque + Hematoma intracraneano.
+    Fontanela normal = No lesión quirúrgica inmediata.
+
+        b) Significación de un déficit unilateral:
+        • Signos críticos como convulsiones de un hemicuerpo frecuentes, con déficit unilateral post-crítico;
+        • Déficit unilateral, patente, raro en el lactante, hipotonía, reacción al pinzamiento con:
+    Fontanela tensa + choque + coma + lesión intracraneana quirúrgica.
+    Fontanela normal + no choque + obnubilación + Déficit post-crítico.
+
+    Al término del examen
+
+    Si hay uno de los signos mencionados o se encuentran algunos de ellos se concluirá:
+        • Fontanela tensa + choque + alteración de la conciencia + midriasis + déficit = transferencia a neurocirugía.
+        • Si hay intervalo libre verdadero = hematoma extradural, lesión rara en esta edad
+        • Fontanela tensa + inconciencia + perdida sanguínea + signos de localización = contusión cerebral con hematoma.
+        • Fontanela tensa + inconciencia + signos de localización sin perdida de sangre = contusión cerebral con edema sin hematoma importante.
+    Tratamiento
+
+    En los caso graves es necesario apreciar la perdida sanguínea estudiando la hemoglobina y el hematocito. Se debe efectuar una transfusión, intubar al paciente; ventilarlo, poner sondas gástricas y vesical e instalar una vía IV.
+
+    El examen de fondo de ojo y el E.E.G. no son urgentes. Las radiografías de cráneo serán prácticamente a condición de no retardar el transporte al servicio adecuado.
+
+    Las heridas deberán ser suturadas inmediatamente. En caso de hipertensión intracraneana con fontanela muy tensa se debe realizar una punción, introduciendo una jeringuilla con aguja gruesa y bisel corto, en los ángulos externos para aspirar el contenido hemático generalmente subdural. Si no se encontrara líquido se pensara en contusión con edema.
+
+    La terapéutica para la hipertensión intracraneal y las convulsiones, que son complicaciones frecuentes, se describe en el capítulo correspondiente.
+  bibliografia:
+  - '- CREISSARD P.- Traumatismes craniens.- Pédiatrie d’urgence., Flammarion Médicine, édit., Paris 1988,
+    85-328.'
+  - GRAEF J., CONET JR.- Hipertensión intracraneal.- Manual de Terapéutica Pediátrica 5-edición., The
+    children’s Hospital, Boston, 2002,3-71.
+  - HERVE F., BKCHINE K.- Le síndrome de choc hémorragique avec encéphalopathie.- Arch, Fr, Péditr., 1987,
+    44, 195-197.
+  - MEALEY J.- Pediatrie head injuries. I vol., Spuingfield, 1968, Thomas, éd.
+  - SILVER H., KEMPE. H Y, BRUYN H.- Traumatismos craneales agudos.- Manual de Pediatría., Denver, Colorado,
+    1981, 30-663.

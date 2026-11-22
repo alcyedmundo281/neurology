@@ -1,0 +1,205 @@
+# Capítulo XII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 12
+  romano: XII
+  titulo_en_la_fuente: COMA
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: "El coma se define como la perdida prolongada más o menos completa del estado de conciencia y\
+    \ de la vida de relación, asociada en las formas graves a alteraciones vegetativas y metabólicas.\
+    \ Representa una verdadera complicación de un proceso casual, susceptible también de ser el origen\
+    \ de lesiones cerebrales sobreañadidas.\n\nDescubrir elementos de gravedad inmediata\n\nFrente a un\
+    \ niño inconsciente, la investigación de un elemento de gravedad inmediata se impone:\n    • Síndrome\
+    \ asfíctico que puede estar en relación con: 1- una oligopnea extrema           (movimientos respiratorios\
+    \ raros o superficiales); 2- una obstrucción bronquial mayor (gruesos rales húmedos percibidos a la\
+    \ palpación y a la auscultación del tórax);\n    • Insuficiencia circulatoria aguda que se puede estar\
+    \ ligada a:\n    1. una bradicardia pre-agónica;\n    2. un problema mayor de ritmo cardíaco;\n  \
+    \  3. un colapso cardiovascular central;\n    • Cuadro neurológico de conjunto muy grave (coma profundo,\
+    \ apnea, midriasis bilateral reactiva).\n\nEn estas tres circunstancias, el tratamiento de urgencia\
+    \ de los desordenes vitales es imperativo.\n\nEvaluar la profundidad del coma y signos asociados.\n\
+    \nEn ausencia de elementos de gravedad inmediata o después de las primeras maniobras de reanimación,\
+    \ es necesario apreciar la profundidad del coma, buscar signos neurológicos y neurovegetativos asociados.\n\
+    \nProfundidad del coma: distinguen cuatro estadios definidos esencialmente por los signos clínicos.\n\
+    \        ◦ Actividad motriz: existencia de respuesta a los estímulos o rigidez, que testifica la extensión\
+    \ del sufrimiento cerebral.\n        ◦ Respiración: 1- Cheyne –Stokes demuestra un ataque bilateral\
+    \ profundo de los hemisferios o del diencéfalo; 2- hiperventilación de lesiones pedunculares; 3- respiración\
+    \ irregular de lesiones bulbares.\n        ◦ Motricidad ocular: 1. parpadeo a la luz; 2. reflejo craneano\
+    \ investigado solamente con colirio o solución fisiológica; 3. movimientos oculares espontáneos y\
+    \ reflejos: la desaparición de los reflejos oculovestibulares indica lesión del tronco, mientras que\
+    \ un nistagmus pendular evidencia su integridad.\n        ◦ Estado de las pupilas: fotomotor, diámetro\
+    \ de las pupilas, recordemos a este propósito que el reflejo fotomotor se conserva hasta la fase terminal\
+    \ en las comas metabólicos (examen prolongado con una lupa).\n        ◦ El tamaño de la pupila y sus\
+    \ reacciones deben observarse con frecuencia;\n        ◦ En los estados postictus, son muy dilatadas,\
+    \ a veces es un solo lado, pero reactivas.\n        ◦ Las pupilas muy dilatadas y fijas sugieren parálisis\
+    \ del tercer par craneal, debida a herniación tentorial.\n        ◦ La pupila fija unilateral por\
+    \ lo general sugiere una lesión expansiva en el mismo lado, pero puede ser un signo falso de localización.\n\
+    \        ◦ Las pupilas puntiformes con frecuencia se ven en los trastornos del tallo encefálico, hemorragia\
+    \ o envenenamiento con opiáceos o barbitúricos.\n        ◦ El papiledema es indicativo de hipertensión\
+    \ intracraneana. En los lactantes y niños pequeños, la presencia de hemorragia sub-hialoidea casi\
+    \ siempre orienta a pensar en traumatismo con sangrado intracraneano activo.\n\nSignos neurológicos\n\
+    \nEl examen neurológico puede poner en evidencia tanto signos difusos como focalizados. De manera\
+    \ general en el lactante estos últimos tiene un valor de localización menos decisiva que en el adulto,\
+    \ salvo la midriasis unilateral estable.\n\nProblemas neurovegetativos.\n\nOtro de los aspectos que\
+    \ debe reconocerse es la existencia de factores que agravan las lesiones cerebrales si no son tratados\
+    \ rápidamente:\n\n        ◦ Respiratorios con riesgos de asfixia sea por anomalías del centro encefálico\
+    \ o por falta de permeabilidad: 1- caída hacia atrás de la lengua; 2- obstrucción faríngea con respiración\
+    \ roncante y ausencia de rales pulmonares (salvo los transmitidos); 3- obstrucción bronquial mas grave;\n\
+    \        ◦ Circulatorios con los riesgos de hipoperfusion cerebral: 1- vigilancia del ritmo y de la\
+    \ frecuencia cardiaca; 2- medida de la presión arterial: cuando está elevada y va seguida de taquicardia\
+    \ es un excelente signo de hipercapnia; 3- apreciar la hemodinámica periférica por el tiempo de recoloración\
+    \ de las extremidades.\n\nInvestigación Etiológica\n\nCuando el diagnóstico es evidente: el niño puede\
+    \ estar en coma, pero el interrogatorio precisa la noción de un traumatismo, la inconciencia es inmediata,\
+    \ dependiente de la conmoción o de una contusión cerebral que justifica solo tratamiento médico o\
+    \ puede presentarse después de un intervalo libre. Otras veces su gravedad es progresiva indicando\
+    \ la presencia de un hematoma extra o subdural; se trata entonces de una urgencia neuroquirúrgica.\
+    \ La deshidratación intensa da origen a una encefalopatía igualmente importante.\n\nCuando el paciente\
+    \ se encuentra comatoso y no es posible conocer la circunstancia etiológica, se investigará cinco\
+    \ causas por su grande frecuencia y porque exigen una terapéutica particular:\n\n        ◦ La meningitis\
+    \ o meningo-encefalitis, sean ellas bacterianas o virales; solo la punción lumbar permite el diagnóstico;\n\
+    \        ◦ Las convulsiones, cualquiera que sea su origen, sobre todo si se repiten, evidenciando\
+    \ un estado de mal. Si la conciencia no se recupera después de la crisis se debe practicar el EEG;\n\
+    \        ◦ Las intoxicaciones, frente a todo síntoma neurológico anormal, a fortiori del  coma, en\
+    \ un niño de 1 a 4 años, puede ser atribuido a envenenamiento; las muestras de orina, sangre y líquido\
+    \ gástrico para investigaciones toxicológicas son siempre necesarias.\n        ◦ El hematoma subdural\
+    \ debe ser evocado sistemáticamente en el lactante, aunque no haya antecedentes de traumatismo o de\
+    \ síndrome de niño maltratado; el examen de fondo de ojo se impone en estos casos y conduce a la punción\
+    \ subdural ante la existencia de manchas hemorrágicas retinianas, aunque sean inconstantes;\n    \
+    \    ◦ La hipoglucemia es poco frecuente y de tratamiento fácil. Se emplea Dextrostix como primer\
+    \ método para dosificar la glucemia, que puede ser normal, pero la hipoglucemia testifica lo verdadero.\n\
+    \nUna vez eliminadas estas causas se puede pensar en afecciones mas raras: neurológicas, tanto vasculares\
+    \ (hemorragia cerebral o hematoma intracerebral espontáneo por ruptura de vasos), como también tumores\
+    \ con hipertensión intracraneana, metabólicas y endocrinas; diabetes ++- coma hepático, neuropatías\
+    \ hipertensivas, amino-acidopatías.\n\nCLASIFICACION ESQUEMATICA DE LOS ESTADIOS DE COMA\n\nReflejos\n\
+    Estadios\nComportamiento\nespontáneo\nReacción\nTono\nControl\nesfínteres\nDesordenes\nVegetativos\n\
+    Electroen\nCéfalograma\nParpadeo\nCorneano\nFoto\nOsteo\nEstadio\nI Coma\nLeve\nSueño o agitación\n\
+    Conservada\nNormal\n+\nnulos\nLento reacción I\n+\n+\n+\n+\nEstadio II Coma\nInercia\nVisual auditiva\
+    \ bajas noci-ceptiva +\nVariable\nMicción automática\nRespiratorios\nOndas theta y delta, periodicidad,\
+    \ reactiva\n0\n+\n+\nVariables\nEstado III Coma profundo\nInercia hipotonía\nAbolida descerebración\n\
+    0\n0\nRespiratorios +++ circulatorios\nOndas delta, reacción 0\n0\n0\n+\nVariables\nEstadio IV Muerte\
+    \ cerebral\nInercia posible Signos de\nAbolida liberación medular secundaria\n0\n0\nRespiración espontánea\
+    \ abolida\nTrazado plano permanente\n0\n0\n0\n0\nComa + alteración vegetativa (reversible)\nId\nId\n\
+    0\n0\nId\nSignos eléctricos transitorios\n0\n0\n0\n0\n\nDIAGNOSTICO DIFERENCIAL DEL COMA\n\nInterrogatorio\n\
+    \nInvestigar: traumatismo craneano, intoxicaron, enfermedad metabólica, afección renal+++ o hepática+++\n\
+    El enfermo convulsionó?\n\nExamen\n\n        ◦ Fiebre o infección meningitis +++, encefalitis, hipercapnia;\
+    \ intoxicación por salicilatos +++.\n        ◦ Olor acetónico del aliento: diabetes.\n        ◦ Ictericia,\
+    \ mal olor, hemorragias: coma hepático.\n        ◦ Signos de localización neurológica, edema de papila:\
+    \ tumor o absceso.\n        ◦ Hipertensión arterial: nefropatía.\n        ◦ Traumatismo craneal eventual,\
+    \ aumento del perímetro cefálico, hemorragia de fondo de ojo, midriasis unilateral: hematoma.\n  \
+    \      ◦ Colapso: anemia aguda, infección severa, intoxicación.\n        ◦ Convulsiones con fiebre\
+    \ o sin ella: neuro-paludismo.\n\nOrinas\n\n        ◦ Glucosuria con cetonuria: diabetes.\n      \
+    \  ◦ Proteinuria con hematuria: neuropatías.\n        ◦ Phenistix violeta: intoxicación salicílica.\n\
+    \nSangre\n\nDosificación de glucosa por el método de Dextrostix: si menos de 40mg.%:hipoglucemia y\
+    \ sus causas, si mas de 200mg.%: deshidratación aguda o diabetes.\nDosificación de la cetonemia: si\
+    \ aumenta diabetes.\n\nLíquido cefalorraquídeo\n\nRecogido por punción lumbar después de realizado\
+    \ el examen de fondo de ojo:\n\nCon sangre microscópica o microscópica, traumatismo craneano, auscultar\
+    \ soplo ya que orienta a buscar una malformación vascular. Líquido claro aumento de células, meningitis\
+    \ tuberculosa, viral o bacteriana.\n\nHiperalbúminorraquia; tumor cerebral\nLíquido lechoso; meningitis\
+    \ bacteriana.\nEn todos estos casos el cultivo de LCR es obligatorio, en medio normal, enriquecido\
+    \ o en medio de Lowenstein.\nTratamiento inmediato\n\nSe debe efectuar para cada caso en particular,\
+    \ pero paralelamente se impone el tratamiento no específico:\n        a) Evitar obstrucción bronco\
+    \ pulmonar con sus consecuencias e infecciones; es de importancia crucial aplicar principios simples\
+    \ que son: 1- suspender toda alimentación por vía oral; 2- eliminar el riesgo de falsa ruta que provoca\
+    \ vómito y éxtasis de saliva, colocando al niño en decúbito lateral con la cabeza ligeramente en declive\
+    \ y aspirando la faringe regularmente; 3- Humedeciendo el aire inhalado; 4- descubrir una inadecuada\
+    \ posición de la lengua y colocar la cánula bucal; 5- ventilar artificialmente si hay tendencia a\
+    \ la asfixia;\n        b) Luchar contra el colapso: el tratamiento varía según la etiología. En la\
+    \ gran mayoría de comas del niño, será necesario un expansor vascular como son las soluciones de gruesas\
+    \ moléculas, plasma, plasmión o sangre, para obtener una diuresis regular (verificando la ausencia\
+    \ de retención urinaria); es importante recordar que ciertas asociaciones medicamentosas son nocivas.\
+    \ Así los simpatomiméticos son contra-indicados en las intoxicaciones por neuroplégicos o productos\
+    \ clorados\n        c) Mantener buen equilibrio hidroeléctrico y nutricional: La necesidad de líquidos\
+    \ en la niñez no puede relacionarse únicamente con el peso corporal sino más bien con el área corporal\
+    \ o la tasa de metabolismo. Si el mantenimiento se basara únicamente en una cifra por kilogramo de\
+    \ peso corporal, se hiperhidrataría a los niños grandes y se deshidrataría a los niños pequeños. Por\
+    \ ello emplearemos el método basado en el gasto calórico, sugerido por Winters y otros textos actuales.\
+    \ Para los primeros 10Kg. de peso corporal, el niño requiere 100 cal por Kg. o 100ml. por Kg. ( 10\
+    \ por 100= 1.000ml).\nPara los segundos 10 Kgs. de peso requiere 50ml. por Kg. o 500ml.\nPara los\
+    \ siguientes 10 Kgs. necesita 20 ml. por Kg. o sea 200ml; la suma de estos datos parciales constituyen\
+    \ la cantidad de líquidos que deben administrarse en 24 horas, pero en los pacientes neurológicos\
+    \ con riesgo de edema cerebral debe disminuirse en tercio del volumen.\nLa nutrición adecuada se considera\
+    \ utilizando el sistema de gavage en el momento en que se descarta la posibilidad de aspiración y\
+    \ el enfermo comienza a mejorar; de otra manera debe optarse por la alimentación parenteral, garantizando\
+    \ un aporte de 100 a 150 cal/Kg./día.\n        d) Eliminar la posibilidad de que se formen ulceras\
+    \ en la cornea con cuidados oculares precoces y repetidos, instalando colirios y manteniendo cerrados\
+    \ los parpados.\n        e) Prevenir las infecciones, empleando reglas de asepsia estrictas y no un\
+    \ tratamiento antibiótico que se hará solo en casos necesarios, cuando presenten infecciones respiratorias,\
+    \ urinarias y siempre después de haber aislado el germen causante.\n        f) Cuidar que no se produzcan\
+    \ escaras o retracciones tendinosas y músculo-aponeuróticas.\n        g) Velar porque no haya problemas\
+    \ de la regulación térmica, en particular la hipertermia, con compresas tibias o medicación antipirética.\n\
+    \        h) Tratar el edema cerebral, descartando primero por medio de la TAC una neoformación intracraneana\
+    \ y después administrando líquidos con la restricción diaria de un tercio de los aportes, como hemos\
+    \ mencionado anteriormente; corticoterapia, ventilación artificial para mantener una Paco 2 entre\
+    \ 25 y 30 mmHg; posición a 30 grados de la cabeza. En caso de ineficacia porque se agrava el coma,\
+    \ hay dilatación pupilar intermitente y episodios de hipertonía o accesos de bradicardia, se instalará\
+    \ monitoreo de la presión intracraneana, cuyo resultado nos hará decidir sobre medidas mas agresivas\
+    \ con el uso de manitol, hipotermia y, según algunos autores la curarización o el coma barbitúrico.\n\
+    \nMuerte cerebral\n\nLa respiración y la circulación están mantenidas por medios artificiales. Cinco\
+    \ signos fundamentales nos hacen pensar en este diagnóstico:\n\n        ◦ Perdida total de la conciencia.\n\
+    \        ◦ Abolición de las reacciones propias de los nervios craneales, midriasis bilateral arefléxica.\n\
+    \        ◦ Eliminación de la respiración espontánea, después de desconectar el respirador (la hiperventilación\
+    \ es eliminada por una medida de la Paco2 superior o igual a 40mmHg.).\n        ◦ Perdida de la termorregulación.\n\
+    \        ◦ Trazado del EEG lineal, confirmado en todas las derivaciones, con todos los estímulos,\
+    \ durante al menos 10 minutos, dos veces a varias horas de distancia.\n\nSe asocian con frecuencia\
+    \ una hipotonía muscular, arreflexia osteotendinosa, caída de la presión arterial y una poliuria isostenúrica.\n\
+    \nEl hecho esencial es la persistencia de estos síntomas en las hipotermias profundas o en ciertos\
+    \ casos no explicados que podrían confundir el diagnóstico. El efecto de tóxicos depresores del sistema\
+    \ nervioso central se descartara investigándoles en la sangre y en la orina.\n\nEVALUACION DE LA PROFUNDIDAD\
+    \ DE LOS COMAS\n\nPara apreciar la profundidad de un coma y poder vigilar la evolución, se han establecido\
+    \ varios métodos: clasificación por estadios que describí anteriormente, el Store de Glasgow y de\
+    \ Oriot, entre otros.\n\nESCALA DE GLASGOW\n\nFue establecida por Teasdale y Jennett para controlar\
+    \ a los traumatizados de cráneo. Es el más utilizado en el mundo, sin embargo, Oriot y Hault, de hospital\
+    \ Kremlin-Bicetre de Paris, refieren que tiene ciertos números de inconvenientes:\n-   Se define por\
+    \ la suma de los mejores puntos obtenidos, en tres ítems supuestamente independientes; un mismo score\
+    \ puede corresponder a estados diferentes. La comparación entre dos scores sucesivos no refleja las\
+    \ variaciones reales de dos estados neurológicos.\n-  Este score es mal adaptado para apreciar el\
+    \ estado de niños verdaderamente comatosos, sobre todo si están bajo cuidado intensivo y con maniobras\
+    \ de reanimación.\n-    En fin, no tiene en cuenta los reflejos del tronco.\n\nESCALA DE COMA DE GLASGOW\n\
+    \nRESPUESTA         ADULTOS Y NIÑOS           LACTANTES             PUNTOS\n\nAbertura\t\tninguna\
+    \ respuesta\t\tninguna respuesta\t\t1\nocular\t\t\tal dolor\t\t\tal dolor \t\t\t2\n\t\t\t\ta la voz\t\
+    \t\ta la voz\t\t\t3\n\t\t\t\tespontánea\t\t\tespontánea\t\t\t4\n\nVerbal\t\t\tninguna respuesta\t\t\
+    ninguna respuesta\t\t1\n\t\t\t\tincomprensible\t\tse queja ante el dolor\t\t2\n\t\t\t\tpalabras inadecuadas\t\
+    \tllora con dolor\t\t\t3\n\t\t\t\tconversación desorientada\tirritable\t\t\t4\n\t\t\t\torientada y\
+    \ adecuada.\t\tArrullos, balbuceos\t\t5\n\nMotora\t\t\tninguna respuesta\t\tninguna respuesta\t\t\
+    1\n\t\t\t\tpost. de descerebración\tpost. de descerebración\t2\n\t\t\t\tpost. de decorticación\t\t\
+    post. de decorticación\t\t3\n\t\t\t\tretiradas ante dolor\t\tretiradas ante dolor\t\t4\n\t\t\t\tlocaliza\
+    \ el dolor\t\tretiradas al tocarle\t\t5\n\t\t\t\tobedece ordenes\t\tmovimiento normal \t\t6\n\t\t\t\
+    \t\t\t\t\tespontáneo\n\nPuntuación\nTotal                                                        \
+    \                                                               3-15\n\nESCALA DE ORIOT\n\nSe adapta\
+    \ bien a los niños comatosos, bajo técnicas de reanimación respiratoria.\nEstudia la apertura de los\
+    \ ojos, la actividad motora, el estado pupilar y los reflejos del tronco. No es agresiva, las estimulaciones\
+    \ provienen exclusivamente por la aspiración traqueal.\nEntonces podemos evaluar los reflejos del\
+    \ tronco por la mímica, y la tos, son importantes y precisos así como los fotomotores y corneanos.\n\
+    \nFecha\n\nHora\n\nApertura de los ojos\n\n             Sigue con la mirada          =3\nSuma    espontánea\
+    \                       =2\n             Provocada                         =1\n\n              Ninguna\
+    \                            =0\n\nActividad motora de los\nmiembros superiores\nLocaliza        \
+    \                    =3\n\nFlexión                              =2\n\nExtensión                  \
+    \        =1\nNinguna                             =0\n\nPupilas (diámetro)\n            Normal:   2-3mm\
+    \               =2\n            Miosis:    1-2mm               =1\n\n            Midriasis:+4mm  \
+    \              =0\n\nReflejos del tronco\nCerebral\n Mímica                                =4\n Fotomotor\
+    \                            =3\nSuma\n             Corneano                             =2\n Tos\
+    \ por aspiración\n o ventilación espontánea     =1\n Ninguna                               =0\n\n\
+    \     Total del SCORE                      120\n"
+  bibliografia:
+  - ATRUP J., SISJO B.K., SYMON L.- Threshold in cerebral ischemie. The ischemic penumbra.- Strocke, 1981,
+    12 723-725.
+  - 'BAROIS A.- Physiopathologie du coma in: Journées parsiennes de pédiatrie.- Flammarion Médicine-Sciences,
+    éd., Paris 1987m pp, 289-295.'
+  - ORIOT D. et HUAULT G.- Diagnostic d’ un coma chez l’enfant- Encycl. Méd. Chir, Paris-France, Pédiatries.
+    4100 M10, 2-1989, 12p.
+  - 'ORIOT D.,WOOD C.-Evaluation clinique de la profondeur d’un coma. In : Journées parisiennes de Pédiatrie.-
+    Flammarion Médicine-Sciences, éd., Paris, 1987, pp. 298-305.'

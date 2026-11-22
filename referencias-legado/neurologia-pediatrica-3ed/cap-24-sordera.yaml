@@ -1,0 +1,33 @@
+# Capítulo XXIV de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 24
+  romano: XXIV
+  titulo_en_la_fuente: SORDERA
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    Puede ser de aparición súbita y puede ser un signo de intoxicación o luego de usar medicamentos ototóxicos, de ciertas infecciones virales como paperas. Puede ser la secuela de una meningitis, de otitis a repetición.
+
+    Otras veces se trata de sordera congénita reportada por los padres o descubierta en el examen de un niño con problemas del lenguaje. Las causas son numerosas. Las más frecuentes son Rubéola congénita y  la Enfermedad de Inclusión Citomegalica. La ictericia nuclear y las sorderas familiares por ejemplo el Síndrome de Waardenburg, hipertelorismo, mechón blanco.
+
+    Ante una sordera unilateral no explicada, debe descartarse mediante estudios radiológicos adecuados los pequeños neurinomas del nervio auditivo sobre todo en enfermedades como la de Recklinghausen.
+  bibliografia:
+  - BONNARD P.- Les surdicécités.- Litre d’otorhinolayngologie et de chirurgie cervicofacile, 1990, 102,24-28
+  - FRAMCOIS M.- Strategie diagnostique chez un enfant sourd-Encycl. Méd. Chir. (Paris, France) Otorhinolaryngologie,
+    20190C10m 1991, 5p.
+  - LYON G.- Surdité.- Pediatrie D’Urgence 1994.

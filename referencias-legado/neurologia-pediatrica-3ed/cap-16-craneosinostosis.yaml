@@ -1,0 +1,75 @@
+# Capítulo XVI de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 16
+  romano: XVI
+  titulo_en_la_fuente: CRANEOSINOSTOSIS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    Llamada también craneostenosis, está ligada a la desaparición prenatal o a la fusión prematura de una o más suturas  craneanas. Pueden asociarse con anomalías de crecimiento esquelético facial y constituye cuadros de disostosis cráneo-faciales.
+
+    La ausencia o la fusión de una o numerosas suturas craneanas tiene por consecuencia una deformación del cráneo y puede ser responsable de un conflicto de crecimiento entre este último y el encéfalo, de donde resulta una hipertensión intracraneana crónica.
+
+    Este problema puede dejar secuelas, principalmente visuales y mentales.
+
+    Etiología
+
+    Frecuencia: no es bien conocida dentro de la población general; se estima que es de 1 p. 100 mil nacimientos.
+
+    Es mucho más elevada en Africa y particularmente en Mafhreb, donde llega al 1 p. 100. En una serie de 619 craneostenosis observados en el hospital Enfants Malades de Paris, el 20 p. 100 provenían de Africa del Norte.
+
+    Genética: la craneostenosis, como parte de algunos síndromes que tienen determinismo genético, es bien conocida: mutación dominante para la enfermedad de Apert, transmisión dominante para los síndromes de Crouzon, Pfeiffer y Seanthre-Chotzen, recesiva autosómica en el síndrome de Carpenter.
+
+    Metabólica: muy rara vez estos problemas causan la enfermedad; sin embargo algunos desordenes pueden llevar al cierre prematuro de una o varias suturas craneanas. Así tenemos las alteraciones del metabolismo fosfocálcico y glucídico, como las mucopolisacaridosis.
+
+    Diferentes tipos de craneostenosis
+
+        • Scafocefalia: la más frecuente en Europa. El cráneo exageradamente alargado, la región parietal estrecha transversalmente, ciertamente abovedada en su parte media. La frente abombada por la acentuación de las protuberancias frontales; igualmente la occipital que se presenta exagerada. Esta deformación corresponde de modo univoco a un ataque de la sutura sagital, casi siempre en toda su longitud. Fig. 41
+
+    FIG 41
+    ESCAFOCEFALIA
+
+        • Trigonocefalia: la frente es estrecha, con una cresta sagital mediana que forma un saliente hacia delante como la proa de un barco. Las protuberancias frontales están disminuidas. Ha asociado constantemente un hipotelorismo y una estrechez de toda la cara. La sutura atacada es la metópica. Fig. 42.
+
+    FIG 42
+    TRIGINICEFALIA
+
+        • Plagiocefalia: se caracteriza por una gran asimetría cráneo-facial con ataque de la sutura coronal. Del lado afectado hay un aplastamiento del frontal y ascensión de la orbita con desplazamiento lateral de la raíz de la nariz, que provoca una desviación del conjunto de la pirámide nasal. Esta asimetría está exagerada por una frecuente acentuación de la protuberancia frontal del lado sano y de la protuberancia parietal del lado afectado. Hay asimetría de la base del cráneo, visible clínicamente por la existencia de un abombamiento temporal y una anteposición de la oreja del lado afectado.
+        • Braquicefalia: El hundimiento frontal es bilateral y predomina en su parte inferior, suborbitaria; la parte baja del frontal está aplanada, cóncava hacia delante. El hundimiento de las arcadas superficiliares y de la región media tiende a horizontalizar el perfil nasal. Por el contrario el frontal en su parte superior es convexo hacia delante o hacia arriba, tomando una forma particular llamada turricefalia. La región temporal es abombada en los dos lados y en conjunto el cráneo es estrecho de adelante hacia atrás y alargado transversalmente. Las suturas atacadas son las dos coronales. Fig. 43
+
+    FIG 43
+    BRAQUICEFALIA
+
+        • Oxycefalia: Se confirma por una depresión frontal global, que afecta la base y también la parte alta, lo que permite un borramiento del ángulo fronto-nasal visible de perfil. La bóveda culmina en el bregma como una protuberancia, sin alargamiento compensador del cráneo; este último, por el contrario, se estrecha transversalmente. La depresión de las arcadas superciliares son responsables de un exorbitismo bilateral y se debe al compromiso de las dos suturas coronales y de la sutura sagital.
+
+    Tratamiento
+
+    Es quirúrgico; se basa en la triple necesidad de descomprimir el cerebro, reconstruir una anatomía normal y restaurar el crecimiento ulterior. Las técnicas son diferentes, según el tipo de craneostenosis y la edad del niño.
+
+    Cuando el problema morfológico está en primer plano o en los casos vistos tardíamente, si el crecimiento rápido del encéfalo se afecta, lo esencial de la técnica procura corregir las modificaciones morfológicas, liberando las uniones óseas, incluidos los rebordes orbitarios, ya que ellos están deprimidos o deformados.
+
+    La técnica quirúrgica da excelentes resultados, salvo cuando el compromiso es bicoronal en el lactante: en esta edad el crecimiento del cerebro impone liberar completamente el polo anterior del cráneo, dejando un “frontal flotante” que preserve las posibilidades de expansión del encéfalo y del cráneo en un momento importante.
+  bibliografia:
+  - LE MERRER M., LEDINOT V., MARCHAC.- Conseil génétique dans les craniosténoses. Bilan d’une étude prospective
+    réalisée avec le grupe d’étude sur les malformations cranio-faciales.- J. Génét. Hum., 1988, 36, 295-306.
+  - MARCHAC D., RENIER D.- “Le front flottant”, tritement precose des facciocraniosténoses.- Ann, Chir.,
+    Plast., 1979, 24, 121-126.
+  - MARCHAC D., RENIER D.- Chirurgie cranio-faciale des craniosténoses.- Médsi, Edith., Paris, 1982.
+  - MAROTEAUX P.- Maladies osseuses de l’enfant.- Flammarion, éd., Paris, 1982.
+  - RENIER D. et MARCHAC D.- Craniosténoses.- Encycl. Méd. Chir. Paris, France, Pédiatrie, 4096 B10, 9-1989,
+    12p.

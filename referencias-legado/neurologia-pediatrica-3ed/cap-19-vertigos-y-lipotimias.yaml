@@ -1,0 +1,48 @@
+# Capítulo XIX de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 19
+  romano: XIX
+  titulo_en_la_fuente: VERTIGOS Y LIPOTIMIAS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    VERTIGOS.
+
+    Los principales casos de vértigo verdadero en el niño son:
+
+        • Laberintitos viral (vértigo epidémico): De inicio brusco, con nausea y vómito con frecuencia nistagmus que se observa en general en algunos días. La etiología precisa se la encuentra rara vez. (parotiditis).
+
+        • Vértigo paroxístico benigno: hace su debut entre los 18 meses y tres años aproximadamente; los vértigos duran algunos segundos a 1 a 2 minutos, se manifiesta de diversas formas; demostraciones de tumor algunas veces pierden el equilibrio, vómitos y nistagmus, gira la cabeza hacia un lado, con frecuencia el niño declara que está mareado, o que tiene dolor de cabeza; el EEG es normal; el examen laberíntico no muestra patología, pero si discretas anomalías ante las pruebas calóricas la curación es espontánea después de 4 a 5 años.
+
+        • Otitis crónica: puede provocar vértigo muy molesto.
+
+        • Vértigo intermitentes asociados a un nistagmo: pueden estar presentes en algunos casos de tumores de fosa posterior o en malformaciones de la cadena occipito-vertebral.
+
+        • Sensación de vértigo: se siente en las migrañas, o también como aura en ciertas crisis comiciales.
+
+    Toda una serie de tóxicos y drogas pueden ser responsables, especialmente las ototóxicas.
+
+    SINCOPES. LIPOTIMIAS.
+
+    Los vértigos verdaderos con sensación de rotación de los objetos, algunas veces asociadas a nistagmus, deben distinguirse de las sensaciones vertiginosas más vagas y de las sensaciones lipotímicas. Los sincopes y lipotimias que sobrevienen después de los 12 años son difíciles de distinguir de las crisis de epilepsia. Ellos conllevan una perdida del conocimiento brusco y pasajero con caída, que se presenta en condiciones muy particulares, sea emotiva (sangre-acto médico), o sea ligada a ortostatismo (estación de pie prolongada), prácticamente estos accidentes se producen cuando el niño esta de pie. No es seguido de sueño y no se acompañan de movimientos clónicos o de bloqueo respiratorio con cianosis.
+  bibliografia:
+  - ESPAGNO C., TREMOULET M. et coll.- I. Répercussion axiale des lesions supratentorielles post-traumatiques.-
+    Neurochirugie, 1989, 25, 206-208.
+  - 'LANDRIEU P.- Autres moyens d’approche paracliniques er perspectives d’avenir. In : Journées parisiennes
+    de pédiatrie.- Flammarion Médicine Sciences, éd., Paris, 1987, pp. 318-319.'
+  - LYON G.- Vértiges. Lipothymies.- Pediatrie D’Urgence. 1994

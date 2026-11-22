@@ -1,0 +1,374 @@
+# Capítulo IV de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 4
+  romano: IV
+  titulo_en_la_fuente: EXAMEN NEUROMOTOR COMPLEMENTARIO EN EL CURSO DE LAS PRIMERAS SEMANAS DE VIDA
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: "SU APLICACION EN EL RECIEN NACIDO DE RIESGO\n\nLas lesiones originadas por el sufrimiento cerebral\
+    \ neonatal pueden dar secuelas más o menos graves. Algunos recién nacidos que presentaron líquido\
+    \ amniótico meconial, desaceleración de la frecuencia cardiaca fetal y un pH moderadamente bajo, pueden\
+    \ poner en evidencia manifestaciones neurológicas, después de un período denominado intervalo libre.\n\
+    \nEs responsabilidad del médico informar a la familia del enfermo, lo más exactamente posible, de\
+    \ la patología cerebral si la hay, de las limitaciones psicomáticas que podrían ser secuelas en el\
+    \ futuro. Pero así mismo se debe hablar con bases clínicas de la posibilidad de que muchos de los\
+    \ niños que tuvieron S.C.N.N. puedan ser normales, debido a que las células cerebrales que limitan\
+    \ la zona isquémica pueden compensar la función del órgano en desarrollo.\n\nHasta hoy era un problema\
+    \ no resuelto, aun contando con los exámenes complementarios de que disponíamos. Sin embargo en Francia\
+    \ se han publicado trabajos muy confiables, entre ellos de Amiel-Tison, de Brazelton y de A. Grenier\
+    \ y col., que nos permiten conocer el pronóstico de estos recién nacidos.\n\nDEFINICION DEL E.N.M.C.\n\
+    \n    • Para reconocer la normalidad neuromotora en el curso de las primeras semanas de la vida, el\
+    \ E.N.M.C. reclama la participación activa del niño. El deberá realizar algunos ejercicios luego de\
+    \ los cuales se tendrá la idea de la normalidad o de una anomalía existente. Si es así, teniendo como\
+    \ referencia los esquemas normales se pueden deducir las anomalías: neurológica o no, central o periférica,\
+    \ transitoria o definitiva.\n\n-    El E.N.M.C. tiene por finalidad anticipar, desde las primeras\
+    \ semanas de la vida, la normalidad motora ulterior.\n\nEl examinador debe conseguir el control postural\
+    \ de la cabeza. La experiencia nos ha probado que el niño es capaz de efectuar performances motrices\
+    \ y de relación, hasta aquí considerados como propios de otros de mayor edad, cuando se suprime la\
+    \ impotencia de la nuca.\nSe debe fijar manualmente la cabeza del niño en posturas favorables y crear\
+    \ con el un estado de comunicación intensa por diversos estímulos, hasta conseguir el estado denominado\
+    \ de motricidad liberada. Fig. 26\n\nFig. 26\n\nSENTADO EN EL PUPITRE, MOTRICIDAD LIBERADA\n\nEn la\
+    \ foto se presenta un niño de tres semanas solamente. Ha adoptado la posición sentado en pupitre sin\
+    \ otro sostén que el de la cabeza, por mano del examinador. Tiene fuerza suficiente par enderezar\
+    \ el tronco. No deja de mirar un objeto situado a distancia y más bien trata de tocarlo, de cogerlo;\
+    \ explora con gestos que no tienen ningún carácter reflejo o automático. Al contrario, estos movimientos\
+    \ son lentos y armoniosos, las manos abiertas y todos los dedos tienen una actividad coordinada. En\
+    \ breve este recién nacido se comporta como otra de mayor edad que ya puede adoptar la posición de\
+    \ sentado y la motilidad voluntaria. Es evidente que esta prueba de pupitre permanece en el dominio\
+    \ de la investigación; si embargo testifica que la fijación manual de la nuca libera “una motricidad\
+    \ clandestina” que parece tener la misma organización que la motricidad intencional del niño mayor.\n\
+    \nEl E.N.M.C. de las primeras semanas de la vida no se limita a la observación de la motricidad liberada,\
+    \ Busca las posibilidades motoras mas sutiles en el plano lateral, estudia si el niño es capaz de\
+    \ realizar la “reacción lateral de abducción”, (R.L.A.) que es una reacción en  cadena  y se obtienen\
+    \ suscitando un enderezamiento lateral activo de la cabeza. El niño se sitúa en decúbito lateral,\
+    \ miembro inferior de abajo flexionado, miembro inferior de arriba en extensión.\n\nSe observan, después\
+    \ del enderezamiento de la cabeza, las contracciones que flexionan el tronco lateralmente, que eleva\
+    \ el miembro inferior en abducción y extensión y el pie se sitúa en dorsiflexión. Según los profesores\
+    \ A. Grenier y B. Contraríes, esta reacción lateral de abducción permite eliminar el riesgo de enfermedad\
+    \ motriz cerebral, hecho constatado también en nuestro servicio. Fig. 27\n\nTÉCNICA DEL E.N.M.C.\n\
+    \nEs necesario recordar que el E.N.M.C. comienza por crear un estado de “liberación motriz” a fin\
+    \ de permitir al recién nacido que organice sus respuestas poniendo en evidencia la ausencia del hándicap\
+    \ patológico. Esta progresión nos parece, en efecto, indispensable antes de poder afirmar que un R.N.\
+    \ de riesgo es indemne después de haber sufrido problemas perinatales.\n\nFig. 27\n\nAPOYO LATERAL\n\
+    \nPara obtener lo mencionado aplicamos la técnica adecuada que consta obligatoriamente de:\n\n   \
+    \ • Una preparación al estado de motricidad liberada que consiste en desadaptar temporalmente al niño\
+    \ de la impotencia de la nuca y en el mismo tiempo, de las respuestas motrices que ello impone. Este\
+    \ primer estadío se llama desparasitismo.\n\n    • Un estado liberado completo, en el curso del cual\
+    \ la motricidad se hace evidente en diferentes aspectos.\n\n    • Se prolonga algunos minutos el “estado\
+    \ de liberación”, que el examinador consagra al R.L.A., el cual da una seguridad sobre el futuro aeromotor\
+    \ del R.N. de riesgo. Es el tiempo motor.\n\nEL DESPARASITISMO\n\nConsiste en obtener primero la participación\
+    \ activa del niño. La atención y la disponibilidad relacional deben ser sostenidas en permanencia,\
+    \ porque una cierta intención aparece dentro de las respuestas motoras; luego la desaparición temporal\
+    \ del reflejo de Moro, así como de la mayoría de movimientos parásitos incontrolables en el niño de\
+    \ 0 a 3 meses, antes que su motricidad refleja desaparezca espontáneamente.\n\nEl desparasitismo se\
+    \ obtiene por la imbricación de varias acciones, que se pueden esquematizar de la siguiente forma.\n\
+    \n1.   Fijar manualmente la nuca:\n      Será el primer gesto que el médico ejecutara desde que toca\
+    \ al niño. Este, frente al examinador es mantenido semisentado directamente sobre la mesa de examen.\
+    \ Su cabeza debe ser fijada por una mano que se sitúa detrás de la nuca. Es necesario esperar que\
+    \ e R.N. se calme y preste atención para comenzar a enderezarlo, hasta conseguir que e tronco adopte\
+    \ la posición vertical. La mano sube lentamente detrás de la cabeza hasta coger las protuberancias\
+    \ temporales. El codo se apoya solidamente en la mesa de examen y el antebrazo ligeramente curvado\
+    \ detrás de los hombros del niño, dejando la espalda sin apoyo. Luego de algunos minutos el niño se\
+    \ comporta realmente como que tiene más edad y la motricidad que el manifiesta puede ser considerada\
+    \ como liberada de la motricidad refleja irreprimible que parasita toda acción. Fig. 28\n\nFig. 28\n\
+    \nPOSICION SENTADO, COMUNICACIÓN INTENSA\n\n2.   Aptitudes sensoriales y la interacción\n      Es\
+    \ necesario que el médico hable permanentemente con el niño con voz suave para captar su atención,\
+    \ sin jamás provocar sobresalto. Su mirada no debe retirarse ni un instante de los ojos del examinado,\
+    \ hasta obtener una comunicación visual continua. Con la mano libre, el examinador acaricia la piel\
+    \ y ejerce, a nivel de las masas musculares; presiones delicadas a fin de poner en juego, sin provocar\
+    \ el efecto de sorpresa, las sensibilidades extero y propioceptivas.\n\n\tEste estado de comunicación\
+    \ sensorial es la base de la comunicación más elaborada para llegar a un estado de relación intensa\
+    \ entre el médico y el niño.\n\n3.\tControl de la posición del tronco al mismo tiempo que de la cabeza\
+    \ en el curso de cada una de las diferentes situaciones del examen:\n-\tPrimera situación: sedestación\
+    \ simple\n\tEl niño es sentado sobre la mesa de examen, sin respaldo, con el tronco en posición vertical.\
+    \ Si se trata de un R.N. o de un pequeño lactante, el examinado, que tiene fijada la nuca, podrá llevar\
+    \ la otra mano abierta sobre el abdomen a fin de asegurar una contrapresión. Si es necesario, el índice\
+    \ se dirigirá hasta el mentón para levantar ligeramente la cara si ella tiende a bajar.\n\n\tCuando\
+    \ el niño agita los miembros inferiores, la mano puede descender sobre el abdomen y juntar a los dos\
+    \ miembros muy flexionados a los que se imprime algunas pequeñas sacudidas para relajarlos. Esta doble\
+    \ contención de la cabeza y el tronco no debe conducir a la inmovilidad total. Ella debe solamente\
+    \ suprimir los estiramientos de los músculos cervicales y reemplazarlos por movimientos guiados de\
+    \ baja amplitud y de velocidad constante contra las cuales el niño no debe resistirse. Para ello el\
+    \ examinador anima permanentemente las dos manos con un temblor moderado. Es igualmente recomendado\
+    \ imprimir a la cabeza pequeños movimientos de pistón de arriba hacia abajo que no origina repuesta\
+    \ refleja. Esta acción conjunta de las dos manos da un adecuado confort al niño y es indispensable\
+    \ momento para establecer la interacción. Fig. 29\n\nFig. 29\n\nPOSICION SENTADO, DESPARASITISMO MOTRIZ\n\
+    \n-     Segunda situación: sedestación sobre un banco (Ver Fig. 26).\n\tEl infante esta sentado sobre\
+    \ un banco colocado sobre la mesa de examen. Se trata de una etapa facultativa que el examinador utiliza\
+    \ para apreciar la fuerza de enderezamiento o cuando desea explorar la disponibilidad sensorial y\
+    \ la capacidad de coger intencionalmente un juguete sobre el pupitre. La altura del banco debe adaptarse\
+    \ a la talla del niño, para que los músculos estén horizontales y los pies descansen delante del banco,\
+    \ sobre el plano de la mesa.\n\tEl examinador sostiene siempre la cabeza, se coloca ligeramente a\
+    \ un lado, comienza a retirar la mirada por instantes del niño, para que se interese por otro observador,\
+    \ o por un juguete se debe vigilar que el eje de la cabeza y el tronco permanezcan en un buen alineamiento.\n\
+    \tEste no será interrumpido sino al fin de la prueba para apreciar la perdida del poder perturbador\
+    \ de los movimientos superiores.\n\n-\tTercera situación: Posición de “Recamier”\n\tDe la posición\
+    \ semisentada, con la nuca fija, el niño es suavemente colocado en decúbito lateral evitando que se\
+    \ produzcan movimientos bruscos aun de pequeña amplitud. La cabeza permanece en un plano elevado con\
+    \ relación al tronco, como sobre un canapé. (De ahí el nombre de la posición de observación)\n-\t\
+    Los ejes de la cabeza y el tronco deben estar en el mismo plano frontal.\n-\tLos miembros inferiores\
+    \ se mantienen flexionados por la mano libre del examinador que podrá poco a poco abandonarlos.\n\
+    -\tEl miembro superior de arriba, igualmente flexionado cae hacia delante sobre el tronco y es animado\
+    \ de movimientos lentos, la mano permanece abierta; en algunos casos ella se dirige hacia la cara\
+    \ del examinador y procura tocarla.\n-\tEl miembro superior de debajo debe colcharse de tal forma\
+    \ que el brazo sea perpendicular al plano de la mesa, el codo y el antebrazo en apoyo con un ángulo\
+    \ de 90 grados, la mano libremente abierta o cerrada. Fig. 30\n\nFig. 30\n\nPOSICION DE RECAMIER\n\
+    \nEl estado de relación obtenido en posición sentado debe también ser obtenido aquí. El examinador\
+    \ solicita con frecuencia la comunicación sensorial no solamente conservando el interés visual o auditivo\
+    \ sino variando subvente la fuerza de apoyo que su mano ofrece a la cabeza del niño. El estado de\
+    \ relación aumenta y pueden aparecer movimientos que tienden a modificar la situación postural. El\
+    \ examinador pronto va a sentir un refuerzo activo de los músculos laterales del cuello. Esta reacción\
+    \ es fundamental, pues testifica la participación del niño y su presencia real dentro de la comunicación.\n\
+    \nLa posición de “Recamier” evita los estiramientos bruscos de la cabeza y sus consecuencias; debe\
+    \ acercar el cuerpo del niño al plano de la mesa, sobre la cual el examinador va a provocar el tiempo\
+    \ motor, siendo la cabeza la que juega el rol de “starter” o motor de arranque, elevándose activamente\
+    \ contra su peso durante las pruebas dinámicas.\n\nEL ESTADO LIBERADO\n\n\t“El estado liberado” designa\
+    \ la disponibilidad sensomotora y relacional obtenida por la acción simultanea de estímulos auditivos,\
+    \ visuales, cutáneos y propioceptivos, por una parte, y por la supresión temporal de la impotencia\
+    \ fisiológica de la nuca, por otra parte. En los primeros momentos, el niño lucha contra la fuerza\
+    \ que le retiene da unos tirones proyectando el cuerpo hacia delante o la cabeza hacia atrás. Su grado\
+    \ de vigilia pasa del estado 2 al 5, sin grandes razones aparentes, pero esta situación no dura, el\
+    \ interés del niño por el examinador se hace cada vez mayor y se instaura un estado que no corresponde\
+    \ a ninguno de los descritos por Prechtl. Se llama estado de comunicación porque el niño se relaciona\
+    \ con el examinador; se observa una progresión en este estado. Inicialmente la interrelación es puramente\
+    \ sensorial, lo que significa que niño no llora, no grita, no se agita y parece escuchar el discurso\
+    \ permanente mientras que los ojos siguen algunos de los desplazamientos de la cabeza del examinador\
+    \ colocado delante de el. Es frecuente que esta relación no vaya más allá de este estado de disponibilidad\
+    \ sensorial, sobre todo cuando el niño es muy pequeño. A menudo pero no siempre, la situación se transforma\
+    \ secundariamente en un verdadero estado relacional; esto es fácilmente reconocible puesto que el\
+    \ niño emprende una autentica búsqueda personal del examinador.\n\nNo abandona su mirada y parece\
+    \ imantado, escucha su discurso, imita los movimientos de la lengua, de la boca, se apresta a responder\
+    \ y sonreír como atestigua un cambio de expresión de los rasgos faciales. Paralelamente a esta transformación\
+    \ del comportamiento, los miembros superiores cesan de estar animados por respuestas obligatorias.\
+    \ Al principio se elevan en bloque hasta la altura de los hombros al mínimo impulso de lucha. Poco\
+    \ a poco los movimientos se hacen menos frecuentes y pierden en amplitud. Pronto los brazos bajan\
+    \ a cada lado del tronco.\n\nLas manos se abren. Los cuatro últimos dedos se separan. Solo el pulgar\
+    \ permanece algunas veces replegado en la palma de la mano. Finalmente, sin solicitación particular,\
+    \ se producen algunos movimientos espontáneos. Se trata de gestos lentos, de amplitud limitada, pero\
+    \ aparentemente armoniosos y coordinado, que recuerdan los movimientos naturales de los niño de mayor\
+    \ edad. Fig. 31\n\nFig. 31\n\nESTADO LIBERADO\n\nCuando el niño esta sentado en el banco, el estado\
+    \ liberado es todavía más claro. El tronco, que tenía necesidad hasta este momento de un poco de apoyo\
+    \ anterior, se endereza cada vez más, y después de 5 a 10 minutos la actitud cifósica de la espalda,\
+    \ llamada fisiológica, desaparece por completo. Los miembros superiores están totalmente relajados.\
+    \ El reflejo de prensión ha desaparecido. Incluso si se desliza un objeto en la mano provoca un ligero\
+    \ movimiento de gancho con los dedos, pero la mano no nuestra ninguna firmeza y cede fácilmente al\
+    \ retirarle el objeto. El mismo fenómeno de inhibición se observa en el reflejo de Moro y en los reflejos\
+    \ tónicos del cuello. La deflexión o la rotación suave de la cabeza no desencadena ninguna respuesta\
+    \ motora en los miembros superiores.\n\nEl estado liberado, en la situación de “Recamier”, es todavía\
+    \ mas fácil y mas rápido de obtener que en la sedestación sobre el banco. En muy poco tiempo, 4 a\
+    \ 5 minutos, el niño llega a ser libre para comunicar y libre para actuar. El examinador tiene realmente\
+    \ la impresión de hacer una “ventana” en la motricidad primaria, a través de la cual, aprovechando\
+    \ esta situación privilegiada, podrá establecer una comunicación que sobrepasara el estado sensorial.\
+    \ En efecto, la situación le conviene, el niño establece una relación de mímicas, miradas, sonrisas\
+    \ y de escucha de la más alta importancia para la calidad de la interrelación del niño con el ambiente.\
+    \ Pero libre para comunicar y libre para tener la motricidad que el quiere, el niño presenta todavía\
+    \ unos movimientos espontáneos muy pobres. Este es el momento que el examinador debe escoger para\
+    \ solicitar al niño y guiarle para ejecutar cambios de posición durante los cuales será posible reconocer\
+    \ la ausencia de hándicap motor mayor.\n\nLA MOTRICIDAD DIRIGIDA\n\nEl tiempo motor solo comienza\
+    \ cuando el niño esta en estado liberado, en la posición de “Recamier”. Su finalidad es hacer la demostración\
+    \ precoz de la integridad de las vías motoras. Teóricamente, el niño, desembarazado de su motricidad\
+    \ primaria, es libre para actuar, pero es evidente que a esta precoz edad, la maduración y el aprendizaje\
+    \ lo hacen demasiado imperfecto para que pueda actuar solo de forma útil. No posee la iniciativa,\
+    \ ni las ganas de cambiar la posición, ni la fuerza para sostenerse suficientemente frente a su propio\
+    \ peso. Así pues, el examinador debe acudir en su ayuda, seleccionando las pruebas motoras dinámicas,\
+    \ de manera que no retenga mas que aquellas susceptibles de probar la integridad de las vías motoras;\
+    \ dejando al niño suficiente iniciativa para que su participación activa no represente ninguna duda;\
+    \ sosteniendo solamente lo necesario las partes del cuerpo del niño, que tiene dificultad para levantar\
+    \ el mismo, cuando se dirige en un desplazamiento. Fig. 32\n\nFig. 32\n\nPOSICION DE RECAMIER, MOTRICIDAD\
+    \ DIRIGIDA\n\nLa elección de los ejercicios motores esta basada en la experiencia adquirida en la\
+    \ consulta de exploración y vigilancia de los niños con riesgo neurológico de origen perinatal. Se\
+    \ trata de poner en evidencia las respuestas motoras que un lactante con parálisis motora cerebral,\
+    \ incluso con unos meses mas de edad jamás será capaz de efectuar correctamente.\n\nEs importante\
+    \ subrayar que los recién nacidos y los lactantes pequeños disponen normalmente de un repertorio motor\
+    \ muy rico. Son capaces de ejecutar movimientos idénticos a los que ejecutaría un niño mayor, un adulto\
+    \ colocado en la misma situación, como si los programas motores ya estuvieran inscritos desde el nacimiento.\
+    \ La única condición es que el examinador prepare el inicio de la respuesta y que mantenga al niño\
+    \ hasta el final del ejercicio. Ante todo, los enderezamientos en el plano lateral son los que aparecen\
+    \ como mas fiables cuando su ejecución esta asegurada según un protocolo riguroso. Se retienen dos\
+    \ pruebas: el enderezamiento de la cabeza y el tronco en el curso de un esfuerzo intencionado llamado\
+    \ de “apoyo lateral” (AL) y el enderezamiento en abducción del miembro inferior, terminando en un\
+    \ encadenamiento motor del hemicuerpo, llamado “reacción lateral de abducción” (RLA).\n\nConviene\
+    \ asociarle una serie de pruebas de giro del cuerpo a los dos lados, guiado por la cabeza o, más específicamente,\
+    \ por los miembros inferiores cuando no se obtengan las RLA.\n\na) Enderezamiento lateral de la cabeza\
+    \ y del cuerpo en el curso de un esfuerzo intencionado (apoyo lateral).- Esta prueba es ya muy antigua.\
+    \ El estado liberado ha desdoblado su facilidad de ejecución y la seguridad de su interpretación para\
+    \ la búsqueda de la normalidad motora. Los movimientos van a desarrollarse según un esquema motor\
+    \ fijo más o menos completo según la edad del niño y según el papel activo que desempeñará para luchar\
+    \ contra su propio peso.\n\nLa situación de partida es la posición de “Recamier”. Rápidamente, después\
+    \ de haber obtenido el estado liberado y antes de que aparezca la fatiga, siempre sin llanto y en\
+    \ estado relacional intenso, el niño se estira delicadamente en decúbito lateral completo. Su cabeza\
+    \ reposa sobre la mesa de exploración. Esta debe ser suave o, como mínimo, presentar una cierta elasticidad\
+    \ para no negarle algún bienestar. El examinador coloca una de las manos sobre la cadera del niño\
+    \ y se apoya sobre la pelvis como si quisiera hundirla ligeramente en la mesa. Esta presión proporciona\
+    \ una báscula entre las partes inferior y superior del cuerpo, llevando a la cabeza a enderezarse.\
+    \ Los miembros inferiores deben colocarse al borde de la mesa, de tal manera que el niño tenga las\
+    \ piernas colgadas, por si llega hasta la sedestación al final de la maniobra. Con la otra mano, el\
+    \ examinador puede ofrecer un cierto agarre, deslizando su segundo y tercer dedo en el pliegue del\
+    \ codo flexionado del miembro superior de arriba. No se trata de un sistema de tracción, sino de una\
+    \ simple suspensión sobre la cual el niño tomará apoyo para levantarse.\n\nPor una fuerza y una voluntad\
+    \ que proviene manifiestamente del niño, la cabeza se levanta cada vez más y el punto de apoyo sobre\
+    \ la mesa se hace por medio del hombro. La respuesta postural puede detenerse aquí en el recién nacido\
+    \ o al principio de la prueba si el niño no participa. Por el contrario, cuando el niño colabora la\
+    \ prueba prosigue y se completa; se asiste a la subida progresiva del tronco que sigue el enderezamiento\
+    \ de la cabeza, pudiendo llegar hasta la sedestación. En cuanto al apoyo del miembro superior, modifica\
+    \ según la importancia del enderezamiento del cuerpo, haciéndose inicialmente sobre el antebrazo,\
+    \ con el codo flexionado y luego en 90º, para terminar sobre la mano con el codo extendido, con el\
+    \ puño cerrado o abierto. Aumentando la edad, estos apoyos son completos muchos antes del tercer mes\
+    \ de edad corregida. Debe repetirse varia veces la maniobra; tantas veces como sea evidente la participación\
+    \ activa del niño, antes de decir que estos enderezamientos están ausentes o son insuficientes. Fig.\
+    \ 33\n\nFig.33\nAPOYO LATERAL\n\n¿Cual es la posible significación de estas aptitudes en un lactante\
+    \ muy pequeño?  Nosotros no hemos hecho la demostración estadística a largo plazo, pero nuestra experiencia\
+    \ nos lleva a considerar que el conjunto de estos comportamientos motores y relacionales atestiguan\
+    \ una organización central perfecta, incompatible con un daño cerebral.\nPensamos que tal respuesta\
+    \ tiene una significación muy elaborada que implica una organización motora intacta y la posibilidad\
+    \ de alcanzar una relación intensa con el ambiente. ¿Como temer todavía una lesión cerebral en un\
+    \ lactante de algunas semanas de vida que nos saca con pasión las gafas? Fig. 34\n\nFig. 34\nMOTRICIDAD\
+    \ LIBERADA\n\nResultados erróneos pueden atribuirse a anomalías periféricas de los músculos del cuello.\n\
+    Es norma\n    • Palpar los músculos laterales para asegurarse que no hay hematomas, ni retracción\
+    \ tendinosa que pueda explicar enderezamientos asimétricos. Una elevación fácil de la cabeza puede\
+    \ ser un simple enderezamiento pasivo relacionado con un músculo demasiado corto. Inversamente, una\
+    \ insuficiencia en la fuerza de enderezamiento del lado opuesto a una brida muscular pierde toda significación\
+    \ neurológica.\n    • Vigilar que el eje de la cabeza y el eje del tronco estén alineados. Esto puede\
+    \ ser difícil de observar cuando los músculos extensores del cuello, esencialmente los trapecios,\
+    \ estén en posición de acortamiento. Puede producirse una respuesta insuficiente, falsa, si el niño\
+    \ durante la maniobra, gira la cabeza hacia arriba (en esta posición los músculos extensores provocan\
+    \ una llanada hacia abajo) y su cabeza parece no poder levantarse; se manifestara una respuesta favorable\
+    \ falsa en la situación inversa; si el niño mira hacia abajo del plano de la mesa.\n    • No contentarse\
+    \ con la conclusión de unos músculos trapecios cortos sin haber comprendido en cada caso por que estos\
+    \ músculos están acortados y sin haber evaluado de nuevo varias veces el enderezamiento lateral, hasta\
+    \ obtener una respuesta significativa testigo de una organización motora normal. Efectivamente, es\
+    \ preciso recordar que el acortamiento de los músculos posteriores de la nuca puede estar en relación\
+    \ con una crianza de decúbito ventral continuo, o de preferencia, con un acortamiento de origen iatrogénico\
+    \ secundario al mantenimiento de la cabeza en hiperextensión durante los cuidados intensivos; un opistótonos\
+    \ de origen neurológico observado muy particularmente a título de anomalía transitoria en los recién\
+    \ nacidos de alto riesgo, o bien como primer signo de una malformación cerebral, especialmente de\
+    \ la fosa posterior.\n\nNos parece tal la importancia de este enderezamiento lateral durante un esfuerzo\
+    \ intencionado, que su ausencia o su asimetría nos deben impeler a repetir las evaluaciones en muy\
+    \ breve espacio de tiempo y a favorecer la prescripción de una ecografía transfontanelar o un examen\
+    \ tomodensitométrico. En todos los casos de asimetría confirmada, comparar de manera muy precisa los\
+    \ dos hemicuerpos para no dejarse engañar por una hemihipertrofia que puede explicar una respuesta\
+    \ asimétrica, cuando los niños viven en decúbito dorsal ligeramente enrollado sobre su “costado pequeño”;\
+    \ comparar el tono y la fuerza de los movimientos, intencionales o no que en estado liberado puede\
+    \ aparecer una simetría en relación con una hemiplejia cerebral, cuya expresión clínica “espástica”\
+    \ no aparecerá hasta mas tarde.\n\nb) Reacción lateral de abducción de la cadera (R.L.A.):\nSe trata\
+    \ de una reacción postural que provoca un encadenamiento de contracciones musculares en un hemicuerpo\
+    \ desde la cabeza hasta los pies, al fin de la cual se observa una abducción franca de la cadera.\
+    \ En estas condiciones, cuando la reacción, se produce pone en evidencia un enderezamiento lateral\
+    \ del miembro inferior que se eleva en extensión separándose del plano de la mesa. En la experiencia\
+    \ de los investigadores efectuada desde hace 20 años se ha observado que los recién nacidos y niños\
+    \ con enfermedad motriz cerebral no presentan esta reacción, aun antes de que el hándicap motor se\
+    \ defina clínicamente como autentico.\n\nEs una reacción de equilibrio, en la que la cabeza se endereza\
+    \ sobre un lado y el miembro inferior del lado opuesto a la báscula, se eleva en balancín. Es decir\
+    \ el miembro en extensión completa sobre la cadera realiza esta acción por la fuerza de abducción\
+    \ de los músculos de la cadera.\n\nEn efecto, se establece un equilibrio: por un lado, la fuerza de\
+    \ enderezamiento de la cabeza y del hombro y por otro, del miembro inferior elevado en extensión.\n\
+    \nSin interrupción, las contracciones activas parten de los músculos laterales del cuello para recorrer\
+    \ el hemicuerpo, llegar a la cadera, al muslo, a la rodilla en extensión, a la pierna y después al\
+    \ pie, se coloca en ángulo recto sobre el eje del miembro inferior. En conjunto esta respuesta testifica\
+    \ una organización motora intacta. Una vez que aparece, persistirá toda la vida. Esto sucede alrededor\
+    \ del octavo mes, en que el niño dispone de reacción de equilibrio bien organizada.\n\nEn niños de\
+    \ menor edad se debe proceder de la siguiente manera: Se le colocará delicadamente en decúbito lateral\
+    \ cuidando de mantener la dirección del eje del cuerpo; la cabeza no debe tener apoyo; el miembro\
+    \ inferior de abajo se mantendrá en flexión; el miembro inferior de arriba estará en extensión. El\
+    \ examinador colocado frente al niño con una de las manos fijará el muslo y la cadera, cuidando la\
+    \ no participación de los miembros superiores. Fig. 35\n\nFig. 35\nREFLEJO LATERAL DE ABDUCCION (RLA)\n\
+    \nUBICAION DEL EXAMEN NEUROMOTOR COMPLEMENTARIO\n\nEn el curso de estos trabajos sobre la búsqueda\
+    \ de las posibilidades motoras complejas, la situación motora del recién nacido y del lactante pequeño\
+    \ aparece enteramente dominada por la impotencia de la nuca. Esto debía conducir a la descripción\
+    \ de la “motricidad liberada”.\n\nSe practicó un estudio en serie con 246 niños de menos de 8 semanas\
+    \ (de edad corregida). Todos fueron examinados en sedestación, sin respaldo, en un ángulo de 90 grados,\
+    \ con su mano fijada por la mano del examinador durante varios minutos. Así podría observarse, siempre\
+    \ en el mismo orden cronológico: una detención de la motricidad explosiva refleja, dejando su lugar\
+    \ a un estado de comunicación intensa con el examinador (97%); un mantenimiento del tronco y una relajación\
+    \ de los miembros superiores animados con, movimientos que asemejan los de un lactante de mayor edad\
+    \ (43%); un interés real por un objeto concreto en el que el niño fija intensamente su mirada (39%)\
+    \ y que el coge y palpa de manera intencionada y repetida con gestos precisos, no parasitados (19%).\
+    \ La intencionalidad no parecía discutible en la medida que el objeto que recogía estaba a distancia\
+    \ y sin ningún contacto previo con el niño, a diferencia de lo que sucede cuando el recién nacido\
+    \ desplaza un pañuelo puesto en su cara, o bien cuando acaricia el pecho de madre cuando lacta.\n\n\
+    Ciertamente, en este último caso, el niño tiene una mano relajada y abierta como si se acercara al\
+    \ estado liberado, pero el hecho de ir hacia un objeto como si se acercara al estado liberado, pero\
+    \ el hecho de ir hacia un objeto desconocido hasta el momento y puesto sobre un pupitre a distancia\
+    \ de él marca la diferencia. En cuanto a los movimientos del miembro superior y de la mano que va\
+    \ a coger y manipular, nunca son los mismos de un momento a otro y de un niño a otro. Con la base\
+    \ de un desplazamiento de todo el miembro, existe realmente un esquema motor escrito, un “modelo”,\
+    \ pero la intencionalidad del RN hace que en cada gesto se manifieste una variabilidad en el trayecto,\
+    \ en la fuerza, en la velocidad y en la precisión. La mano parece estar al servicio de la voluntad\
+    \ y no bajo la impronta de una organización estereotipada. Por todas estas razones, esta capacidad\
+    \ de coger un objeto de forma intencional, puesta de manifiesto desde la segunda semana, parece corresponder\
+    \ a una aptitud existente, solo enmascarada por los movimientos globales desencadenados por los reflejos\
+    \ profundos de la nuca. La constatación de esta capacidad ha conducido a la hipótesis según la cual\
+    \ la motricidad liberada era el esbozo de la motricidad ulterior del niño. Desde este momento, el\
+    \ examen neuromotor complementario actual exige el estado liberado como previo a todo ejercicio motor.\n\
+    \nUTILIDAD DE LA NOCION DE CONVALECENCIA DE LOS RECIÉN NACIDOS DE ALTO RIESGO\n\nPara aplicarse desde\
+    \ el período neonatal, el ENMC implica por parte del examinador una determinación dirigida a dominar\
+    \ su temor a dejar pasar una secuela cerebral todavía silenciosa clínicamente. Ante las anomalías\
+    \ motoras, no debe dejarse tentar y hablar de hándicap en una edad en la que nada es seguro, nada\
+    \ es definitivo y sobre todo en la que nada apremia a entrever a la familia un estado incurable. Se\
+    \ cometen demasiados errores a favor de una patología durante los tres o cuatro meses siguientes al\
+    \ alta de las unidades de cuidados intensivos. Mas frecuentes son las situaciones en que las familias\
+    \ manifiestan muy pronto sus inquietudes acerca de porvenir inmediato de su hijo. La “noción de convalecencia”\
+    \ ofrece al examinador el medio mas seguro para no ceder ante estas presiones, a excepción, claro\
+    \ esta, de los casos de encefalopatía evidente. Todas las anomalías de comportamiento, de tono y de\
+    \ desarrollo pueden incorporarse al período de convalecencia que siga a la fase aguda de la patología\
+    \ neonatal.\n\nEl examinador puede aprovechar esta convalecencia, ofrecida como una tregua entre el\
+    \ nacimiento y el reconocimiento de una eventual patología y en su caso también el mismo neonatólogo,\
+    \ para buscar la normalidad. Esta convalecencia comienza durante la hospitalización y dura 3 o 4 meses.\
+    \ El examen puede ser progresivo, escalonado en varios días y si es posible se realizara delante de\
+    \ los padres.\n\nESTE EXAMEN NEUROMOTOR, ¿EN QUE ES COMPLEMENTARIO DEL EXAMEN NEUROLOGICO CLASICO?\n\
+    \nEl examen neuromotor complementario es diferente del examen neurológico clásico.\n\n-    El tiempo\
+    \ motor se pone en ejecución cuando el niño esta en un estado privilegiado.\n      Este punto previo\
+    \ es verdaderamente fundamental.\n      El término del estado liberado se propuso para definir una\
+    \ situación particular completamente diferente de los estados de Prechtl y para resumir el resultado\
+    \ de los efectos simultáneos obtenidos por la fijación manual de la nuca y por la comunicación sensorial\
+    \ permanente.\n\n-   El ENMC cuenta con las pruebas motoras que no forman parte del repertorio del\
+    \ examen neurológico clásico: este último da una idea muy clara del desarrollo, pero sus informaciones\
+    \ se limitan a las etapas ya adquiridas y a la situación actual; no busca la anticipación. A menudo\
+    \ se limita al estudio de la motricidad primaria y a la extensibilidad muscular. Tiene confianza en\
+    \ el niño y en la buena calidad de su potencial evolutivo, aunque no lo ha expresado totalmente. Sin\
+    \ embargo, este paso parece insuficiente para los recién nacidos de alto riesgo neurológico.\n\n-\
+    \     Finalmente, el ENMC solo retiene unas respuestas motoras que parecen ser de la misma naturaleza\
+    \ que la motricidad ulterior, es decir, de la motricidad no refleja que el niño utiliza tanto para\
+    \ la gestualidad de sus miembros superiores, como para hacer su evolución postural y locomotora. La\
+    \ hipótesis de base seria la siguiente: durante el estado liberado, el recién nacido o lactante pequeño\
+    \ demuestra una actividad motora que recuerda aquella que posee un niño de mayor edad; también recuerda\
+    \ la del feto observada en la ecografía.\n      En estas condiciones, todo pasaría como si una sola\
+    \ y misma motricidad estuviera presente desde el periodo antenatal; su desaparición durante las primeras\
+    \ semanas solo seria un accidente ligado a múltiples factores, entre los cuales podría jugar un papel\
+    \ esencial la impotencia temporal de la nuca. Una vez mas, es importante señalar que no existe ninguna\
+    \ contradicción ente el ENMC y el examen neurológico clásico. El examen neuromotor complementario\
+    \ esta basado en la demostración de las capacidades relacionales y motoras intactas de los lactantes\
+    \ de alto riesgo, con la finalidad de hacer una predicción precoz respecto a la ausencia de disfunción\
+    \ mayor en el territorio motor y probablemente en el territorio cognitivo.\n"
+  bibliografia:
+  - 'AMIEL – TISON C., GRENIER A.-Examen neuromotor complementario: afirmación de la normalidad.- Vigilancia
+    neurológica durnte el primer año de vida.- Masson, S.A., 4-81, 1988.'
+  - AMIEL-TISON C.- La vie faetale telle au elle Pert etre oberveé par l’echographie.- Encycl. Méd. Chir,
+    Paris, France, Obstétrique, 51144 L10, 10-1985.
+  - BRAZELTON T.B.- Neonatal behavioural assessmment seale.- London National Sapastic Society. Londres,
+    1973.
+  - GRENIER A., CONTRARIES B., HENANDORENA X. ET SAINZM.- Examen neuromoteur compléemenaire au cours des
+    premiére semaines de la vie. Son aplicati chezles nouveau-nés a risque.- Encycl. Méd. Chir. Paris,
+    France, Pédiatrie, 4090 A 15, 999-1988, 10p.
+  - 'GRENIER A.- Survillance neurologique du nouveau-né a haut. Risque.- In : Perelman Périnatologie,
+    2, 1977-1983.'
+  - GRENIER A.-  La convalescence du nouveau-né a Aut. Risque Ann. Pédiatr., 1985, 32, 41-45.
+  - LE METAYER M.- Contribution a l’etude des schémes neuromoteurs du nouveau-né et du norrisson,- Neuropsych,
+    Adol., 1981, N 1112, 587-60.
+  - VOJTA V.- Die cerebralen bewengungstorungen im saugling salter fruhdiagnose unn fruhtherapia.- F.
+    Enke- Verlag- edit., Stutlgart. 1974.

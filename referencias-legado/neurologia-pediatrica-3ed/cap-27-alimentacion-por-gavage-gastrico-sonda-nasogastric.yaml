@@ -1,0 +1,256 @@
+# Capítulo XXVII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 27
+  romano: XXVII
+  titulo_en_la_fuente: ALIMENTACION POR GAVAGE GÁSTRICO (SONDA NASOGASTRICA)
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    El material necesario para la alimentación gástrica consiste en una sonda para gavage fina, de plástico opaco a los rayos X; jeringuilla, estetoscopio, papel pH para verificar la buena posición intragástrica; recipiente que se adapta a la extremidad de la sonda y que recibirá la fórmula alimentaria.
+
+    Técnica
+
+    Consiste en colocar la sonda en sitio adecuado por vía oral o nasal (siempre por vía oral en el recién nacido cuando existe un distrés respiratorio). La sonda será manipulada asépticamente con una pinza o con una compresa e introducida lentamente, a una distancia igual a aquella que separa la boca del ombligo. Es necesario fijar la sonda con una mariposa de esparadrapo.
+
+    Es indispensable verificar la buena posición: la extremidad de la sonda debe estar en el estómago. El mejor test de control consiste en inyectar varios mililitros de aire y auscultar el epigastrio. Se debe oír un ruido hidro- aéreo franco. Se puede también aspirar un poco de líquido gástrico y controlar la acidez con papel pH. Esta comprobación debe ser hecha antes de comenzar la alimentación por gavage. Se conocerá de la existencia o no de residuo gástrico aspirando la jeringuilla; si es moderado, inferior a la mitad de la acción precedente, el volumen que se debe inyectar será disminuido en cantidad igual; si la porción retenida en el estómago es importante, superior a la mitad de los gavages anteriores, es necesario reconsiderar la indicación y dar los aportes nutricionales por perfusión, sobre todo en los niños con riesgo de hipoglucemia. También se puede utilizar el método de gavage continuo, gástrico o duodenal. Es este caso con la ayuda de metoclopramide (0.1 a 0.2 mg./Kg. en las comidas). La inyección de la formula alimentaria se efectúa con la jeringuilla y muy lentamente. Después de cada gavage, se lavará la sonda con algunos ml. de agua destilada.
+
+    La sonda se cambia cada 24 a 48 horas. Cuando esta llena de leche se debe pinzar y retirar lentamente. Entre dos gavages, se colocará en un trípode el recipiente que contiene la porción alimentaria, de tal manera que la parte inferior del mismo este a 10 centímetros por encima del nivel del estomago.
+
+    CARACTERÍSTICAS DEL LÍQUIDO CEFALORAQUIDEO EN RELACIÓN A LA EDAD
+
+    Aspecto
+    Células mm3
+    Proteínas mg %
+    Glucosa mg % (mmol/l)
+    Prematuro
+    Xantocrómico
+    -de 50
+    25 – 170
+    20 -40
+    (1.1 – 2.2)
+    Recién Nacido
+    Claro o Xantocrómico
+    -de 40
+    20 – 120
+    40 – 80
+    (2.2 – 4.4)
+    Primer mes
+    Claro
+    -de 15
+    20 – 70
+    50
+    (2.78)
+    Tres meses o mas
+
+    Claro
+    -de 5
+    20 – 50
+    50
+    (2.78)
+    Hasta 213 de glucemia
+    * Hematíes en el RN hasta 700
+
+    EQUILIBRIO ACIDOBASICO Y ELECTROLITICO DE LOS LÍQUIDOS CEFALORAQUIDEOS NORMAL Y PATOLÓGICO
+
+    LCR normal
+    Meningitis purulenta
+    Meningitis viral
+    Meningitis tuberculosa
+    pH
+
+    7.32
+    Dism
+    Normal
+    Dism
+    Pco2
+    46mm Hg 1.38mmol/l
+    Dism
+    Normal
+    Normal
+    Bicarbonato
+
+    23 mEq
+    Dism
+    Normal
+    Normal-Dism
+    Na
+
+    145 mEq
+    Normal
+    Normal
+    Dism
+    Cl
+
+    123 mEq
+    Normal
+    Normal
+    Dism
+    Lactato
+    2.2 mEq
+    Elevado
+    Normal elevado
+    Aument
+    Izo enzimas de la LDH
+
+    5 bandas
+    3 bandas
+    5 bandas
+    Antígenos solubles
+    -------
+    (específicos)
+    -------
+
+    GAUDEBOUT (C)  y Col
+    *Medidas efectuadas en anaerobiosis estricta
+
+    PERIMETRO CRANEANO PROMEDIO EN RELACIÓN
+
+    Edad
+    Sexo Masculino
+    Sexo Femenino
+    Nacimiento
+    1 mes
+    2 meses
+    3 meses
+    4 meses
+    5 meses
+    6 meses
+    7 meses
+    8 meses
+    9 meses
+    10 meses
+    11 meses
+    12 meses
+    13 meses
+    14 meses
+    15 meses
+    16 meses
+    17 meses
+    18 meses
+    19 meses
+    20 meses
+    21 meses
+    22 meses
+    23 meses
+    24 meses
+    2 ½
+    3 años
+    3 ½ años
+    4 años
+    5 años
+    6 años
+    7 años
+    8 años
+    9 años
+    10 años
+    11 años
+    12 años
+    13 años
+    14 años
+    34.7
+    37
+    39.2
+    40.6
+    41.8
+    42.7
+    43.7
+    44.4
+    45.0
+    45.7
+    46.0
+    46.3
+    46.9
+    47.0
+    47.3
+    47.6
+    47.9
+    48.1
+    48.3
+    48.5
+    48.7
+    48.8
+    48.9
+    49.1
+    49.2
+    49.7
+    50.1
+    50.3
+    50.7
+    51.2
+    51.6
+    52.0
+    52.3
+    52.7
+    52.9
+    53.3
+    53.7
+    54.1
+    54.4
+    34
+    36.7
+    38.5
+    39.9
+    40.9
+    41.7
+    42.5
+    43.2
+    43.8
+    44.4
+    44.7
+    45.1
+    45.5
+    45.8
+    46.0
+    46.2
+    46.5
+    46.7
+    46.9
+    47.1
+    47.3
+    47.5
+    47.6
+    47.7
+    48.0
+    48.8
+    49.1
+    49.5
+    49.8
+    50.4
+    50.7
+    51.1
+    51.3
+    51.7
+    52.2
+    53.0
+    53.0
+    53.7
+    54*
+
+    Datos de RH. Valenzuela, Manual de Pediatría corresponden a G. Nelhaus, University of Colorado Medical Center. (Pediatrics 41: 106, 1968).
+
+    III  Parte
+
+    Paro
+    Cardio-
+    Respiratorio
+  bibliografia:
+  - CLOHERTY J. P., STARK A.- Alimentación por sonda gástrica. - Manual de cuidados neonatales, 1985,
+    106-108.
+  - LEJENEUNE C.- Alimentation par gavage gastrique.- Pédiatrie d’urgence.- éd., Paris, 1988.
+  - SILVER H. et KEMPE C.- Alimentación  del niño enfermo.- Manual de Pediatría.- Manual moderno, 1985.
+  - VALENZUELA R.H.- Antropometría.- Manual de Pediatría.- 10-ed. México 1983.

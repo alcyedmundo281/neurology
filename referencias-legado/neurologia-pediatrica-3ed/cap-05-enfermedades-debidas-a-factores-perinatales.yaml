@@ -1,0 +1,95 @@
+# Capítulo V de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 5
+  romano: V
+  titulo_en_la_fuente: ENFERMEDADES DEBIDAS A FACTORES PERINATALES
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |2
+     HEMORRAGIAS:
+
+    Caput Succedaneum
+
+    Es una tumefacción de los tejidos blandos localizada o relativamente extensa y mal definida. Puede palparse en el cuero cabelludo o demás partes de la presentación. Por lo general se extiende sobre una línea de sutura.
+
+    Cefalohematoma
+
+    Es una acumulación de sangre entre el periostio y un hueso del cráneo; la sangre no atraviesa la línea de sutura; la masa es blanda, fluctuante e irreductible; no tiene pulsaciones ni tampoco aumenta de tamaño con el llanto. Durante los primeros días de vida puede estar oculta por un caput succedaneum superpuesto. La absorción de una gran cantidad de sangre puede producir hiperbilirrubinemia. No requiere tratamiento (la sangre no debe ser aspirada). El trastorno generalmente sana a las pocas semanas o meses.
+
+    Durante el proceso de curación se palpa un anillo firme en la periferia del hematoma, que puede asemejarse a un defecto del cráneo. El 10% se acompaña de fracturas lineares.
+
+    Hemorragia intracraneal y del esternocleidomastoideo
+
+    Esta hemorragia puede no aparecer sino hasta la tercera semana de vida y generalmente, produce una masa en la parte media del músculo, que da por resultado tortícolis del lado afectado. Es mas frecuente después de presentaciones pélvicas y por lo general, se acompaña de una masa parecida al fibroma; en muchos casos, la etiología permanece obscura.
+
+    Deberá iniciarse prontamente la hiperextensión pasiva del cuello lo cual, en la mayoría de los casos, es todo lo que se requiere. La intervención quirúrgica puede ser necesaria en aquellos que no se resuelven con la terapéutica conservadora.
+
+    Hemorragia intracraneal
+
+    Esta afección puede ser el resultado de traumatismo obstétrico, hipoxia, trastornos de la coagulación, infecciones, trastornos circulatorios, eritroblastosis fetal o hipernatremia; se presenta más frecuentemente en prematuros que en niños a término. La hemorragia puede ser subdural o subaracnoidea pero se presenta con más frecuencia en la zona suberpendimal, pudiendo romperse hacia los ventrículos o extenderse hacia la sustancia cerebral. Surge por un desgarre tentorial. Los síntomas y los signos pueden presentarse al nacimiento o aparecer después, o incluir, somnolencia, inquietud, irritabilidad, opistótomos, alteraciones del funcionamiento respiratorio y cardiaco con cianosis, llanto intenso y agudo, incapacidad para alimentarse bien, convulsiones y fibrilaciones musculares. La fontanela puede estar tensa; hay hemorragia de la retina y anormalidades pupilares. Frecuentemente esta trastornada la regulación de la temperatura. Al momento del nacimiento el reflejo de Moro esta ausente o exagerado y después desaparece. La parálisis por lo general no se presenta durante varios días. Existe anemia. Los síntomas pueden presentarse al nacimiento, desaparecer un día o dos y luego reaparecer.
+
+    El aumento en la presión del LCR es de importancia diagnóstica, pero la presencia del líquido hemorrágico en los espacios cefalorraquídeos, no es de importancia particular en el recién nacido, ya que cierta hemorragia en los niños normales que no han tenido parto particularmente difícil es asintomático.
+
+    Algunas medidas que pueden ser de utilidad son reposo, aplicaciones de calor, sedación, elevación de la cabeza, manipulación mínima y vitamina K. No hay un acuerdo sobre la utilidad de ejecutar punciones espinales repetidas. Cuando existe un hematoma subdural, deberá evacuarse si se acompaña de síntomas persistentes.
+
+    La mayoría de los niños sobreviven y se recuperan completamente, pero en otros aparece parálisis cerebral, deficiencia mental, susceptibilidad a convulsiones o hidrocéfalo. Con afección extensa o grave, suele sobrevenir la muerte durante los primeros tres días.
+
+    LESIONES DE LOS NERVIOS PERIFERICOS:
+
+    Parálisis del plexo braquial
+
+    En la parálisis de Erb-Duchenne (parte superior del brazo; C5 y C6, o sus raíces) puede haber afección simultanea del nervio frénico. El brazo esta en aducción, extendido y rotado hacia dentro con rotación del antebrazo. El reflejo de Moro está ausente del lado afectado y hay pérdida sensorial en la porción lateral del brazo. El antebrazo y la mano no están afectados. En la parálisis de Klunpke, el traumatismo afecta a los nervios C7, C8 y D1 o sus raíces. Existe pérdida de la función normal de los músculos pequeños de la mano. Las fibras simpáticas de D1 son factibles de lesionarse con ptosis y miosis como resultado de ello. La parálisis de Erb- Duchenne y Klumpke a veces se presentan juntas.
+
+    En todos los casos están indicadas la fisioterapia y la inmovilización para prevenir la deformidad de las porciones afectadas de la extremidad. Debe pensarse en la neuroplastia en casos persistentes.
+
+    Puede transcurrir un período de varios meses antes de emitirse un pronóstico definitivo. En la mayoría de los casos la parálisis es debida a edema y hemorragia alrededor de las fibras nerviosas o a lesión del nervio sin laceraciones; en estos casos, el resultado puede ser excelente. Si ha ocurrido laceración no es de esperar el restablecimiento de la función.
+
+    Parálisis del nervio frénico
+
+    Generalmente se asocia a parálisis del plexo braquial. Puede haber cianosis y respiraciones irregulares, rápidas y trabajosas, respiración torácica. La fluoroscopia muestra elevación del diagrama y respiración paradójica en el lado afectado.
+
+    Es posible la recuperación si no ha habido laceración o avulsión del nervio. Cuando no hubiere recuperación espontánea de la parálisis, se pueden obtener buenos resultados con la solución del diagrama.
+
+    Parálisis facial
+
+    Generalmente se debe a lesiones de la región periférica del nervio facial, por presión del fórceps o del hombro o de un pie durante el parto. Cuando el niño llora, mueve solo un lado de la cara y presenta tracción hacia el lado no afectado; el lado paralizado esta suave y puede parecer inflamado; la frente no se arruga y el ojo del lado afectado puede no cerrarse.
+
+    El tratamiento es sintomático. La afección generalmente se cura a las pocas semanas si las fibras nerviosas no han sido destruidas. En ciertos casos con parálisis persistente, puede ser recomendable la neuroplastia. La parálisis permanente es más probable que ocurra cuando el daño se debe a presión por el hombro, que cuando obedece a traumatismo por fórceps.
+
+    FRACTURAS:
+
+    Fracturas de la clavícula
+
+    Esta es la fractura más frecuente que se presenta al nacimiento y generalmente afecta el tercio medio del hueso. El examen revela disminución de movilidad en el lado afectado y ausencia del reflejo de Moro en el lado con fractura; puede presentarse crepitación. Con la inmovilización del hombro y del brazo, la curación es espontánea y completa; aun cuando no se reconozca, y sin tratamiento especifico, se forma un buen callo y por lo general ocurre curación.
+
+    Fracturas de las extremidades
+
+    Estas generalmente son causadas por un parto difícil. Usualmente se presentan los signos de fractura y esta ausente el reflejo de Moro en el lado afectado, igual que el grasping de manos.
+    El tratamiento consiste en la inmovilización cuando las fracturas afectan a las extremidades superiores e inmovilización con tracción cuando las fracturas afectan a los miembros inferiores.
+  bibliografia:
+  - BAROISA A.- Síndromes paralytiques difus.- Pédiatrie d’urgence., Paris, France, 334.86 1988.
+  - BENNET G.C. et HARROLD A.V.- prognosis and early management of birth injuries to rhe brachial plexus.-
+    Br. Méd. J., 1976, I, N-6024, 1520-1521.
+  - GILBERT A., TASSIN J. L. et BENAJEDDOU M. S.- Paralysie obstétricale du member supérieur.- Encycl,
+    Méd. Chir., Paris, France, Pédiatrie, 4002 R50, 1-1985.
+  - RELIER J. P.- Détresses respiratoroires du nouveau-né.- Pédiatrie d’ungence., Paris, France. 477,117-1988.
+  - SILVER H., KEMPE H. Y BRUYN H.- Enfermedades debidas a factores perinatales.- Manual de Pediatría.,
+    Denver, Colorado, 156, 9-1981.
+  - TASSIN.- These Paris, 1983.
+  - TORRES A. Lesiones perinatales.- Poligrafiados neuropediatría.- Facultad de Ciencias Médicas de la
+    Universidad Central, Quito- Ecuador, 1987.

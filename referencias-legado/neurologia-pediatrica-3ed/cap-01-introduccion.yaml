@@ -1,0 +1,188 @@
+# Capítulo I de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 1
+  romano: I
+  titulo_en_la_fuente: INTRODUCCION
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: "Las enfermedades del sistema nervioso han sido estudiadas desde hace mucho tiempo. Los investigadores\
+    \ nos proporcionan conocimientos amplios sobre los aspectos macroscópicos y microscópicos del crecimiento\
+    \ y de la composición química y enzimática del tejido neural.\n\nEstos hechos permiten la mejor comprensión\
+    \ de la fisiopatología cerebral; por lo tanto la realización de diagnósticos mas exactos, que beneficien\
+    \ a los enfermos, curándoles en unos casos, mejorándoles en otros y permitiendo su incorporación a\
+    \ la comunidad con terapia mas científica.\n\nEn nuestro medio la incidencia de patología cerebral\
+    \ en la población infantil es muy significativa. Los niños lesionados nacen y crecen por todos los\
+    \ lugares del país; de ello se desprende la necesidad imperiosa de que los médicos estén preparados\
+    \ para ser eficaces en su desempeño profesional y útiles para el enfermo y su familia.\n\nTECNICA\
+    \ DEL EXAMEN NEUROLOGICO\n\nSe lo realiza como parte del examen clínico y nos permite conocer el estado\
+    \ de la fuerza muscular, tono, reflejos, pares craneales y aparatos sensoriales.\n\nLa técnica empleada\
+    \ debe adaptarse a la edad del niño; es muy diferente y especifica la exploración en el recién nacido.\n\
+    \nAnamnesis\n\nEl interrogatorio es un tiempo preliminar importante que orienta el examen clínico\
+    \ y permite apreciar tanto las anomalías existentes como su probable etiología.\n\nLa historia Clínica\
+    \ obstétrica pone en evidencia las circunstancias anormales que ocurrieron.\n\nAntecedentes prenatales\n\
+    \nSe debe investigar si existe consaguinidad entre los padres por problemas genéticos eventuales.\
+    \ Se precisará la edad y el número de gestaciones de la madre; antecedentes de aborto, la salud de\
+    \ la madre antes de la concepción, al momento del parto y del embarazo; si durante la gestación ha\
+    \ habido patología asociada como diabetes, toxemia, infecciones alcoholismo, ingestión de medicamentos\
+    \ o drogas.\n\nAntecedentes Natales\nSe investigarán los factores tales como mal posiciones fetales,\
+    \ inadecuada progresión del trabajo, ruptura prematura de membranas, compresiones del cordón umbilical\
+    \ y si ha existido sufrimiento fetal puesto en evidencia por monitoreo.\n\nAntecedentes postnatales\n\
+    \nSe conocerán la evaluación de APGAR. Los resultados de gasometría en la sangre. El peso, la talla\
+    \ el perímetro craneal, el perímetro toráxico y toda anomalía que indique perturbación neurológica,\
+    \ sin olvidar por cierto, la presencia de cianosis, palidez intensa o ictericia, signos de enfermedades\
+    \ que provocan secuelas irreversibles.\n\nExamen clínico\n\nEl examen clínico suministra una sorprendente\
+    \ cantidad de información muy útil si se utilizan las técnicas aconsejadas.\n\nHay tres objetivos\
+    \ principales:\n\n-  Detectar cualquier perturbación aguda, como cerebral o meníngea lo más      \
+    \                                  precozmente posible.\n-     Controlar la madurez, es decir la edad\
+    \ gestacional.\n-    Por último, hallar cualquier signo que pueda indicar posible riesgo para el futuro\
+    \    desarrollo del niño.\n\nCon el fin de que las observaciones sean seguras y fiables deben tomarse\
+    \ algunas precauciones:\n\n    1. Procurar que el niño se mantenga caliente y cómodo todo el tiempo\
+    \ que dure la exploración.\n    2. Efectuar el examen a una hora en que ni tenga tanta hambre como\
+    \ para estar inquieto, ni este tan satisfecho que permanezca somnoliento.\n    3. Colocar de modo\
+    \ que todas las pruebas puedan realizarse simétricamente.\n    4. Llevar a cabo las pruebas siempre\
+    \ en el mismo orden para familiarizadse con el esquema de respuestas.\n    5. Aplazar el examen si\
+    \ el recién nacido esta cansado o molesto.\n    6. Efectuarlo cuando el niño complete el tercer día\
+    \ de vida o más, a menos que se encuentre enfermo, ya que a partir de ese día los signos neurológicos\
+    \ son más estables.\n\nInspección\n\nNo debe hacerse de prisa. Cada minuto empleado en ella puede\
+    \ proporcionar resultados valiosos:\n\nEl nivel de conciencia\nPRECHTL ha descrito cinco niveles diferentes\
+    \ con los que el neonatólogo debe operar frecuentemente y así obtener resultados evaluatorios correctos:\n\
+    \nNivel 1:   Ojos cerrados, respiraron irregular sin otros movimientos.\nNivel 2:   Ojos cerrados,\
+    \ respiración regular sin otros movimientos.\nNivel 3:   Ojos abiertos, sin movimientos importantes.\n\
+    Nivel 4:   Ojos abiertos, actividad motriz franca, movimientos importantes sin llanto.\nNivel 5: \
+    \  Ojos abiertos o cerrados, llanto\n\nSi el recién nacido es a termino, desde el nivel tres el pronóstico\
+    \ es bueno.\n\nActitud y movimientos espontáneos del recién nacido\n\nSe debe observar el tono en\
+    \ los movimientos y la posición que adopta:\n\n    • En decúbito supino los brazos y las piernas están\
+    \ en flexión, los miembros se mueven libremente y con frecuencia, ocasionalmente el niño se vuelve\
+    \ hacia uno u otro lado. En caso de presentación podálica los miembros inferiores están en extensión\
+    \ luego de haber transcurrido algunas horas después del parto. Normalmente las manos están cerradas\
+    \ y los dedos y pulgares están fuertemente flexionados hacia la palma de la mano. Fig. 1.\n\nFig.\
+    \ 1\n\nRECIEN NACIDO EN DECUBITO SUPINO\n\n    • En decúbito prono, la cabeza gira hacia un lado,\
+    \ los brazos permanecen flexionados y la pelvis reposa sobre el lecho. Hay menos movimientos en esta\
+    \ posición que en decúbito supino. Se observa con frecuencia en las parálisis del plexo braquial,\
+    \ que el miembro superior afectado no esta en flexión sino más bien pendiente a lo largo del cuerpo.\
+    \ Fig. 2\n\nFig.2\n\nRECIEN NACIDO EN DECUBITO PRONO\n\nExploración Física\n\nExamen del Cráneo\n\
+    Comprende las medidas del perímetro occipito-frontal que como término medio son de 34 a 36 cm. También\
+    \ se examina las fontanelas y suturas. La fontanela anterior esta en el punto de unión de las suturas\
+    \ coronarias, metópica y sagital; su tamaño es variable. La tensión refleja la presión intracraneana\
+    \ subyacente; debe ser apreciada en los momentos de calma del neonato, evitando el llanto. La fontanela\
+    \ es normalmente suave y depresible, el abombamiento o la depresión permanente son fenómenos anormales.\
+    \ Debe buscarse, a nivel de las suturas, un posible cabalgamiento o por el contrario una diastasis.\
+    \ Se verificará la ausencia del céfalo hematoma, de asimetría craneana y de caput succedaneum.\n\n\
+    Actitudes y movimientos provocados en el recién nacido\n\nEstudio del tono pasivo\n\tConsiste en apreciar\
+    \ tres parámetros:\n    a) La Consistencia muscular se evalúa rápidamente por la inspección que revela\
+    \ el saliente de los músculos al contraerse y también por la palpación.\n    b) La extensibilidad\
+    \ se comprueba por él alargamiento de los músculos desde los puntos de inserción. Ella esta ligada\
+    \ a la elasticidad del músculo y permite medir los ángulos a nivel de los diferentes segmentos del\
+    \ cuerpo, especialmente la amplitud de los movimientos articulares.\n    c) La pasividad refleja.\
+    \ Es poder concedido al músculo de oponerse a los desplazamientos que se le impone, de resistir a\
+    \ la inercia de frenar y bloquear los movimientos pendulares provocados por el examinador.\n\n1. \
+    \  Evaluación de los movimientos faciales.\nEl examinador con la mano derecha colocada por detrás\
+    \ de la cabeza del recién                                           nacido, mira el rostro: se encontrará\
+    \ con una mirada vivaz, niño despierto, alerta, o   revelará algunas anomalías como la asimetría de\
+    \ la cara, ptosis palpebral poniendo en evidencia una parálisis facial. Fig. 3\n\nFig. 3\n\nRECIEN\
+    \ NACIDO ALERTA, SE APRECIAN MOVIMIENTOS DE LA CARA\n\nConviene observarlo mientras se alimenta, para\
+    \ obtener información sobre su apetito, movimientos de los labios y del rostro, del estado general.\
+    \ Es el momento de palpar la fontanela.\n\n    2. Evaluación de los músculos cervicales\n      El\
+    \ recién nacido a término, la cabeza puede rotar hasta que el mentón alcance el    extremo acromial\
+    \ del hombro.\nPrematuro: Al valorar el tono muscular es importante tener en cuenta que es característica\
+    \ una amplitud mayor de los movimientos articulares que la que presenta el niño maduro. En este caso,\
+    \ la cabeza gira hasta sobrepasar la punta acromial del hombro. Fig. 4\n\nFig.4\n\nRECIEN NACIDO DE\
+    \ 35 SEMANAS DE EDAD GESTACIONAL\n\nManiobra de Foulard\n\nConsiste en desplazar una mano del niño\
+    \ sobre el tórax llevándola al hombro del lado opuesto. El codo sobrepasa la línea media del cuerpo.\n\
+    \      Prematuro: En esta edad la mano sobrepasa muy bien la punta del hombro opuesto y el codo generosamente\
+    \ sobrepasa la línea media del cuerpo. Fig. 5\n\n      Fig. 5\n\nEL SIGNO DE FOULARD\n\n4.   Flexión\
+    \ del puño\nEn el niño normal a término es posible flexionar la muñeca hasta formar un ángulo agudo.\n\
+    Prematuro: La flexión de la muñeca no puede afectarse en forma completa mas bien se forma un ángulo\
+    \ recto en ventana, hecho que parece paradójico ya que el pretérmino tiene una mayor hipotonía que\
+    \ el recién nacido a término, pero sus tendones musculares terminales son más cortos. Fig. 6\n\nFig.\
+    \ 6\nANGULO DE FLEXION DE LA MUNECA EN EL PREMATURO\n    5. Extensión de la rodilla\nNo es posible\
+    \ extender por completo, ya que el recién nacido a término presenta una ligera hipertonía en sus miembros\
+    \ inferiores por ello se mantiene algún grado de ángulo en el hueco poplíteo.\nPrematuro: Se aprecia\
+    \ un mayor grado de movilidad en la rodilla, puede extenderse por completo.\n\n    6. Dorsiflexión\
+    \ del pie\nEste puede doblarse hasta tomar contacto con el extremo inferior de la pierna, formando\
+    \ un ángulo igual a cero grados.\nPrematuro: Aquí también se observa un hecho singular, pues no es\
+    \ posible lograr la dorsiflexión del pie hasta tocar la pierna. Fig. 7\n\nFig. 7\n\nDORSIFLEX DEL\
+    \ PIE\n\n    7. Otra forma de evaluar la tonicidad muscular consiste en observar la inicial prontitud\
+    \ con que el miembro explorado, colocado en ciertas posiciones, vuelve a su postura original. Por\
+    \ ejemplo, si el brazo se extiende con suavidad, y se le deja libre, súbitamente recobra su posición\
+    \ habitual, en flexión.\n    8. La tonicidad muscular se hace evidente también cuando el brazo o pierna\
+    \ según el caso, se sacuden rápidamente. Al principio la mano o el pie oscilan pero después los músculos\
+    \ se tensan manteniéndoles inmóviles.\nPrematuro: Las demás diferencias en el examen del tono muscular\
+    \ del prematuro incluyen la ausencia de flexión del brazo, después de extenderlo con suavidad y la\
+    \ incapacidad para detener pronto los movimientos de la mano y el pie cuando el brazo o la pierna\
+    \ se sacuden rápidamente.\n\nEstudio del tono activo\n\nRepresenta la parte más importante del examen\
+    \ clínico-neurológico a esta edad. En efecto del tono activo depende la motricidad, la postura y las\
+    \ diferentes actividades del recién nacido.\n\n1.   Reflejos de los puntos cardinales.- Estimulamos\
+    \ con el dedo sobre la comisura labial, el labio inferior baja y la lengua se orienta a ese lado acompañado\
+    \ de rotación de la cabeza. Si el dedo se retira lentamente, el niño lo sigue con una flexión de la\
+    \ cabeza. Fig.8\n\nFig. 8\n\nREFLEJO DE PUNTO CARDINALES, REFLEJO DE SUCCION\n\nSi lo hacemos en la\
+    \ parte media de los labios superior e inferior, observamos los movimientos de flexión y extensión\
+    \ del cuello.\n2.   Reflejo de succión.- Es un elemento esencial de apreciación del examen neurológico.\
+    \  Se verifica la fuerza la integridad de la succión y de la deglución.\n3.  Reflejo de Moro.- Se\
+    \ lo efectúa levantando al niño por los pies, separando del plano de la mesa de examen la cadera y\
+    \ parte del tronco. Súbitamente se lo suelta para conseguir la respuesta en dos tiempos:\n      a.\
+    \ Los miembros superiores se abren en cruz elevándose en abducción, los antebrazos   se extienden,\
+    \ las manos también al igual que el dedo pulgar.\n      b. Los brazos se dirigen hacia el eje del\
+    \ cuerpo, evocan el brazo; este tiempo es inconstante.\nEn el prematuro se muestra la respuesta típica,\
+    \ sin embargo en el periodo final existe una mayor tendencia a que los brazos vayan hacia atrás, debido\
+    \ a que los músculos son mas débiles. Fig. 9\n\nFig. 9\nREFLEJO DE MORO\n\n4. Reflejo de alargamiento\
+    \ cruzado en el miembro inferior.- En el recién nacido se estimula la planta del pie de un miembro,\
+    \ cuya rodilla es mantenida en extensión. El miembro inferior opuesto realiza una flexión inicial\
+    \ para extenderlo en posición de rechazo y finalmente llevarlo en aducción hasta apoyar el talón en\
+    \ la parte anterior del pie estimulado. Fig. 10 – 11\n\nFig. 10\nREFLEJO DE ALARGAMIENTO CRUZADO DEL\
+    \ MIEMBRO INFERIOR 1er TIEMPO\n\nFig. 11\nREFLEJO DE ALARGAMIENTO CRUZADO DEL MIEMBRO INFERIOR 2do\
+    \ y 3er TIEMPO\n\n    5. GRASPING de manos.- Cuando el examinador introduce un dedo en la palma de\
+    \ la mano del recién nacido, los cuatro últimos dedos de la mano se cierran con bastante fuerza y\
+    \ puede ser llevado a la posición de sentado; el reflejo puede ser uni o bilateral y no se pondrá\
+    \ en evidencia si hay lesión del plexo braquial como parálisis de Erb-Du-chemne y de Klampke, fracturas\
+    \ de clavícula, lesiones óseas y otras en esta área. En el niño con retardo de crecimiento intrauterino\
+    \ se obtiene una presión muy fuerte de los dedos de la mano del examinador, que permite levantarlo\
+    \ íntegramente de la mesa de examen. Fig. 12 – 13\n\nFig. 12\nGRASPING UNILATERAL DE MANOS\n\nFig.\
+    \ 13\nGRASPING BILATERAL DE MANOS\n\n    6. GRASPING de pies.- Consiste en realizar con el dedo pulgar\
+    \ una presión en la región anterior de la planta, originándose la reflexión permanente de los dedos\
+    \ de los pies del examinado, mientras persiste el estimulo. Fig. 14\n    7. Suspensión vertical.-\
+    \ Sujeto por las axilas el recién nacido es colocado verticalmente, consiguiendo que la región plantar\
+    \ se apoye sobre la mesa de exámenes; el cuerpo ejerce su peso en los pies normalmente en aducción\
+    \ y rotación interna, obteniéndose una breve flexión de los miembros inferiores que luego se extienden.\
+    \ El enderezamiento estático puede hacerse sobre una sola pierna.\nSe explica por la unión de sinergias\
+    \ bilaterales que se suceden del pie hacia la cadera continuando al tronco y después a la cabeza.\
+    \ Fig. 15\n\nFig. 14\nREFLEJO TONICO DE LOS FLEXORES DE LOS DEDOS\n\nFig. 15\n ENDEREZAMIENTO ESTATICO\
+    \ DEL RECIÉN NACIDO\n\n    8. Marcha automática.- Una mano del examinador sostiene el tronco y la\
+    \ otra se aplica sobre la espalda. El niño es inclinado ligeramente hacia delante propulsándose simultáneamente.\
+    \ Los pies deben estar en contacto con el plano de la mesa. Esta maniobra induce a la marcha que será\
+    \ regular, coordinada y sucesiva. En algunos casos es difícil obtenerla, entonces buscaremos un mayor\
+    \ contacto de los pies con la base de sustentación, poniéndole verticalmente, para luego, inclinándole\
+    \ más, conseguir la marcha. Fig. 16 - 17\n\nFig. 16\nLA MARCHA AUTOMATICA 1er TIEMPO\n\nFig. 17\n\n\
+    LA MARCHA AUTOMATICA 2do TIEMPO\n"
+  bibliografia:
+  - AMIEL TISON C. et VIGY M.- Evaluation neurologiques au cours de la premiére aneé de l’enfant.- Concours
+    Méd., 1979,101,21,3501-3524.
+  - AMIEL – TISON C. et GRENIER A.- Evaluation neurologique du nauveau-né el du nourrisson.- Masson et
+    cie, edit., Paris, 1980 y 1988.
+  - BRAZELTON T.B.- Echelle d’evaluation du comportement néonatal.- Neuropsychiatr. Enfance., 1983,31,
+    N-2-3, 61-96.
+  - FESSARD C.- Technique de l’examen neurologique.- Encycl. Méd. Chir., Paris, France, Pédiatrrie, 4090
+    A50, 1-1967.
+  - HOLT K. S.- Universidad de Sheffield, Londres Inglaterra, El examen neurológico del recién nacido.-
+    Tribuna Médica., Tomo 10, N-105, 1982.
+  - PINSARD N., LIVET M. O. et MANCINI J.- Maturation du systéme nerveux et technique de l’examen neurologique
+    chez l’enfant.- Encycl. Méd. Chir., Paris, France, Pediatrie, 4090 A10, 9-1984.
+  - TORRES A.- Técnica del examen neurológica.- Las emergencias neurológicas en pediatria., Fac. Ciencias
+    Médicas Universidad Central, Quito- Ecuador- 1 y 2 Edicion 1985 – 1987.
+  - TORRES  A.- Examen neurológico en el recién nacido.- Poligrafiados de Neuropediatría Fac. Ciencias
+    Médicas Universidad Central del Ecuador., 1980.

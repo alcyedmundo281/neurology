@@ -1,0 +1,160 @@
+# Capítulo VI de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 6
+  romano: VI
+  titulo_en_la_fuente: CRISIS EPILEPTICAS DEL RECIEN NACIDO
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    INTRODUCCION
+
+    Los profesores J.C.Robert, M... Deham, Y. Navelet de la Facultad de Medicina de Paris y del Hospital Antoine Béclére, han sugerido a nivel internacional que el nombre de convulsiones, como generalmente se conocía, sea modificado denominándoles crisis epilépticas.
+
+    Estas son manifestaciones clínicas de una descarga sincrónica anormal de las neuronas de la corteza cerebral. La aparición de estas crisis nos hace conocer siempre la existencia de una patología cerebral grave.
+
+    La investigación etiológica es fundamental. El diagnóstico de la causa exacta permitirá con frecuencia evitar un tratamiento inadecuado, habrá la posibilidad de evaluar el pronóstico, se conocerá el conjunto de datos clínicos, electroencefalográficos y anamnésicos y podremos saber entonces la evolución en los primeros meses de la vida, para determinar si un accidente neurológico dejara o no secuelas motrices y mentales.
+
+    SEMIOLOGIA CLINICA
+
+    La expresión clínica de la crisis epiléptica del R.N. difiere notablemente de aquellas del niño de mayor edad. Esta particularidad, todavía mas marcada en el prematuro, parece debida a las diferencias de maduración del sistema nervioso central.
+
+    Los procesos en el curso de la organización de las relaciones sinápticas, de la estratificación de la corteza cerebral, de las actividades enzimáticas de los neurotransmisores, del desarrollo de las comisuras ínter hemisféricas y en fin de la mielinización de las descargas críticas.
+
+    Movimientos Clónicos
+
+    Las clonías son contracciones espontáneas que comprenden uno o numerosos grupos musculares, repetitivas a un ritmo de 1 a 3 por segundo. Es bueno distinguir de las tremulaciones, contracciones musculares frecuentemente provocadas o exageradas por la movilización. Estas tremulaciones no se relacionan con las descargas críticas del E.E.G.
+
+    Son habitualmente multifocales y pueden interesar tanto a la cara como a los miembros. En una misma crisis, los movimientos clónicos atacan a diferentes grupos musculares, simultáneamente o sucesivamente, de modo errático, sin orden anatómico.
+
+    Las crisis clónicas localizadas son más bien raras, no se acompañan de otras alteraciones del estado neurológico; su carácter constante y la correlación topográfica con el E.E.G. nos hacen pensar en foco lesional.
+
+    Accesos Tónicos
+
+    Consisten en una contracción muscular brusca, en masa, duran algunos segundos. Pueden ser generalizados, con actitud en opistótonos, extensión de miembros superiores e inferiores, algunas veces en flexión. Se localizan en los miembros y pueden ser asimétricos; se acompañan de movimientos oculares, apnea con cianosis y algunas veces terminan con movimientos clónicos.
+
+    Un acceso tónico no esta necesariamente ligado a una descarga neuronal crítica. Puede ser un signo de descerebración, ataque de los núcleos grises centrales o de hipertensión intracraneal, lo que explica con frecuencia este tipo de manifestaciones en el prematuro. El E.E.G. es indispensable para un diagnóstico exacto.
+
+    Manifestaciones Atípicas
+
+    Son características en el R.N. a término y especialmente en el prematuro. Se manifiestan con movimientos oculares anormales: desviación horizontal de los ojos, algunas veces movimientos nistagniformes, clonías de los parpados; con movimientos de pedaleo, de succión paroxísticos. Apneas con cianosis y alargamiento del tiempo de recoloración cutánea pueden ser solo manifestaciones de una crisis epiléptica.
+
+    Las mioclonías
+
+    Descritas como un tipo particular de movimientos convulsivos no son clínicamente muy diferentes de las clonías; el ritmo es más rápido, menos regular. Caracterizan ciertas encefalopatías raras en el periodo neonatal.
+
+    Frente a la sospecha o al diagnóstico de crisis epilépticas en el R.N. debemos solicitar inicialmente cinco exámenes complementarios: Glucemia, Calcemia, L.C.R. por punción lumbar, Electroencefalograma y Ecografía Transfontanelar.
+
+    ETIOLOGIA DE LAS CRISIS EPILEPTICAS DEL R.N.
+
+        1. Hipoxia perinatal
+        2. Hipoglucemia
+        3. Hipocalcemia, Hipomagnesemia
+        4. Infección del Sistema Nervioso Central
+        5. Poliglobulias
+        6. Hemorragia intracraneana
+        7. Anomalías congénitas del metabolismo
+        8. Encefalopatías malformativas, tumores
+        9. Crisis idiopáticas benignas del 5to. Día
+        10. Epilepsia precoz
+
+    Hipoxia perinatal
+
+    La encefalopatía hipotóxica es la primera causa de las crisis epilépticas en el recién nacido.
+
+    El E.E.G. no es específico. En las formas graves de los dos primeros días de vida se caracterizan por presentar un trazado inactivo, paroxístico o plano. Su descripción fisiopatológica se encuentra en el capitulo II.
+
+    Hipoglucemia
+
+    Es probable que la ausencia de energía representada por la glucosa no permita el mantenimiento de la polarización de la membrana neuronal (mecanismo dependiente de la A.T.P.). La hipoglucemia puede ser debida a una insuficiencia de reservas en el caso del prematuro o del hipotrófico o en otros casos, al exceso de insulina, como en el hijo de madre diabética. Menos conocidas son las hipoglucemias precoces debidas a la utilización de beta bloqueantes empleados en la mujer hipertensa.
+
+    Hipocalcemia
+
+    Los iones Ca y Mg intervienen directamente en los fenómenos de despolarización de las membranas. Un defecto en Ca o en Mg provoca una entrada de Na en la célula y por tanto una despolarización en la membrana. Estos fenómenos pueden observarse cuando el calcio libre es inferior a 7 mg. por ciento o menores a 3.5 mg. de calcio iónico.  La patología puede ser debida, si es precoz, a un problema del metabolismo fosfocálcico maternal, a la prematuridad o a la hipotrofia. Si es tardía a un régimen muy rico en fósforo, como sucede con la ingestión de leche de vaca en el neonato. También puede presentarse en el Síndrome de Di George, en el que se pone en evidencia la ausencia o hipotrofia del timo con agenesia de las paratiroides, anomalías de la cara y de los pabellones auriculares y cuyo signo sobresaliente es la tetania del R.N.
+
+    En todo caso si las crisis persisten, a pesar de la restauración de Ca se dará Mg, que con frecuencia esta deficiencia también esta asociada.
+
+    Hipo o hipernatremia
+
+    La hipernatremia aislada no es una causa habitual de crisis convulsivas en el R.N.; sin embargo cuando la deficiencia es grave y el síndrome de antidiuresis se presenta, puede haber problemas neurológicos.
+
+    La hipernatremia por deshidratación hipertónica puede provocar crisis, que sobrevienen cuando la corrección se hace muy rápidamente con soluciones hipotónicas.
+
+    Meningitis bacteriana
+
+    Las crisis epilépticas verifican un proceso infeccioso avanzado. Los signos clínicos son con frecuencia inexistentes o inespecíficos, justificando la punción lumbar. La evolución electroencefalográfica permitirá conocer si aparecen o persisten anomalías localizadas y sospechar entonces de un foco infeccioso secundario cerebral.
+
+    Poliglobulia
+
+    Es una causa clásica de crisis epiléptica, si el hematocrito llega al 70 %. Se puede establecer el mecanismo por hipoxia subaguda, responsable de la poliglobulia y de las lesiones neuronales o bien por hiperviscosidad sanguínea, con retardo circulatorio capilar e hipoglucemia asociada.
+
+    Anomalías congénitas en el metabolismo de los ácidos aminados
+
+    Los signos clínicos aparecen después de un tiempo denominado intervalo libre, durante el cual se constituye una encefalopatía progresiva. El cuadro neurológico se caracteriza por presentar alteraciones de la vigilancia y del tono, movimientos anormales en cuyo contexto las crisis epilépticas no son sino un elemento. Se ha comprobado que hay tasas excesivas de un neuro transmisor, el ácido aspártico, que esta muy elevado en el L.C.R. El diagnóstico de estas enfermedades se hace por la cromatografía de los ácidos aminados en la sangre, en la orina y en el L.C.R.
+
+    Causas tóxicas
+
+    La exposición del feto a las drogas maternales puede ser el origen del síndrome de “privación del R.N.”
+
+    La toxicomanía por heroína da manifestaciones precoces antes de las 48 horas de edad.
+
+    Los primeros signos son: agitación, hiperexcitabilidad, tremulación, vómitos y diarrea. Las convulsiones son el complemento del cuadro clínico al que nos referimos.
+
+    La methadona da manifestaciones menos graves. Estas dos toxicomanías están asociadas con nacimientos de niños con retardo de crecimiento intrauterino. (R.C.I.U.)
+
+    Ciertos barbitúricos de acción corta, como el secobarbital, han sido incriminados como causantes de las crisis luego de que se administran a la madre durante el parto.
+
+    Otros medicamentos dados al recién nacido son potencialmente epileptógenos, como el micorén (ácido aminobutírico), la teofilina, entre otros analépticos.
+
+    Síndrome de convulsión idiopática del quinto día:
+
+    Individualizada en 1977, tiene una frecuencia de 2 a 4 por mil nacidos vivos. El diagnóstico no podrá hacerse, sino después de haber eliminado otras etiologías. A este síndrome corresponde una entidad clínica, electroencefalográfica y evolutiva particular.
+
+    Se trata siempre de un R.N. a término, eutrófico, producto de un embarazo y parto normales, con índice de APGAR mayor a 7 en los primeros minutos de vida y que no presenta ningún signo patológico durante los 4 primeros días de edad.
+
+    Fecha de aparición de la crisis: se sitúa siempre entre el 4to y el 6to día de vida, con un máximo de frecuencia al 5to día.
+
+    Las crisis son de tipo clónico de localización variable, de duración breve pero de frecuencia elevada. El niño conserva un comportamiento alimentario y una vigilancia normales entre las crisis que se suceden durante 24 horas y son poco sensibles al tratamiento.
+
+    Registro electroencefalográfico muestra una buena correlación entre los signos clínicos y las crisis eléctricas. Este examen permite encontrar en el 80% de los casos un trazado intercrítico muy evocador, aunque no especifico, que es llamado teta-punta alternante.
+
+    Evolución inmediata: es siempre favorable y puede obtener el alta del hospital sin tratamiento antiepiléptico.
+
+    TRATAMIENTO ETIOLOGICO DE LAS CRISIS CONVULSIVAS
+
+    En presencia de un R. N. con convulsión, no se debe administrar drogas antiepilépticas, antes de contar con lo indispensable para mantener las funciones vitales y organizar una terapéutica sintomática.
+
+    El recién nacido deberá ser instalado en una incubadora, a fin de mantener el equilibrio térmico para facilitar la vigilancia continua clínica y, si es posible, electroencefalográfica.
+
+    Durante el período crítico, toda la alimentación debe interrumpirse. Se colocará una sonda gástrica, nutrición por gavage y se instalará una perfusión intravenosa periférica.
+
+    Es necesario eliminar las causas metabólicas, por lo cual se dosificará la glucemia y la calcemia, al mismo tiempo que se administrarán por vía I.V. 3 a 5 ml. de suero glucosado al 30% y 2 a 3 ml. de gluconato de calcio al 10%; en caso de ineficacia, se inyectará piridoxina 25mg. I.V., después sulfato de Mg al 15%, 1 ml., muy lentamente.
+
+    Estado de mal convulsivo: para eliminar la crisis se inyecta Valium I.V. 0.5 mg./Kg./cada 4 a 6 horas. Si es necesario, fenobarbital intramuscular de 5-10 mg./Kg./día, después se disminuye la dosis.
+    Algunos autores prefieren solo fenobarbital a la dosis de 10 mg./Kg./día, las primeras 48 horas; después se reduce a 5mg./Kg./día usando la vía oral.
+
+    Vigilar la diuresis, ya que los medicamentos que empleamos en esta patología pueden disminuirla, por lo que se procederá a bajar la dosis.
+  bibliografia:
+  - AICARDI J.- Convulsiones et épilepsie chez l’enfant.- Encycl., Méd. Chir. Paris, Pediatrie, 9-1981,
+    4091 A10.
+  - AMIEL – TISON C.- Urgences neurologiques néonatales.- pediatrie d’urgence., Flammarion Médicie, édit.,
+    Paris, 1988, 131-575.
+  - BILLARD C., DULAC O. Et DIEBLER C.- Ramollissement cérébral ischémique du nouveau.né Une étiologia
+    possible es états de mal covulsifs neonatales.- Arch. Fr. Pédiatie., 1982, 11m 247-257.
+  - DREYFUS-BRISAC C.- Les convulsions du nouveau-né.- Rev. Prat. 1981, 31, N-57, 4119-4128.
+  - ROBERT J. C., DEHAN M., NAVELET Y. et D’ALLES A. M.- crises épileptiques des nouveau-nés.- Encycl.
+    Méd. Chir., Paris, Pédiatrie, 4002 R70 9-1983.

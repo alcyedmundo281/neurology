@@ -1,0 +1,94 @@
+# Capítulo XV de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 15
+  romano: XV
+  titulo_en_la_fuente: HIDROCEFALIA
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    La hidrocefalia puede definirse como una distensión progresiva de los espacios anatómicos intracraneano donde existen normalmente el LCR, en relación con un desequilibrio entre la producción y la circulación-resorción del LCR. Esta definición excluye las dilataciones ventriculares o subaracnoideanas ligadas a una atrofia  o defecto de desarrollo del parénquima cerebral; los derrames subdurales. Las formaciones quísticas localizadas no se acompañan de un problema de la dinámica general del LCR.
+
+    Circulación del LCR
+
+    El sitio principal de producción se encuentra a nivel de los plexos coroideos (80%). Esto se efectúa en tres etapas: ultra filtración, reabsorción y secreción en los ventrículos.
+
+    Se reconocen otros sitios (Sonnernberg) de producción:
+    -     los vasos sanguíneos de los espacios subaracnoideos,
+    -     el epéndimo ventricular,
+    -     espacios intersticiales perineuronales.
+
+    Esta reacción es extremadamente estable: 350 ul/minuto en el niño, 400 ul/mn en adultos, o sea 55 ml./día en todas las situaciones. En caso de aumento importante la presión llega hasta 300 mmHg. EL LCR es renovado cada 7 hors, lo que quiere decir entre 3 y 4 veces por día. En el sistema ventricular, la circulación se hace siempre de los ventrículos laterales hacia el agujero de Magendie; luego se distribuye en los espacios subaracnoideanos para dirigirse hacia las áreas de resorción; hecho que se efectuará esencialmente dentro de las vellosidades aracnoideanas, en las granulaciones de Pacchioni, en las invaginaciones de los grandes senos.
+
+    La resorción es pasiva para el agua y los electrolitos, manteniendo la gradiente de presión entre LCR y los senos venosos, pero probablemente activa para las proteínas.
+
+    Fisiopatología
+
+    Toda anomalía que altere la circulación del LCR puede entrañar una hidrocefalia.
+
+    Anomalía de secreción
+
+    Hay gran estabilidad en la producción de LCR. Solo una situación patológica da hipersecreción; los tumores de los plexos coroideos llamados papilomas
+
+    Alteraciones de la circulación
+
+    Son las hidrocefalias obstructivas, no comunicantes. El bloqueo se produce a nivel de los estrechamientos de la hilera ventricular. A nivel de los ventrículos laterales y tercer ventrículo, el bloqueo es en regla tumoral, obstruyendo uno o los dos agujeros de Monro. Las estenosis aisladas o asociadas con un cuadro mal formativo lesionan el acueducto de Silvo en forma congénita.
+
+    El cuarto ventrículo puede ser obstruido por un tumor situado en su luz, como son los del tronco cerebral. La salida de la hilera ventricular esta impedida por una malformación del tipo Arnold-Chiari, caracterizada por pequeña fosa posterior, alargamiento del tronco cerebral y del 4 ventrículo, hernia caudal del cerebelo y del bulbo a través del agujero occipital o de tipo Dando-Walker, en el que se observa dilatación quística del 4-ventrículo, megafosa posterior con ascensión de la tuberosidad occipital.
+
+    Problemas de la resorción
+
+    La obstrucción de las vellosidades aracnoideanas resulta por las hemorragias meníngeas o meningitis purulentas. Este mecanismo puede ser asociado al de una hidrocefalia no comunicante; por tanto, la hiperpresión intracraneana destruye las vellosidades inicialmente funcionales. Puede también acompañarse de ciertos tumores de la médula donde la hiperproteinarraquia obstruirá progresivamente las ya mencionadas vellosidades.
+
+    Un aumento de la presión intravenosa puede invertir la gradiente LCR/sangre venosa: La trombosis de uno o más senos, una malformación de la ampolla de Galien (obstrucción del tercer ventrículo), comprensión del seno lateral o patologías a distancia, como ciertos síndromes de la cava superior.
+
+    Cuadro clínico
+
+        • Signos y síntomas: Puede haber antecedentes de infección viral o bacteriana del sistema nervioso central. La cabeza puede lucir normal al nacer, pero a los dos o tres meses se puede notar un crecimiento inesperado. Las fontanelas están tensas, las suturas ensanchadas. En la atresia congénita de acueducto (síndrome de Arnold-Chari), el niño puede presentar macrocefalia al nacer. El letargo, la irritabilidad, el vómito y trastornos de los signos vitales, son signos tardíos.
+        • Datos radiológicos: La placa simple de cráneo puede mostrar además del ensanchamiento de las fontanelas y suturas, anormalidades craneales o intracraneales, calcificaciones por toxoplasmosis o por la enfermedad de inclusión citomegálica.
+        • Exámenes especiales:
+
+        1. Punciones subdurales para descartar hematoma subdural. La transiluminación puede demostrar la existencia de la colección.
+        2. Tomodensitometría o Tomografía Axial (TAC)
+    Método atraumático que permite afirmar la dilatación de los ventrículos, medirlos con precisión, apreciar su carácter global o segmentario, bi o triventricular, orientando así el diagnóstico etiológico.
+
+    El riesgo de irradiación es modesto, pero no debe olvidarse que después del décimo quinto examen se lesiona el cristalino, entre otras estructuras biológicas. El examen sin inyección de contraste es suficiente, pero a veces la administración intravenosa de un producto yodado se utiliza para investigar una malformación o un tumor, precisando la localización con relación a las estructuras meníngeas vasculares. Fig. 39.
+
+    FIG. 39
+    TOMOGRAFIA AXIAL COMPUTADA
+
+        3. Ecografía
+
+    Es una técnica que rápidamente ha progresado y rivalizado con la TAC, por su precisión morfológica en el R.N. y lactante que tiene la fontanela permeable y por la facilidad de empleo e inocuidad.
+
+    Se efectúa el examen con un aparato en tiempo real, una sonda 7.5 o 5 megaherz. Se obtiene imágenes frontales y sagitales, cual un sacanning dentro de las tres dimensiones, que permiten un seguimiento de la conformación bastante preciso, como la TAC. Permite estudiar un tumor, una malformación vascular, hemorragia intra-o periventricular, una complicación post operatoria, mal posición del catéter; sin embargo no reemplaza totalmente a la TAC, porque esta permite un mejor análisis de las lesiones parenquimatosas.
+
+    La ecografía transfontanelar permite un estudio Doppler de los vasos intracraneanos, donde las curvas pueden ser modificadas en las hidrocefalias bajo fuerte presión, especialmente en el curso de las hemorragias intraventriculares del prematuro.
+
+        4. Resonancia magnética
+
+    Es un examen del futuro que permite tener muchas posibilidades: mejor precisión morfológica en lo concerniente a la talla de los ventrículos, al acueducto de Silvio; un tumor, una malformación meníngea vascular u ósea; aproximación fisiológica para el calculo del volumen del LCR intracraneano, extra e intraventricular; estudio del flujo del LCR; apreciación de un edema subependimario de resorción. Fig. 40
+
+    FIG. 40
+    RESONANCIA MAGNETICA (MRI)
+
+    Tratamiento
+
+    Lo ideal seria eliminar la causa, en cuanto sea posible: exéresis de un tumor, tratamiento de una malformación vascular, eliminación de un obstáculo en el retorno venoso. Penosamente estos casos son la minoría.
+    Además las hidrocefalias pueden evolucionar por su propia cuenta a pesar del tratamiento. Por ello la derivación habitualmente es necesaria.
+    En nuestro hospital con frecuencia se hace la ventrículo-peritoneal.
+  bibliografia: []

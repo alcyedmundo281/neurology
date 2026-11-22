@@ -1,0 +1,101 @@
+# Capítulo XVIII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 18
+  romano: XVIII
+  titulo_en_la_fuente: ATAXIAS AGUDAS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    Se entienden por Síndrome Cerebeloso Agudo a la instalación súbita de ataxia, acompañada de falta de equilibrio en posición sentado, inestabilidad con oscilaciones del tronco y de la cabeza, además una incoordinación de gestos y movimientos involuntarios.
+
+    Una notoria incoordinación de movimientos puede deberse a mioclonias intencionales que dan algunas veces un síndrome muy similar al Síndrome Cerebeloso Agudo. Nosotros nos referiremos simultáneamente a las ataxias agudas ligadas a un síndrome cerebeloso y aquellas ligadas a las mioclonias intencionales.
+
+    ELEMENTOS DE ORIENTACION:
+
+    Los principales elementos de orientación para la clasificación de las ataxias agudas son:
+
+        • Existencia o no de movimientos anormales de los globos oculares
+        • Modificaciones eventuales del líquido cefalorraquídeo
+        • Asociación o no de otros signos neurológicos: convulsiones mioclonias, problemas de la conciencia, signos patológicos de tronco cerebral o de médula.
+        • Coexistencia de enfermedades infecciosas, tratamientos.
+        • Edad
+
+    Diagnóstico
+
+    Se basa sobre páramelos esencialmente clínicos, terapéuticos y pronósticos por los que se puede distinguir los siguientes tipos de ataxia aguda.
+
+        1. ATAXIA CEREBELOSA AGUDA SOLITARIA Y CURABLE, CRIPTOGENETICA
+
+    Se inicia en forma súbita, sin fiebre, en ocasiones precedida de una infección respiratoria. El LCR se encuentra normal y rara vez con una pleocitosis. La curación es constante, pudiendo durar algunas semanas o meses, no existe una actitud terapéutica urgente.
+
+        2. ATAXIA EN EL CURSO DE UNA ENFERMEDAD INFECCIOSA CONOCIDA
+
+    Así como Rubéola, Sarampión, etc. es algunas veces aislada, otras asociada a signos neurológicos: problemas de conciencia, signos de ataque de tronco cerebral y de médula. Los datos de laboratorio que sugiere proceso inflamatorio son inconstantes. El pronóstico de la ataxia es bueno. Pueden haber otras secuelas neurológicas. No existe terapéutica de urgencia.
+
+        3. ATAXIA AGUDA ASOCIADA CON SIGNOS INFLAMATORIOS DE LCR SIN ETIOLOGÍA EVIDENTE
+
+    Los signos de inflamación de LCR: hipercitosis, hipergamaglobulinorraquia con o sin elevación de la proteinorraquia total, traducen una enfermedad inflamatoria que puede incluir al cerebelo y a otras estructuras del SNC y puede tratarse de:
+
+    - Rombencefalitis aguda: encefalitis que incluye el cerebelo y el tronco cerebral parálisis oculomotriz y de otros nervios craneanos, nistagmus, signos piramidales y algunas veces problemas de la conciencia.
+    - Síndrome Cerebelo Opsomioclónico: Se inicia entre 1 a 3 años, es grave caracterizado por gran síndrome cerebeloso o más frecuentemente por mioclonias intencionales, dan una incoordinación mayor en cada tentativa de movimiento asociadas a opsoclonias patognomónicas, movimientos anárquicos, desordenados de los globos oculares, con sacudidas multidireccionales, asimétricas, asinérgicas.
+
+    No hay otro signo neurológico y el LCR es normal. Este síndrome rara vez se asocia a una infección viral: Polio, Echo; frecuentemente está en relación con un neuoroblastoma. El tratamiento se hace con corticoesteroides Sinactane, Soluprid.
+
+    Los resultados son variables pueden mejorar o curar en varias semanas. Algunos pacientes se vuelven corticodependientes, tienen algunas secuelas neuropsíquicas. La ablación del neuroblastoma puede tener una acción benéfica.
+
+        4. ATAXIAS AGUDAS O MIOCLONIAS INTENCIONALES LIGADAS A UNA INTOXICACION ACCIDENTAL O MEDICAMENTOSA:
+
+    Deben investigarse sistemáticamente. Pueden ser por hidantoínas, fenotiazinas, alcohol.
+
+    5. ATAXIA CEREBELOSA AGUDA EN EL CURSO DE UN ACCIDENTE CEREBRAL GRAVE
+
+    Sobrevienen después de una crisis convulsiva, una anoxia grave o una hipoglucemia después de un colapso o un paro cardiaco.
+
+    Tiene pronóstico variable, algunas veces muy grave, cuando se presenta para cardiaco o la ataxia es debida a mioclonias intencionales severas.
+
+    El tratamiento de las mioclonias intencionales se utiliza benzodiazepinas aunque el efecto es variable.
+
+    6.  ATAXIAS AGUDAS UNILATERALES, SOLAS O ASOCIADAS A SIGNOS DEL TRONCO CEREBRAL
+
+    Evocan la posibilidad de lesiones orgánicas:
+
+        • Esclerosis en placas de diagnóstico difícil en el niño o adolescente se lo hace por la elevación y disposición oligoclonal de las gamma-globulinas en el LCR; el único elemento de certeza es la recidiva de otro episodio, de topografía diferente: neuritis óptica.
+        • Un tumor del tronco cerebral y del cerebelo.
+        • Una malformación vascular dentro del dominio vertebro-basilar.
+
+    7. ATAXIAS CEREBELOSAS AGUDAS POR AMINOACIDOPATIAS A     EXPRESIÓN INTERMITENTE
+
+     Como la leucinosis, hiperamonemia, Enfermedad de Hartnup, aunque estas son muy raras.
+
+    Es necesario la realización de pruebas, si ciertos signos neurológicos y digestivos se asocian a la ataxia, como problemas de conservación de la conciencia o problemas psiquiátricos, convulsiones, vómitos, o si corresponden a un episodio idéntico que se puede descubrir entre los antecedentes, bueno es pensar en la Enfermedad de Leigh que rara vez se presenta.
+
+    En caso de sospecha investigar inmediatamente una cetosis, acidosis metabólica, una hiperamonemia, hacer una cromatografía de los ácidos aminados urinarios y sanguíneos y si es necesario recurrir a un estudio muy especializado.
+
+    ELEMENTOS GENERALES DE PROSNOSTICO:
+
+    Una ataxia aguda aislada en el curso de una enfermedad eruptiva tiene buen pronóstico. En cambio hay elementos que concurren para convertir el pronóstico en reservado: la presencia de poscolonias, de parálisis oculares o de otros signos de afección del tronco cerebral, el carácter unilateral de la ataxia, o el manifestarse en la adolescencia.
+
+    DIAGNOSTICO DIFERENCIAL:
+
+    La dificultad en el diagnóstico se encuentra frente a 2 enfermedades graves, las coreas agudas y la forma atáxica de Guillan Barré, que representa una ataxia esencialmente estática con abolición de los reflejos y déficit muscular en miembros inferiores con hiperalbuminorraquia.
+  bibliografia:
+  - DAVIS C.H., JOGLEKAR V.M.- Cerebellar astrocitomes in children.- J. Neurol. Neurosurg. Psyquiatry.,
+    1981, 44, 820-828.
+  - LYON G.- Síndromes Agudos Cerebelosos. Ataxias.- Pediatrie D’Urgence;2001.
+  - 'MAYER M.- Neuropathies héreditaires sensitive-motrices. In : Neurologie pédiatrique, m.Arthuis, N.
+    Pinsard.- Flammarion Médicine Sciences, éd., Paris, 1990, pp. 469-477, sous presse.'

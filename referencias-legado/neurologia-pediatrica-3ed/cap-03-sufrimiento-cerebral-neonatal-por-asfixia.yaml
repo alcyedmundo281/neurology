@@ -1,0 +1,350 @@
+# Capítulo III de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 3
+  romano: III
+  titulo_en_la_fuente: SUFRIMIENTO CEREBRAL NEONATAL POR ASFIXIA
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    La vida de todo niño comienza por una difícil prueba: el nacimiento. Cierto que la naturaleza ha previsto casi todo para que ello se de en buenas condiciones, dotando a la madre de una parte y a la unidad “feto placentaria” por otra, de posibilidades fisiológicas adecuadas. Pero el margen de maniobra es estrecho, si una dificultad sobreviene, por una anomalía maternal o fetal, aguda o crónica, la asfixia del cerebro fetal se constituye en riesgo mayor, porque ella daría como resultado de destrucción de las neuronas y la posibilidad de evolucionar hacia una encefalopatía anoxo-isquémica.
+
+    Definición
+
+    El S.C.N.N. es siempre una privación de oxigeno a nivel del tejido nervioso lo que implica la necesidad de una reanimación bien realizada para evitar complicaciones irreversibles.
+
+        1. Puede estar ligado a una lesión primitiva meningoencefálica (hemorragia) o secundaria, como a la deficiencia de un aparato indispensable para una buena hematosis (corazón, pulmón) o a la perdida de valor funcional de la sangre (anemia intensa)
+        2. Todo sufrimiento cerebral altera la regulación y la fisiología de los principales aparatos.
+        3. Es frecuente un desfallecimiento poli visceral, sin ser específico de determinado órgano.
+        4. Hacer el diagnóstico de S.C.N.N. no es suficiente, puede determinarse el mecanismo y encontrarse la causa.
+
+    Etiología
+
+    Las causas son múltiples. En la práctica el esquema siguiente constituye una guía aceptable.
+
+    Causas cerebrales:
+        1. Anoxia cerebral primitiva:
+        • Origen maternal: anomalías de la placenta o del cordón umbilical.
+    -    Durante el trabajo de parto: Hipertonía uterina, inercia y prolongación anormal del mismo.
+          -    Utilización de anestésico o analgésicos.
+        2. Trauma Obstétrico.
+        3. Hemorragia cerebral o meníngea.
+        4. Meningitis neonatal.
+
+          Causas extracerebrales:
+
+        1. Malformaciones congénitas
+        • Tórax
+        • Pulmón: enfisema lobar gigante.
+        • Diafragma: hernia, parálisis del nervio frenito
+        • Corazón: transposición de grandes vasos, hipoplasia de corazón izquierdo.
+
+        2. Afecciones broncopulmonares neonatales: Atelectasia, neumotórax, membrana hialina, infección.
+        3. Anemias Hemolíticas agudas: incompatibilidad fetomaternal.
+        4. Infección neonatal: sepsis.
+
+    Patogenia
+
+    Una vez instaurado el proceso que incide sobre la integridad fetal, se dan modificaciones fisiopatológicas, metabólicas y bioquímicas.
+
+    -Cambios fisiopatológicos
+
+    Inicialmente se observan varios fenómenos, aumento de perfusión cerebral por redistribución del débito cardíaco en provecho del cerebro, del corazón y de las suprarrenales, mientras disminuye en la placenta, riñones y pulmones; hay vasodilatación arteriolar cerebral, en relación con la hipercapnia, la hipoxia y acidosis, lo que evidenciará una gasometría anormal.
+
+    Hay hipertensión arterial sistémica; luego se pierde la posibilidad de autorregulación vascular cerebral, porque persiste la causa de la asfixia; el débito sanguíneo cerebral se vuelve presión dependiente; aumenta el riesgo de edema y de hemorragia cerebral, lo cual estará en relación con las variaciones de la presión arterial.
+
+    Secundariamente aparece hipotensión arterial cardiogénica (por asfixia miocárdica) con caída del débito sanguíneo cerebral y los efectos adversos de choque son acentuados, por la perdida de la autorregulación vascular cerebral.
+
+    -Cambios bioquímicos
+
+    Ellos se sitúan a nivel celular y se desarrollan de la manera siguiente:
+
+    1.- La asfixia aumenta en algunos segundos la permeabilidad de la membrana, por lo que produce una movilización de agua hacia los espacios extracelulares y con ella intercambio de electrolitos Potasio, Sodio y Cloro. Se debe a la reducción de NAD en NADH. Esta despolarización interrumpe la actividad eléctrica de las células y las reservas energéticas (ATP y fosfocreatina) no son todavía consumidas. LOWRY ha sugerido que se trataría de un mecanismo de protección de la célula en los casos de hipoxia en el que el cerebro funcionaria a nivel mínimo necesario para ahorrar estas moléculas de alta energía.
+    2.- Las reservas van, por tanto, a terminarse en algún momento. La fuente única es la glucosa. Una molécula produce 38 moléculas de ATP en presencia de oxígeno y solamente dos en anaerobiosis. Para compensar esta producción insuficiente, el débito cardíaco aumenta, elevando el flujo de glucosa hacia las células nerviosas. En caso de isquemia cerebral, este mecanismo compensador es ya inoperante.
+
+    Cambios metabólicos.
+
+    El crecimiento del catabolismo anaeróbico tiene también consecuencias negativas debidas a la acumulación de ácido láctico dentro de las células cerebrales. Esta acidosis metabólica tiene tres efectos nefastos:
+        • La inhibición de la fosfofructuosa que reduce la glucólisis y, por tanto, la producción de ATP.
+        • La alteración de la autorregulación vascular cerebral.
+        • La necrosis celular que ella precipita.
+
+    Si la hipoxia se prolonga, los mecanismos de compensación son rápidamente insuficientes. Las tasas de glucosa celular disminuyen y la fosfocreatina desaparece. Es la muerte celular.
+
+    En los casos de asfixia el glutamato extracelular excesivo origina muerte neuronal y también la entrada abundante de Ca a la célula.
+
+    Manifestaciones Clínicas del S.C.N.N.
+
+    Los elementos con que cuenta el médico para saber que el feto esta cursando por la situación hipóxica durante el trabajo de parto se fundamenta en dos importantes parámetros.
+
+        1. Tinción meconial del líquido amniótico.
+
+    Este signo ha sido usado por los obstetras como revelador de que el feto esta sufriendo un episodio de hipoxia, a pesar que la defecación fetal puede producirse por otras causas, como la comprensión del abdomen por los miembros, durante la contracción uterina en las presentaciones pélvicas.
+    Ha subrayado Van Llore que la carencia intestinal de oxígeno produce hiperperistaltismo y eliminación de meconio, lo cual constituye un verdadero sistema de alarma en el que la relajación del esfínter anal por parálisis representa un estado avanzado de Hipoxia.
+    H. Deham y J.C. Roper, Médicos del Servicio de Cuidados Intensivos Neonatales del Hospital Antonie Beclere, en un trabajo publicado este año, sostienen que es un argumento serio de hipoxia perinatal la presencia del líquido meconial junto con anomalías del ritmo cardiaco.
+
+        2. Reserva fetal
+
+    Cadeyro Barcia y sus colaboradores, en Montevideo, establecieron el término “reserva fetal” para señalar la capacidad del feto para soportar la hipoxia transitoria provocada por las contracciones uterinas.
+    Para determinar esta situación se registran la frecuencia cardiaca del feto y la presión del líquido amniótico y se relacionan en una gráfica dinámica. El clímax de la presión amniótica coincide con la máxima caída de la frecuencia cardiaca. Al disminuir la contracción uterina, la presión amniótica desciende y se recupera la frecuencia cardiaca hasta el nivel que tenia antes de la contracción, lo cual sucede entre l3 y 15 segundos. La caída de la frecuencia cardiaca se denomina “D.I.P.” y cuando la evolución es normal, como la descrita, se dice que el DIP es de tipo I. Cuando el tiempo entre el vértice de la contracción uterina y el fondo del DIP es entre 23 y 67 segundos, promedio 45, se denomina DIP tipo II, que es considerado como evidencia de S.C.N.N.
+
+    Lesiones intracraneales en el sufrimiento cerebral neonatal
+
+    Estas pueden ser hemorrágicas, difusas y localizadas:
+        1. Hemorragia subependimaria peri o intraventricular del neonato con retardo intrauterino de crecimiento y del prematuro.
+    Generalmente esta forma de hemorragias con extensión al tejido nervioso adyacente y la ruptura dentro de los ventrículos laterales, es la más frecuente y muy grave; da una mortalidad elevada y la mayor parte de secuelas neuro-psíquicas y sensoriales.
+
+    Gracias a la Tomografía Axial Computarizada (T.A.C.) se ha demostrado la frecuencia de las hemorragias periventriculares uni o bilaterales que se encuentran en los prematuros sobrevivientes. Tienen tasas de mortalidad entre 55 y 70 %.
+    El lugar de origen se sitúa en el núcleo germinal periventricular a nivel de la cabeza del núcleo caudado dentro del agujero de Monro.
+    Las hemorragias de los plexos coroideos son excepcionales.
+    B. Melékian indica que cerca del 50 % de todos los recién nacidos con menos de 1500 gramos tienen hemorragia intracraneal.
+    2.   Lesiones difusas. Se las encuentra reiteradamente y tienen algunas características:
+    a)  Hay atrofia hemisférica por reblandamiento isquémico; su diagnóstico se ha hecho posible gracias a la ecografía y a la T.A.C.
+    b)  Cicatriz glial retráctil limitada a la sustancia blanca o extensiva dando la Leucoencefalomalacia.
+    3.   Lesiones localizadas. Se caracterizan por:
+    a)   Reblandecimiento Silviano unilateral
+    b)   Atrofia de la corteza en lo profundo de una circunvolución y en las zonas de confluencia arterial.
+    c)   Hipermielización de los núcleos grises
+    d)   Despoblación neuronal y gliosis del Tálamo
+
+    Hipoglucemia como componente del S.C.N.N.
+
+    La hipoglucemia es un proceso que no tratado en forma precoz causa alteraciones a nivel cerebral. Se caracteriza por modificaciones en la obtención de los reflejos primarios o arcaicos, por convulsiones y cambios de tono muscular y deja secuelas muy graves como parálisis, retardo mental, etc.
+    Ello se explica porque con tasa de glucosa bajas y por tiempo mas o menos largos, las reservas de las células nerviosas se agotan en los primero 60 o 90 minutos de iniciada esta patología. De todas maneras, el recién nacido es mas resistente a la privación de la glucosa que el lactante o el niño mayor.
+
+    La sensibilidad jerárquica a la deficiencia de glucosa es notable pues las primeras células que se lesionan son de la corteza, después las subcorticales, las del tronco y finalmente las del bulbo. Este hecho explica por que la gravedad es progresiva y los signos neurológicos se harán presentes con mayor intensidad a medida que la hipoglucemia se intensifica.
+
+    Ketty nos presenta un estudio interesante sobre los factores hemodinámicos de la hipoglucemia cerebral, en el que afirma que normalmente bastan 46ml de sangre para irrigar 100 g de cerebro. Al producirse la hipoglucemia cerebral se origina una vaso dilatación que permite aumentar a 60ml de sangre para mantener la nutrición de la porción de cerebro establecida.
+
+    El oxígeno en concentraciones de 3.3ml y la glucosa de 60mg se consideran adecuados, pero cuando el oxígeno desciende a 2.6ml y la glucosa a 45mg hay sufrimiento cerebral.
+
+    Si el oxígeno llega a 2ml y la glucosa a 30mg se presenta el coma, ya que son insuficientes para los 100g de cerebro.
+
+    Cuadro Clínico del Sufrimiento Cerebral Neonatal Intrauterino
+
+    Inicialmente se aprecia un aumento de la actividad fetal acompañada de taquicardia y de frecuencia cardiaca mayor de 170 por minuto. Momentos después hay depresión del producto con bradicardia; se auscultan menos de 100 latidos por minuto.
+
+    Estas manifestaciones son seguidas por la aparición del DIP II o desaceleraciones de la frecuencia cardiaca fetal; se hace evidente el líquido amniótico meconial sea por observación directa si ha precedido una ruptura de bolsa o por el examen amnioscópico. Algunas veces es necesario efectuar una amniocentesis.
+
+    Debemos anotar que, por el mismo proceso hipóxico al que esta sometido el feto, puede realizar una respiración precoz aspirando meconio que definitivamente agravara el cuadro, por obstrucción de las vías respiratorias.
+
+    Cuadro clínico de S.C.N.N. durante el parto
+
+    El neonato en el momento del nacimiento puede lucir intensamente pálido o con cianosis, hipotónico, traduciendo, en los dos casos, modificaciones de la función cerebral y cardiovascular.
+
+    Algunos niños nacen con apnea primitiva y bradicárdicos, hipoactivos, circunstancia que se denomina “muerte aparente”.
+
+    Otras ocasiones respiran con dificultad, pero tendrá hipercapnia, acidosis e hipoxia. Tendremos entonces un recién nacido en estado de choque.
+
+    La puntuación de APGAR será menor de 4, lo cual indica R.N. gravemente deprimido.
+
+    Cuadro clínico postnatal
+
+    En el segundo o tercer día después del nacimiento se aprecian tres órdenes de signos:
+
+    - Generales:            Hipotermia, llanto agudo, hipoglucemia.
+    - Respiratorios:      Cianosis, taquipnea, frecuencia irregular.
+    - Neurológicos:    Hipertonía inicial, hipotonía posterior, alteración de los reflejos arcaicos o primarios, problemas de succión, deglución y lo más importante, crisis epilépticas.
+     - Renales:               Oliguria persistente.
+
+    Diagnóstico paraclínico
+
+    Estudio del ritmo cardíaco fetal:
+    La actividad cardiaca fetal se obtiene utilizando ultrasonido y el efecto Doppler o después de la ruptura de membranas por intermedio de un electrodo situado habitualmente sobre el scalp del feto. Este método permite obtener un trazado preciso de la actividad cardiaca. Las variaciones de la frecuencia son analizadas y registradas por un cardiotacómetro.
+
+    - Análisis del trazado normal
+    El nivel del ritmo de base normal se sitúa entre 120 y 160 pulsaciones por minuto. Depende de la acción modulatriz de los centros nerviosos simpáticos y parasimpáticos del feto. Estos son activados por las modificaciones hemodinámicas y químicas de la sangre. El ritmo de base no es constante; puede tener breves aceleraciones, de una amplitud 20/mn., que duran 20 a 60 segundos. Ellas corresponden a los movimientos del feto y testifican buena vitalidad. Un ritmo de base normal en ausencia de otras anomalías corresponde a un buen estado fetal.
+
+    - Variaciones rápidas del ritmo de base
+    Variaciones de pulsación a pulsación: Ellas corresponden a la ligera diferencia de tiempo que separa los complejos del electrocardiograma fetal que van de 0.37 s. a 0.50 s. Fig. 22
+
+    Fig. 22
+    RITMO CARDIACO FETAL. ASPECTO DEL TRAZADO
+
+    - Fluctuaciones o variabilidad del ritmo de base:
+       Corresponden a oscilaciones cíclicas observadas a nivel del R.C.F. Esta variabilidad puede definirse sea por la frecuencia de oscilaciones calculadas sobre un minuto, sea por la amplitud de las fluctuaciones.
+    Es igual a la diferencia entre la frecuencia cardiaca máxima y mínima del feto registrada en un minuto.
+
+        • menos de 5 pulsaciones/mn.: trazado plano del R.C.F. (Ritmo Cardíaco Fetal)
+        • 5 a 25 pulsaciones/mn.: variabilidad normal del R.C.F.
+        • más de 25 pulsaciones/mn.: variabilidad aumentada del R.C.F. Fig. 23
+
+    Fig. 23
+    FLUCTUACION DEL RITMO DE BASE
+
+    -  Anomalías del R.C.F.
+       Taquicardia permanente: Se trata de un aumento del ritmo de base controlado por más de 10 mn. Puede llegar a 180/mn.
+    Bradicardia permanente: Ella se define como una frecuencia del corazón fetal inferior a 120/mn. durante mas de 10mn. Puede llegar a cifras críticas inferiores a 100/mn.
+    Disminución de la variabilidad del ritmo de base o trazado plano: Ella puede testificar una anoxia de los centros nerviosos. Ciertas anomalías, aparte de la anoxia, puede originar un trazado plano: drogas (atropina, diazapen), anomalías neurológicas (anacefalia). Fig. 24
+
+    Fig. 24
+    RITMO CARDIACO FETAL PLANO
+
+    EXAMEN COMPLEMENTARIOS
+
+    Hepatología
+
+    El hemograma con numeración de plaquetas sanguíneas y el estudio de la hemostasia, pueden poner en evidencia las anomalías en relación con un estado de sufrimiento neonatal:
+    -    Una trombopenia aislada evoca sufrimiento fetal crónico;
+
+        • Un síndrome de coagulación intravascular diseminado, con lesión hepática o sin ella;
+        • La dificultad consiste en descartar una infección asociada que presenta datos parecidos.
+        • Un síndrome de coagulación intravascular diseminado, con lesión hepática o sin ella;
+        • La dificultad consiste en descartar una infección asociada que presenta datos parecidos.
+
+    Gasometría arterial
+
+    Normalmente el pH es de 7.4, el PCO2 es de 30–35mm Hg. y PAO2 sobre 60mm Hg. En los casos de sufrimiento cerebral la gasometría muestra una tendencia a la acidosis, disminuyendo el pH a 7.25, elevándose el PCO2 y disminuyendo el PAO2
+
+    Dos parámetros han sido particularmente aislados: el pH y la lacticidemia.
+
+    Acido Láctico
+
+    El ácido láctico no es volátil, puede ser dosificado por micro método. La lactoplasmia es de alrededor de 2mmol/l. Su elevación testifica anoxia tisular y precede a la baja del pH.
+
+    Bioquímica
+
+    Los marcadores bioquímicos del sufrimiento cerebral son de dos órdenes:
+        • La hiperglucemia, que se presenta en los estados terminales, testifica la incapacidad celular de metabolizar la glucosa;
+        • La elevación de ciertas enzimas S.G.O.T., S.G.P.T., lacticodeshidrogenasa, aminotransferasa, creatinfosfoquinasa, entre otras. Actualmente la C.P.K. es la enzima mejor estudiad. Su dosificación sérica y sobre todo a nivel de L.C.R., será más específica del sufrimiento celular cerebral como lo demuestran los estudios actuales.
+
+    Punción Lumbar
+
+    No es necesario practicarla sino cuando el estado de niño lo permita y los síntomas orienten a pensar en la presencia de una hemorragia o infección intracraneal.
+
+    En caso de que la P.L. sea sangrante y si el líquido se aclara en el segundo y tercer tubo o si ha coagulado, la presencia de sangre se considera debida a una maniobra traumática. Se solicitara al laboratorio el número de elementos. Es frecuente pero sin significación observar 10 a 25 elementos blancos y una centena de hematíes.
+
+    La albuminorraquia media es de 60mg en el niño a termino; el prematuro puede llegar a 180mg. El cultivo debe ser sistemático.
+
+    Electroencefalograma
+
+    El estudio del electroencefalograma es un método de los mas seguros para apreciar el sufrimiento cerebral del recién nacido. La repetición de los registros, confrontando con los datos clínicos y con otros medios de investigación, permite vigilar la evolución y evaluar el pronóstico. Este examen no debe ser considerado como método de diagnóstico en urgencias.
+
+    Ecografía transfontanelar
+
+    Es considerada como un medio de exploración indispensable en esta patología.
+    Es fácil practicarse y debe repetirse con frecuencia. Es mejor si hace junto a la cama del enfermo. Permite una buena aproximación del diagnóstico y vigilancia de la evolución.
+
+    A partir de 1983 comenzamos por primera vez en el Hospital “Carlos Andrade Marín” a utilizar la ecografía transfontanelar como método complementario de estudio en el sufrimiento cerebral neonatal. Es un examen no cruento, que se caracteriza por la propiedad que tiene el ultrasonido para reflejarse sobre las paredes que separan dos medios de densidad diferentes.
+
+    Ella nos permite visualizar:
+
+        1. Hemorragias intracranealas
+        2. Procesos expansivos
+        3. Tamaño de los ventrículos
+        4. Edema cerebral
+        5. Atrofia
+        6. Hidrocefalia
+        7. Lesiones de la sustancia blanca
+        8. Isquemia
+
+    Fig. 25
+
+    ECOGRAFIA TRANSFONTANELAR
+
+    Tomografía axial computada
+
+    Este examen tiene indicaciones en un cierto número de casos:
+        • Cuando existe un edema cerebral difuso, puede poner en evidencia una hipodensidad global de las estructuras cerebrales, algunas veces difíciles de analizar dentro de las primeras semanas de vida;
+        • En las hemorragias intracranealas parenquimatosas así como en los casos de hematomas subtentoriales y subaracnóideos;
+        • En los accidentes vasculares cerebrales precoces o tardíos, ocurridos después de lo que se conoce como intervalo libre;
+        • En las lesiones anoxoisquémicas periventriculares;
+        • En las convulsiones que se presentan como secuelas tardías del sufrimiento cerebral neonatal.
+
+    EXAMENES MAS SOFISTICADOS
+
+    Espectroscopia infrarroja
+
+    Se trata de una técnica no invasiva que permite monitorizar la hemodinámica y la oxigenación del cerebro en el lecho del enfermo.
+
+    Se basa en el principio de absorción de energía electromagnética por una sustancia química en función de su concentración. Se puede así calcular la absorción de la luz cercana a la zona infrarroja, cuando atraviesa la cabeza del bebe con tres longitudes de onda diferentes.
+    Esto permite medir las concentraciones de los tres cromóforos principales en el tejido cerebral, cada uno con un espectro de absorción característico: se trata de la hemoglobina oxigenada y la citocromo C oxidasa, que es el componente terminal de la cadena de transporte de electrones a nivel mitocondrial dentro de la célula. Estos elementos son un reflujo de la oxigenación hística. También se pueden obtener datos sobre el flujo y el volumen sanguíneo cerebral. Toda esta información, a priori, interesante en el contexto de la asfixia neonatal, recién comienza a ser evaluada; los resultados son aun fragmentarios y a veces contradictorios.
+
+    Por lo tanto esta técnica debe aun dar prueba de su eficacia antes de considerar el uso en la práctica neonatal de los espectrómetros actualmente disponibles.
+
+    Espectroscopia por resonancia magnética nuclear
+
+    La espectroscopia por resonancia magnética (ERMN) es una técnica no invasiva que permite evaluar la pérdida energética cerebral a nivel celular. En efecto la supervivencia de una célula depende mas de la diferencia entre los sustratos que se proporcionan y sus gastos energéticos que del valor absoluto de estos sustratos; esto explica las posibilidades de supervivencia sin lesión con un flujo sanguíneo cerebral muy bajo en ciertas condiciones.
+
+    La ERMN se basa en el principio de que ciertos núcleos atómicos, situados en un campo magnético fuerte, dan lugar a una señal de resonancia magnética cuando están sometidos a un impulso electromagnético de radiofrecuencia determinada. La frecuencia de resonancia de un mismo núcleo varía según el tipo de enlace en el que participa; puede obtenerse un espectro de frecuencias donde cada componente se identifica por un pico cuya altura refleja la concentración del compuesto. Debido a su papel vital en el metabolismo energético, el fósforo P ha sido el núcleo mas estudiado en ERMN; los espectros registrados corresponden a la fosfocreatina (PCr), al ortofosfato inorgánico (Pi) y al ATP. En las horas siguientes al episodio anoxico-isquémico se produce una disminución de la PCr y un aumento del Pi que indica un déficit de energía.
+
+    Este déficit se corrige al cabo de varias horas, pero secundariamente puede volver a aparecer en los casos graves asociado a una disminución de las concentraciones de ATP. El carácter pronóstico desfavorable de esta disminución secundaria del cociente ATP/Pi, así como del PCr/Pi fue demostrado por diferentes equipos.
+
+    Actualmente, la espectroscopia del protón tiende a reemplazar a la del “P ya que se proporciona mas información y con mayor precisión”.
+
+    La señal del lactato puede cuantificarse y constituye un buen indicador del sufrimiento celular. La señal del compuesto NAA (grupo acetilo del N-acetil aspartato) que participa en el metabolismo del ácido glutámico, aminoácido excitador informa sobre la presencia y la viabilidad de las neuronas.
+
+    Aunque los estudios por ERMN son escasos por el momento, esta técnica parece prometedora en cuanto al valor de las informaciones pronósticas que puede brindar. Lamentablemente, su realización es complicada (requiere una inmovilización completa durante una hora), lo cual limitará probablemente su uso en el dominio de la asfixia perinatal, por lo menos en la fase inicial.
+
+    Tomografía computarizada por emisión del fotón único (SPECT).
+
+    Se trata de una técnica invasiva que estudia la distribución cerebral regional de un radioisótopo que atraviesa la barrera hematoencefálica mediante una cámara gamma. Esta distribución depende de la perfusión cerebral de los diferentes territorios, por lo tanto, refleja el flujo sanguíneo cerebral regional que es a su vez un indicador de la actividad metabólica. En el dominio de la asfixia perinatal, los pocos estudios disponibles realizados con SPECT confirman la existencia de una perfusión de lujo inicial en la mayoría de los casos y de una hipoperfusión ulterior en ciertas zonas. Estas zonas coinciden habitualmente en las regiones lesionadas visibles por TAC o RMN; pero si las técnicas de imágenes no muestran lesiones, la interpretación de estas zonas de hipoperfusión es riesgosa, lo cual limita mucho la ventaja de la SPECT con respecto a las otras técnicas no invasivas que estudian el flujo sanguíneo y las técnicas por imágenes.
+
+    Tomografía por emisión de positrones (PET)
+
+    Es otra técnica invasiva que permite evaluar el flujo sanguíneo cerebral así como el metabolismo de la glucosa, del oxígeno y de los neurotransmisores. Aporta informaciones interesantes sobre la maduración funcional cerebral, pero requiere un equipo muy complejo (cámara de positrones y un ciclotrón generador de isótopos) lo cual explica su uso muy limitado en los casos de asfixia perinatal.
+
+    TRATAMIENTO
+
+    El sufrimiento fetal agudo entraña lesiones poliviscerales que reclaman de manera simultanea medidas terapéuticas adaptadas a cada una de las funciones alteradas. Una vez que el sufrimiento cerebral se ha constituido, el médico debe adoptar la conducta terapéutica siguiente:
+
+    - Sintomática, para restaurar y mantener las funciones vitales;
+    - Específica, que atenúa o previene las lesiones cerebrales.
+
+    Medidas sintomáticas
+
+    Ventilación artificial: Cuando el caso lo amerita por la gravedad de la lesión cerebral, debe utilizarse este método, pues evita la hipoxemia, que sobretodo en el prematuro es frecuente. Esto justifica la vigilancia continua de la paO2.
+
+        • La hiperoxia tiene también riesgos. En efecto, disminuye el débito sanguíneo cerebral por vasoconstricción y es responsable de lesiones específicas a nivel del puente y del hipocampo.
+
+    -    La hipercapnia da consecuencias desagradables sobre el cerebro. Aumenta la acidosis tisular, la isquemia de los tejidos lesionados y el riesgo de hemorragia periventricular.
+
+        • La hipocapnia severa disminuye el débito sanguíneo cerebral.
+
+    -     Se debe mantener la presión arterial media entre 50 y 80 mm Hg. en el recién nacido a término, y entre 40 y 70 mm Hg. en el prematuro.
+
+    -  Conviene emplear la incubadora para administrar, además de de oxigeno, calor y humedad.
+
+    -     Los métodos terapéuticos frente a una hipotensión son:
+
+        • Llenado vascular con soluciones macromoleculares (albúmina, plasma, sangre total, sustancias coloidales) a ritmo variable en función del estado hemodinámico.
+        • Los aportes hidroelectrolíticos que se hacen con dextrosa en agua el 10% +Na2mEq/Kg./día + K1mEq/Kg./día en cantidades que no sobrepasen los 60ml/Kg./día para evitar se acentué el edema cerebral, frecuentemente agravado por una secreción inapropiada de hormona antidiurética.
+
+    Tratamiento especifico
+
+    Edema cerebral:
+        • Restricción hídrica (60ml/Kg./día).
+        • Ortostatismo, que favorece el drenaje venoso cerebral.
+        • Hipocápnia moderada (30mm Hg.) que reduce el volumen sanguíneo intracraneal por vasoconstricción.
+        • Glucocorticoides cuya eficacia no ha sido demostrada. Ellos tienen inconvenientes notables, deficiencia de la proliferación celular, del desarrollo dendrítico de la mielina y aumento del riesgo de infección.
+        • En casos excepcionales en los que la hipertensión intracraneal es grave se utilizará Manitol a razón de 0.5 g/Kg., intravenoso, cada seis horas, o 10ml de Acrosmosol (Manitol en Ecuador) en solución al 20% prefundidos en una hora. Este medicamento debe manejarse con gran cautela porque su carga osmolar puede precipitar una hemorragia intracraneal;
+        • Fenobarbital. Frente al aumento de la actividad metabólica en el S.C.N.N. El consumo excesivo de glucosa y de moléculas energéticas; la acumulación de lactato en las células nerviosas justifican este tratamiento, aunque su eficacia en el comportamiento neurológico futuro no se ha demostrado.
+    Cuando el recién nacido presenta convulsiones se puede utilizar;
+        • Fenobarbital: 10mg/Kg. intravenoso, para después de 48 horas utilizar la vía oral, dando 5mg/Kg./día/ Las tasas sanguíneas terapéuticas van de 15 a 20 mg/l;
+        • Fenitoina: 10 mg/Kg. intravenoso para continuar con un tratamiento de mantenimiento de 5 mg/Kg./día. Las tasas sanguíneas terapéuticas son de 15 a 20 mg/l.
+
+    Los controles frecuentes de las tasas sanguíneas son necesarias para optimizar el tratamiento.
+
+    Usar el fenobarbital u otros anticonvulsivos como prevención, no es adecuado.
+
+    Actualmente no hay ningún trabajo de investigación que demuestre su eficacia. Más bien la utilización de altas dosis de barbitúricos, por los efectos secundarios (en particular la vasoconstricción cerebral) puede tener consecuencias graves sobre el cerebro.
+  bibliografia:
+  - BOMPARA Y., AUFRANT C., MASSONNAUD M. et GANTZER A.- La souffrance cérébrale asphyxique du nauveau-né
+    Encycl, Méd. Chir., Paris, France, Pédiatrie, 4002 S, 7-1987.
+  - LAPLANE R.- Un état de souffrance cerébale.- Abregé de Pédiatrie.- Masson Editeurs, 79-1973.
+  - TORRES A., y Col.- Sufrimento cerebral neonatal.- Educación médica continuada., Quito, Ecuador, editado
+    por Sherifarm C.A., VII-1984-N-7

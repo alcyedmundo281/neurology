@@ -1,0 +1,337 @@
+# Capítulo XXV de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 25
+  romano: XXV
+  titulo_en_la_fuente: PERDIDA DE LA VISTA
+  autoria_distinta_del_autor_fundador: true
+  citable_como_legado: false
+  texto: |
+    La aparición repentina de una ceguera o de una ambliopía uni o bilateral en el niño de algunos años o en un adolescente nos hace pensar en 2 entidades principalmente: Tumor o neuritis óptica.
+    En caso de un tumor infiltrativo o que presione el quiasma y los nervios ópticos se deben sospechar tres diagnósticos:
+
+        • Un glioma del nervio óptico o del quiasma, ceguera a menudo unilateral, atrofia óptica y a veces exoltalmia. Las radiografías muestran agradecimiento  sin erosión del agujero oftálmico.
+
+        • Un cráneo faringeoma (calcificaciones para sillares) y modificaciones de la silla turca son frecuentes.
+
+        • Tumores del tercer ventrículo.
+
+    Para confirmar estos diagnósticos y hacer el mapa topográfico de tumor, los exámenes neuroradiológicos son indispensables.
+
+    En estas tres enfermedades la ceguera puede ser reveladora y no se acompaña de ningún signo de hipertensión intracraneana ni de anomalías endocrinas.
+
+    Una Neuritis óptica esta determinada por la aparición súbita de una ambliopía o de una ceguera completa unilateral. El fondo de ojo es variable: normal, edema de papila, papilitis (edema papilar de hipertensión endocraneana que no se acompaña de ceguera; a veces hay un escotoma central al examen del campo visual.
+
+    Una vez eliminada una infección de senos paranasales o un tóxico que pueden explicar la causa de la neuritis óptica es a menudo poco clara, pero un buen número de ellas son el resultado de un proceso desmielinizante. Una neuritis óptica es la primera manifestación de una esclerosis en placas. Una ceguera repentina puede presentarse luego de un traumatismo. Algunas son el resultado de un trauma craneal sin complicar estructuras orbitarias y se resuelven espontáneamente. Otros dependen de un traumatismo directo del nervio óptico, a veces por la introducción accidental de un cuerpo extraño. Las circunstancias exactas de un accidente son difíciles de precisar. En consecuencia ante un traumatismo de la cara y de los parpados es mandatario evaluar la acuidad visual, hacer un examen oftalmológico completo y si es necesario tomografía de las orbitas y examen del LCR.
+
+    Una ceguera puede aparecer en el curso de una convulsión de gran mal, de una anoxia, de un colapso, de un paro cardiaco. El pronóstico es variable pero a menudo se recuperan totalmente sin ningún tratamiento.
+
+    Se recuerda que ciertas hipertensiones intracraneanas se producen por estenosis del acueducto, o se presentan como atrofia post-estasis.
+
+    Los edemas papilares de los edemas cerebrales benignos (post-otitis) pueden dejar una ambliopía importante. Se encuentra en fin que ciertas poliradiculoneuritis se acompañan de daño del nervio óptico con ceguera. Los accidentes neurológicos de las glomerulonefritis agudas pueden producir igualmente ceguera repentina.
+
+    Finalmente en el niño mayor ciertas enfermedades degenerativas pueden presentar como primer signo la disminución de la acuidad visual. Es el caso particular de la enfermedad de Betten (o de Spielmeyer Vogt) que puede ser en su estado inicial difícil de distinguir de una retinitis pigmentosa primitiva, enfermedad puramente oftalmológica y de la enfermedad de Schilder, a menudo asociada a una insuficiencia suprarrenal.
+
+    Es también el cado de una atrofia óptica de Leber (en el caso de los niños)
+
+    NEURITIS ÓPTICA
+
+    Diagnóstico:
+        • Se produce 3 semanas después de una infección viral.
+        • Se asocia a rubéola, varicela, paperas. Herpes zoster, mononucleosis infecciosas, enterovirus y otros virus, también como fenómeno posvacunación.
+        • Se produce por un proceso inmunológico que desmieliniza el nervio óptico, puede ser unilateral, pero más frecuentemente bilateral.
+        • Se presenta disminución de agudeza visual severa.
+        • Al examen de fondo de ojo se observa un disco óptico normal o edematoso.
+        • La recuperación visual es excelente.
+
+    Exámenes complementarios:
+        • TAC: se observa alargamiento de nervios ópticos y descarta enfermedad sinusal.
+        • Punción Lumbar: pleocitosis con predominio de linfocitos, elevación de proteínas.
+        • Si la punción lumbar no confirma infección solicitar test serológico para enfermedades del colágeno.
+
+    Tratamiento:
+
+    Corticoides, especialmente si es bilateral: Predinisona 1 a 2 mg./Kg. por 2 semanas con disminución decreciente de la dosis durante 1 mes.
+
+    NEURORETINITIS:
+
+    Forma de neuritis óptica con edema de papila y exudados retinales que toman la forma de estrella macular “maculopatía estelar de leber”.
+    Etiología desconocida, presumiblemente postviral.
+    Asociada sífilis, histoplasmosis, fiebre de rasguño de gato, leptospirosis.
+
+    SINDROME DE HORNER:
+    Signos: ptosis, anisocoria
+
+    Etiología:
+        • Defecto de neurona de primer orden: enfermedad cerebrovascular, insuficiencia de la arteria vertebrobacilar, tumor, osteoartritis severa.
+        • Defecto de neurona de segundo orden: Tumor (carcinoma de pulmón, metástasis, adenomatiroideo) y neurofibromatosis.
+        • Defecto de neurona de tercer orden: cefalea, infección por herpes zoster, otitis media: Síndrome de Tolosa Hunt.
+        • Congénito: trauma durante el parto.
+    Diagnóstico:
+    Se instila Cocaína 10% en ambos ojos y se observa menor dilatación en una pupila Horner que en una normal.
+
+    Tratamiento:
+        • Tratar enfermedad subyacente
+        • Tratar ambliopía
+        • Cirugía de ptosis
+
+    PUPILA DE ARGYLL ROBERTS:
+    Signos: pupila pequeña. Irregular poco reactiva a la luz. Que contrae normalmente durante la convergencia, visión normal.
+    Etiología: Sífilis Terciaria (FTA-ABS)
+    Tratamiento: especifico para sífilis.
+
+    PUPILA TÓNICA DE ADIE:
+    Síntomas: anisocoria, visión borrosa o asintomático.
+    Signos: midriasis con poca respuesta a la luz, unilateral, afecta mujeres jóvenes.
+
+    Etiología:
+        • idiopática
+        • Trauma o infección orbitaria
+        • Herpes zoster
+        • Diabetes
+        • Neuropatía autónoma
+        • Sd Guillan Barré
+
+    Diagnóstico: La instalación de metacolina 2.5 % hace que la pupila tónica se contraiga más que la contralateral.
+    Tratamiento: no indicado.
+
+    PARALISIS AISLADA DEL TERCER PAR:
+
+    Síntomas: diplopía, ptosis
+    Signos:
+        a) Parálisis de la división superior: ptosis e imposibilidad de mirar hacia arriba
+        b) Parálisis de la división inferior: limitación de mirada hacia abajo, hacia la nariz y compromiso pupilar.
+        c) Parálisis completa: limitación de movimiento ocular excepto hacia temporal.
+    Etiología: aneurisma, enfermedad cerebrovascular, tumor, trauma, congénito, hernia de uncus, lesión ocupacional de seno cavernoso, enfermedad orbitaria por herpes, leucemia.
+
+    Diagnóstico:
+        • TAC cortes axiales y coronales o RMC del cerebro
+        • Contaje de células sanguíneas
+        • Angiografía cerebral en caso de TAC normal
+
+    Tratamiento:
+        • Tratar patología base
+        • Parche en caso de diplopía en mayores de 9 años
+
+    PARÁLISIS AISLADA DEL CUARTO PAR:
+    Síntomas: diplopía vertical binocular, que desaparece al ocluir un ojo o asintomático.
+    Signos: limitación de la mirada hacia abajo.
+    Etiología: trauma, enfermedad cerebrovascular, congénito, idiopático, enfermedad desmielinizante, tumor, hidrocefalia, aneurisma.
+
+    Exámenes complementarios:
+        • Test de edrofonio
+        • Glucosa y curva de tolerancia.
+
+    Tratamiento:
+        • Parche ocular durante los 6 primeros meses para evitar diplopía en los niños mayores de 9 años (niños menores no han alcanzado la madurez visual y pueden presentar ambliopía si se parcha un ojo por mucho tiempo)
+        • Cirugía pasado el sexto mes en caso de diplopía vertical en posición primaria de la mirada.
+
+    PARALISIS AISLADA DEL SEXTO PAR:
+    Síntomas: diplopía horizontal binocular
+    Signo: no existe movimiento temporal del ojo afectado.
+
+    Etiología:
+        • condición postviral benigna
+        • petrosis que afecte el sexto par
+        • glioma pontino
+        • trauma
+
+    Exámenes complementarios:
+     TAC o RM
+
+    Tratamiento
+        • Tratar enfermedad de base
+        • Parchar un ojo para evitar diplopía en mayores de 9 años.
+
+    SINDROME SENO CAVERNOSO/FISURA ORBITARIA SUPERIOR (PARÁLISIS OCULOMOTORA MULTIPLE):
+
+    Síntomas: diplopía, ptosis, dolor facial.
+    Signos: limitación de movimientos oculares correspondientes a una combinación de parálisis del cuarto y sexto par, dolor y pesadez de la cara por lesión de ramas correspondientes al quinto par.
+
+    Etiología:
+        • Fístula arteriovenosa (carótido-cavernosa o dural-cavernosa)
+        • Trombosis del seno cavernoso
+        • Tumores matastásicos del seno cavernoso ( leucemia, linfoma)
+        • Carcinoma de células escamosas por diseminación perineural.
+        • Apoplejía pituitaria
+        • Aneurisma intracavernoso
+        • Mucomicosis
+        • Herpes Zoster
+        • Sd. De Toloso Hunt: proceso inflamatorio agudo de fisura orbitaria superior o seno cavernoso anterior,
+        • Meningioma, Carcinoma del seno cavernoso, mucocele, infecciones.
+        •
+    Exámenes complementarios:
+        • TAC o RM de senos, orbitas y cerebro
+        • Punción lumbar: meningitis carcinomatosa
+        • Biopsia de nasofaringe y nódulos linfáticos
+        • Contaje de células sanguíneas. Velocidad de eritrosedimentación, anticuerpos antinucleares, factor reumatoideo.
+        • Rx de tórax
+        • Angiografía cerebral
+
+    Tratamiento:
+    Tratar la enfermedad de base.
+
+    MIASTENIA GRAVIS:
+    Síntomas: ptosis y diplopía mas evidente al finalizar el día o con la fatiga, debilidad de músculos faciales o extremidades, dificultad para deglución o respiración.
+    Signos: ptosis, diplopía, debilidad del músculo orbicular de los parpados.
+    Etiología: Enfermedad auto inmune desencadenada por timoma, enfermedad tiroidea o infección.
+    Diagnóstico:
+        • Test de Tensilon: La inyección de cloruro de Edrofonio debe desminuir la ptosis y la diplopía para que sea positivo.
+        • T3, T4, TSH
+        • TAC de tórax
+        • Anticuerpos receptores de acetilcolina en sangre
+        • Anticuerpos antinucleares, FR
+    Tratamiento:
+        • Tratar patología de base
+        • Agentes anticolinesterásicos
+        • Si los síntomas persisten, esteroides.
+
+    OFTALMOPLEGIA CRONICA PROGRESIVA EXTERNA:
+
+    Síntomas: Presentación gradual de ptosis, diplopía, debilidad muscular, no variación diurna, antecedentes familiares positivos.
+    Signos: Ptosis, limitación de movimientos oculares, disminución de la fuerza muscular, queratopatía por exposición.
+    Etiología:
+        • Síndrome de Kearns Sayre
+        • Abetalipoproteinemia
+        • Enfermedad de Refsum
+        • Distrofalia Faringo-ocular
+    Exámenes complementarios:
+    Resonancia magnética del tallo cerebral y cerebro medio.
+    Tratamiento:
+    Tratar enfermedad de base.
+    PAPILEDEMA:
+    Edema de disco óptico por aumento de la presión intracraneal.
+    Síntomas:
+    Episodios de pérdida de visión, a veces bilateral, cefalea, diplopía, nausea, vómito, disminución de agudeza visual.
+    Signos:
+    Edema e hiperemia de discos ópticos.
+    Etiología:
+        • tumores intracraneales
+        • estenosis acueductal
+        • pseudo tumor cerebral
+        • hematoma subdural y epidural
+        • hemorragia subaracnóidea
+        • malformación arteriovenosa
+        • absceso cerebral
+        • meningitis, encefalitis
+
+    Exámenes complementarios:
+    TAC o RMC de cabeza y orbita
+    Punción lumbar
+
+    Tratamiento:
+    Tratar patología de base.
+
+    PSEUDOTUMOR CEREBRAL:
+    Síntomas:
+    Cefalea, episodios de amaurosis, diplopía, tinitus, convulsiones, nausea, vómito.
+    Signos:
+        • Aumento de la presión intracraneal
+        • TAC o RMC normal
+        • Líquido cerebroespinal normal
+    Etiología:
+    Se asocia a obesidad, embarazo, medicación anticonceptiva oral, tetraciclina. Ácido nalidíxico, vitaminas, después de supresión de corticoides.
+    Tratamiento:
+    Es una enfermedad autolimitada. Se debe tratar en caso de cefalea intensa, cambios en la agudeza o campo visual.
+    Métodos:
+        • Bajar de peso
+        • Diuréticos, acetazolamida
+        • Si no mejora, esteroides sistémicos, descompresión del nervio óptico, shunt lumbo- peritoneal
+
+    MISCELANEO DE NEUROPATIAS OPTICAS:
+    NEUROPATIA OPTICA TOXICA METABOLICA:
+    Síntomas:
+    Perdida de visión no dolorosa, progresiva, bilateral
+    Signos:
+    Defectos del campo visual central o cecocentral, signos de alcoholismo o mala nutrición, agudeza visual de 20/50 a 20/200, discromatopsia, palidez temporal del disco óptico y atrofia
+    Etiología:
+        • Abuso de alcohol y tabaco
+        • Malnutrición severa con deficiencia de vitamina B12
+        • Anemia perniciosa
+        • Tóxico por cloranfenicol, etambutol, isoniazida, cloroquina, estreptomicina, clorpropamide, disulfiran y plomo.
+    Exámenes complementarios:
+        • Recuento de células sanguíneas
+        • Cuantificación de Vitamina B12 en suero
+        • Detección de metales pesados como el plomo, talio en sangre
+
+    Tratamiento:
+        • Tiamina 100mg. vo BID
+        • Folato 0.1 mg. vo QD
+        • Multivitaminas 1 tableta vo QD
+        • Vitamina B12 1000mg. IM cada mes para anemia perniciosa.
+
+    NEUROPATIA ÓPTICA COMPRESIVA:
+
+    Síntomas:
+    Disminución de AV
+
+    Signos:
+    Defectos centrales del campo visual, defecto pupilar aferente relativo, disco óptico normal, pálido o edematoso, proptosis, shunt de vasos optociliares.
+
+    Etiología:
+        • glioma de nervio óptico (menores de 20 años asociados a fibromatosis)
+        • meningioma del nervio óptico
+        • glioma óptico maligno
+
+    Exámenes complementarios:
+    TAC o RM de órbita y cerebro.
+
+    NEUROPATIA ÓPTICA DE LEBER:
+
+    Síntomas:
+    Perdida de agudeza visual de un ojo y luego de otro en un lapso de días a meses, no dolorosa.
+    Signos:
+    Al examen de fondo de ojo se observa edema de disco óptico que progresa a atrofia en semanas, telangiectasias cerca del disco, afecta jóvenes de 15 a 30 años, se presenta un defecto cecocentral del campo visual.
+    Genética:
+    Transmitido a través del DNA mitocondrial, las mujeres son portadoras y transmiten la enfermedad al 50% de sus hijos varones.
+    Tratamiento:
+    No existe, pero se requiere una valoración cardiológico por defecto de conducción cardiaca.
+
+    NEUROPATIA OPTICO DOMINANTE:
+    Disminución de agudeza visual leve a moderada (20/40 a 30/200), afecta niños de 4 a 8 años, disco óptico pálido, defecto cecocentral, triptanopía, antecedentes familiares, no nistagmus.
+
+    NEROPATIA OPTICA POR RADIACION:
+    Se presenta una perdida de agudeza visual 1 a 5 años luego de exposición a radiación de ojo y tejidos vecinos.
+
+    NISTAGMUS:
+    Puede ser congénito o adquirido
+    Síntomas:
+    Asintomático en menores de 8 años
+    Signos:
+    Oscilaciones repetidas horizontales, verticales o torsionales de ojo
+    Etiología:
+    Nistagmus congénito: Idiopático, albinismo, aniridia, amaurosis congénita de Leber, hipoplasia de nervio óptico.
+    Nistagmus adquirido: Tóxico metabólico, alteraciones del SNC, distrofia de conos, no fisiológico, ojo vago.
+
+    CEGUERA CORTICAL:
+    Síntomas: ceguera bilateral
+    Signos: perdida visual con repuesta pupilar normal
+    Etiología:
+        • Infarto del lóbulo occipital bilateral
+        • Neoplasia
+
+    PERDIDA VISUAL NO FISIOLOGICA:
+    Síntomas: Autoconvencimiento de haber perdido la visión.
+    Signos: Examen oftalmológico normal
+    Tratamiento: Apoyar al paciente, informándole que recuperará su visión y referir al psiquiatra en caso necesario.
+  bibliografia:
+  - DE MONTEYNARD M.S., NABER L., TIRED A., et DUFIER J.L.- Opthalmologie infantile.- Encycl. Méd. Chir.
+    Ped., 1995
+  - DOZ D., QUINTANA E., ZUCKER J.M.- Retinoblastome.- Encycl., Méd. Chir. Ped., 1995
+  - LYON G.- Cédcite D’Appartion Rapide.- Pediatrie D’Urgence 1994.
+  - 'Roy W. Beck M.D., Graig H. Smit M.D., Neuro-Ophthalmology: A problem oriented approach, 2000.'
+  - Daniel Albert, M.D., Jacobiec Frederick, Principles and Practice of Ophthalmology, 1998.

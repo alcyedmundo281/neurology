@@ -1,0 +1,76 @@
+# Capítulo XXVI de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 26
+  romano: XXVI
+  titulo_en_la_fuente: PUNCION LUMBAR-PUNCION SUB-OCCIPITAL-PUNCION SUB-DURAL
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    PUNCION LUMBAR
+
+    La posición: se sienta al recién nacido, inclinado hacia delante con las rodillas flexionadas sobre el abdomen y la cabeza sobre el esternón, evitando cuidadosamente obstruir las vías aéreas. En el niño de más edad es mejor hacerlo en decúbito lateral, en una mesa plana y firme, buscando que la espina dorsal inferior esté curvada.
+
+    Trácese una línea imaginaria entre las crestas iliacas y úsese el espacio intervertebral que queda inmediatamente por encima o por debajo de dicha línea, entre las apófisis espinosas L4-L5o L5-S1.
+
+    La desinfección: el médico, luego del lavado quirúrgico, debe usar guantes y desinfectar el campo con alcohol yodado para conseguir una zona estéril.
+
+    Técnica: se introduce la aguja con su mandril de atrás hacia delante y ligeramente de abajo hacia arriba (horizontalmente en el lactante) en el espacio intervertebral correspondiente. Una punción efectuada muy alto tiene el riesgo de lesionar la médula. La progresión de la aguja se hace lentamente. En el niño pequeño el paso por el ligamento amarillo no ofrece resistencia perceptible, más bien ella se encuentra al llegar a la dura-madre: es necesario en este momento retirar el mandril para observar si hay salida del LCR. Si introducimos la aguja profundamente, podemos llegar a la pared posterior de la vértebra, provocando sangrado.
+
+    El resultado de la punción lumbar debe ser interpretado así: Un líquido sanguinolento se presta a discusión: en caso de piquete vascular, se forma un callo dentro de los tubos; después de sedimentar la porción superficial es claro y hay hipoglucorraquia en la hemorragia meníngea.
+
+    Un líquido turbio corresponde, en general a una meningitis purulenta; en el curso de ciertas meningitis linfocitarias hay hipercitosis que da un líquido opalescente.
+
+    Dentro de un contexto infeccioso, un líquido claro, turbio o sanguinolento debe ser sometido a cultivo y antibiograma.
+
+    Una inyección intrarraquídea de un antibiótico adecuado puede efectuarse al mismo tiempo, cuando el LCR es purulento. El antibiótico puede ser amikin, ampicilina, gentamicina, entre otros.
+
+    La punción lumbar esta formalmente contraindicada cuando hay compromisos cerebral, como en un proceso expansivo intracraneano.
+
+    PUNCION SUB-OCCIPITAL
+
+    Se realiza cuando la punción lumbar es imposible o cuando hay una infección a nivel lumbar.
+
+    Técnica: el niño es colocado en decúbito lateral o en posición sentado con la cabeza flexionada sobre el tórax; la aguja de punción es introducida estrictamente en el medio de una línea situada un poco por debajo del nivel inferior de las mastoides, dirigida ligeramente de abajo hacia arriba.
+
+    Se llega generalmente hasta el occipital. Entonces se retira el trocar de punción y la aguja avanza hacia abajo y hacia delante. Se encuentra la resistencia del ligamento occipito-atloideo y después de atravesarlo se retira otra vez el mandril. Buscando obtener las primeras gotas de LCR.
+
+    Complicaciones: un piquete vascular puede tener consecuencias mucho más graves que a nivel lumbar, puede provocar un hematoma compresivo. Las contraindicaciones son las mismas que para la PL; es serio añadir que un compromiso de las amígdalas cerebelosas (malformaciones de Arnold-Chiari en caso de espina bífida) es suficiente para abstenerse de realizar este examen.
+
+    PUNCION DE LA FONTANELA
+
+    Esta punción permite en el lactante hacer el diagnóstico fácil y urgente de hematoma sub-dural y diferenciarlo de una hidrocefalia. Es al mismo tiempo el tratamiento de esta hemorragia, siempre bilateral.
+
+    Técnica: la cabeza del enfermo debe estar completamente rasurada; el operador, con ropa quirúrgica, se sitúa detrás del niño. Este debe ser sostenido solidamente. Se desinfecta la piel cabelluda y se protege con un campo estéril.
+
+    Una aguja de bisel corto y de largo calibre se introduce en los ángulos laterales de la fontanela anterior.
+
+    Es importante saber que no se debe practicar este examen cuando la fontanela parece muy cerrada o pequeña, por el riesgo de puncionar el seno longitudinal superior.
+
+    Después de haber perforado la piel, la aguja encuentra la resistencia de la dura-madre que es necesario vencer. No se debe introducir muy profundamente ya que se puede traumatizar la corteza cerebral sobre todo si el niño llora.
+
+    Resultados: Normalmente con esta punción solo se obtiene algunas gotas de LCR claro que se encuentra en el espacio intraarcnoideo. La presencia de un hematoma subdural crónico es fácil de afirmar, ya que se encuentra sangre mezclada con LCR, el cual emerge gota a gota sin aspirar.
+
+    Se diferencia el hematoma subdural de un piquete vascular. 1- porque la sangre no está mezclada con LCR y coagula rápidamente; 2- si depositamos sobre una compresa algunas gotas veremos una mancha sanguinolenta rodeada de una aureola clara. Cuando se trata de sangre con líquido cefalorraquídeo; 3- cuando sale abundante LCR por la aguja de punción se trata con frecuencia de una hidrocefalia. Se puede penetrar hasta el ventrículo y a través de la aguja se introduce un trocar de punción ventricular de calibre más pequeño.
+
+    Complicaciones: herida vascular hemorrágica; meningitis purulenta por inoculación séptica.
+  bibliografia:
+  - BRUGUIER A. et PONSOT G.- Céphalées de l’enfant.- Encycl. Méd. Chir, Paris, France, Pédiatrie, 4094
+    A10, 9-1984, 5p.
+  - SILVER H. et KEMPE C.- Procedimientos pediátricos. 10-ed, 1981, 32, 703-706.
+  - TADIE M.- Ponction lombaire, ponction sous-occipitale, ponction sous-durale.- Pédiatrie d’urgence.-
+    éd., Paris, 1988.

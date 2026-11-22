@@ -1,0 +1,175 @@
+# Capítulo XIII de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 13
+  romano: XIII
+  titulo_en_la_fuente: PROBLEMAS ENCEFALICOS URGENTES
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    Encefalopatías agudas
+
+    Bajo este nombre se encuentran reunidos y descritos los síndromes cerebrales compuestos por asociaciones diversas de alteraciones de la conciencia, convulsiones, parálisis y movimientos involuntarios, accidentes que tienen un inicio agudo y algunos días de duración.
+
+    Los elementos de orientación diagnóstica esenciales son:
+        1. carácter difuso o focal de los signos neurológicos,
+        2. estado del líquido cefalorraquídeo,
+        3. contexto patológico general, infeccioso, respiratorio, circulatorio, renal, hepático o medicamentoso,
+        4. exámenes complementarios sistémicos: radiografía pulmonar, investigación de una hematuria o de proteinuria, astrup, monograma, glucemia, amonemia, encuesta etiológica eventual.
+
+    Hay tres situaciones clínicas esenciales:
+
+    A)  Con signos inflamatorios en el LCR y signos neurológicos difusos.
+    Estas encefalopatías que representan la primera situación, comienzan con fiebre, cefaleas, signos inflamatorios del LCR, como hipercitosis y signos neurológicos difusos.
+    Los signos neurológicos difusos incluyen problemas de la conciencia que se agrava progresivamente, como confusión, alucinaciones, obnubilación hasta llegar al coma. Se acompañan de convulsiones generalizadas o multifocales. EEG difuso no específico, manifestaciones deficitarias (parálisis bilaterales o rápidamente alternantes de los miembros, de los pares craneales, movimientos anormales bilaterales).
+
+    Diagnóstico
+
+    Prácticamente no hay sino un diagnóstico a comprobarse, la encefalitis aguda o inflamación no supurada del parénquima cerebral, a condición que la enfermedad se haya manifestado con algún tiempo de anterioridad; las encefalitis agudas tienen, en efecto, siempre una cierta duración, que va de algunos días a varias semanas, periodo durante el cual los signos neurológicos persisten, se completan, se modifican.
+
+    La encuesta etiológica es de dificultad variable:
+        • Al principio puede facilitarse si el contexto clínico corresponde a una enfermedad eruptiva, como sarampión, varicela, vaccinia o a ciertas patologías infecciosas como paperas, mononucleosis infecciosa. Se debe tener muy presente que se trate de un tipo particular de encefalitis, la perivenosa. Es contemporánea de la erupción, presenta lesiones inflamatorias y de demielinización perivenosa típica y en ellas se reconoce habitualmente un mecanismo inmuno-alérgico, aunque en algunos casos se ha puesto en evidencia la presencia viral. Particularidad importante es el ataque medular que la acompaña, traduciéndose por retención durable de orina. Se debe saber también que coexiste, en el curso del sarampión, una encefalitis aguda debida al virus del herpes.
+        • La encuesta etiológica es mucho mas difícil cuando este contexto falta, lo que sucede en la mayoría de los casos. Se trata entonces de las “encefalitis primitivas” ligadas a la presencia de un virus situado en el núcleo de la célula.
+    La investigación del virus patógeno es difícil. El virus del herpes es frecuentemente la causa, aunque otros virus también pueden ser responsables, como el del sarampión. Se trata de una encefalitis aguda “retardada” del sarampión, es decir que sobreviene algunos meses o años después de la enfermedad eruptiva en forma de una leucoencefalitis esclerosante aguda.
+    Esta encefalitis “primitiva retardada” del sarampión puede manifestarse espontáneamente o en aquellos niños que están bajo tratamiento con inmunosupresores.
+    La responsabilidad de un virus en la génesis de una encefalitis primitiva no puede ser afirmada sino empleando métodos muy prolijos: estudio comparativo simultaneo de las concentraciones en el LCR (relación LCR/suero), de numerosos anticuerpos virales; cultivo de los mismos a partir del LCR, o por métodos discutibles, como la biopsia cerebral, en la que los resultados son frecuentemente tardíos, o la elevación de anticuerpos y de gammaglobulinas.
+
+    Actitud terapéutica:
+
+    El tratamiento asintomático es un imperativo y se debe hacer en un servicio de cuidados intensivos. Hay que vigilar y prevenir las hemorragias digestivas secundarias a ulcera gástrica o duodenal, accesibles a la cirugía y el edema cerebral, que no es excepcional en las encefalopatías herpéticas.
+
+    La medicación antiviral todavía esta en etapa de estudio; se emplean Acyclovir o Vira A.
+    En el caso particular de la romboencefalitis aguda (encefalitis del tronco cerebral), el cuadro es agudo: parálisis múltiples de los nervios craneanos, signos cerebelosos, signos piramidales, con problemas de la conciencia más o menos importantes, hipercitosis del LCR.
+
+    El diagnostico se vuelve difícil ante ciertos tumores del tronco con aparición aguda y con manifestaciones de esclerosis en placas del niño mayor.
+
+    Otros diagnósticos:
+
+    Las meningitis purulentas agudas, las meningitis tuberculosas graves.
+
+    B)   Con signos inflamatorios en el LCR y signos neurológicos focales.
+
+    Estas encefalopatías representan el segundo tipo clínico. Los signos neurológicos focales (unilaterales, de origen central) son la parálisis facial central, hemiplejia central, crisis focales unilaterales frecuentes o subintrantes, raramente una afasia. Con estos antecedentes hay dos diagnósticos que se pueden formular: la encefalitis aguda “seudo-tumoral”, en general de origen herpético y el absceso cerebral.
+    La dosificación comparativa del interferón tipo I en la sangre y en el LCR es necesaria, ya que este aumenta en el inicio de la infección herpética, en el líquido cerebral.
+
+    DIAGNOSTICO DIFERENCIAL ENTRE ENCEFALITIS SEUDOTUMORAL Y ABCSCESO
+
+    Encefalitis
+    seudotumoral
+    Absceso
+
+    Principio
+    Brusco o rápido
+    Progresivo
+
+    Conciencia
+    confusión, obnubilación progresiva, coma
+    Poco alterada o conservadora
+    Convulsiones
+    Crisis parciales frecuentes
+    Convulsiones subintrantes raras
+    Síndrome H.I.C.
+    +-
+    ++
+
+    Contexto patológico
+
+    Supuración
+    Polinucleosis
+    enflaquecimiento
+
+    Considerando estas diferencias indiscutibles, en los casos típicos el diagnóstico está hecho. El aporte de la TAC es un elemento determinante para el absceso cerebral por dar una imagen característica que consiste en una zona hipodensa redonda, limitada por un espacio más denso.
+
+    Sin embargo si la duda persiste dos actitudes son posibles, variables de un caso a otro: 1- esperar algunos días con tratamiento antibiótico  y si es necesario con antiedematoso, hasta que aparezcan signos de bilaterización neurológica argumentos serológicos a favor de una encefalitis aguda y presencia o confirmación de los signos de hipertensión intracraneana que ratifiquen un absceso; 2- transporte a neurocirugía sin esperar las exploraciones complementarias.
+
+    Otros diagnósticos posibles pero más raros
+
+        • Las flebitis cerebrales, de diagnostico difícil, se pueden sospechar en dos circunstancias: 1- clínica: frente a u foco superado de la cara, de los senos u óticas, la arteriografía es normal en el tiempo arterial, pero se puede ver una trombosis en el tiempo venoso; no hay hipertensión intracraneana; 2- quirúrgica: el diagnóstico clínico es de absceso cerebral probable, pero el cirujano descubre un reblandecimiento cerebral caracterizado por una zona hipodensa sin limite opaco.
+        • Las meningitis bacterianas con hemorragia se evidencian por la presencia de un germen en el LCR (neumococo, haemófilus influenzae);
+        • Las meningitis tuberculosas agudas con hemiplejia: entre los factores que pueden precipitar el inicio agudo, hay por una parte la constitución de un reblandecimiento cerebral provocado por una arteritis tuberculosa de silviana y por otra parte la hidrocefalia rápidamente constituida. En su favor encontramos hipoglucorraquia. Además en la arteriografía se demuestra hidrocefalias por trombosis arterial de la cerebral anterior, signos que no existen ni en la encefalitis ni en el absceso.
+        • La leuco-encefalitis hemorrágica de Hurst es muy rara. En el curso de una afección viral, aparece un síndrome neurológico dramático con hemiplejia; LCR con muchos hematíes, cultivo negativo. Evolución constantemente fatal. Se puede intentar el uso de corticoterapia.
+    Diagnóstico anatomo-patológico; se atribuye a etiología inmuno-alérgica.
+
+    C) Sin signos inflamatorios en el líquido cefalorraquídeo y sin signos neurológicos focales.
+    Estas encefalopatías representan la tercera situación clínica. Puede tratarse de una encefalitis aguda, cuya evolución y eliminación como presunción diagnóstica se basa en la elevación tardía de las gammaglobulinas en el LCR.
+
+    En otros casos existe una enfermedad extraneurológica evidente que es el origen del cuadro de encefalopatía aguda, por problemas metabólicos o circulatorios. Cuando los signos neurológicos están en primer plano y los problemas viscerales y biológicos no son descubiertos sino en las investigaciones que se realizan sistemáticamente; debemos tener en cuenta: enfermedades o accidentes respiratorios, factores de anoxia, renales en particular la glomérulo-nefritis con manifestaciones agudas de encefalopatía hipertensiva, digestivas con deshidratación aguda, responsables de los colapsos graves y de hipernatremia o de vómitos repetidos causantes de la alcalosis hipoclorémica con hipokalemia y modificaciones del EEG , una hepatitis, desordenes hidroeléctricos iatrogénicos con hiponatremia, diabetes o una hipoglucemia, vacunación contra la tos ferina.
+
+    Entre las encefalopatías agudas, impresionantes y mortales se encuentra aquellas atribuidas en las enfermedades virales como las eruptivas, y respiratorias. El LCR es normal y en la autopsia no se encuentra inflamación del parénquima cerebral, ni se aíslan virus, no se explican por el tipo de ataque visceral ni por los desordenes biológicos ya conocidos.
+
+    En este grupo importante y numeroso se le incluye a un síndrome particular de limites todavía inciertos, el síndrome de Reye, cuyo signos neurológicos aparecen algunos días después de una infección viral, generalmente respiratoria, A las alteraciones de la conciencia se asocian convulsiones y una hipertonía muscular difusa, con vómitos y algunas veces irregularidades respiratorias. Una hepatomegalia es posible; no hay ictericia, aunque anatómicamente se evidencia una esteatosis hepática constante.
+
+    Los problemas biológicos que caracterizan al síndrome de Reye son los siguientes: franca elevación de la amonemia, aumento moderado de las transaminasas, disminución de los factores de la coagulación, normalidad del LCR, tendencia a la hipoglucemia.
+
+    El diagnóstico de este síndrome exige atender al enfermo en un servicio de cuidados intensivos ya que se debe usar terapéutica compleja que conlleva también medicación contra el edema cerebral y, si es necesaria, una depuración extrarenal. El pronóstico es muy severo y los fallecimientos llegan al 50 p. 100 de los casos, siendo las secuelas neurológicas muy posibles.
+
+    En fin, frente a situaciones parecidas es necesario investigar la posibilidad de una intoxicación medicamentosa o accidental.
+
+    Las enfermedades genéticas con expresión intermitente tienen etiologías mucho más excepcionales:
+        • amino-acidopatías, la leucinosis, hiperamonemias, etc.; signos frecuentemente asociados a un cuadro común: ataxia, problemas digestivos;
+        • enfermedad de leigh con apnea, disnea sin materia + +. Hay antecedentes familiares y casos anteriores.
+
+    El diagnóstico diferencial se apoya en un estado de mal convulsivo que dura varios días en que haya antecedentes comiciales o encefalopatía anterior, perfecta conciencia entre los períodos de crisis, ausencia absoluta de todo signo inflamatorio en el LCR.
+
+    El pronóstico de una encefalopatía aguda es muy difícil de formular, porque esta ligada a la etiología y a la importancia (imposible de evaluar en ese momento) de las lesiones anatómicas.
+
+    ABSCESO DEL CEREBRO
+
+    Los abscesos del cerebro sobrevienen raramente antes de un año. Se observan sobretodo en el curso de la segunda infancia y de la pre-adolescencia. Son secundarios en más de la mitad de los casos, a una infección otorrinolaringológica, en particular una otitis crónica, una mastoiditis o una infección de la fosa amigdalina. La propagación se debe a la contigüidad. Los abscesos post-traumáticos son secundarios a una fractura del etmoides, de los senos o a la penetración de un cuerpo extraño, lo cual es muy raro. Los otros casos corresponden a los abscesos metastáticos (endocarditis, septicemia, absceso pulmonar). Las cardiopatías cianosantes como la tetralogía de Fallot, son causantes en el 1/3 de las observaciones.
+
+    La localización más frecuente es la temporal;  después en orden decreciente, en el lóbulo frontal, en el parietal y en el cerebelo (10 a 18 p. 100 de los casos). Pueden existir conjuntamente numerosos abscesos supra o subtentoriales.
+
+    Los gérmenes responsables son múltiples. La asociación de aerobios y anaerobios es muy frecuente. Entre los encontrados habitualmente citaremos: estreptococos aero y anaerobios, neumococo, proteus mirabalis, escherichia coli, ristellaceae, sphaerophoraceae, corynebacterium anaerobio, actino-bacterium.
+
+    Los signos de absceso cerebral no siempre son claros, ello explica el retardo en el diagnóstico y los malos resultados del tratamiento:
+        • Los signos de hipertensión intracraneana son constantes; algunas veces tardíos. Hay cefalea, somnolencia, desorientación, edema papilar, parálisis oculomotriz;
+        • Los signos focales faltan en la mitad de los casos, en particular en las localizaciones temporal derecha, frontal o cerebelosa;
+        • Las crisis convulsivas son frecuentes se presentan en un 30 p. 100 de los casos;
+        • Los signos infecciosos pueden estar en primer plano o faltar;
+        • La hiperleucocitosis no se presenta sino en el 50 p. 100 de los enfermos.
+
+    En cambio, la alteración del estado general, adelgazamiento y una anemia inexplicable nos obligan a investigar un absceso cerebral.
+
+    Exámenes complementarios
+
+    La radiografía del cráneo muestra muchas veces la disyunción de las suturas.
+
+    La punción lumbar está contraindicada. La formula del LCR habitualmente es la siguiente: hiperleucocitosis moderada con predominio de polinucleares, albuminorraquia elevada y glucorraquia normal.
+
+    El EEG es el examen esencial: presenta ondas lentas o silencio eléctrico en la zona.
+
+    La tomodensitometría permite fácilmente el diagnóstico con menor riesgo. Son menos útiles las otras investigaciones: gammagrafía, arteriografía y ventriculografía.
+
+    Tratamiento
+
+    Antibioticoterapia precoz: la penicilina; 1 millón de unidades por Kg. en 24 horas, por vía intravenosa, se preferirá antes de los resultados bacteriológicos, para la mayoría de agentes microbianos responsables (estreptococo y anaerobios) sensibles a este antibiótico.
+
+    Debe añadirse a veces un aminoglucósido, gentamicina, o tobramicina o una sulfamida; cuando la infección es a Proteus o colibacilos, la ampicilina será preferible. Si se sospecha una Ristella se escogerá entre el Flagyl, la Clindamicina o el Claforán.
+
+    Frente a una infección por anaerobios resistentes a la penicilina, el Flagyl podrá usarse por vía oral o intravenosa. En caso de alergia a la penicilina, la asociación cloranfenicol-sulfamidas, cloranfenicol-Flagyl o clindamicina-Flagyl pueden ser utilizadas.
+
+    Un tratamiento anti-edema cerebral con glicerol 2g/Kg./24h. per os, manitol al 20 p. 100 IV o Laxis es frecuentemente indispensable. Los corticoides son raramente utilizados, por el riesgo de diseminación de la infección. Se emplean constantemente barbitúricos por su efecto anticonvulsionante y antiedematoso.
+
+    La intervención neuroquirúrgica es la indicación precisa, aunque la mortalidad es elevada (20 a 60 p.100 según las series); por tanto, en caso de diagnóstico precoz, la curación casi completa es la regla. Las secuelas neurológicas, 30 p. 100 se presentan cuando la operación quirúrgica es tardía. Una epilepsia secundaria se comprueba en el 50 p. 100 de los casos.
+
+    La curación completa se logra cuando el foco causal, en particular ORL, es tratado conjuntamente. Si el foco no es evidente se recurrirá a las tomografías mm por mm de los peñascos y de los senos y, si hay necesidad, a una sistemografía isotópica después de la curación del absceso.
+  bibliografia:
+  - LYON G.- Problémes encéphaliques urgents.- Pédiatrie d’urgence, éd., Paris, 1989, pp, 349-357.
+  - MARADIAN M., DADESETAN T., LESSANY M.- Apport de la tomo densitométrie au diagnostic des abcés encéphalques
+    multiples.- Ann. Pédiat., 1979, 26, 489-491.
+  - PIERSON M., WEBER M.- Apropos du diagnostic de l’encéphalite aigue nécrosante herpétique dans la premiére
+    enfance.- Pédiatrie, 1984, 29, 341-354.

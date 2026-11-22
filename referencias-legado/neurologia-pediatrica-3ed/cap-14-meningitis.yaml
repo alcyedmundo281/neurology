@@ -1,0 +1,164 @@
+# Capítulo XIV de una transcripción NO CANÓNICA de «Neurología Pediátrica».
+# Referencia para el flujo de lecciones; se contrasta con las fotografías del impreso.
+# Generado con a_yaml.py; no se edita a mano.
+obra: Neurología Pediátrica
+edicion_declarada_en_la_fuente: 3ra. EDICION
+canonica: false
+uso: 'Referencia de trabajo, no texto del libro: las lecciones se escriben desde cero. Un pasaje solo
+  se cita como legado tras contrastarlo con la fotografía del impreso.'
+procedencia:
+  formato_original: Microsoft Word 97-2003 (.doc)
+  sha256_original: 31866d2889598447954a1f775574f04b15c075e340210d68df423fb296b8e2bb
+  conversion: LibreOffice --convert-to txt (UTF-8); sin figuras, tablas ni paginación
+advertencias:
+- 'Sin números de página: las páginas de cada pasaje salen de las fotografías.'
+- Sin figuras ni tablas del impreso; algunas tablas quedaron como texto corrido.
+- Con errores de transcripción (ortografía, nombres, acentos) que aquí no se corrigen.
+capitulo:
+  numero: 14
+  romano: XIV
+  titulo_en_la_fuente: MENINGITIS
+  autoria_distinta_del_autor_fundador: false
+  citable_como_legado: true
+  texto: |
+    El diagnóstico de la meningitis es una urgencia. Se basa en la punción lumbar que debe ser sistemática ante la duda de infección generalizada, ante toda convulsión acompañada de problemas neurológicos y ante un coma que no tiene explicación.
+
+    MENINGITIS PURULENTA
+
+    Las condiciones diagnósticas y etiológicas de las meningitis purulentas son diferentes según la edad.
+
+    En el niño mayor
+
+    El diagnóstico de meningitis es en general fácil frente a un síndrome meníngeo evidente: cefaleas, vómitos, constipación, fotofobia, rigidez de la nuca, signos de Kernig y de Brudzinski.
+
+    Los signos generales son constantes: fiebre, alteración del estado general, postración, delirio.
+
+    Al examen clínico se encuentran elementos que permiten sospechar el germen: meningococo (angina, púrpura); Haemofilus (infección ORL).
+
+    La punción lumbar permite observar un líquido turbio con albuminorraquia elevada y glucorraquia baja, generalmente menos de la mitad de la glucemia, numerosos polinucleares más o menos alterados y presencia de gérmenes al examen directo. El cultivo será obligatorio; si es negativo en ausencia de toda antibioticoterapia se pensará en meningococo.
+
+    En algunos casos el diagnóstico es más difícil.
+        • Desde el punto de vista clínico: el síndrome meníngeo puede atenuarse durante numerosas horas o estar enmascarado por es estupor y la importancia de los signos encefálicos. El síndrome infeccioso puede ser predominante y los signos neurológicos inmersos dentro de un cuadro septicémico.
+    Por lo contrario, frecuentemente hay una sintomatología, meníngea en el curso de las graves pirexias como en la neumonía, amigdalitis y otitis, llamada, meningismo.
+        • Otras veces esta en función de un líquido cefalorraquídeo cuyos datos no son concluyentes: líquido con sangre (PL traumática), líquido aséptico que puede traducir una meningitis decapitada por el uso antibiótico antes de conocerse el resultado del cultivo, o de una reacción meníngea por contacto con un foco ORL.
+        • Finalmente cuando hay evidencia de antígenos solubles en el LCR, en la sangre o en la orina, por el contrario-inmunoelectroforesis, se pueden detectar el meningococo, el neumococo y el Haemofilus,
+    Este examen  rápido nos muestra el germen en menos de una hora, y mejor si se efectúa la electroforesis de las lacticodeshidrogenasas:
+    LDH: cinco bandas = meningitis bacteriana
+               Tres bandas = meningitis viral, reacciones meníngeas;
+    Cuando el líquido es claro, aunque existan algunos elementos alterados, la albuminorraquia es normal. Por el contexto clínico se puede pensar en una forma septicémica.
+
+    En todos los casos hay que cultivar el LCR.
+
+    El germen debe ser investigado en el LCR y por muestras múltiples: en sangre, garganta, conjuntivas y orina:
+
+        • El Haemofilus: es mas frecuente en América y entre nosotros, en niños mayores de dos meses, se presenta en el 60-65 p. 100 de los enfermos, casi siempre como complicación de una infección ORL. Puede acompañarse de herpes, del localizaciones pulmonares o articulares y de una epiglotis.
+        • El neumococo, casi siempre asociado en esta edad a una infección respiratoria reciente.
+        • El meningococo es el agente de mayor incidencia en Francia; surge después una amigdalitis; el inicio de la infección es grave y en ocasiones acompañado de púrpura. Fuera de estas formas fulminantes, la evolución es moderada.
+
+    En el lactante
+
+    En este grupo de edad, el diagnóstico es casi siempre difícil por la semiología pobre y capciosa; puede un signo neurológico llamar la atención: somnolencia, convulsiones, es frecuente que solo existan problemas digestivos: vómitos, diarrea.
+
+    Necesariamente se investigará una hiperestesia, problemas vasomotores, abombamiento de la fontanela, hipotonía o una rigidez de la nuca.
+
+    En el periodo neonatal las bacterias que producen meningitis son:
+    Escherichia coli, pseudomonas, Klebsiella, Stafilococos aureus, Listeria monocytogenes, estreptococos, especialmente del grupo B. Además de ellas en todos los lactantes se investigarán:
+        1. El Haemofilus, importante por su frecuencia, que produce meningitis acompañada de diseminación ORL, sanguínea y articular. La hipertermia persiste numerosos días después de iniciar el tratamiento.
+        2. El neumococo, cuyo punto de partida es una infección respiratoria o una otitis, en las cuales la albuminorraquia es elevada. La evolución puede ser muy mala.
+        3. El meningococo reviste a esta edad mucha gravedad, se presenta con una púrpura fulminante.
+
+    La frecuencia de complicaciones impone una vigilancia rigurosa: exámenes neurológicos repetidos, perímetro craneano, fondo de ojo, radiografía de cráneo, punciones lumbares, derrame subdural, convulsiones, intoxicación por agua, complicaciones tardías, como retraso mental, comicialidad, enfermedad motriz cerebral, déficit sensorial.
+
+    TRATAMIENTO
+
+    El tratamiento comprende la antibioterapia general y algunas veces local, vigilancia hemodinámica, metabólica, y neurológica constante.
+
+    Primera regla: instalación inicial de una vía venosa para alimentar al niño si existen problemas digestivos; tratar una eventual deshidratación, un colapso, una crisis convulsiva y administrar antibióticos.
+
+    Segunda regla: los riesgos de intoxicación por agua indican que no se deben administrar más de 50 ml./Kg./24h.
+
+    Tercera regla: un tratamiento anticonvulsivo será prescrito sistemáticamente en el recién nacido y lactante hasta su curación. Fenobarbital 5 mg./Kg./24h. En caso de crisis convulsiva, diazepan 0,5 Kg. IV lenta, que se repite, se es necesario, después de tres horas.
+
+    Cuarta regla: la corticoterapia esta justificada en casos de coma, para luchar contra el edema cerebral.
+
+    ANTIBIOTERAPIA
+
+    En el niño de más de dos meses los tres gérmenes encontrados, Haemofilus pneumococo, meningococo, son muy sensibles a la ampicilina que pasa fácilmente la meninge. El tratamiento parenteral casi siempre es suficiente, en dosis de 150 a 400 mg./Kg./día, administradas únicamente IV, en cuatro inyecciones durante 24 horas y añadir imperativamente ceftriaxone, 80 – 100 mg./Kg./día en dos dosis.
+
+    Hay casos particulares: 1) para el Haemofilus influenzae, a fin de obtener doble de la concentración mínima inhibidora, es necesario utilizar 400mg/Kg.; la existencia de cepas de Haemofilus resistentes a la ampicilina por producción de penicilinasa impone el uso de otro antibiótico, puede ser un aminósido.
+
+    En los casos en que el germen es el Epidermidis la terapia será intrafecal durante por lo menos 24 horas, se puede emplear el Amikin de 0.3 a 0.5 mg./Kg. o también la gentamicina 0.5 mg./Kg. en una sola inyección, sin sobrepasar los 5 mg.
+
+    Reglas para vigilar el tratamiento:
+
+    Es indispensable vigilar se le LCR al cabo de 24 a 36 horas de recibir el antibiótico está estéril; el aumento del número de elementos es muy frecuente.
+
+    En el curso de la s meningitis a meningococo, un choque endotoxínico es posible entre 50 y 120 minutos después de la inyección IV de ampicilina.
+
+    La persistencia de la fiebre, a pesar de una mejoría del LCR, indica una complicación que puede ser derrame subdural, artritis séptica, mastoiditis. En el recién nacido y el lactante, la multiplicidad de los gérmenes y las particularidades que tienen esta edad, hacen que la antibioterapia sea más difícil.
+
+    Tratamiento anterior
+
+    Antes de la identificación el germen: Ampicilina 200 mg./Kg., IV mas Kanamicina 15 a 20 mg./Kg. o Gentamicina 3 a 5 mg./Kg., IM: además administración intrarraquídia sistemática de un oligosacárido, por ejemplo Gentamicina 0.5 mg./Kg./24h, sin sobrepasar la dosis de 5 mg. ni descender de 2mg.
+
+    Después del cultivo y antibiograma será necesario excepcionalmente modificar tratamiento inicial. El estudio del poder bactericida y bacteriostático del antibiótico en el LCR sobre el germen responsable permite guiar el tratamiento.
+
+    Las inyecciones intrarraquideas serán hechas todos los días, o cada 48 horas, durante al menos diez días, en función del germen y de las características del LCR frente a la bacteria, Se puede utilizar Cloranfenicol 100mg./Kg./días más ampicilina en la dosis indicada hasta que el antibiograma nos de el camino adecuando para continuar el tratamiento. El tratamiento general debe durar entre 17 y 21 días.
+
+    Meningitis con Líquido Cafelorraquídeo claro
+
+    Es imperativo investigar la etiología que obliga a un tratamiento urgente.
+
+    LCR con predominio de Linfocitos
+
+    Entre las meningitis con líquido claro está la purulenta en su etapa inicial; también una meningoencefalitis (EEG) supuestamente viral: necesita una vigilancia hemodinámica y respiratoria permanente.
+
+    Puede tratarse de una meningitis tuberculosa cuyo diagnóstico se facilitará si se conocen una larga fase prodrómica, una miliaria pulmonar, tubérculos de Bouchut en el fondo de ojo, tuberculosas en parenquema cerebral en fin, un líquido cefalorraquídeo donde el BK es puesto en evidencia al examen directo.
+
+    Lo usual es que la eriología sea obscura. En unos casos se puede atribuir a la falta de vacuna BCG; en otros a un viraje reciente de las reacciones tuberculínicas; a mínimos pródromos como disminución del rendimiento escolar, pérdida de peso, problemas del carácter, cefaleas o a manifestaciones de antidiuresis.
+
+    Ciertas características del LCR son evocadores: albuminorraquia elevada 1 g/l o más; glucorraquia baja, hipo-osmolaridad siempre inferior al del plasma, por caída de los cloruros.
+
+    La electroforesis de la LDH revela cinco bandas y las tasas de oxígeno del LCR están francamente disminuidas.
+
+    Es necesario repetir las punciones lumbares para posibilitar el encuentro de BK en el cultivo. Se efectuarán tres, con intervalo de ocho horas una de la otra. El tratamiento debe ser precoz, intensivo y comprende el uso de tres antituberculosos;
+        • isoniazida o INH por vía venosa, o por vía oral, en una toma matinal a la dosis de 10 mg./Kg./24h. Se efectuará una INHemia tres horas después de la administración; ella debe estar comprendida entre 3 y 5 ug./ml (las dosis adaptadas varían de 5 a 25 mg./24 h. en función de la velocidad de acetilación de INH en el niño). Otra dosificación se hace al cabo de 24 horas;
+        • streptomicina 0.5 mg./Kg./24h. en el lactante; 0.03 g./kg./24h.; en el niño mayor en 2 inyecciones IM. A pesar de su inadecuado paso por la meninge, alcanza en el LCR tasas 10 veces superiores a la concentración mínima inhibitoria.
+        • Ethambutol: 15 a 25 mg./Kg.. por vía oral, en una sola toma. Su toxicidad ocular es responsable de neuritis ópticas.
+
+    La corticoterapia se asocia durante las primeras semanas: prednisona, 2 mg./Kg./24h., en las formas comatosas.
+
+    Necesariamente se deben combinar dos antibióticos bactericidas, como la isoniazida y rifampicina, con una antibiótico bacteriostático al comienzo de la enfermedad y se vigilará estrechamente la aparición de una hidrocefalia., complicación frecuente, utilizando la tomodensitometría.
+
+    LCR claro a polinucleares
+
+    En estos enfermos es necesario eliminar una meningitis tuberculosa cuando se inicia, una meningitis purulenta decapitada, un foco infeccioso ORL en contacto con las meninges o una incipiente meningitis linfocitaria.
+
+    Es de gran interés conocer el aspecto de los polinucleares, de la glucorraquia, de los cultivos y de la electroforesis de las LDH, porque orientan, indiscutiblemente, al origen bacteriano.
+    Meningitis Agudas Virales
+
+    En la gran mayoría de los casos, una meningitis a líquido claro es linfocitaria, casi siempre viral. Frecuentemente esta enfermedad está precedida de malestar febril y acompañada de un síndrome meníngeo neto, con dolores musculares, conjuntivitis; aunque conserva el estado general.
+
+    La albuminorraquia es poco elevada, la linfocitosis puede variar de algunos elementos a algunos miles.
+
+    Los virus responsables son: enterovirus (coxsackie), echovirus, myxovirus, herpes (oreillons o de la parotiditis), gripe, rubéola, adenovirus, casos de exantema súbito.
+
+    Su investigación tiene interés fuera de una epidemia, porque la curación sobreviene en algunos días. Sin embargo puede tener participación encefálica si existen problemas de la conciencia y alteraciones del EEG. Como encefalitis a herpezoster.
+  bibliografia:
+  - 'AUSTRUC J.- Recommandatios thérapeutiques dans le traitment des méningitis du norrisson et de l’enfant :
+    synthése á partir des expériences pédiatriques hospitaliéres. Premiére journe de pathologie infectieuse
+    et tropicale pédiatrique. Paris, 25 mai 1994.'
+  - BEGUE P. et QUINET B.- Méningites purulentes de l’enfant.- Encycl., Méd. Chir, Paris, France, Pédiatrie,
+    4098 A1, 2-2002, 15p.
+  - DODGE P.R., DAVIS H., KAPLAN S.L.- Prospective evaluation of hearing impairment as a sequels of acute
+    bacterial meningitis.- New Engl. J. Med., 1987, 311, N-14, 869-874.
+  - REINERT P. et LABRUNE.- Méningites.- Pédiatire d’urgence, éd., Paris, 1999, pp. 246-253.
+  - CAPITULOXV
+  - ADAMS C., JOHNSTON W.P.- Family stdudie of congenital hydrocephalus.-  Develop. Méd. Chrir. Neurol.,
+    1982, 24, 493-498.
+  - ALVAREZ L.A., MAYTAL J., SHINNAR S.- Idiopatic external hydrocephalus matural history and relationship
+    to bening familial macrocephaly.- Pédiatric, 1986, 77, 901-907.
+  - BLOMQUIST H. K., SUNDIN S., EKSTEDT J.- Cerebroespinal fluid hydrodynamic studies in children.- j.
+    Neurosurg. Psychaiatry, 1986, 49, 536-548.
+  - CHAPLIN E. R., GOLSTEIN G.W., TOOLEY W.H.- Posthemorhagic hydrocephalus in the preterm infant.- Pediatrics,
+    1980, 65, 901-908.
