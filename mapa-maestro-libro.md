@@ -8,7 +8,7 @@
 
 Cada fila es una lección: una fuente única (`lecciones/<id>.qmd`) de la que salen el artículo del blog y el capítulo del libro. Todo el texto se reconstruye desde cero; los módulos de clase y la obra de 1993 son fuentes, no texto que se copia. El estado se lee de cada lección. Contrato: `docs/adr/ADR-001-arquitectura-libro.md`.
 
-**Estado:** ⬜ pendiente: 53 · ✏️ borrador: 1 · 🔎 revisado: 0 · ✅ publicado: 0 · total 54
+**Estado:** ⬜ pendiente: 52 · ✏️ borrador: 2 · 🔎 revisado: 0 · ✅ publicado: 0 · total 54
 
 **Fases:** 1 piloto · 2 módulos de clase · 3 neuropediatría · 4 neuroftalmología · 5 libro. «(propuesta)» marca una agrupación de módulos pendiente de decisión.
 
@@ -68,7 +68,7 @@ Autores: Gladys Torres Guerrero · Revisión: Alcy Edmundo Torres Guerrero
 
 | # | Lección | Fase | Fuentes | Estado |
 |:-|:-|:-|:-|:-|
-| 1 | El examen neuroftalmológico al pie de la cama<br>`leccion-examen-neuroftalmologico` | 4 | nueva | ⬜ pendiente |
+| 1 | El examen neuroftalmológico al pie de la cama<br>`leccion-examen-neuroftalmologico` | 4 | nueva | ✏️ borrador |
 | 2 | Reflejo rojo y leucocoria en el recién nacido y el lactante<br>`leccion-reflejo-rojo-leucocoria` | 4 | nueva | ⬜ pendiente |
 | 3 | Estrabismo, ambliopía y nistagmo en la infancia<br>`leccion-estrabismo-ambliopia-nistagmo` | 4 | nueva | ⬜ pendiente |
 | 4 | Hemorragias retinianas y traumatismo craneal por maltrato<br>`leccion-hemorragias-retinianas-maltrato` | 4 | db `HM:6024` | ⬜ pendiente |

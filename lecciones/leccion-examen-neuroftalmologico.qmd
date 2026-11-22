@@ -1,0 +1,235 @@
+---
+id: leccion-examen-neuroftalmologico
+tipo: leccion
+titulo: El examen neuroftalmológico al pie de la cama
+parte: neuroftalmologia
+orden: 1
+estado: borrador
+fecha_revision: null
+revisor: null
+autores:
+- nombre: Gladys Torres Guerrero
+  afiliacion: VisionUno, Quito
+  nombre_bibliografico: Gladys Torres-Guerrero
+  credit:
+  - redaccion
+  - revision-edicion
+uso_ia:
+- busqueda-bibliografica
+- redaccion-borrador
+pregunta_clinica: >-
+  Sin oftalmólogo a mano, ¿qué partes del examen de los ojos puede hacer el médico general al
+  pie de la cama para localizar una lesión de la vía visual o de la motilidad ocular, y cuándo
+  ese examen obliga a derivar con urgencia?
+abstract: >-
+  El examen neuroftalmológico al pie de la cama necesita una cartilla, una linterna y un
+  oftalmoscopio. Esta lección enseña a explorar la agudeza visual, los campos por
+  confrontación, las pupilas con la linterna oscilante, la motilidad ocular y el fondo de ojo,
+  y a leer los hallazgos como patrones que localizan la lesión. Señala qué combinaciones exigen
+  derivación urgente y por qué la confrontación y la oftalmoscopia directa engañan cuando salen
+  normales.
+dialogo_clinico: >-
+  Una mujer de 54 años con diabetes consulta por visión doble desde ayer y dolor detrás del ojo
+  derecho. El párpado derecho cae y, al levantarlo, el ojo mira hacia abajo y afuera. ¿Qué
+  mirarías primero en las pupilas, y con qué luz? Si la pupila derecha está dilatada y reacciona
+  poco, ¿cambia eso la urgencia? ¿Y si es normal, ya puedes tranquilizarla y citarla en un mes?
+indispensable:
+- >-
+  El examen sigue siempre el mismo orden: agudeza visual, campos, pupilas, motilidad, párpados
+  y fondo de ojo; cada parte responde una pregunta de localización distinta.
+- >-
+  La prueba de la linterna oscilante busca un defecto pupilar aferente relativo: compara un ojo
+  con el otro y señala una lesión asimétrica del nervio óptico o de la retina.
+- >-
+  Una confrontación normal no descarta un defecto de campo: combinar varias pruebas mejora su
+  rendimiento, pero no sustituye a la perimetría.
+- >-
+  Una parálisis del tercer par con o sin pupila afectada no se tranquiliza: la pupila indemne no
+  descarta una compresión.
+- Un fondo de ojo que no se pudo ver es un examen pendiente, no un examen normal.
+limites:
+- >-
+  La confrontación es insensible como prueba aislada: un campo normal al pie de la cama no
+  excluye un defecto que la perimetría automatizada sí encontraría.
+- >-
+  La medición del estudio de confrontación se hizo en consultas de oftalmología; su rendimiento
+  en manos de médicos generales, con pacientes de urgencias, no está medido aquí.
+- >-
+  La medsemiotics-db aún no tiene aristas medidas para el papiledema, el defecto pupilar aferente
+  ni el síndrome de Horner: esta lección no da cocientes de verosimilitud para ninguno de ellos.
+- >-
+  El pulso venoso espontáneo se pierde cuando sube la presión intracraneal, pero su ausencia
+  aislada no la demuestra; la fuente discute esa falta de especificidad sin darle una cifra.
+- >-
+  La anisocoria leve es frecuente en personas sanas y varía de un día a otro; un solo examen no
+  basta para llamarla patológica.
+- >-
+  Faltan datos ecuatorianos sobre el acceso a oftalmoscopia, fotografía de fondo de ojo y
+  perimetría en el primer nivel.
+condiciones: []
+conceptos: []
+refs:
+- kerr2010
+- lam1987
+- wilhelm1998
+- jacks2003
+- bruce2011
+- fang2017
+medios: []
+modulos_html: []
+---
+
+## Cómo se explora
+
+### Lo que necesitamos
+
+Una cartilla de agudeza visual para lejos y otra para cerca, un oclusor con agujero
+estenopeico, una linterna de luz intensa, un objeto rojo pequeño (la tapa de un frasco) y un
+oftalmoscopio. Examinamos en una habitación que podamos oscurecer y siempre en el mismo orden:
+agudeza, campos, pupilas, motilidad, párpados y fondo de ojo.
+
+### Antes del examen: la historia
+
+Preguntamos si la pérdida de visión es de un ojo o de los dos (que tape uno y después el
+otro), si fue brusca o progresiva, si duele al mover el ojo, si la visión doble desaparece al
+tapar un ojo, y si hay cefalea, fiebre, náusea o síntomas neurológicos acompañantes.
+
+### Agudeza visual
+
+Cada ojo por separado, con su corrección habitual. Si no alcanza lo esperado, repetimos con el
+agujero estenopeico: si mejora, el defecto es óptico (de refracción); si no mejora, buscamos
+una causa en la retina o en la vía visual. Si el paciente no lee la cartilla, registramos si
+cuenta dedos, ve movimientos de la mano o percibe la luz. La agudeza de cerca sirve en la cama
+del paciente que no puede ponerse de pie.
+
+### Visión de los colores
+
+Mostramos el objeto rojo a un ojo y después al otro y preguntamos si el rojo se ve igual. Un
+rojo «lavado» o desaturado en un ojo orienta a una lesión del nervio óptico de ese lado.
+
+### Campos visuales por confrontación
+
+Nos sentamos frente al paciente, a la altura de sus ojos; cada uno tapa el ojo opuesto al del
+otro y explora con el ojo descubierto. Combinamos varias pruebas: contar dedos en los cuatro
+cuadrantes, mover los dedos y acercar desde la periferia el objeto rojo hasta que el paciente lo
+reconozca como rojo. La prueba cinética con un objeto rojo fue la más sensible de las pruebas
+aisladas, y combinarla con el movimiento de los dedos mejoró el resultado [@kerr2010].
+
+### Pupilas
+
+En penumbra, con el paciente mirando a lo lejos, comparamos el tamaño de las pupilas con luz y
+en la oscuridad, y después cada reflejo fotomotor, directo y consensual. Luego hacemos la
+**prueba de la linterna oscilante**: iluminamos un ojo dos o tres segundos y pasamos la luz al
+otro sin pausa, varias veces. Si al pasar la luz a un ojo sus dos pupilas se dilatan en lugar de
+contraerse, ese ojo tiene un defecto pupilar aferente relativo [@wilhelm1998]. Al final, la
+reacción a la convergencia mirando un objeto cercano.
+
+### Motilidad ocular
+
+Primero observamos la posición de los ojos en la mirada al frente y el reflejo de la luz en las
+córneas. Después pedimos que siga el objeto en forma de H, con la cabeza quieta, y preguntamos
+en qué dirección la imagen doble se separa más. Exploramos los movimientos sacádicos (mirar un
+dedo y luego el otro) y buscamos nistagmo en las posiciones extremas. Con una prueba de
+oclusión alterna, tapando un ojo y después el otro, vemos si alguno se desplaza para fijar.
+
+### Párpados y órbita
+
+Medimos si hay ptosis y si el párpado se fatiga al mantener la mirada hacia arriba. Buscamos
+proptosis, enrojecimiento y dolor de la órbita.
+
+### Fondo de ojo
+
+Con el oftalmoscopio directo, en penumbra, el paciente mirando un punto lejano: el ojo derecho
+del paciente con nuestro ojo derecho, el izquierdo con el izquierdo. Primero el reflejo rojo a
+distancia, después la papila (bordes, color, excavación), el pulso venoso espontáneo sobre la
+papila, los vasos y la mácula [@jacks2003]. Si la pupila es pequeña y no vemos la papila,
+registramos que el fondo no se pudo ver.
+
+### En el niño
+
+En el lactante y el niño pequeño observamos si fija y sigue una cara o un juguete con cada ojo,
+si rechaza que le tapen uno de ellos y si su reflejo rojo es simétrico. El reflejo rojo, el
+estrabismo y el nistagmo infantil tienen sus propias lecciones en esta parte.
+
+## Qué significa
+
+**Un ojo o los dos.** Una pérdida visual que el paciente confirma en un solo ojo, al tapar el
+otro, está delante del quiasma: en el ojo o en su nervio óptico. Que los dos ojos estén
+afectados no basta para localizar: una enfermedad de las dos retinas o de los dos nervios
+ópticos también da defectos bilaterales sin tocar el quiasma. Lo que localiza es el patrón: si
+el defecto respeta la línea media vertical, como se explica en el párrafo de los campos.
+
+**El defecto pupilar aferente relativo.** Señala una lesión asimétrica de la vía visual
+anterior, del nervio óptico o de una retina extensamente dañada [@wilhelm1998].
+
+**Los campos.** Un defecto que respeta la línea media vertical en los dos ojos y del mismo lado
+(hemianopsia homónima) apunta a una lesión retroquiasmática; uno que afecta a las dos mitades
+temporales, al quiasma. Pero una confrontación normal vale poco: como prueba aislada fue
+insensible para detectar la pérdida de campo, y por eso no sirve de cribado [@kerr2010].
+
+**Las pupilas desiguales.** En personas sanas, fotografiadas en penumbra, una diferencia de
+0,4 mm o más apareció en alguna de diez sesiones en el 41 %, y en cualquier examen aislado en
+alrededor del 19 %; solo el 3 % la tuvo en todas [@lam1987]. Una anisocoria pequeña, con
+reflejos normales y sin ptosis ni diplopía, suele ser fisiológica; la que es mayor en la luz
+apunta a la pupila grande, y la que es mayor en la oscuridad, a la pequeña [@wilhelm1998].
+
+**La parálisis del tercer par y su pupila.** En una cohorte poblacional de 145 casos de
+parálisis adquirida del tercer par, la pupila estaba afectada en el 17 % de las de causa
+microvascular presunta y en el 64 % de las compresivas; los autores concluyen que la afectación
+pupilar no excluye la causa microvascular y que la pupila indemne no descarta la compresión
+[@fang2017].
+
+**El fondo de ojo.** El pulso venoso espontáneo cesa cuando sube la presión intracraneal; su
+presencia es por eso un dato tranquilizador, mientras que su ausencia sola no demuestra
+hipertensión intracraneal [@jacks2003]. La papila tumefacta, la palidez de la papila y las
+hemorragias retinianas tienen sus lecciones propias.
+
+## Por qué ocurre
+
+**La pupila es una vía de dos brazos.** La luz que entra por un ojo contrae las dos pupilas; si
+un nervio óptico conduce menos, la señal que llega al mesencéfalo es menor cuando iluminamos ese
+ojo, y las dos pupilas se dilatan al pasar la luz hacia él [@wilhelm1998]. Por eso el defecto es
+relativo: se compara con el otro ojo y necesita al menos una pupila que se mueva.
+
+**La pupila del tercer par.** En el estudio poblacional, la afectación de la pupila fue más
+frecuente en las parálisis compresivas que en las microvasculares, pero apareció en ambas
+[@fang2017]. Por eso la pupila orienta la sospecha y no la decide.
+
+**El pulso venoso.** Depende de la diferencia de presión entre el ojo y el líquido
+cefalorraquídeo a lo largo de la vena central de la retina, cuando atraviesa la lámina cribosa;
+si la presión intracraneal sube, esa diferencia desaparece y el pulso cesa [@jacks2003].
+
+**La confrontación.** El paciente detecta el objeto en movimiento en zonas donde su sensibilidad
+ya está disminuida; por eso los defectos relativos, poco densos, pasan inadvertidos sin
+perimetría [@kerr2010].
+
+## Qué hacer
+
+- **Derivación inmediata a urgencias y a oftalmología:** pérdida visual brusca, parálisis del
+  tercer par de aparición reciente con o sin pupila afectada [@fang2017], papila tumefacta, o
+  un defecto de campo bilateral nuevo.
+- **Derivación preferente:** un defecto pupilar aferente relativo, una agudeza que no mejora con
+  el estenopeico, o un rojo desaturado en un ojo.
+- **Campo dudoso o normal con síntomas:** perimetría formal; la confrontación no la reemplaza
+  [@kerr2010].
+- **Fondo de ojo que no se pudo ver:** registrarlo como pendiente y pedir que lo vea alguien
+  entrenado o que se fotografíe. En un servicio de urgencias, los médicos hicieron oftalmoscopia
+  en solo el 14 % de 350 pacientes que la necesitaban; la fotografía sin dilatar la pupila
+  encontró hallazgos relevantes en el 13 %, y 27 de ellos solo se descubrieron así
+  [@bruce2011].
+
+## Cómo prevenir
+
+La prevención en esta lección es secundaria: detectar a tiempo. Mirar el fondo de ojo en todo
+paciente con cefalea, déficit focal, cambio visual agudo o hipertensión arterial grave encuentra
+hallazgos que de otro modo se pierden [@bruce2011].
+
+## Nuestra realidad
+
+Este examen pide herramientas baratas: una cartilla, una linterna, un objeto rojo y un
+oftalmoscopio. Ninguna necesita un oftalmólogo para usarse, y todas caben en el consultorio del
+primer nivel. La fotografía de fondo de ojo sin dilatar, que en urgencias pueden obtener
+profesionales no médicos entrenados [@bruce2011], es una opción a explorar en nuestros
+hospitales. No tenemos todavía datos de Ecuador sobre cuántos consultorios cuentan con
+oftalmoscopio ni sobre el acceso a perimetría y a fotografía de fondo de ojo; hasta que quienes
+trabajan aquí los aporten, no los afirmamos.
